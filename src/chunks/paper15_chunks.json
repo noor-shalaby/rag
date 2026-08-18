@@ -3,21 +3,22 @@
     "content": "Mohammed Attia Elsayed, MD; Mohammed Shaaban Khalifa, MD; Wadie Boshra MD, MRCS Department of General Surgery, Ain Shams University, Egypt\nBackground: Is to describe the pathological, clinical and radiological features of Spigelian hernia, and to compare between open and laparoscopic methods of its surgical treatment.\nPatients and methods: We describe the clinical management of 20 cases of Spigelian hernias as regard patient complaint, clinical examination, radiological investigations, and the surgical approach that was randomly performed either open or laparoscopic intraperitoneal only mesh.\nResults: In all cases, the suspicion aroused during the clinical examination of the patients, and it was confirmed via imaging techniques. 10 cases were treated through open surgical approach, no intraoperative or postoperative complications have occurred, 3 patients had postoperative small wound seroma which resolved spontaneously, Other10  cases  were  treated  through  laparoscopic  intraperitoneal  onlay  mesh  repair  with  no  intraoperative  or postoperative complications. No recurrences had been observed for both groups in 24  months period of the study.\nConclusion: Spigelian hernia is a rare entity; its diagnosis is depending on a thorough clinical examination and must be confirmed by imaging studies especially CT scan which is the modality of choice for its diagnosis. Open surgical repair is considered the standard method for treatment due to its rarity but laparoscopic intraperitoneal onlay mesh repair is also safe and effective with shorter postoperative hospital stay.\nKey words: Abdominal  wall,  ventral  hernia,  Spigelian  hernia,  laparoscopic  intraperitoneal  onlay  mesh  repair, surgery.",
     "metadata": {
       "document_id": "paper15",
-      "source": "paper15.json",
+      "source": "paper15.pdf",
+      "topic": "Open  versus  Laparoscopic  Intraperitoneal  Onlay  Mesh  for  Repair  of Spigelian Hernia: A Prospective Study",
+      "headings": [
+        "Open  versus  Laparoscopic  Intraperitoneal  Onlay  Mesh  for  Repair  of Spigelian Hernia: A Prospective Study"
+      ],
       "chunk_index": 1,
-      "total_chunks": 20,
+      "total_chunks": 22,
+      "pages": [
+        1
+      ],
       "docling": {
-        "schema_name": "docling_core.transforms.chunker.DocMeta",
-        "version": "1.0.0",
         "doc_items": [
           {
             "self_ref": "#/texts/1",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 1,
@@ -26,7 +27,7 @@
                   "t": 740.4888146484375,
                   "r": 536.878,
                   "b": 717.5458475304491,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -37,12 +38,8 @@
           },
           {
             "self_ref": "#/texts/2",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 1,
@@ -51,7 +48,7 @@
                   "t": 646.9118146484375,
                   "r": 541.0099999999998,
                   "b": 624.6958475304491,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -62,12 +59,8 @@
           },
           {
             "self_ref": "#/texts/3",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 1,
@@ -76,7 +69,7 @@
                   "t": 610.9118146484375,
                   "r": 540.996,
                   "b": 576.6958475304491,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -87,12 +80,8 @@
           },
           {
             "self_ref": "#/texts/4",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 1,
@@ -101,7 +90,7 @@
                   "t": 562.9118146484375,
                   "r": 540.9830000000002,
                   "b": 504.6958475304491,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -112,12 +101,8 @@
           },
           {
             "self_ref": "#/texts/5",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 1,
@@ -126,7 +111,7 @@
                   "t": 490.9118146484375,
                   "r": 540.985,
                   "b": 444.6958475304491,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -137,12 +122,8 @@
           },
           {
             "self_ref": "#/texts/6",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 1,
@@ -151,7 +132,7 @@
                   "t": 430.9118146484375,
                   "r": 540.9669999999996,
                   "b": 408.6958475304491,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -160,15 +141,7 @@
               }
             ]
           }
-        ],
-        "headings": [
-          "Open  versus  Laparoscopic  Intraperitoneal  Onlay  Mesh  for  Repair  of Spigelian Hernia: A Prospective Study"
-        ],
-        "origin": {
-          "mimetype": "application/pdf",
-          "binary_hash": 1266390694422216754,
-          "filename": "paper15"
-        }
+        ]
       }
     }
   },
@@ -176,21 +149,22 @@
     "content": "Spigelian hernia is a rare entity of abdominal wall hernias  with  a  reported  incidence  of  2%.  The clinical manifestation is usually non-specific and can be easily missed, a significant proportion of patients present with incarceration of Spigelian hernia (SH) in their first visit. 1\nSpigelian hernia occurs through a slit like defects in the anterior abdominal wall adjacent to semilunar line, which extends from the tip of the ninth costal cartilage to the pubic spine at the lateral edge of rectus muscle inferiorly. Most of  Spigelian hernias occur  in  the  lower  abdomen  where  the  posterior sheath is deficient. The hernia ring is a well-defined defect  in  the  transversus  aponeurosis,  the  hernia sac  is  surrounded  by  extraperitoneal  fatty  tissue, and this sac is often interparietal passing through thetransversus and internal oblique aponeuroses and then spreading out beneath the intact aponeurosis of external oblique. 2\nDiagnosis of Spigelian hernia requires a high degree of  suspicion,  with  the  most  common  finding  on clinical examination being a lump at the semilunar line. Radiological tests are useful in confirming the diagnosis. 3\nSurgical  intervention  is  the  gold  standard  for  the management of SH. The SH has been repaired by both  conventional  and  laparoscopic  approaches, Over the past decade there has been advancement in  minimally  invasive  techniques  for  repair  of  SH, with  a  reasonably  good  outcome.  A  number  of approaches  and  techniques  have  been  described. Yet,  there  was  no  agreed  consensus  on  the  best one.  Although,  open  repair  is  the  most  common approach used, laparoscopic techniques have been increasingly used. It includes intraperitoneal onlay mesh (IPOM), transabdominal preperitoneal repair and totally extraperitoneal repair. 4",
     "metadata": {
       "document_id": "paper15",
-      "source": "paper15.json",
+      "source": "paper15.pdf",
+      "topic": "Introduction",
+      "headings": [
+        "Introduction"
+      ],
       "chunk_index": 2,
-      "total_chunks": 20,
+      "total_chunks": 22,
+      "pages": [
+        1
+      ],
       "docling": {
-        "schema_name": "docling_core.transforms.chunker.DocMeta",
-        "version": "1.0.0",
         "doc_items": [
           {
             "self_ref": "#/texts/8",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 1,
@@ -199,7 +173,7 @@
                   "t": 336.5218146484375,
                   "r": 265.53999999999996,
                   "b": 266.3058475304491,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -210,12 +184,8 @@
           },
           {
             "self_ref": "#/texts/9",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 1,
@@ -224,7 +194,7 @@
                   "t": 252.52121464843754,
                   "r": 265.61160000000007,
                   "b": 98.30524753044915,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -235,12 +205,8 @@
           },
           {
             "self_ref": "#/texts/10",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 1,
@@ -249,7 +215,7 @@
                   "t": 84.52121464843754,
                   "r": 265.58,
                   "b": 62.30524753044915,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -263,7 +229,7 @@
                   "t": 348.5212146484375,
                   "r": 541.7049999999999,
                   "b": 314.30524753044915,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   106,
@@ -274,12 +240,8 @@
           },
           {
             "self_ref": "#/texts/11",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 1,
@@ -288,7 +250,7 @@
                   "t": 300.52121464843754,
                   "r": 541.7189999999997,
                   "b": 146.30524753044915,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -297,15 +259,7 @@
               }
             ]
           }
-        ],
-        "headings": [
-          "Introduction"
-        ],
-        "origin": {
-          "mimetype": "application/pdf",
-          "binary_hash": 1266390694422216754,
-          "filename": "paper15"
-        }
+        ]
       }
     }
   },
@@ -313,21 +267,23 @@
     "content": "Demographic,  clinical  and  surgical  data  of  the twenty  consecutive  patients  who  presented  with Spigelian  hernia  to  surgical  department  in  Ain Shams University hospitals (Cairo), Ibn Sina hospital (Jeddah) and El-Dar hospital (Medina) in the last 24\nmonths from July 2016 to July 2018 were reviewed. All  clinical  information  was  obtained  from  clinical records and referrals. All patients were subjected to imaging studies including abdominal ultrasound and Computed Tomography scan (CT scan) (Figure 2) to  confirm  the  diagnosis  and  evaluate  anatomical features like the size of the defect and the contents of the hernial sac.\nFig 1: Clinically apparent Spigelian hernia on left side of abdomen.\nFig 2: CT image of anatomical defect in SH.\nAll patients were evaluated by routine blood investigation,  chest  x-ray  and  ECG.  All  patients signed preoperative written informed consent. Then  patients  were  randomly  classified  into 2 groups. The patients of the 1st group (10 patients) underwent open surgery with the use of prosthetic mesh placed on the sheath, while the patients of the 2nd group (10 patients) underwent laparoscopic intraperitoneal  onlay  mesh  repair  with  the  use  of double layer composite mesh.",
     "metadata": {
       "document_id": "paper15",
-      "source": "paper15.json",
+      "source": "paper15.pdf",
+      "topic": "Patients and methods",
+      "headings": [
+        "Patients and methods"
+      ],
       "chunk_index": 3,
-      "total_chunks": 20,
+      "total_chunks": 22,
+      "pages": [
+        1,
+        2
+      ],
       "docling": {
-        "schema_name": "docling_core.transforms.chunker.DocMeta",
-        "version": "1.0.0",
         "doc_items": [
           {
             "self_ref": "#/texts/13",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 1,
@@ -336,7 +292,7 @@
                   "t": 120.52121464843754,
                   "r": 541.7209999999999,
                   "b": 62.30524753044915,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -347,12 +303,8 @@
           },
           {
             "self_ref": "#/texts/16",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 2,
@@ -361,7 +313,7 @@
                   "t": 784.2337146484375,
                   "r": 286.6849000000001,
                   "b": 690.0177475304491,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -372,12 +324,8 @@
           },
           {
             "self_ref": "#/texts/17",
-            "parent": {
-              "$ref": "#/pictures/0"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "caption",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 2,
@@ -386,7 +334,7 @@
                   "t": 523.6626146484375,
                   "r": 282.6596,
                   "b": 503.74542028224033,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -397,12 +345,8 @@
           },
           {
             "self_ref": "#/texts/18",
-            "parent": {
-              "$ref": "#/pictures/1"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "caption",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 2,
@@ -411,7 +355,7 @@
                   "t": 304.0735146484376,
                   "r": 267.1846999999999,
                   "b": 294.9563202822403,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -422,12 +366,8 @@
           },
           {
             "self_ref": "#/texts/19",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 2,
@@ -436,7 +376,7 @@
                   "t": 249.60051464843752,
                   "r": 286.68590000000006,
                   "b": 131.38454753044914,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -445,15 +385,7 @@
               }
             ]
           }
-        ],
-        "headings": [
-          "Patients and methods"
-        ],
-        "origin": {
-          "mimetype": "application/pdf",
-          "binary_hash": 1266390694422216754,
-          "filename": "paper15"
-        }
+        ]
       }
     }
   },
@@ -461,21 +393,22 @@
     "content": "All  operations  were  conducted  in  supine  position undergeneral  anesthesia,  transverse  incision  was sited over the protrusion, and the external oblique aponeurosis  was  incised  in  the  direction  of  fibers to  expose  the  peritoneal  sac.  In  most  cases,  the sac was inverted but in some cases the hernial sac was opened and the adhesions were sectioned then hernial  orifice  was  closed  with  nonabsorbable  sutures and reinforced via a prosthetic polypropylene mesh placed on sheath, in all cases, the contents were viable with surgical drain sited over the mesh.",
     "metadata": {
       "document_id": "paper15",
-      "source": "paper15.json",
+      "source": "paper15.pdf",
+      "topic": "Operative techniques: Open Surgical Approach",
+      "headings": [
+        "Operative techniques: Open Surgical Approach"
+      ],
       "chunk_index": 4,
-      "total_chunks": 20,
+      "total_chunks": 22,
+      "pages": [
+        2
+      ],
       "docling": {
-        "schema_name": "docling_core.transforms.chunker.DocMeta",
-        "version": "1.0.0",
         "doc_items": [
           {
             "self_ref": "#/texts/21",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 2,
@@ -484,7 +417,7 @@
                   "t": 93.60051464843752,
                   "r": 286.68789999999996,
                   "b": 59.38454753044914,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -498,7 +431,7 @@
                   "t": 784.2305146484374,
                   "r": 562.4209000000002,
                   "b": 690.014547530449,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   160,
@@ -507,15 +440,7 @@
               }
             ]
           }
-        ],
-        "headings": [
-          "Operative techniques: Open Surgical Approach"
-        ],
-        "origin": {
-          "mimetype": "application/pdf",
-          "binary_hash": 1266390694422216754,
-          "filename": "paper15"
-        }
+        ]
       }
     }
   },
@@ -523,21 +448,23 @@
     "content": "Intraperitoneal access was performed using Veress needle. Once abdominal access was obtained, site of hernial orifice was readily identified and ports were placed at least 10 cm away from the hernial defect in the form of an arc of a circle whose center is the hernial defect. Contents were reduced from the sac and adhesiolysis was performed if required to free 5 cm around the defect for a double layer composite mesh (Symbotex, Autosuture; Covidien, Mansfield, Massachusetts,  USA)  to  be  placed.  The  mesh was  fixed  using  a  combination  of  transabdominal sutures  and  tacks  (Autosuture,  Tyco  health  care, US surgicals, CT, USA).The mesh was adjusted to cover 3-5 cm all around the defect. Two patient had coexistent paraumbilical hernia that was repaired at the same session.\nFig 3: Laparoscopic view of the defect after reduction of the contents.\nFig 4: Laparoscopic view showing the mesh covering the defect during fixation with tackers.\nThen all patients of both groups were instructed to come for regular follow up every 3 months where adequate  history was  taken  and  good  clinical examination was done in each visit, also abdominal ultrasound and / or CT scan was done if required to exclude suspected recurrence.\nAll operative and postoperative data of the patients of both groups were collected and analyzed.\nThen both groups were compared as regard to the duration of surgery, intraoperative and postoperative complications,  length  of  hospital  stay,  number  of cases diagnosed by US and CT scan and recurrence rate.",
     "metadata": {
       "document_id": "paper15",
-      "source": "paper15.json",
+      "source": "paper15.pdf",
+      "topic": "Laparoscopic intraperitoneal onlay mesh repair",
+      "headings": [
+        "Laparoscopic intraperitoneal onlay mesh repair"
+      ],
       "chunk_index": 5,
-      "total_chunks": 20,
+      "total_chunks": 22,
+      "pages": [
+        2,
+        3
+      ],
       "docling": {
-        "schema_name": "docling_core.transforms.chunker.DocMeta",
-        "version": "1.0.0",
         "doc_items": [
           {
             "self_ref": "#/texts/23",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 2,
@@ -546,7 +473,7 @@
                   "t": 652.2305146484374,
                   "r": 562.4449,
                   "b": 462.014547530449,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -557,12 +484,8 @@
           },
           {
             "self_ref": "#/texts/24",
-            "parent": {
-              "$ref": "#/pictures/2"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "caption",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 2,
@@ -571,7 +494,7 @@
                   "t": 291.53241464843745,
                   "r": 546.2352999999999,
                   "b": 271.61522028224033,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -582,12 +505,8 @@
           },
           {
             "self_ref": "#/texts/25",
-            "parent": {
-              "$ref": "#/pictures/3"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "caption",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 2,
@@ -596,7 +515,7 @@
                   "t": 86.75801464843755,
                   "r": 555.0342999999999,
                   "b": 66.84082028224032,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -607,12 +526,8 @@
           },
           {
             "self_ref": "#/texts/28",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 3,
@@ -621,7 +536,7 @@
                   "t": 784.2337146484375,
                   "r": 266.14680000000004,
                   "b": 714.0177475304491,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -632,12 +547,8 @@
           },
           {
             "self_ref": "#/texts/29",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 3,
@@ -646,7 +557,7 @@
                   "t": 700.2337146484375,
                   "r": 266.12980000000005,
                   "b": 678.0177475304491,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -657,12 +568,8 @@
           },
           {
             "self_ref": "#/texts/30",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 3,
@@ -671,7 +578,7 @@
                   "t": 664.2337146484375,
                   "r": 266.13579999999996,
                   "b": 606.0177475304491,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -680,15 +587,7 @@
               }
             ]
           }
-        ],
-        "headings": [
-          "Laparoscopic intraperitoneal onlay mesh repair"
-        ],
-        "origin": {
-          "mimetype": "application/pdf",
-          "binary_hash": 1266390694422216754,
-          "filename": "paper15"
-        }
+        ]
       }
     }
   },
@@ -696,21 +595,22 @@
     "content": "Data were collected, revised, coded and entered to the Statistical Package for Social Science (IBM SPSS) version  23.  Data  were  presented  as  percentages. The differences in surgical outcomes between the 2 groups were compared using the Pearson χ2 and Fisher  exact  tests.  P  values  were  reported  where the  results  were  considered  to  be  significant  (S) with p <0.05, highly significant with p < 0.01and non significant (NS) with p > 0.05.",
     "metadata": {
       "document_id": "paper15",
-      "source": "paper15.json",
+      "source": "paper15.pdf",
+      "topic": "Statistical analysis",
+      "headings": [
+        "Statistical analysis"
+      ],
       "chunk_index": 6,
-      "total_chunks": 20,
+      "total_chunks": 22,
+      "pages": [
+        3
+      ],
       "docling": {
-        "schema_name": "docling_core.transforms.chunker.DocMeta",
-        "version": "1.0.0",
         "doc_items": [
           {
             "self_ref": "#/texts/32",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 3,
@@ -719,7 +619,7 @@
                   "t": 580.2337146484375,
                   "r": 266.1468,
                   "b": 474.0177475304491,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -728,15 +628,7 @@
               }
             ]
           }
-        ],
-        "headings": [
-          "Statistical analysis"
-        ],
-        "origin": {
-          "mimetype": "application/pdf",
-          "binary_hash": 1266390694422216754,
-          "filename": "paper15"
-        }
+        ]
       }
     }
   },
@@ -744,21 +636,22 @@
     "content": "In our study, the mean age of the ten patients that were operated upon by open surgical technique was 56 y (40-72). Of these ten patients, 7 were females (70%) and 3 were males (30%), while the mean age of the ten patients that were operated upon by laparoscopic intraperitoneal onlay mesh repair was 54y (38-70). Of these 10 patients 6 were females (60%) and 4 were males (40%).\nFor  the  patients  of  open  group  the  hernias  were located  in  the  left  side  in  6  patients  (60%)  and in the right side in 4 patients (40%) while for the laparoscopic group 8 hernias (80%) were located in the left side and 2 hernias (20%) were located in the right side.\nAs  regard  to  the    patients  of  the  open  group  6 patients (60%) presented by a palpable abdominal lump (Figure 1) ,  2  patients  (20%)  presented  by abdominal  pain related to the site of hernia and 2 patients (20%) presented by palpable abdominal lump together with pain . As regard to the patients of the laparoscopic group 5 patients (50%) presented by palpable abdominal lump, 2 patients (20%) were presented by abdominal pain and 3 patients (30%) presented  by  palpable  abdominal  lump  together with  pain.  The  mean  period  of  symptoms  was  3y\n(2-5) years for the patients of open group and 5y (3-8) years for the patients of laparoscopic group.",
     "metadata": {
       "document_id": "paper15",
-      "source": "paper15.json",
+      "source": "paper15.pdf",
+      "topic": "Results",
+      "headings": [
+        "Results"
+      ],
       "chunk_index": 7,
-      "total_chunks": 20,
+      "total_chunks": 22,
+      "pages": [
+        3
+      ],
       "docling": {
-        "schema_name": "docling_core.transforms.chunker.DocMeta",
-        "version": "1.0.0",
         "doc_items": [
           {
             "self_ref": "#/texts/34",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 3,
@@ -767,7 +660,7 @@
                   "t": 448.2337146484375,
                   "r": 266.14779999999996,
                   "b": 354.0177475304491,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -778,12 +671,8 @@
           },
           {
             "self_ref": "#/texts/35",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 3,
@@ -792,7 +681,7 @@
                   "t": 340.2337146484375,
                   "r": 266.15579999999994,
                   "b": 270.0177475304491,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -803,12 +692,8 @@
           },
           {
             "self_ref": "#/texts/36",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 3,
@@ -817,7 +702,7 @@
                   "t": 256.2337146484375,
                   "r": 266.1628,
                   "b": 126.01774753044913,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -828,12 +713,8 @@
           },
           {
             "self_ref": "#/texts/37",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 3,
@@ -842,7 +723,7 @@
                   "t": 784.2337146484375,
                   "r": 541.8798,
                   "b": 762.0177475304491,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -851,15 +732,7 @@
               }
             ]
           }
-        ],
-        "headings": [
-          "Results"
-        ],
-        "origin": {
-          "mimetype": "application/pdf",
-          "binary_hash": 1266390694422216754,
-          "filename": "paper15"
-        }
+        ]
       }
     }
   },
@@ -867,21 +740,22 @@
     "content": "As regard to the open group 4 patients (40%) were hypertensive on medical treatment, 2patient (20%) were diabetic on regular insulin, 2 patients (20%) were hypertensive and diabetic on regular treatment and 3cases (30%) were obese with BMI>40,while for  the  laparoscopic  group  2  patients(20%)  were hypertensive on medical treatment, 3 patients(30%) were  diabetic  one  on  regular  insulin  and  other on  oral  hypoglycemics  and  4  patients(40%)  were obese  with  BMI>40.  all  patients  of  both  groups were controlled preoperative on medical treatment. The preoperative diagnosis was done clinically in 9 patients (90%) of the open group, and in 8 patients (80%)  of  the  laparoscopic  group.  The  diagnosis was confirmed with abdominal ultrasound (US) in 8 cases (80%) of the open group and in 7 cases (70%) of the laparoscopic group, diagnosis further confirmed  via  abdominal  computed  tomography scan (CT scan) (Figure 2) in all 10 cases (100%) in  the  open  group  and  in  9  cases  (90%)  of  the laparoscopic group. The mean defect diameter was found to be 6(3-12) cm for the open group and 4(39) cm for the laparoscopic group.\nThe average range of operating time was 47minutes (29-70 minutes) for the open group and 42 minutes (30-56 minutes) for the laparoscopic group. Some patients  had  co  existent  other  abdominal  wall hernias,  as  regard  to  open  surgical  group  two patients had left sided inguinal hernia, one had left sided  femoral  hernias,  all  hernias  were  operated in the same session together with Spigelian hernia repair. As regard to laparoscopic group two patients had coexistent paraumbilical hernia that was repaired at the same session. The mean length of postoperative hospital stay was 4 days (2-7) days for the open group versus 1.3days (1-2 days). No intraoperative  complications  were  encountered  in both groups.",
     "metadata": {
       "document_id": "paper15",
-      "source": "paper15.json",
+      "source": "paper15.pdf",
+      "topic": "Results",
+      "headings": [
+        "Results"
+      ],
       "chunk_index": 8,
-      "total_chunks": 20,
+      "total_chunks": 22,
+      "pages": [
+        3
+      ],
       "docling": {
-        "schema_name": "docling_core.transforms.chunker.DocMeta",
-        "version": "1.0.0",
         "doc_items": [
           {
             "self_ref": "#/texts/38",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 3,
@@ -890,7 +764,7 @@
                   "t": 748.2337146484375,
                   "r": 541.9028,
                   "b": 474.0177475304491,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -901,12 +775,8 @@
           },
           {
             "self_ref": "#/texts/39",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 3,
@@ -915,7 +785,7 @@
                   "t": 460.2337146484375,
                   "r": 541.9127999999996,
                   "b": 282.0177475304491,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -924,15 +794,7 @@
               }
             ]
           }
-        ],
-        "headings": [
-          "Results"
-        ],
-        "origin": {
-          "mimetype": "application/pdf",
-          "binary_hash": 1266390694422216754,
-          "filename": "paper15"
-        }
+        ]
       }
     }
   },
@@ -940,21 +802,23 @@
     "content": "Only  3cases  (30%)  of  the  open  surgical  group developed postoperative complications in the form of wound seroma that were controllable and treated conservatively  but  no  postoperative  complications noted  in  the  laparoscopic  group.  The  follow  up period was found to be 8 to 22 months (average 17 months). follow up was done in outpatient clinic for all patients of  both groups that had regular clinical assessment;  no  recurrence  was  detected  in  both groups with satisfactory postoperative outcome.",
     "metadata": {
       "document_id": "paper15",
-      "source": "paper15.json",
+      "source": "paper15.pdf",
+      "topic": "Results",
+      "headings": [
+        "Results"
+      ],
       "chunk_index": 9,
-      "total_chunks": 20,
+      "total_chunks": 22,
+      "pages": [
+        3,
+        4
+      ],
       "docling": {
-        "schema_name": "docling_core.transforms.chunker.DocMeta",
-        "version": "1.0.0",
         "doc_items": [
           {
             "self_ref": "#/texts/40",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 3,
@@ -963,7 +827,7 @@
                   "t": 268.2337146484375,
                   "r": 541.9077999999995,
                   "b": 150.01774753044913,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -974,12 +838,8 @@
           },
           {
             "self_ref": "#/texts/43",
-            "parent": {
-              "$ref": "#/tables/0"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "caption",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 4,
@@ -988,7 +848,7 @@
                   "t": 780.8108146484375,
                   "r": 458.63689999999997,
                   "b": 771.6936202822403,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -997,41 +857,30 @@
               }
             ]
           }
-        ],
-        "headings": [
-          "Results"
-        ],
-        "origin": {
-          "mimetype": "application/pdf",
-          "binary_hash": 1266390694422216754,
-          "filename": "paper15"
-        }
+        ]
       }
     }
   },
   {
-    "content": "Table 1: Demographic, clinical, radiological and operative data of patients of each group\nMean age, Open Approach (n=10) = 56 y (40-72). Mean age, Laparoscopic intraperitoneal onlay mesh (n=10) = 54 y (38-70). Mean age, P Value = 0.42 (NS). Gender (male/female), Open Approach (n=10) = 3/7. Gender (male/female), Laparoscopic intraperitoneal onlay mesh (n=10) = 4/6. Gender (male/female), P Value = 0.59 (NS). Side of hernia (Rt/Lt), Open Approach (n=10) = 4/6. Side of hernia (Rt/Lt), Laparoscopic intraperitoneal onlay mesh (n=10) = 2/8. Side of hernia (Rt/Lt), P Value = 0.09 (NS). Patient presentations:, Open Approach (n=10) = . Patient presentations:, Laparoscopic intraperitoneal onlay mesh (n=10) = . Patient presentations:, P Value = . Palpable abdominal lump, Open Approach (n=10) = 6 (60%). Palpable abdominal lump, Laparoscopic intraperitoneal onlay mesh (n=10) = 5 (50%). Palpable abdominal lump, P Value = 0.9 ( NS). Abdominal pain, Open Approach (n=10) = 2 (20%). Abdominal pain, Laparoscopic intraperitoneal onlay mesh (n=10) = 2 (20%). Abdominal pain, P Value = 0.9 ( NS). Palpable abdominal lump with pain, Open Approach (n=10) = 2 (20%). Palpable abdominal lump with pain, Laparoscopic intraperitoneal onlay mesh (n=10) = 3 (30%). Palpable abdominal lump with pain, P Value = 0.9 ( NS). Mean period of symptoms, Open Approach (n=10) = 3y (2-5). Mean period of symptoms, Laparoscopic intraperitoneal onlay mesh (n=10) = 5y (3-8). Mean period of symptoms, P Value =",
+    "content": "Table 1: Demographic, clinical, radiological and operative data of patients of each group\nMean age, Open Approach (n=10) = 56 y (40-72). Mean age, Laparoscopic intraperitoneal onlay mesh (n=10) = 54 y (38-70). Mean age, P Value = 0.42 (NS). Gender (male/female), Open Approach (n=10) = 3/7. Gender (male/female), Laparoscopic intraperitoneal onlay mesh (n=10) = 4/6. Gender (male/female), P Value = 0.59 (NS). Side of hernia (Rt/Lt), Open Approach (n=10) = 4/6. Side of hernia (Rt/Lt), Laparoscopic intraperitoneal onlay mesh (n=10) = 2/8. Side of hernia (Rt/Lt), P Value = 0.09 (NS). Patient presentations:, Open Approach (n=10) = . Patient presentations:, Laparoscopic intraperitoneal onlay mesh (n=10) = . Patient presentations:, P Value = . Palpable abdominal lump, Open Approach (n=10) = 6 (60%). Palpable abdominal lump, Laparoscopic intraperitoneal onlay mesh (n=10) = 5 (50%). Palpable abdominal lump, P Value = 0.9 ( NS). Abdominal pain, Open Approach (n=10) = 2 (20%). Abdominal pain, Laparoscopic intraperitoneal onlay mesh (n=10) = 2 (20%). Abdominal pain, P Value = 0.9 ( NS). Palpable abdominal lump with pain, Open Approach (n=10) = 2 (20%). Palpable abdominal lump with pain, Laparoscopic intraperitoneal onlay mesh (n=10) = 3 (30%). Palpable abdominal lump with pain, P Value = 0.9 ( NS). Mean period of symptoms, Open Approach (n=10) = 3y (2-5). Mean period of symptoms, Laparoscopic intraperitoneal onlay mesh (n=10) = 5y (3-8).",
     "metadata": {
       "document_id": "paper15",
-      "source": "paper15.json",
+      "source": "paper15.pdf",
+      "topic": "Results",
+      "headings": [
+        "Results"
+      ],
       "chunk_index": 10,
-      "total_chunks": 20,
+      "total_chunks": 22,
+      "pages": [
+        4
+      ],
       "docling": {
-        "schema_name": "docling_core.transforms.chunker.DocMeta",
-        "version": "1.0.0",
         "doc_items": [
           {
             "self_ref": "#/tables/0",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [
-              {
-                "$ref": "#/texts/43"
-              }
-            ],
-            "content_layer": "body",
             "label": "table",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 4,
@@ -1040,7 +889,7 @@
                   "t": 770.9867180165804,
                   "r": 559.6240338549018,
                   "b": 346.20379502827086,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1049,41 +898,30 @@
               }
             ]
           }
-        ],
-        "headings": [
-          "Results"
-        ],
-        "origin": {
-          "mimetype": "application/pdf",
-          "binary_hash": 1266390694422216754,
-          "filename": "paper15"
-        }
+        ]
       }
     }
   },
   {
-    "content": "0.112(NS). Mean defect diameter, Open Approach (n=10) = 6 (3-12) cm. Mean defect diameter, Laparoscopic intraperitoneal onlay mesh (n=10) = 4 (3-9) cm. Mean defect diameter, P Value = 0.075(NS). Mean follow up period, Open Approach (n=10) = 17 months. Mean follow up period, Laparoscopic intraperitoneal onlay mesh (n=10) = 17 months. Mean follow up period, P Value = 0.075(NS). Associated co morbidity, Open Approach (n=10) = . Associated co morbidity, Laparoscopic intraperitoneal onlay mesh (n=10) = . Associated co morbidity, P Value = . Hypertension, Open Approach (n=10) = 4 (40%). Hypertension, Laparoscopic intraperitoneal onlay mesh (n=10) = 2 (20%). Hypertension, P Value = . Diabetes Mellitus, Open Approach (n=10) = 2 (20%). Diabetes Mellitus, Laparoscopic intraperitoneal onlay mesh (n=10) = 3 (30%). Diabetes Mellitus, P Value = 0.8(NS). Hypertension with Diabetes, Open Approach (n=10) = 2 (20%). Hypertension with Diabetes, Laparoscopic intraperitoneal onlay mesh (n=10) = 0. Hypertension with Diabetes, P Value = 0.8(NS). Obesity, Open Approach (n=10) = 3 (30%). Obesity, Laparoscopic intraperitoneal onlay mesh (n=10) = 4 (40%). Obesity, P Value = 0.8(NS). Sensitivity of Diagnostic modalities:, Open Approach (n=10) = . Sensitivity of Diagnostic modalities:, Laparoscopic intraperitoneal onlay mesh (n=10) = . Sensitivity of Diagnostic modalities:, P Value = . Abdominal US, Open Approach (n=10) = 8 cases (80%). Abdominal US, Laparoscopic intraperitoneal onlay mesh (n=10) = 7 cases (70%). Abdominal US, P Value = 0.08",
+    "content": "Mean period of symptoms, P Value = 0.112(NS). Mean defect diameter, Open Approach (n=10) = 6 (3-12) cm. Mean defect diameter, Laparoscopic intraperitoneal onlay mesh (n=10) = 4 (3-9) cm. Mean defect diameter, P Value = 0.075(NS). Mean follow up period, Open Approach (n=10) = 17 months. Mean follow up period, Laparoscopic intraperitoneal onlay mesh (n=10) = 17 months. Mean follow up period, P Value = 0.075(NS). Associated co morbidity, Open Approach (n=10) = . Associated co morbidity, Laparoscopic intraperitoneal onlay mesh (n=10) = . Associated co morbidity, P Value = . Hypertension, Open Approach (n=10) = 4 (40%). Hypertension, Laparoscopic intraperitoneal onlay mesh (n=10) = 2 (20%). Hypertension, P Value = . Diabetes Mellitus, Open Approach (n=10) = 2 (20%). Diabetes Mellitus, Laparoscopic intraperitoneal onlay mesh (n=10) = 3 (30%). Diabetes Mellitus, P Value = 0.8(NS). Hypertension with Diabetes, Open Approach (n=10) = 2 (20%). Hypertension with Diabetes, Laparoscopic intraperitoneal onlay mesh (n=10) = 0. Hypertension with Diabetes, P Value = 0.8(NS). Obesity, Open Approach (n=10) = 3 (30%). Obesity, Laparoscopic intraperitoneal onlay mesh (n=10) = 4 (40%). Obesity, P Value = 0.8(NS). Sensitivity of Diagnostic modalities:, Open Approach (n=10) = . Sensitivity of Diagnostic modalities:, Laparoscopic intraperitoneal onlay mesh (n=10) = . Sensitivity of Diagnostic modalities:, P Value = . Abdominal US, Open Approach (n=10) = 8 cases (80%). Abdominal US, Laparoscopic intraperitoneal onlay mesh (n=10)",
     "metadata": {
       "document_id": "paper15",
-      "source": "paper15.json",
+      "source": "paper15.pdf",
+      "topic": "Results",
+      "headings": [
+        "Results"
+      ],
       "chunk_index": 11,
-      "total_chunks": 20,
+      "total_chunks": 22,
+      "pages": [
+        4
+      ],
       "docling": {
-        "schema_name": "docling_core.transforms.chunker.DocMeta",
-        "version": "1.0.0",
         "doc_items": [
           {
             "self_ref": "#/tables/0",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [
-              {
-                "$ref": "#/texts/43"
-              }
-            ],
-            "content_layer": "body",
             "label": "table",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 4,
@@ -1092,7 +930,7 @@
                   "t": 770.9867180165804,
                   "r": 559.6240338549018,
                   "b": 346.20379502827086,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1101,41 +939,30 @@
               }
             ]
           }
-        ],
-        "headings": [
-          "Results"
-        ],
-        "origin": {
-          "mimetype": "application/pdf",
-          "binary_hash": 1266390694422216754,
-          "filename": "paper15"
-        }
+        ]
       }
     }
   },
   {
-    "content": "(NS). Abdominal CT scan, Open Approach (n=10) = 10 cases (100%). Abdominal CT scan, Laparoscopic intraperitoneal onlay mesh (n=10) = 9 cases (90%). Abdominal CT scan, P Value = 0.08 (NS). Other coexistent hernia, Open Approach (n=10) = 2 cases (20%). Other coexistent hernia, Laparoscopic intraperitoneal onlay mesh (n=10) = 2 case (20%). Other coexistent hernia, P Value = >0.05 (NS). Average duration of operation(min), Open Approach (n=10) = 47 (29-70). Average duration of operation(min), Laparoscopic intraperitoneal onlay mesh (n=10) = 42 (30-56). Average duration of operation(min), P Value = 0.07 (NS ). Intraoperative complications, Open Approach (n=10) = 0. Intraoperative complications, Laparoscopic intraperitoneal onlay mesh (n=10) = 0. Intraoperative complications, P Value = NS. Postoperative complications, Open Approach (n=10) = 3 (30%). Postoperative complications, Laparoscopic intraperitoneal onlay mesh (n=10) = 0. Postoperative complications, P Value = <0.05 (S). Average length of postoperative hospi-, Open Approach (n=10) = 4 (2-7). Average length of postoperative hospi-, Laparoscopic intraperitoneal onlay mesh (n=10) = 1.3 (1-2). Average length of postoperative hospi-, P Value = <0.01 (HS). tal stay (days), Open Approach (n=10) = . tal stay (days), Laparoscopic intraperitoneal onlay mesh (n=10) = . tal stay (days), P Value = . Recurrence, Open Approach (n=10) = 0. Recurrence, Laparoscopic intraperitoneal onlay mesh (n=10) = 0. Recurrence, P Value = NS",
+    "content": "= 7 cases (70%). Abdominal US, P Value = 0.08 (NS). Abdominal CT scan, Open Approach (n=10) = 10 cases (100%). Abdominal CT scan, Laparoscopic intraperitoneal onlay mesh (n=10) = 9 cases (90%). Abdominal CT scan, P Value = 0.08 (NS). Other coexistent hernia, Open Approach (n=10) = 2 cases (20%). Other coexistent hernia, Laparoscopic intraperitoneal onlay mesh (n=10) = 2 case (20%). Other coexistent hernia, P Value = >0.05 (NS). Average duration of operation(min), Open Approach (n=10) = 47 (29-70). Average duration of operation(min), Laparoscopic intraperitoneal onlay mesh (n=10) = 42 (30-56). Average duration of operation(min), P Value = 0.07 (NS ). Intraoperative complications, Open Approach (n=10) = 0. Intraoperative complications, Laparoscopic intraperitoneal onlay mesh (n=10) = 0. Intraoperative complications, P Value = NS. Postoperative complications, Open Approach (n=10) = 3 (30%). Postoperative complications, Laparoscopic intraperitoneal onlay mesh (n=10) = 0. Postoperative complications, P Value = <0.05 (S). Average length of postoperative hospi-, Open Approach (n=10) = 4 (2-7). Average length of postoperative hospi-, Laparoscopic intraperitoneal onlay mesh (n=10) = 1.3 (1-2). Average length of postoperative hospi-, P Value = <0.01 (HS). tal stay (days), Open Approach (n=10) = . tal stay (days), Laparoscopic intraperitoneal onlay mesh (n=10) = . tal stay (days), P Value = . Recurrence, Open Approach (n=10) = 0. Recurrence, Laparoscopic intraperitoneal onlay",
     "metadata": {
       "document_id": "paper15",
-      "source": "paper15.json",
+      "source": "paper15.pdf",
+      "topic": "Results",
+      "headings": [
+        "Results"
+      ],
       "chunk_index": 12,
-      "total_chunks": 20,
+      "total_chunks": 22,
+      "pages": [
+        4
+      ],
       "docling": {
-        "schema_name": "docling_core.transforms.chunker.DocMeta",
-        "version": "1.0.0",
         "doc_items": [
           {
             "self_ref": "#/tables/0",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [
-              {
-                "$ref": "#/texts/43"
-              }
-            ],
-            "content_layer": "body",
             "label": "table",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 4,
@@ -1144,7 +971,7 @@
                   "t": 770.9867180165804,
                   "r": 559.6240338549018,
                   "b": 346.20379502827086,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1153,15 +980,48 @@
               }
             ]
           }
-        ],
-        "headings": [
-          "Results"
-        ],
-        "origin": {
-          "mimetype": "application/pdf",
-          "binary_hash": 1266390694422216754,
-          "filename": "paper15"
-        }
+        ]
+      }
+    }
+  },
+  {
+    "content": "mesh (n=10) = 0. Recurrence, P Value = NS",
+    "metadata": {
+      "document_id": "paper15",
+      "source": "paper15.pdf",
+      "topic": "Results",
+      "headings": [
+        "Results"
+      ],
+      "chunk_index": 13,
+      "total_chunks": 22,
+      "pages": [
+        4
+      ],
+      "docling": {
+        "doc_items": [
+          {
+            "self_ref": "#/tables/0",
+            "label": "table",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 4,
+                "bbox": {
+                  "l": 55.83247788036242,
+                  "t": 770.9867180165804,
+                  "r": 559.6240338549018,
+                  "b": 346.20379502827086,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  0
+                ]
+              }
+            ]
+          }
+        ]
       }
     }
   },
@@ -1169,21 +1029,22 @@
     "content": "Spigelian hernia is named after (ArianeVanSpigel) 5 who  described  the  semilunar  line,  whoever  the hernia was first described by (KlinKosch) in 1764. The hernia appears to peak in the 4th to7th decades, the male to female ratio is 1: 1.8. Spigelian hernias are very uncommon and constitute only 0.12% of all abdominal wall hernias. 6 Spigelian hernia can be congenital or acquired. The Spigelian aponeurosis is widest between 0-6 cm cranial to the interspinous plane and 85-90% of the hernias occur within the Spigelian hernia belt. 7\nSpigelian hernias represent between 0.1 and 2% of all abdominal wall hernias and are more frequent in older people (40-70 year old), especially in women, and are very occasionally bilateral. 8 In our study the mean age for the open group was 56 years and was 54 years for the laparoscopic group. Female cases were 7 of 10 (70%) of open group and were 6 of 10 (60%) of laparoscopic group. All these reports were consistent with other series which stated that SH is most commonly seen in the middle age group and more frequently in females with a ratio of 1.4:1. 9\nThe  diagnosis  of  Spigelian  hernia  is  difficult  and few  surgeons  suspect  it,  it  has  no  characteristics symptoms and the hernia may be interparietal with no obvious mass on inspection or palpation. Only 50% of cases are diagnosed preoperatively. 10",
     "metadata": {
       "document_id": "paper15",
-      "source": "paper15.json",
-      "chunk_index": 13,
-      "total_chunks": 20,
+      "source": "paper15.pdf",
+      "topic": "Discussion",
+      "headings": [
+        "Discussion"
+      ],
+      "chunk_index": 14,
+      "total_chunks": 22,
+      "pages": [
+        4
+      ],
       "docling": {
-        "schema_name": "docling_core.transforms.chunker.DocMeta",
-        "version": "1.0.0",
         "doc_items": [
           {
             "self_ref": "#/texts/45",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 4,
@@ -1192,7 +1053,7 @@
                   "t": 322.41012464843743,
                   "r": 286.6418,
                   "b": 191.89574753044917,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1203,12 +1064,8 @@
           },
           {
             "self_ref": "#/texts/46",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 4,
@@ -1217,7 +1074,7 @@
                   "t": 178.11171464843756,
                   "r": 286.6463999999999,
                   "b": 59.89574753044917,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1231,7 +1088,7 @@
                   "t": 334.4101246484375,
                   "r": 547.89078,
                   "b": 323.89574753044917,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   511,
@@ -1242,12 +1099,8 @@
           },
           {
             "self_ref": "#/texts/47",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 4,
@@ -1256,7 +1109,7 @@
                   "t": 310.11171464843756,
                   "r": 562.3833999999998,
                   "b": 251.89574753044917,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1265,37 +1118,31 @@
               }
             ]
           }
-        ],
-        "headings": [
-          "Discussion"
-        ],
-        "origin": {
-          "mimetype": "application/pdf",
-          "binary_hash": 1266390694422216754,
-          "filename": "paper15"
-        }
+        ]
       }
     }
   },
   {
-    "content": "In our study the preoperative diagnosis was done clinically in 9 patients (90%) of the open group, and in 8 patients (80%) of the laparoscopic group. As regard, the patients of the open group; 6patients (60%) presented by a palpable abdominal lump, 2 patients (20%) presented by abdominal pain related to the site of hernia and 2 patients (20%) presented by palpable abdominal lump together with pain. As regard  to  the  patients  of  the  Laparoscopic  group 5 patients (50%) presented by palpable abdominal lump,  2  patients  (20%)  presented  by  abdominal pain and 3 patients (30%) presented by palpable abdominal lump together with pain. These figures were comparable with the results of a retrospective study done by (Larson and Farley) 11 at Mayo clinic that documented that 35% of their patients had a palpable  swelling,  24%  had  abdominal  pain,  and only 6% were completely asymptomatic.\nUltrasound  is  recommended  as  first  line  imaging investigation,  with  this  aid,  the  correct  diagnosis was  obtained  in  8  of  10  patients  (80%)  of  the open group and in 7 of 10 patients (70%) of the laparoscopic  group  were  studied.  The  advantages of  real  time  ultrasonography  are  the  ability  to perform  examination  in  both  supine  and  up  right positions, and while the patient performs a Valsalva maneuver. 12 CT  scan  with  close  thin  sections  is considered the most reliable technique to make the diagnosis in doubtful cases. The use of oral contrast medium during the examination is recommended, so that any bowel content can be identified. 13  CT scan confirms the diagnosis in 10 of 10 patients (100%) of the open surgical group and in 9 of 10 patients (90%) of laparoscopic group which indicates much higher  sensitivity  of  CT  scan  in  comparison  to ultrasound  in  diagnosing  Spigelian  hernia.  These results  were  comparable  with  other  series. 14 In another study CT is reported to have a sensitivity of  100%  and  a  positive  predictive  value  (PPV)  of 100%, whereas ultrasonography has a sensitivity of 90% and a PPV of 100%, and clinical assessment alone has a sensitivity of 100% and a PPV of 36%. 15 The differential diagnosis includes appendicitis and appendicular  abscess,  abdominal  wall  tumors  or spontaneous  hematoma  of  rectus  sheath  or  even acute diverticulitis. 16",
+    "content": "In our study the preoperative diagnosis was done clinically in 9 patients (90%) of the open group, and in 8 patients (80%) of the laparoscopic group. As regard, the patients of the open group; 6patients (60%) presented by a palpable abdominal lump, 2 patients (20%) presented by abdominal pain related to the site of hernia and 2 patients (20%) presented by palpable abdominal lump together with pain. As regard  to  the  patients  of  the  Laparoscopic  group 5 patients (50%) presented by palpable abdominal lump,  2  patients  (20%)  presented  by  abdominal pain and 3 patients (30%) presented by palpable abdominal lump together with pain. These figures were comparable with the results of a retrospective study done by (Larson and Farley) 11 at Mayo clinic that documented that 35% of their patients had a palpable  swelling,  24%  had  abdominal  pain,  and only 6% were completely asymptomatic.",
     "metadata": {
       "document_id": "paper15",
-      "source": "paper15.json",
-      "chunk_index": 14,
-      "total_chunks": 20,
+      "source": "paper15.pdf",
+      "topic": "Discussion",
+      "headings": [
+        "Discussion"
+      ],
+      "chunk_index": 15,
+      "total_chunks": 22,
+      "pages": [
+        4,
+        5
+      ],
       "docling": {
-        "schema_name": "docling_core.transforms.chunker.DocMeta",
-        "version": "1.0.0",
         "doc_items": [
           {
             "self_ref": "#/texts/48",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 4,
@@ -1304,7 +1151,7 @@
                   "t": 238.11171464843756,
                   "r": 562.3933999999994,
                   "b": 59.89574753044917,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1318,7 +1165,7 @@
                   "t": 784.8204146484375,
                   "r": 265.97900000000004,
                   "b": 750.6044475304491,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   763,
@@ -1326,15 +1173,31 @@
                 ]
               }
             ]
-          },
+          }
+        ]
+      }
+    }
+  },
+  {
+    "content": "Ultrasound  is  recommended  as  first  line  imaging investigation,  with  this  aid,  the  correct  diagnosis was  obtained  in  8  of  10  patients  (80%)  of  the open group and in 7 of 10 patients (70%) of the laparoscopic  group  were  studied.  The  advantages of  real  time  ultrasonography  are  the  ability  to perform  examination  in  both  supine  and  up  right positions, and while the patient performs a Valsalva maneuver. 12 CT  scan  with  close  thin  sections  is considered the most reliable technique to make the diagnosis in doubtful cases. The use of oral contrast medium during the examination is recommended, so that any bowel content can be identified. 13  CT scan confirms the diagnosis in 10 of 10 patients (100%) of the open surgical group and in 9 of 10 patients (90%) of laparoscopic group which indicates much higher  sensitivity  of  CT  scan  in  comparison  to ultrasound  in  diagnosing  Spigelian  hernia.  These results  were  comparable  with  other  series. 14 In another study CT is reported to have a sensitivity of  100%  and  a  positive  predictive  value  (PPV)  of 100%, whereas ultrasonography has a sensitivity of 90% and a PPV of 100%, and clinical assessment alone has a sensitivity of 100% and a PPV of 36%. 15 The differential diagnosis includes appendicitis and appendicular  abscess,  abdominal  wall  tumors  or spontaneous  hematoma  of  rectus  sheath  or  even acute diverticulitis. 16\nAs regard location of hernia, 6 patients (60%) of the open group had SH on left side, which is more frequent as compared to contra lateral side, while 4  patients  (40%)  had  hernia  on  right  side,  while for the laparoscopic group 8 patients had left sided hernia and two patients had right sided hernia. as for the etiology the majority of cases were acquired hernias.  because  the  Spigelian  fascia  was  among the less resistant areas of the abdominal wall. 17",
+    "metadata": {
+      "document_id": "paper15",
+      "source": "paper15.pdf",
+      "topic": "Discussion",
+      "headings": [
+        "Discussion"
+      ],
+      "chunk_index": 16,
+      "total_chunks": 22,
+      "pages": [
+        5
+      ],
+      "docling": {
+        "doc_items": [
           {
             "self_ref": "#/texts/51",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 5,
@@ -1343,7 +1206,7 @@
                   "t": 736.8204146484375,
                   "r": 265.99499999999995,
                   "b": 402.60444753044914,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1351,38 +1214,11 @@
                 ]
               }
             ]
-          }
-        ],
-        "headings": [
-          "Discussion"
-        ],
-        "origin": {
-          "mimetype": "application/pdf",
-          "binary_hash": 1266390694422216754,
-          "filename": "paper15"
-        }
-      }
-    }
-  },
-  {
-    "content": "As regard location of hernia, 6 patients (60%) of the open group had SH on left side, which is more frequent as compared to contra lateral side, while 4  patients  (40%)  had  hernia  on  right  side,  while for the laparoscopic group 8 patients had left sided hernia and two patients had right sided hernia. as for the etiology the majority of cases were acquired hernias.  because  the  Spigelian  fascia  was  among the less resistant areas of the abdominal wall. 17\nOther  abdominal  wall  hernias  are  not  uncommon associations with SH which may suggest a predisposition to abdominal wall defects in patients with SH. 18  In our study there were 2 cases (20%) with another hernia associating with SH (one with left  inguinal  hernia  and  other  with  left  femoral hernia) among the open surgical group while in the laparoscopic group there was 2 cases (20%) with paraumbilical  hernia  associating  with  SH.  These reports  were  consistent  with  several  case  reports that  have  reported  simultaneous  repair  of  other hernias such as umbilical 19 and inguinal hernias. 20\nThe  treatment  of  Spigelian  hernia  is  essentially surgical, and due to its high incidence of complications  (35%  strangulations,  incarceration), surgery is recommended in almost all cases. 21  The optimal surgical approach for repair is not yet well defined,  as  surgeon  can  use  a  traditional  open approach or a laparoscopic technique. 22\n(Carter  and  Mizes) 23 treated  SH  with  laparoscopic approach for the first time in 1992, the laparoscopic repair  can  be  performed  through  2  different  accesses, a  trans  abdominal  and  extraperitoneal,  the  latter was published for the first time by (Moreno-Egea et al) in 1999, whoever, the intraperitoneal technique is  considered  now  the  best  current  technique  for laparoscopic repair of SH. 24\nThe  laparoscopic  technique  is  constantly  evolving and becomes today the gold standard approach for non-complicated  cases  in  referral  centers,  is  still requiring a good learning curve which may requires several years of practice, given the rarity of disease, for  these  reasons  together  with  high  incidence  of complications, the open surgical repair remain the recommended approach. 11",
-    "metadata": {
-      "document_id": "paper15",
-      "source": "paper15.json",
-      "chunk_index": 15,
-      "total_chunks": 20,
-      "docling": {
-        "schema_name": "docling_core.transforms.chunker.DocMeta",
-        "version": "1.0.0",
-        "doc_items": [
+          },
           {
             "self_ref": "#/texts/52",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 5,
@@ -1391,7 +1227,7 @@
                   "t": 388.8204146484375,
                   "r": 265.99000000000007,
                   "b": 282.6044475304491,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1399,15 +1235,31 @@
                 ]
               }
             ]
-          },
+          }
+        ]
+      }
+    }
+  },
+  {
+    "content": "Other  abdominal  wall  hernias  are  not  uncommon associations with SH which may suggest a predisposition to abdominal wall defects in patients with SH. 18  In our study there were 2 cases (20%) with another hernia associating with SH (one with left  inguinal  hernia  and  other  with  left  femoral hernia) among the open surgical group while in the laparoscopic group there was 2 cases (20%) with paraumbilical  hernia  associating  with  SH.  These reports  were  consistent  with  several  case  reports that  have  reported  simultaneous  repair  of  other hernias such as umbilical 19 and inguinal hernias. 20\nThe  treatment  of  Spigelian  hernia  is  essentially surgical, and due to its high incidence of complications  (35%  strangulations,  incarceration), surgery is recommended in almost all cases. 21  The optimal surgical approach for repair is not yet well defined,  as  surgeon  can  use  a  traditional  open approach or a laparoscopic technique. 22\n(Carter  and  Mizes) 23 treated  SH  with  laparoscopic approach for the first time in 1992, the laparoscopic repair  can  be  performed  through  2  different  accesses, a  trans  abdominal  and  extraperitoneal,  the  latter was published for the first time by (Moreno-Egea et al) in 1999, whoever, the intraperitoneal technique is  considered  now  the  best  current  technique  for laparoscopic repair of SH. 24\nThe  laparoscopic  technique  is  constantly  evolving and becomes today the gold standard approach for non-complicated  cases  in  referral  centers,  is  still requiring a good learning curve which may requires several years of practice, given the rarity of disease, for  these  reasons  together  with  high  incidence  of complications, the open surgical repair remain the recommended approach. 11",
+    "metadata": {
+      "document_id": "paper15",
+      "source": "paper15.pdf",
+      "topic": "Discussion",
+      "headings": [
+        "Discussion"
+      ],
+      "chunk_index": 17,
+      "total_chunks": 22,
+      "pages": [
+        5
+      ],
+      "docling": {
+        "doc_items": [
           {
             "self_ref": "#/texts/53",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 5,
@@ -1416,7 +1268,7 @@
                   "t": 268.82041464843746,
                   "r": 265.9880000000001,
                   "b": 126.60444753044908,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1427,12 +1279,8 @@
           },
           {
             "self_ref": "#/texts/54",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 5,
@@ -1441,7 +1289,7 @@
                   "t": 112.82041464843746,
                   "r": 265.9810000000001,
                   "b": 66.60444753044908,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1455,7 +1303,7 @@
                   "t": 784.8204146484375,
                   "r": 541.7179999999998,
                   "b": 750.6044475304491,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   204,
@@ -1466,12 +1314,8 @@
           },
           {
             "self_ref": "#/texts/55",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 5,
@@ -1480,7 +1324,7 @@
                   "t": 737.1188246484376,
                   "r": 541.7413999999997,
                   "b": 642.6044475304491,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1491,12 +1335,8 @@
           },
           {
             "self_ref": "#/texts/56",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 5,
@@ -1505,7 +1345,7 @@
                   "t": 628.8204146484375,
                   "r": 541.7319999999997,
                   "b": 534.6044475304491,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1514,15 +1354,7 @@
               }
             ]
           }
-        ],
-        "headings": [
-          "Discussion"
-        ],
-        "origin": {
-          "mimetype": "application/pdf",
-          "binary_hash": 1266390694422216754,
-          "filename": "paper15"
-        }
+        ]
       }
     }
   },
@@ -1530,21 +1362,22 @@
     "content": "In our study there were 10 patients who underwent open approach versus 10 patients who underwent laparoscopic intraperitoneal onlay mesh. The comparison  of  both  groups  reflected  that  there were  no  significant  differences  in  demographic, clinical  and  radiological  features  of  the  patients of  both  groups;  also  no  significant  difference  in the  average  operating  time  was  noted  between both groups, but there were significant differences as  regard  to  the  average  length  of  postoperative hospital  stay  which  was  shorter  as  regard  to  the laparoscopic  group  (1.3  vs.  4  days).  This  feature was nearly consistent with a randomized trial done by  (Moreno-Egea  et  al) 13 comparing  open  versus laparoscopic repair of SH in the literature concluded that  the  laparoscopic  group  significantly  reduced the morbidity of patients and the length of hospital stay. Some authors also advocate for laparoscopic repair to avoid disrupting the physiological behavior and mechanics of abdominal wall through scarring in open surgery. 25\nFrom  the  review  of  the  literature, the overall recurrence rate of SH is varies and ranges from 5 to 14%. 26  In our study there was no recurrence in both groups over a period of 24 months follow up. In a series of 70 patients undergoing open primary suture  repair,  there  were  3  recurrences  (4.3%) which subsequently underwent further repair with no further recurrence. 11",
     "metadata": {
       "document_id": "paper15",
-      "source": "paper15.json",
-      "chunk_index": 16,
-      "total_chunks": 20,
+      "source": "paper15.pdf",
+      "topic": "Discussion",
+      "headings": [
+        "Discussion"
+      ],
+      "chunk_index": 18,
+      "total_chunks": 22,
+      "pages": [
+        5
+      ],
       "docling": {
-        "schema_name": "docling_core.transforms.chunker.DocMeta",
-        "version": "1.0.0",
         "doc_items": [
           {
             "self_ref": "#/texts/57",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 5,
@@ -1553,7 +1386,7 @@
                   "t": 520.8204146484375,
                   "r": 541.7295,
                   "b": 270.6044475304491,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1564,12 +1397,8 @@
           },
           {
             "self_ref": "#/texts/58",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 5,
@@ -1578,7 +1407,7 @@
                   "t": 256.82041464843746,
                   "r": 541.7214999999999,
                   "b": 162.60444753044908,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1587,15 +1416,7 @@
               }
             ]
           }
-        ],
-        "headings": [
-          "Discussion"
-        ],
-        "origin": {
-          "mimetype": "application/pdf",
-          "binary_hash": 1266390694422216754,
-          "filename": "paper15"
-        }
+        ]
       }
     }
   },
@@ -1603,21 +1424,23 @@
     "content": "Spigelian  hernia  is  a  rare  condition  with  limited number of cases published in the scientific literatures.  Diagnosis  of  Spigelian  hernia  needs thorough  clinical  examination  with  high  suspect and needs to be confirmed by imaging techniques especially CT scan. Open surgical repair remains the traditional  treatment  strategy  especially  in  urgent cases  but  laparoscopic  intraperitoneal  onlay  mesh repair is also safe and effective with shorter hospital stay and less postoperative morbidity.",
     "metadata": {
       "document_id": "paper15",
-      "source": "paper15.json",
-      "chunk_index": 17,
-      "total_chunks": 20,
+      "source": "paper15.pdf",
+      "topic": "Conclusion",
+      "headings": [
+        "Conclusion"
+      ],
+      "chunk_index": 19,
+      "total_chunks": 22,
+      "pages": [
+        5,
+        6
+      ],
       "docling": {
-        "schema_name": "docling_core.transforms.chunker.DocMeta",
-        "version": "1.0.0",
         "doc_items": [
           {
             "self_ref": "#/texts/60",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 5,
@@ -1626,7 +1449,7 @@
                   "t": 136.82041464843746,
                   "r": 541.7209999999999,
                   "b": 66.60444753044908,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1640,7 +1463,7 @@
                   "t": 784.7731146484375,
                   "r": 286.5958999999999,
                   "b": 738.5571475304491,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   309,
@@ -1649,15 +1472,7 @@
               }
             ]
           }
-        ],
-        "headings": [
-          "Conclusion"
-        ],
-        "origin": {
-          "mimetype": "application/pdf",
-          "binary_hash": 1266390694422216754,
-          "filename": "paper15"
-        }
+        ]
       }
     }
   },
@@ -1665,21 +1480,22 @@
     "content": "1. Spangen  L:  Spigelian  hernia. World  J  Surg. 1999; 13: 573-580.\n2. Spangen L: Spigelian hernia. Surg. Clin North Am. 1997; 64: 351-366.\n3. Zaki W, Alawad AAM: Spigelian Hernia: A rare case report. Ann Clin Case Rep. 2017; 2: 1288.\n4. Srivastava  KN,  Agarwal  A:  Spigelian  hernia. A diagnostic dilemma and laparoscopic management. Indian J Surg. 2015; 77(Suppl 1): S35-S37.\n5. Engeset J, Youngson GC: Ambulatory peritoneal dialysis  and  hernia  complications. Surg  Clin North Am. 2007; 64: 385-392.\n6. Opson RD, Davis WC: Spigelian hernia: Rare or obscure? Am J Surg. 2009; 116: 842-846.\n7. Read RC: Observation on the etiology of Spigelian  hernia. Ann Surg. 2012;  152:  10041009.\n8. Mouton WG, Otten KT, Weiss D, Naef M, Wagner HF: Preperitoneal mesh  repair  in Spigelian hernia. Int Surg. 2006; 91: 262-264.\n9. Polistina  FA,  Garbo  G,  Trevisan  P ,  Frego  M: Twelve  years  of  experience  treating  Spigelian hernia. Surgery. 2015; 157: 547-550.\n10. Campos  SM,  Walden  T:  Images  in  clinical medicine: Spigelian hernia. N Eng J Med. 2008; 336: 1149.\n11. Larson DW, Farley DR: Spigelian hernias; repair and  outcome  for  81  patients. World  J  Surg. 2002; 26: 1277-1281.\n12. Rogers FB, Camp PC: A strangulated Spigelian hernia mimicking diverticulitis. Hernia. 2014; 5: 51-52.\n13. Moreno-Egea A, Carrosco L, Girela E, et al: Open vs.  laparoscopic  repair  of  Spigelian  hernia:  A prospective randomized trial. Arch Surg. 2002; 137: 1266-1268.",
     "metadata": {
       "document_id": "paper15",
-      "source": "paper15.json",
-      "chunk_index": 18,
-      "total_chunks": 20,
+      "source": "paper15.pdf",
+      "topic": "References",
+      "headings": [
+        "References"
+      ],
+      "chunk_index": 20,
+      "total_chunks": 22,
+      "pages": [
+        6
+      ],
       "docling": {
-        "schema_name": "docling_core.transforms.chunker.DocMeta",
-        "version": "1.0.0",
         "doc_items": [
           {
             "self_ref": "#/texts/64",
-            "parent": {
-              "$ref": "#/groups/0"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 6,
@@ -1688,7 +1504,7 @@
                   "t": 712.7731146484375,
                   "r": 283.4618999999999,
                   "b": 690.5571475304491,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1699,12 +1515,8 @@
           },
           {
             "self_ref": "#/texts/65",
-            "parent": {
-              "$ref": "#/groups/0"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 6,
@@ -1713,7 +1525,7 @@
                   "t": 676.7731146484375,
                   "r": 285.95189999999997,
                   "b": 654.5571475304491,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1724,12 +1536,8 @@
           },
           {
             "self_ref": "#/texts/66",
-            "parent": {
-              "$ref": "#/groups/0"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 6,
@@ -1738,7 +1546,7 @@
                   "t": 640.7731146484375,
                   "r": 286.5889,
                   "b": 618.5571475304491,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1749,12 +1557,8 @@
           },
           {
             "self_ref": "#/texts/67",
-            "parent": {
-              "$ref": "#/groups/0"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 6,
@@ -1763,7 +1567,7 @@
                   "t": 604.7731146484375,
                   "r": 286.61289999999997,
                   "b": 558.5571475304491,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1774,12 +1578,8 @@
           },
           {
             "self_ref": "#/texts/68",
-            "parent": {
-              "$ref": "#/groups/0"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 6,
@@ -1788,7 +1588,7 @@
                   "t": 544.7731146484375,
                   "r": 286.6019,
                   "b": 510.55714753044913,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1799,12 +1599,8 @@
           },
           {
             "self_ref": "#/texts/69",
-            "parent": {
-              "$ref": "#/groups/0"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 6,
@@ -1813,7 +1609,7 @@
                   "t": 496.7731146484375,
                   "r": 286.59290000000004,
                   "b": 474.55714753044913,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1824,12 +1620,8 @@
           },
           {
             "self_ref": "#/texts/70",
-            "parent": {
-              "$ref": "#/groups/0"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 6,
@@ -1838,7 +1630,7 @@
                   "t": 460.7731146484375,
                   "r": 286.59290000000004,
                   "b": 426.55714753044913,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1849,12 +1641,8 @@
           },
           {
             "self_ref": "#/texts/71",
-            "parent": {
-              "$ref": "#/groups/0"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 6,
@@ -1863,7 +1651,7 @@
                   "t": 412.7731146484375,
                   "r": 286.6129,
                   "b": 378.55714753044913,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1874,12 +1662,8 @@
           },
           {
             "self_ref": "#/texts/72",
-            "parent": {
-              "$ref": "#/groups/0"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 6,
@@ -1888,7 +1672,7 @@
                   "t": 364.7731146484375,
                   "r": 286.6229000000001,
                   "b": 330.55714753044913,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1899,12 +1683,8 @@
           },
           {
             "self_ref": "#/texts/73",
-            "parent": {
-              "$ref": "#/groups/0"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 6,
@@ -1913,7 +1693,7 @@
                   "t": 316.7731146484375,
                   "r": 286.6239,
                   "b": 282.55714753044913,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1924,12 +1704,8 @@
           },
           {
             "self_ref": "#/texts/74",
-            "parent": {
-              "$ref": "#/groups/0"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 6,
@@ -1938,7 +1714,7 @@
                   "t": 268.7731146484375,
                   "r": 286.61790000000013,
                   "b": 234.55714753044913,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1949,12 +1725,8 @@
           },
           {
             "self_ref": "#/texts/75",
-            "parent": {
-              "$ref": "#/groups/0"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 6,
@@ -1963,7 +1735,7 @@
                   "t": 220.7731146484375,
                   "r": 286.6229000000001,
                   "b": 186.55714753044913,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1974,12 +1746,8 @@
           },
           {
             "self_ref": "#/texts/76",
-            "parent": {
-              "$ref": "#/groups/0"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 6,
@@ -1988,7 +1756,7 @@
                   "t": 172.7731146484375,
                   "r": 286.6129,
                   "b": 126.55714753044913,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1997,15 +1765,7 @@
               }
             ]
           }
-        ],
-        "headings": [
-          "References"
-        ],
-        "origin": {
-          "mimetype": "application/pdf",
-          "binary_hash": 1266390694422216754,
-          "filename": "paper15"
-        }
+        ]
       }
     }
   },
@@ -2013,21 +1773,22 @@
     "content": "14. Webber V, Low C, Skipworth RJ, Kumar S, de Beaux AC, Tulloh B: Contemporary thoughts on the  management  of  Spigelian  hernia. Hernia. 2017.\n15. Light D, Chattopadhyay D, Bawa S: Radiological and  clinical  examination  in  the  diagnosis  of Spigelian hernias. Ann R Coll Surg Engl. 2013; 95: 98-100.\n16. Vesico  G,  Sommella  L,  Gallelli  G:  Complicated Spigelian hernia: Our experience. Ann Ital Chir. 2011; 71: 573-578.\n17.  Zennaro  F,  Tasi  D,  Orio  A,  Morelli  C,  Chella B: Spigelian hernia. Anatomico-clinical considerations and  description of 5 clinical cases. Ann Ital Chir. 2012; 74: 165-168.\n18. Paliogiannis P, Delgou L, Contu G, et al: Small bowel emergencies: 'Two surgical center' experience  and  literature  review. Eur  Surg. 2016: 48: 18-25.\n19. Amendolara M: Video laparoscopic treatment of Spigelian hernias. Surg Laparosc Endosc. 1998; 8: 136-139.\n20. Vannahme M, Monkhouse SJ: Acute management of a unilateral incarcerated Spigelian  hernia  in a patient with  bilateral Spigelian hernias. Ann R Coll Surg Engl. 2013; 95: e89-91.\n21. Mittal  T ,  Kumar  V ,  Khullar  R,  et  al:  Diagnosis and management of Spigelian hernia: A review of  literature  and  our  experience. J Min Access Surg. 2014; 4:95-98.\n22. Carter JE, Mizes C: Laparoscopic diagnosis and repair of Spigelian hernia: report of a case and technique. Am  J  Obstet  Gynecol. 1992;  167: 77-78.\n23. Perrakis A, Velimezis G, Kapogiantos Gm, et al: Spigelian hernia: A single center experience in a rare hernia entity. Hernia. 2015; 16: 439-445.",
     "metadata": {
       "document_id": "paper15",
-      "source": "paper15.json",
-      "chunk_index": 19,
-      "total_chunks": 20,
+      "source": "paper15.pdf",
+      "topic": "References",
+      "headings": [
+        "References"
+      ],
+      "chunk_index": 21,
+      "total_chunks": 22,
+      "pages": [
+        6
+      ],
       "docling": {
-        "schema_name": "docling_core.transforms.chunker.DocMeta",
-        "version": "1.0.0",
         "doc_items": [
           {
             "self_ref": "#/texts/77",
-            "parent": {
-              "$ref": "#/groups/0"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 6,
@@ -2036,7 +1797,7 @@
                   "t": 112.77311464843751,
                   "r": 286.60889999999995,
                   "b": 66.55714753044913,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -2047,12 +1808,8 @@
           },
           {
             "self_ref": "#/texts/78",
-            "parent": {
-              "$ref": "#/groups/0"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 6,
@@ -2061,7 +1818,7 @@
                   "t": 784.7731146484375,
                   "r": 562.3608999999999,
                   "b": 738.5571475304491,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -2072,12 +1829,8 @@
           },
           {
             "self_ref": "#/texts/79",
-            "parent": {
-              "$ref": "#/groups/0"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 6,
@@ -2086,7 +1839,7 @@
                   "t": 724.7731146484375,
                   "r": 562.3429000000001,
                   "b": 690.5571475304491,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -2097,12 +1850,8 @@
           },
           {
             "self_ref": "#/texts/80",
-            "parent": {
-              "$ref": "#/groups/0"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 6,
@@ -2111,7 +1860,7 @@
                   "t": 676.7731146484375,
                   "r": 562.3509,
                   "b": 630.5571475304491,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -2122,12 +1871,8 @@
           },
           {
             "self_ref": "#/texts/81",
-            "parent": {
-              "$ref": "#/groups/0"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 6,
@@ -2136,7 +1881,7 @@
                   "t": 616.7731146484375,
                   "r": 562.3359000000003,
                   "b": 570.5571475304491,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -2147,12 +1892,8 @@
           },
           {
             "self_ref": "#/texts/82",
-            "parent": {
-              "$ref": "#/groups/0"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 6,
@@ -2161,7 +1902,7 @@
                   "t": 556.7731146484375,
                   "r": 562.3399000000005,
                   "b": 522.5571475304491,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -2172,12 +1913,8 @@
           },
           {
             "self_ref": "#/texts/83",
-            "parent": {
-              "$ref": "#/groups/0"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 6,
@@ -2186,7 +1923,7 @@
                   "t": 508.7731146484375,
                   "r": 562.3469000000005,
                   "b": 450.55714753044913,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -2197,12 +1934,8 @@
           },
           {
             "self_ref": "#/texts/84",
-            "parent": {
-              "$ref": "#/groups/0"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 6,
@@ -2211,7 +1944,7 @@
                   "t": 436.7731146484375,
                   "r": 562.3429000000003,
                   "b": 390.55714753044913,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -2222,12 +1955,8 @@
           },
           {
             "self_ref": "#/texts/85",
-            "parent": {
-              "$ref": "#/groups/0"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 6,
@@ -2236,7 +1965,7 @@
                   "t": 376.7731146484375,
                   "r": 562.3429000000004,
                   "b": 330.55714753044913,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -2247,12 +1976,8 @@
           },
           {
             "self_ref": "#/texts/86",
-            "parent": {
-              "$ref": "#/groups/0"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 6,
@@ -2261,7 +1986,7 @@
                   "t": 316.7731146484375,
                   "r": 562.3529000000003,
                   "b": 282.55714753044913,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -2270,15 +1995,7 @@
               }
             ]
           }
-        ],
-        "headings": [
-          "References"
-        ],
-        "origin": {
-          "mimetype": "application/pdf",
-          "binary_hash": 1266390694422216754,
-          "filename": "paper15"
-        }
+        ]
       }
     }
   },
@@ -2286,21 +2003,22 @@
     "content": "24. Conzo G, Giordano A, Candela G, et al: Giant Spigelian hernia associated with inguinal hernia. Repair  with  poly  propylene  prosthesis. Am  J Surg. 2015; 55: 611-615.\n25. Leff DR, Hassell J, Sufi P, Heath D: Emergency and  elective  laparoscopic  repair  of  spigelian hernias; two case reports and a review of the literature. Surg Laparosc Endosc Percutan Tech. 2009; 19: e152-155.\n26. Moreno-Egea A, Campillo-Soto A, MoralesCuenca G: Which should be the gold standard laparoscopic  technique  for  handling  Spigelian hernias? Surg Endosc. 2015; 29: 856-862.",
     "metadata": {
       "document_id": "paper15",
-      "source": "paper15.json",
-      "chunk_index": 20,
-      "total_chunks": 20,
+      "source": "paper15.pdf",
+      "topic": "References",
+      "headings": [
+        "References"
+      ],
+      "chunk_index": 22,
+      "total_chunks": 22,
+      "pages": [
+        6
+      ],
       "docling": {
-        "schema_name": "docling_core.transforms.chunker.DocMeta",
-        "version": "1.0.0",
         "doc_items": [
           {
             "self_ref": "#/texts/87",
-            "parent": {
-              "$ref": "#/groups/0"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 6,
@@ -2309,7 +2027,7 @@
                   "t": 268.7731146484375,
                   "r": 562.3529000000001,
                   "b": 222.55714753044913,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -2320,12 +2038,8 @@
           },
           {
             "self_ref": "#/texts/88",
-            "parent": {
-              "$ref": "#/groups/0"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 6,
@@ -2334,7 +2048,7 @@
                   "t": 208.7731146484375,
                   "r": 562.3459000000004,
                   "b": 150.55714753044913,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -2345,12 +2059,8 @@
           },
           {
             "self_ref": "#/texts/89",
-            "parent": {
-              "$ref": "#/groups/0"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 6,
@@ -2359,7 +2069,7 @@
                   "t": 136.7731146484375,
                   "r": 562.3709000000001,
                   "b": 90.55714753044913,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -2368,15 +2078,7 @@
               }
             ]
           }
-        ],
-        "headings": [
-          "References"
-        ],
-        "origin": {
-          "mimetype": "application/pdf",
-          "binary_hash": 1266390694422216754,
-          "filename": "paper15"
-        }
+        ]
       }
     }
   }

@@ -3,21 +3,22 @@
     "content": "1 Department of General Surgery, Faculty of Medicine, Capital University, Cairo, EGYPT\n2 Department of General Surgery, Faculty of Medicine, Benha University, Benha, EGYPT\nIntroduction: Acute appendicitis is among the most prevalent reasons of emergent abdominal surgery globally. Laparoscopic appendectomy (LA) offers numerous advantages over open appendectomy (OA), including shorter hospital stays, decreased postoperative pain, faster return to daily activities, and enhanced cosmetic results.\nAim  of  work: To  compare  the  outcomes  of  laparoscopic  appendectomy  and  open  appendectomy  in  obese patients with acute appendicitis regarding operative time, postoperative pain, hospital stay, and postoperative complications.\nPatients and methods: This prospective comparative trial was carried out on 96 adult patients diagnosed clinically and radiologically with acute appendicitis. Eligible participants were equally randomized into two groups regarding the surgical approach: Group A had conventional OA, while Group B received LA. All patients were followed for a minimum of 3 months, with scheduled assessments at 2 weeks, 6 weeks, and 12 weeks postoperatively.\nResults: Laparoscopic appendectomy (LA) showed superior outcomes compared to open appendectomy (OA) in  all  assessed  parameters except operative time, which was significantly shorter in the OA group (p<0.001). LA  correlated  with  a  significantly  shorter  hospital  stay,  greater  postoperative  pain  reduction,  higher  cosmetic satisfaction, and better postoperative quality of life (all p<0.001). No intraoperative complications were reported in either group, indicating that LA is the overall preferable approach despite longer operative time. Complications were significantly more frequent in the OA group than the LA group (p=0.022), seroma formation (p=0.002) and surgical site infections (SSIs) (p=0.037).\nConclusion: LA  is  a  safe  and  effective  approach for obese patients with acute appendicitis, offering superior postoperative outcomes.\nKey words: Laparoscopic appendectomy, open appendectomy, obese patients, surgical site infection.",
     "metadata": {
       "document_id": "paper18",
-      "source": "paper18.json",
+      "source": "paper18.pdf",
+      "topic": "Tarik Abd El-Azim Abd El-Rahim, MD; 1 Salama Saber Mohammed, MD; 2 Hossam Elsayed Elshafey, MD; 1 Ehab Abdulkader Hemida, MD 1",
+      "headings": [
+        "Tarik Abd El-Azim Abd El-Rahim, MD; 1 Salama Saber Mohammed, MD; 2 Hossam Elsayed Elshafey, MD; 1 Ehab Abdulkader Hemida, MD 1"
+      ],
       "chunk_index": 1,
       "total_chunks": 22,
+      "pages": [
+        1
+      ],
       "docling": {
-        "schema_name": "docling_core.transforms.chunker.DocMeta",
-        "version": "1.0.0",
         "doc_items": [
           {
             "self_ref": "#/texts/2",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 1,
@@ -26,7 +27,7 @@
                   "t": 723.2975656484375,
                   "r": 462.1471999999999,
                   "b": 711.7316508186503,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -37,12 +38,8 @@
           },
           {
             "self_ref": "#/texts/3",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 1,
@@ -51,7 +48,7 @@
                   "t": 710.0975656484375,
                   "r": 465.3052999999999,
                   "b": 698.5317508186503,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -62,12 +59,8 @@
           },
           {
             "self_ref": "#/texts/4",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 1,
@@ -76,7 +69,7 @@
                   "t": 685.2771146484375,
                   "r": 550.4033999999997,
                   "b": 651.0611475304491,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -87,12 +80,8 @@
           },
           {
             "self_ref": "#/texts/5",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 1,
@@ -101,7 +90,7 @@
                   "t": 645.6771146484375,
                   "r": 550.3963,
                   "b": 611.4611475304491,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -112,12 +101,8 @@
           },
           {
             "self_ref": "#/texts/6",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 1,
@@ -126,7 +111,7 @@
                   "t": 606.0771146484375,
                   "r": 550.4162999999999,
                   "b": 559.8611475304491,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -137,12 +122,8 @@
           },
           {
             "self_ref": "#/texts/7",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 1,
@@ -151,7 +132,7 @@
                   "t": 554.4771146484375,
                   "r": 550.4373000000002,
                   "b": 472.26114753044914,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -162,12 +143,8 @@
           },
           {
             "self_ref": "#/texts/8",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 1,
@@ -176,7 +153,7 @@
                   "t": 466.8771146484375,
                   "r": 550.3979,
                   "b": 444.6611475304491,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -187,12 +164,8 @@
           },
           {
             "self_ref": "#/texts/9",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 1,
@@ -201,7 +174,7 @@
                   "t": 439.2771146484375,
                   "r": 497.8254999999997,
                   "b": 429.0611475304491,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -210,15 +183,7 @@
               }
             ]
           }
-        ],
-        "headings": [
-          "Tarik Abd El-Azim Abd El-Rahim, MD; 1 Salama Saber Mohammed, MD; 2 Hossam Elsayed Elshafey, MD; 1 Ehab Abdulkader Hemida, MD 1"
-        ],
-        "origin": {
-          "mimetype": "application/pdf",
-          "binary_hash": 9480742103008171899,
-          "filename": "paper18"
-        }
+        ]
       }
     }
   },
@@ -226,21 +191,22 @@
     "content": "Acute  appendicitis  is  one  of  the  most  prevalent reasons of emergent abdominal surgery globally. It affects  approximately  233  individuals  per  100,000 population annually, with a peak prevalence between the  ages  of  10  and  19  years. 1 Traditionally,  open appendectomy (OA) has been the standard surgical treatment.  However,  laparoscopic  appendectomy (LA), first introduced by Semm in 1983, has grown increasing popularity because of its minimally invasive  nature  and  associated  improvements  in postoperative outcomes. 2\nLA offers numerous advantages over OA, including shorter hospital stays,  decreased postoperative pain, quicker return to daily activities, and enhanced cosmetic  results. 3 These  benefits  are  particularly significant  in  obese  patients,  who  present  unique surgical challenges due to increased abdominal wall thickness,  reduced  visibility  during  surgery,  and  a higher baseline risk for postoperative complications . 4,5\nThe  surgical  management  of  acute  appendicitis in  obese  patients  is  more  complex  due  to  the altered anatomy and increased physiological risks.  Obese  patients  are  at  a  heightened  risk  of perioperative morbidity, including wound infections, cardiopulmonary complications, and prolonged recovery periods. 6 Furthermore, diagnostic accuracy  is  often  reduced  in  this  population  due to nonspecific symptomatology and decreased physical  examination  sensitivity. 7 In  this  context, LA has emerged as a particularly attractive option because  it  enables  improved  visualization  of  the peritoneal  cavity,  which  can  aid  in  both  diagnosis and treatment. 8\nRecent literature supports the continued superiority of  LA  in  this  context.  Ertekin  et  al. 6 in  a  large retrospective  series  from  Turkey,  confirmed  that LA resulted in lower pain scores, and fewer complications, particularly surgical site infections.\nDespite  its  advantages,  some  limitations  of  LA have  been  documented.  These  include  increased operative costs, a steeper learning curve for surgical trainees,  and  marginally  longer  operative  times  in some  centers  due  to  the  technical  complexity  in obese  patients. 9 However,  these  factors  are  often outweighed by LA's diagnostic utility and its ability to identify concomitant intra-abdominal pathology, an important consideration in obese patients, where symptoms may be atypical or masked. 9\nThe Egyptian surgical context, particularly in university  hospitals,  reflects  these  global  trends.",
     "metadata": {
       "document_id": "paper18",
-      "source": "paper18.json",
+      "source": "paper18.pdf",
+      "topic": "Introduction",
+      "headings": [
+        "Introduction"
+      ],
       "chunk_index": 2,
       "total_chunks": 22,
+      "pages": [
+        1
+      ],
       "docling": {
-        "schema_name": "docling_core.transforms.chunker.DocMeta",
-        "version": "1.0.0",
         "doc_items": [
           {
             "self_ref": "#/texts/11",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 1,
@@ -249,7 +215,7 @@
                   "t": 391.4818146484375,
                   "r": 278.14239999999995,
                   "b": 261.26584753044904,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -260,12 +226,8 @@
           },
           {
             "self_ref": "#/texts/12",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 1,
@@ -274,7 +236,7 @@
                   "t": 251.48181464843753,
                   "r": 278.15239999999994,
                   "b": 145.26584753044915,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -285,12 +247,8 @@
           },
           {
             "self_ref": "#/texts/13",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 1,
@@ -299,7 +257,7 @@
                   "t": 135.48181464843753,
                   "r": 278.13840000000005,
                   "b": 77.26584753044915,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -313,7 +271,7 @@
                   "t": 411.4818146484375,
                   "r": 550.2243,
                   "b": 305.26584753044904,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   259,
@@ -324,12 +282,8 @@
           },
           {
             "self_ref": "#/texts/14",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 1,
@@ -338,7 +292,7 @@
                   "t": 295.4818146484374,
                   "r": 550.2082999999999,
                   "b": 237.26584753044915,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -349,12 +303,8 @@
           },
           {
             "self_ref": "#/texts/15",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 1,
@@ -363,7 +313,7 @@
                   "t": 227.48181464843753,
                   "r": 550.2283,
                   "b": 109.26584753044915,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -374,12 +324,8 @@
           },
           {
             "self_ref": "#/texts/16",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 1,
@@ -388,7 +334,7 @@
                   "t": 99.48181464843753,
                   "r": 550.2143,
                   "b": 77.26584753044915,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -397,15 +343,7 @@
               }
             ]
           }
-        ],
-        "headings": [
-          "Introduction"
-        ],
-        "origin": {
-          "mimetype": "application/pdf",
-          "binary_hash": 9480742103008171899,
-          "filename": "paper18"
-        }
+        ]
       }
     }
   },
@@ -413,21 +351,22 @@
     "content": "With  increasing  institutional  reliance  on  minimally invasive  surgery  and  a  rising  burden  of  obesity, optimizing appendectomy protocols for obese patients is both timely and necessary. However, there remains  a  paucity  of  localized,  high-quality  data comparing LA and OA in this patient population. The majority of existing literature is either retrospective or lacks standardization in outcome measurement. The aim of the study is to compare the outcomes of LA and OA in obese patients with acute appendicitis.",
     "metadata": {
       "document_id": "paper18",
-      "source": "paper18.json",
+      "source": "paper18.pdf",
+      "topic": "Introduction",
+      "headings": [
+        "Introduction"
+      ],
       "chunk_index": 3,
       "total_chunks": 22,
+      "pages": [
+        2
+      ],
       "docling": {
-        "schema_name": "docling_core.transforms.chunker.DocMeta",
-        "version": "1.0.0",
         "doc_items": [
           {
             "self_ref": "#/texts/20",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 2,
@@ -436,7 +375,7 @@
                   "t": 793.5133146484375,
                   "r": 277.90999999999997,
                   "b": 675.2973475304491,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -445,15 +384,7 @@
               }
             ]
           }
-        ],
-        "headings": [
-          "Introduction"
-        ],
-        "origin": {
-          "mimetype": "application/pdf",
-          "binary_hash": 9480742103008171899,
-          "filename": "paper18"
-        }
+        ]
       }
     }
   },
@@ -461,21 +392,22 @@
     "content": "This  prospective  comparative  study  was  performed  on 96 adult cases diagnosed clinically and radiologically with  acute  appendicitis.  Eligible  participants  were equally randomized into two groups regarding the surgical  approach:  Group  A  had  conventional  OA, while Group B received LA. This study was reviewed and approved by the Research Ethics Committee of the Faculty of Medicine, Capital University. Written informed consent was taken from all participants.\nInclusion  criteria  were  male  or  female  patients aged ≥18 years, radiologically and clinically diagnosed with acute appendicitis,  body  mass index  (BMI)  ≥  30  kg/m²  (obese  category),  and deemed  fit  for  either  open  or  LA  under  general anesthesia. Exclusion criteria were  absolute  or relative  contraindications  to  laparoscopic  surgery included extensive intra-abdominal adhesions (e.g. prior major abdominal surgery), aberrant or unclear intra-abdominal  anatomy,  advanced  liver  disease, generalized  peritonitis  or  complex  intra-abdominal abscess  formation,  disseminated  intra-abdominal malignancy. Major physiological comorbidities contraindicating laparoscopy included severe cardiopulmonary disease, coagulopathy uncorrected preoperatively,  intracranial  hypertension,  first-  or third-trimester pregnancy, hemodynamic instability or septic shock.\nAll  patients  were  subjected  to  full  history  taking, laboratory investigations, radiological imaging using abdominal ultrasonography (US) or computed tomography (CT), ECG was also ordered for preoperative preparation, weight and height were  evaluated  for  all  patients  to  calculate  their BMI.  Physical  examination  focused  on  identifying localized tenderness at McBurney's point, rebound tenderness, guarding, and the presence of specific signs like the Rovsing, psoas, and obturator signs. However, in patients with higher BMI, these findings may  be  less  prominent  or  entirely  absent  due  to increased  subcutaneous  fat,  reduced  abdominal wall compliance, or altered pain perception.",
     "metadata": {
       "document_id": "paper18",
-      "source": "paper18.json",
+      "source": "paper18.pdf",
+      "topic": "Patients and methods",
+      "headings": [
+        "Patients and methods"
+      ],
       "chunk_index": 4,
       "total_chunks": 22,
+      "pages": [
+        2
+      ],
       "docling": {
-        "schema_name": "docling_core.transforms.chunker.DocMeta",
-        "version": "1.0.0",
         "doc_items": [
           {
             "self_ref": "#/texts/22",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 2,
@@ -484,7 +416,7 @@
                   "t": 645.5133146484375,
                   "r": 277.91,
                   "b": 539.2973475304491,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -495,12 +427,8 @@
           },
           {
             "self_ref": "#/texts/23",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 2,
@@ -509,7 +437,7 @@
                   "t": 529.5133146484375,
                   "r": 277.923,
                   "b": 315.2973475304491,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -520,12 +448,8 @@
           },
           {
             "self_ref": "#/texts/24",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 2,
@@ -534,7 +458,7 @@
                   "t": 305.5133146484375,
                   "r": 277.92,
                   "b": 139.2973475304491,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -543,15 +467,7 @@
               }
             ]
           }
-        ],
-        "headings": [
-          "Patients and methods"
-        ],
-        "origin": {
-          "mimetype": "application/pdf",
-          "binary_hash": 9480742103008171899,
-          "filename": "paper18"
-        }
+        ]
       }
     }
   },
@@ -559,21 +475,22 @@
     "content": "After induction of general anesthesia, patients were placed  supine  with  arms  extended.  Prophylactic intravenous antibiotics (typically a third-generation cephalosporin)  were  administered  30-60  minutes before  incision.  The  abdomen  was  prepared  with povidone-iodine and draped sterilely.\nA right lower quadrant  incision  was  made  at McBurney's  point  using  either  a  gridiron  or  Lanz approach, with the latter preferred in obese patients. Dissection proceeded through the subcutaneous tissue, external oblique aponeurosis, and  blunt  splitting  of  the  internal  oblique  and transversus muscles, followed by careful entry into the peritoneal cavity. The cecum was identified and the appendix located by tracing the taeniae coli. In difficult  positions,  mobilization  of  the  right  colon was performed. The mesoappendix was dissected and the appendicular artery ligated. The appendix was  doubly  ligated  at  its  base,  transected,  and the  stump  inspected;  routine  inversion  was  not performed unless the base was inflamed.\nPeritoneal  toileting  and  drainage  were  performed when  indicated.  The  abdominal  wall  was  closed in  layers,  and the skin was closed with staples or subcuticular sutures.",
     "metadata": {
       "document_id": "paper18",
-      "source": "paper18.json",
+      "source": "paper18.pdf",
+      "topic": "Open appendectomy",
+      "headings": [
+        "Open appendectomy"
+      ],
       "chunk_index": 5,
       "total_chunks": 22,
+      "pages": [
+        2
+      ],
       "docling": {
-        "schema_name": "docling_core.transforms.chunker.DocMeta",
-        "version": "1.0.0",
         "doc_items": [
           {
             "self_ref": "#/texts/26",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 2,
@@ -582,7 +499,7 @@
                   "t": 109.51331464843747,
                   "r": 277.914,
                   "b": 75.29734753044909,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -596,7 +513,7 @@
                   "t": 793.5133146484375,
                   "r": 550.9918000000001,
                   "b": 759.2973475304491,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   159,
@@ -607,12 +524,8 @@
           },
           {
             "self_ref": "#/texts/27",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 2,
@@ -621,7 +534,7 @@
                   "t": 749.5133146484375,
                   "r": 551.0018,
                   "b": 571.2973475304491,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -632,12 +545,8 @@
           },
           {
             "self_ref": "#/texts/28",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 2,
@@ -646,7 +555,7 @@
                   "t": 561.5133146484375,
                   "r": 550.9918,
                   "b": 515.2973475304491,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -655,15 +564,7 @@
               }
             ]
           }
-        ],
-        "headings": [
-          "Open appendectomy"
-        ],
-        "origin": {
-          "mimetype": "application/pdf",
-          "binary_hash": 9480742103008171899,
-          "filename": "paper18"
-        }
+        ]
       }
     }
   },
@@ -671,21 +572,22 @@
     "content": "After induction of general anesthesia, patients were placed supine with arms tucked. Pneumoperitoneum (12-15 mmHg) was established via a Veress needle or  open  Hasson  method.  Prophylactic  intravenous antibiotics were administered 30-60 minutes preoperatively. A 10-mm infraumbilical camera port and two 5-mm working ports were placed in right lower  quadrant  and  suprapubic  regions  to  allow optimal  visualization  and  instrument  triangulation. Patients were positioned in Trendelenburg with left lateral tilt to improve exposure of the appendix. The cecum was identified and the appendix located by tracing the taeniae coli; additional mobilization was performed when required. The mesoappendix was dissected using  energy  devices,  and  the  appendicular artery was coagulated. The appendiceal base was secured and transected using an Endoloop. Stump inversion was not routinely performed.\nThe appendix was retrieved in a specimen bag via the umbilical port. In complicated cases, peritoneal lavage and drainage were performed as indicated. Pneumoperitoneum  was  evacuated,  the  umbilical fascia  was  closed,  and  skin  incisions  were  closed with sutures or staples.",
     "metadata": {
       "document_id": "paper18",
-      "source": "paper18.json",
+      "source": "paper18.pdf",
+      "topic": "Laparoscopic appendectomy",
+      "headings": [
+        "Laparoscopic appendectomy"
+      ],
       "chunk_index": 6,
       "total_chunks": 22,
+      "pages": [
+        2
+      ],
       "docling": {
-        "schema_name": "docling_core.transforms.chunker.DocMeta",
-        "version": "1.0.0",
         "doc_items": [
           {
             "self_ref": "#/texts/30",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 2,
@@ -694,7 +596,7 @@
                   "t": 485.5133146484375,
                   "r": 551.0018,
                   "b": 271.2973475304491,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -705,12 +607,8 @@
           },
           {
             "self_ref": "#/texts/31",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 2,
@@ -719,7 +617,7 @@
                   "t": 261.5133146484375,
                   "r": 551.0017999999999,
                   "b": 191.2973475304491,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -728,15 +626,7 @@
               }
             ]
           }
-        ],
-        "headings": [
-          "Laparoscopic appendectomy"
-        ],
-        "origin": {
-          "mimetype": "application/pdf",
-          "binary_hash": 9480742103008171899,
-          "filename": "paper18"
-        }
+        ]
       }
     }
   },
@@ -744,21 +634,23 @@
     "content": "All  patients  were  followed  for  a  minimum  of  12 weeks (3 months), with scheduled assessments at 2 weeks, 6 weeks, and 12 weeks postoperatively. Follow-up was conducted through in-person outpatient visits. The follow-up protocol was identical for both groups.\nFig 1: Grasping of appendix and ligation of base of appendix.\nFig 2: Grasping of appendix and cauterization and transection of appendix.",
     "metadata": {
       "document_id": "paper18",
-      "source": "paper18.json",
+      "source": "paper18.pdf",
+      "topic": "Follow-up evaluation",
+      "headings": [
+        "Follow-up evaluation"
+      ],
       "chunk_index": 7,
       "total_chunks": 22,
+      "pages": [
+        2,
+        3
+      ],
       "docling": {
-        "schema_name": "docling_core.transforms.chunker.DocMeta",
-        "version": "1.0.0",
         "doc_items": [
           {
             "self_ref": "#/texts/33",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 2,
@@ -767,7 +659,7 @@
                   "t": 161.51331464843747,
                   "r": 551.0017999999999,
                   "b": 91.29734753044909,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -778,12 +670,8 @@
           },
           {
             "self_ref": "#/texts/36",
-            "parent": {
-              "$ref": "#/pictures/0"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "caption",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 3,
@@ -792,7 +680,7 @@
                   "t": 416.10291464843755,
                   "r": 415.0321000000003,
                   "b": 408.2943237393466,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -803,12 +691,8 @@
           },
           {
             "self_ref": "#/texts/37",
-            "parent": {
-              "$ref": "#/pictures/1"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "caption",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 3,
@@ -817,7 +701,7 @@
                   "t": 89.49271464843753,
                   "r": 442.2764000000002,
                   "b": 81.68412373934666,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -826,15 +710,7 @@
               }
             ]
           }
-        ],
-        "headings": [
-          "Follow-up evaluation"
-        ],
-        "origin": {
-          "mimetype": "application/pdf",
-          "binary_hash": 9480742103008171899,
-          "filename": "paper18"
-        }
+        ]
       }
     }
   },
@@ -842,21 +718,22 @@
     "content": "All  statistical  analyses  were  done using IBM SPSS Statistics  version  27.0,  with  a  p-value  <  0.05 regarded statistically significant. Continuous variables  were  expressed  as  mean  ±  standard deviation  and  categorical  variables  as  frequencies and  percentages,  with  normality  assessed  using the Shapiro-Wilk test. Comparisons between open  and  LA  groups  were  conducted  using  the Independent  Samples  t-test  or  Mann-Whitney  U test  for  continuous  data,  and  the  Chi-square  or Fisher's  Exact  test  for  categorical  variables.  This statistical  approach  ensured  reliable  comparison between the two surgical techniques and supported  evidence-based  clinical  interpretation.",
     "metadata": {
       "document_id": "paper18",
-      "source": "paper18.json",
+      "source": "paper18.pdf",
+      "topic": "Statistical analysis",
+      "headings": [
+        "Statistical analysis"
+      ],
       "chunk_index": 8,
       "total_chunks": 22,
+      "pages": [
+        4
+      ],
       "docling": {
-        "schema_name": "docling_core.transforms.chunker.DocMeta",
-        "version": "1.0.0",
         "doc_items": [
           {
             "self_ref": "#/texts/41",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 4,
@@ -865,7 +742,7 @@
                   "t": 773.5132146484375,
                   "r": 277.34,
                   "b": 607.2972475304491,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -874,15 +751,7 @@
               }
             ]
           }
-        ],
-        "headings": [
-          "Statistical analysis"
-        ],
-        "origin": {
-          "mimetype": "application/pdf",
-          "binary_hash": 9480742103008171899,
-          "filename": "paper18"
-        }
+        ]
       }
     }
   },
@@ -890,21 +759,22 @@
     "content": "Baseline characteristics were comparable between OA and LA groups across all demographic and clinical variables. The mean age did not differ significantly",
     "metadata": {
       "document_id": "paper18",
-      "source": "paper18.json",
+      "source": "paper18.pdf",
+      "topic": "Results",
+      "headings": [
+        "Results"
+      ],
       "chunk_index": 9,
       "total_chunks": 22,
+      "pages": [
+        4
+      ],
       "docling": {
-        "schema_name": "docling_core.transforms.chunker.DocMeta",
-        "version": "1.0.0",
         "doc_items": [
           {
             "self_ref": "#/texts/43",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 4,
@@ -913,7 +783,7 @@
                   "t": 573.5132146484375,
                   "r": 277.33900000000006,
                   "b": 539.2972475304491,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -924,12 +794,8 @@
           },
           {
             "self_ref": "#/texts/44",
-            "parent": {
-              "$ref": "#/tables/0"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "caption",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 4,
@@ -938,7 +804,7 @@
                   "t": 511.53521464843755,
                   "r": 279.51099999999985,
                   "b": 502.4180202822404,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -947,41 +813,30 @@
               }
             ]
           }
-        ],
-        "headings": [
-          "Results"
-        ],
-        "origin": {
-          "mimetype": "application/pdf",
-          "binary_hash": 9480742103008171899,
-          "filename": "paper18"
-        }
+        ]
       }
     }
   },
   {
-    "content": "Table 1: Demographic and baseline characteristics\n,  = Age. , OA (N = 48) = 37.31 ± 2.3. , LA (N = 48) = 36.6 ± 2.5. , p-value = 0.13. ,  = Male. , OA (N = 48) = 29 / 48 (60%). , LA (N = 48) = 26 / 48 (54%). , p-value = 0.54. ,  = Obese Class I. , OA (N = 48) = 24 / 48 (50%). , LA (N = 48) = 27 / 48 (56%). , p-value = 0.83. ,  = Obese Class II. , OA (N = 48) = 14 / 48 (29%). , LA (N = 48) = 12 / 48 (25%). , p-value = 0.83. ,  = Obese Class III. , OA (N = 48) = 10 / 48 (21%). , LA (N = 48) = 9 /48 (19%). , p-value = 0.83. ,  = Comorbidities. , OA (N = 48) = 16 / 48 (33%). , LA (N = 48) = 17/ 48 (35%). , p-value = 0.83. ,  = Diabetes mellitus. , OA (N = 48) = 11 / 48 (23%). , LA (N = 48) = 10 / 48 (21%). , p-value = 0.81. ,  = Hypertension. , OA (N = 48) = 5 / 48 (10%). , LA (N = 48) = 4 / 48 (8%). , p-value = 0.73. ,  = Ischemic heart disease. , OA (N = 48) = 0 / 48 (0%). , LA (N = 48) = 3 / 48 (6%). , p-value = 0.08. symptoms,  = Right iliac fossa pain. symptoms, OA (N = 48) = 48 / 48 (100%). symptoms, LA (N = 48) = 45 / 48 (94%). symptoms, p-value = 0.08. Presenting,  = Anorexia. Presenting, OA (N = 48)",
+    "content": "Table 1: Demographic and baseline characteristics\n,  = Age. , OA (N = 48) = 37.31 ± 2.3. , LA (N = 48) = 36.6 ± 2.5. , p-value = 0.13. ,  = Male. , OA (N = 48) = 29 / 48 (60%). , LA (N = 48) = 26 / 48 (54%). , p-value = 0.54. ,  = Obese Class I. , OA (N = 48) = 24 / 48 (50%). , LA (N = 48) = 27 / 48 (56%). , p-value = 0.83. ,  = Obese Class II. , OA (N = 48) = 14 / 48 (29%). , LA (N = 48) = 12 / 48 (25%). , p-value = 0.83. ,  = Obese Class III. , OA (N = 48) = 10 / 48 (21%). , LA (N = 48) = 9 /48 (19%). , p-value = 0.83. ,  = Comorbidities. , OA (N = 48) = 16 / 48 (33%). , LA (N = 48) = 17/ 48 (35%). , p-value = 0.83. ,  = Diabetes mellitus. , OA (N = 48) = 11 / 48 (23%). , LA (N = 48) = 10 / 48 (21%). , p-value = 0.81. ,  = Hypertension. , OA (N = 48) = 5 / 48 (10%). , LA (N = 48) = 4 / 48 (8%). , p-value = 0.73. ,  = Ischemic heart disease. , OA (N = 48) = 0 / 48 (0%). , LA (N = 48) = 3 / 48 (6%). , p-value = 0.08. symptoms,  = Right iliac fossa pain. symptoms, OA (N = 48) = 48 / 48 (100%). symptoms, LA (N = 48) = 45 / 48 (94%). symptoms, p-value = 0.08. Presenting,  =",
     "metadata": {
       "document_id": "paper18",
-      "source": "paper18.json",
+      "source": "paper18.pdf",
+      "topic": "Results",
+      "headings": [
+        "Results"
+      ],
       "chunk_index": 10,
       "total_chunks": 22,
+      "pages": [
+        4
+      ],
       "docling": {
-        "schema_name": "docling_core.transforms.chunker.DocMeta",
-        "version": "1.0.0",
         "doc_items": [
           {
             "self_ref": "#/tables/0",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [
-              {
-                "$ref": "#/texts/44"
-              }
-            ],
-            "content_layer": "body",
             "label": "table",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 4,
@@ -990,7 +845,7 @@
                   "t": 501.39418364284813,
                   "r": 548.1157072722912,
                   "b": 188.10414903080914,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -999,41 +854,30 @@
               }
             ]
           }
-        ],
-        "headings": [
-          "Results"
-        ],
-        "origin": {
-          "mimetype": "application/pdf",
-          "binary_hash": 9480742103008171899,
-          "filename": "paper18"
-        }
+        ]
       }
     }
   },
   {
-    "content": "= 39 / 48 (81%). Presenting, LA (N = 48) = 36 / 48 (75%). Presenting, p-value = 0.46. Presenting,  = & Nausea & Vomiting. Presenting, OA (N = 48) = 24 / 48 (50%). Presenting, LA (N = 48) = 20 / 48 (42%). Presenting, p-value = 0.41. ,  = Fever. , OA (N = 48) = 40 / 48 (83%). , LA (N = 48) = 34 / 48 (71%). , p-value = 0.15. ,  = Rebound Tenderness. , OA (N = 48) = 47 / 48 (98%). , LA (N = 48) = 42 / 48 (88%). , p-value = 0.06. ,  = Hemoglobin. , OA (N = 48) = 12.3 ± 0.5 g/dL. , LA (N = 48) = 12.2 ± 0.4 g/dL. , p-value = 0.35. ,  = TLC. , OA (N = 48) = 13.4 ± 0.3. , LA (N = 48) = 13.6 ± 1.3. , p-value = 0.23. Types,  = Normally looking (Negative). Types, OA (N = 48) = 3 / 48 (6%). Types, LA (N = 48) = 8 / 48 (17%). Types, p-value = 0.42. Types,  = ap- Non-complicated. Types, OA (N = 48) = 37 / 48 (77%). Types, LA (N = 48) = 34 / 48 (71%). Types, p-value = 0.42. Types,  = Perforated Appendix. Types, OA (N = 48) = 6 / 48 (13%). Types, LA (N = 48) = 4 / 48 (8%). Types, p-value = 0.42. Types,  = Gangrenous Appendix. Types, OA (N = 48) = 2 / 48 (4%). Types, LA (N = 48) = 2 / 48 (4%). Types, p-value = 0.42",
+    "content": "Anorexia. Presenting, OA (N = 48) = 39 / 48 (81%). Presenting, LA (N = 48) = 36 / 48 (75%). Presenting, p-value = 0.46. Presenting,  = & Nausea & Vomiting. Presenting, OA (N = 48) = 24 / 48 (50%). Presenting, LA (N = 48) = 20 / 48 (42%). Presenting, p-value = 0.41. ,  = Fever. , OA (N = 48) = 40 / 48 (83%). , LA (N = 48) = 34 / 48 (71%). , p-value = 0.15. ,  = Rebound Tenderness. , OA (N = 48) = 47 / 48 (98%). , LA (N = 48) = 42 / 48 (88%). , p-value = 0.06. ,  = Hemoglobin. , OA (N = 48) = 12.3 ± 0.5 g/dL. , LA (N = 48) = 12.2 ± 0.4 g/dL. , p-value = 0.35. ,  = TLC. , OA (N = 48) = 13.4 ± 0.3. , LA (N = 48) = 13.6 ± 1.3. , p-value = 0.23. Types,  = Normally looking (Negative). Types, OA (N = 48) = 3 / 48 (6%). Types, LA (N = 48) = 8 / 48 (17%). Types, p-value = 0.42. Types,  = ap- Non-complicated. Types, OA (N = 48) = 37 / 48 (77%). Types, LA (N = 48) = 34 / 48 (71%). Types, p-value = 0.42. Types,  = Perforated Appendix. Types, OA (N = 48) = 6 / 48 (13%). Types, LA (N = 48) = 4 / 48 (8%). Types, p-value = 0.42. Types,  = Gangrenous Appendix. Types, OA (N = 48) = 2 / 48 (4%). Types, LA (N = 48) = 2 / 48",
     "metadata": {
       "document_id": "paper18",
-      "source": "paper18.json",
+      "source": "paper18.pdf",
+      "topic": "Results",
+      "headings": [
+        "Results"
+      ],
       "chunk_index": 11,
       "total_chunks": 22,
+      "pages": [
+        4
+      ],
       "docling": {
-        "schema_name": "docling_core.transforms.chunker.DocMeta",
-        "version": "1.0.0",
         "doc_items": [
           {
             "self_ref": "#/tables/0",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [
-              {
-                "$ref": "#/texts/44"
-              }
-            ],
-            "content_layer": "body",
             "label": "table",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 4,
@@ -1042,7 +886,7 @@
                   "t": 501.39418364284813,
                   "r": 548.1157072722912,
                   "b": 188.10414903080914,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1051,37 +895,52 @@
               }
             ]
           }
-        ],
-        "headings": [
-          "Results"
-        ],
-        "origin": {
-          "mimetype": "application/pdf",
-          "binary_hash": 9480742103008171899,
-          "filename": "paper18"
-        }
+        ]
       }
     }
   },
   {
-    "content": "Data presented as mean ±SD or number(percentage), TLC: Total Leukocytic Count.\nLA group demonstrated significantly improved outcomes  than  those  who  underwent  OA  across all  measured  parameters,  except  for  operative time. Operative time was markedly shorter in the OA  group  compared  to  the  LA  group  (p<0.001). Conversely, hospital stay duration was significantly reduced in the LA group (p < 0.001). Postoperative pain relief, as assessed by the change in VAS scores, was more substantial in the LA group vresus the OA group  (p<0.001).  No  intraoperative  complications were reported in either group. Cosmetic satisfaction scores were significantly higher among LA patients among groups (p = 0.13). The proportion of male patients was slightly higher in the OA group than in the LA group but this was not significant (p = 0.54). BMI distribution was similar between groups, with Obese  Class  I  being  the  most  common  category in  both  (p = 0.83).  The  prevalence  of  comorbid conditions,  involving  diabetes  mellitus,  hypertension, and ischemic heart disease exhibited no significant differences (all p > 0.05), although ischemic heart disease trended higher in the LA group (p = 0.08). Presenting signs and symptoms were largely consistent between groups. Right iliac fossa pain was reported in all OA patients and 94% of LA patients (p = 0.08). Laboratory parameters including hemoglobin  levels  and  total  leukocyte  count  and other common symptoms included anorexia, nausea and vomiting, fever, and rebound tenderness, with none reaching statistical significance (all p < 0.05). The intraoperative diagnosis of appendicitis severity revealed  no  significant  difference  between  both groups (p = 0.42). Interestingly, the LA group had a higher rate of negative appendectomy (Table 1).\nversus OA (p<0.001), suggesting superior aesthetic  outcomes.  Additionally,  the  LA  group reported better quality of life postoperatively,",
+    "content": "(4%). Types, p-value = 0.42\nData presented as mean ±SD or number(percentage), TLC: Total Leukocytic Count.\nLA group demonstrated significantly improved outcomes  than  those  who  underwent  OA  across all  measured  parameters,  except  for  operative time. Operative time was markedly shorter in the OA  group  compared  to  the  LA  group  (p<0.001). Conversely, hospital stay duration was significantly reduced in the LA group (p < 0.001). Postoperative pain relief, as assessed by the change in VAS scores, was more substantial in the LA group vresus the OA group  (p<0.001).  No  intraoperative  complications were reported in either group. Cosmetic satisfaction scores were significantly higher among LA patients among groups (p = 0.13). The proportion of male patients was slightly higher in the OA group than in the LA group but this was not significant (p = 0.54). BMI distribution was similar between groups, with Obese  Class  I  being  the  most  common  category in  both  (p = 0.83).  The  prevalence  of  comorbid conditions,  involving  diabetes  mellitus,  hypertension, and ischemic heart disease exhibited no significant differences (all p > 0.05), although ischemic heart disease trended higher in the LA group (p = 0.08). Presenting signs and symptoms were largely consistent between groups. Right iliac fossa pain was reported in all OA patients and 94% of LA patients (p = 0.08). Laboratory parameters including hemoglobin  levels  and  total  leukocyte  count  and other common symptoms included anorexia, nausea and vomiting, fever, and rebound tenderness, with none reaching statistical significance (all p < 0.05). The intraoperative diagnosis of appendicitis severity revealed  no  significant  difference  between  both groups (p = 0.42). Interestingly, the LA group had a higher rate of negative appendectomy (Table 1).\nversus OA (p<0.001), suggesting superior aesthetic  outcomes.  Additionally,  the  LA  group reported better quality of life postoperatively,",
     "metadata": {
       "document_id": "paper18",
-      "source": "paper18.json",
+      "source": "paper18.pdf",
+      "topic": "Results",
+      "headings": [
+        "Results"
+      ],
       "chunk_index": 12,
       "total_chunks": 22,
+      "pages": [
+        4,
+        5
+      ],
       "docling": {
-        "schema_name": "docling_core.transforms.chunker.DocMeta",
-        "version": "1.0.0",
         "doc_items": [
           {
+            "self_ref": "#/tables/0",
+            "label": "table",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 4,
+                "bbox": {
+                  "l": 47.20365639980882,
+                  "t": 501.39418364284813,
+                  "r": 548.1157072722912,
+                  "b": 188.10414903080914,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  0
+                ]
+              }
+            ]
+          },
+          {
             "self_ref": "#/texts/45",
-            "parent": {
-              "$ref": "#/groups/0"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 4,
@@ -1090,7 +949,7 @@
                   "t": 180.58961464843753,
                   "r": 342.93839999999994,
                   "b": 172.41684095404685,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1101,12 +960,8 @@
           },
           {
             "self_ref": "#/texts/46",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 4,
@@ -1115,7 +970,7 @@
                   "t": 150.05071464843752,
                   "r": 277.33000000000004,
                   "b": 79.83474753044914,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1129,7 +984,7 @@
                   "t": 150.05071464843752,
                   "r": 550.4198999999999,
                   "b": 79.83474753044914,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   300,
@@ -1143,7 +998,7 @@
                   "t": 793.5132146484375,
                   "r": 550.4339000000001,
                   "b": 531.2972475304491,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   613,
@@ -1154,12 +1009,8 @@
           },
           {
             "self_ref": "#/texts/49",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 5,
@@ -1168,7 +1019,7 @@
                   "t": 793.5133146484375,
                   "r": 277.621,
                   "b": 759.2973475304491,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1177,15 +1028,7 @@
               }
             ]
           }
-        ],
-        "headings": [
-          "Results"
-        ],
-        "origin": {
-          "mimetype": "application/pdf",
-          "binary_hash": 9480742103008171899,
-          "filename": "paper18"
-        }
+        ]
       }
     }
   },
@@ -1193,21 +1036,22 @@
     "content": "Table 2: Surgical and immediate postoperative outcomes\n\nOperative time (min), OA = 43.4 ± 0.6. Operative time (min), LA = 74.5 ± 0.5. Operative time (min), p-value = <0.001*. Hospital stay (Hours), OA = 69.7 ± 0.8. Hospital stay (Hours), LA = 28.6 ± 4.0. Hospital stay (Hours), p-value = <0.001*. VAS SCORE difference, OA = 3.3 ± 0.5. VAS SCORE difference, LA = 5.9 ± 0.7. VAS SCORE difference, p-value = <0.001*. Cosmetic satisfaction, OA = 3.2 ± 0.4. Cosmetic satisfaction, LA = 4.4 ± 0.5. Cosmetic satisfaction, p-value = <0.001*. SF-36 QoL score, OA = 68.0 ± 8.7. SF-36 QoL score, LA = 81.5 ± 6.4. SF-36 QoL score, p-value = <0.001*\nData are presented as mean ± SD or frequency (%). VAS: visual analogue scale, *: statistically significant p<.05.\nOverall, complications were significantly more frequent in the OA group compared to the LA group (p=0.022).  Seroma  formation  (p=0.002).  Surgical site infections (SSIs) (p=0.037). Other complications such as wound dehiscence, fistula formation, and abscess  formation  were  more  frequent  in  OA  but did  not  reach  statistical  significance.  Only  one",
     "metadata": {
       "document_id": "paper18",
-      "source": "paper18.json",
+      "source": "paper18.pdf",
+      "topic": "Results",
+      "headings": [
+        "Results"
+      ],
       "chunk_index": 13,
       "total_chunks": 22,
+      "pages": [
+        5
+      ],
       "docling": {
-        "schema_name": "docling_core.transforms.chunker.DocMeta",
-        "version": "1.0.0",
         "doc_items": [
           {
             "self_ref": "#/texts/50",
-            "parent": {
-              "$ref": "#/tables/1"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "caption",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 5,
@@ -1216,7 +1060,7 @@
                   "t": 732.4013146484375,
                   "r": 309.364,
                   "b": 723.2841202822403,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1227,16 +1071,8 @@
           },
           {
             "self_ref": "#/tables/1",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [
-              {
-                "$ref": "#/texts/50"
-              }
-            ],
-            "content_layer": "body",
             "label": "table",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 5,
@@ -1245,7 +1081,7 @@
                   "t": 723.1669840941985,
                   "r": 547.7775988474488,
                   "b": 632.2180350671729,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1256,12 +1092,8 @@
           },
           {
             "self_ref": "#/texts/51",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 5,
@@ -1270,7 +1102,7 @@
                   "t": 624.6833146484375,
                   "r": 448.29039999999975,
                   "b": 616.5105409540467,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1281,12 +1113,8 @@
           },
           {
             "self_ref": "#/texts/52",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 5,
@@ -1295,7 +1123,7 @@
                   "t": 587.9050146484375,
                   "r": 278.48990000000003,
                   "b": 505.6890475304491,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1304,15 +1132,7 @@
               }
             ]
           }
-        ],
-        "headings": [
-          "Results"
-        ],
-        "origin": {
-          "mimetype": "application/pdf",
-          "binary_hash": 9480742103008171899,
-          "filename": "paper18"
-        }
+        ]
       }
     }
   },
@@ -1320,21 +1140,22 @@
     "content": "Table 3: Complication among studied patients\n\n30 Days of operation,  = Any complication. 30 Days of operation, OA = 18 (38%). 30 Days of operation, LA = 8 (17%). 30 Days of operation, p-value = 0.022*. 30 Days of operation,  = Surgical site infection. 30 Days of operation, OA = 10 (21%). 30 Days of operation, LA = 3 (6%). 30 Days of operation, p-value = 0.037*. 30 Days of operation,  = Wound dehiscence. 30 Days of operation, OA = 4 (8%). 30 Days of operation, LA = 3 (6%). 30 Days of operation, p-value = 0.698. 30 Days of operation,  = Abscess formation. 30 Days of operation, OA = 1 (2%). 30 Days of operation, LA = 0 (0%). 30 Days of operation, p-value = 0.315. 30 Days of operation,  = Fistula formation. 30 Days of operation, OA = 1 (2%). 30 Days of operation, LA = 0 (0%). 30 Days of operation, p-value = 0.315. 30 Days of operation,  = Seroma. 30 Days of operation, OA = 15 (31%). 30 Days of operation, LA = 3 (6%). 30 Days of operation, p-value = 0.002*. Within 3 Operation,  = Any complication. Within 3 Operation, OA = 1 (2%). Within 3 Operation, LA = 0 (0%). Within 3 Operation, p-value = 0.315. Within 3 Operation,  = Adhesive IO. Within 3 Operation, OA = 1 (2%). Within 3 Operation, LA = 0 (0%). Within 3 Operation, p-value = 0.315. Within 3 Operation,  = Stump appendicitis. Within 3 Operation, OA = 0 (0%). Within 3 Operation, LA = 0 (0%). Within 3 Operation, p-value = -. Within 3 Operation,  = Incisional hernia. Within 3 Operation, OA = 0 (0%). Within 3 Operation, LA = 0 (0%). Within 3 Operation, p-value = -",
     "metadata": {
       "document_id": "paper18",
-      "source": "paper18.json",
+      "source": "paper18.pdf",
+      "topic": "Results",
+      "headings": [
+        "Results"
+      ],
       "chunk_index": 14,
       "total_chunks": 22,
+      "pages": [
+        5
+      ],
       "docling": {
-        "schema_name": "docling_core.transforms.chunker.DocMeta",
-        "version": "1.0.0",
         "doc_items": [
           {
             "self_ref": "#/texts/53",
-            "parent": {
-              "$ref": "#/tables/2"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "caption",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 5,
@@ -1343,7 +1164,7 @@
                   "t": 479.6730146484375,
                   "r": 260.61479999999995,
                   "b": 470.55582028224035,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1354,16 +1175,8 @@
           },
           {
             "self_ref": "#/tables/2",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [
-              {
-                "$ref": "#/texts/53"
-              }
-            ],
-            "content_layer": "body",
             "label": "table",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 5,
@@ -1372,7 +1185,7 @@
                   "t": 469.19477692422083,
                   "r": 549.4831625849008,
                   "b": 304.7625536799537,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1381,15 +1194,7 @@
               }
             ]
           }
-        ],
-        "headings": [
-          "Results"
-        ],
-        "origin": {
-          "mimetype": "application/pdf",
-          "binary_hash": 9480742103008171899,
-          "filename": "paper18"
-        }
+        ]
       }
     }
   },
@@ -1397,21 +1202,22 @@
     "content": "Data are presented as mean ± SD or frequency (%).",
     "metadata": {
       "document_id": "paper18",
-      "source": "paper18.json",
+      "source": "paper18.pdf",
+      "topic": "Results",
+      "headings": [
+        "Results"
+      ],
       "chunk_index": 15,
       "total_chunks": 22,
+      "pages": [
+        5
+      ],
       "docling": {
-        "schema_name": "docling_core.transforms.chunker.DocMeta",
-        "version": "1.0.0",
         "doc_items": [
           {
             "self_ref": "#/texts/54",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 5,
@@ -1420,7 +1226,7 @@
                   "t": 297.5458146484375,
                   "r": 235.88939999999994,
                   "b": 289.3730409540468,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1429,15 +1235,7 @@
               }
             ]
           }
-        ],
-        "headings": [
-          "Results"
-        ],
-        "origin": {
-          "mimetype": "application/pdf",
-          "binary_hash": 9480742103008171899,
-          "filename": "paper18"
-        }
+        ]
       }
     }
   },
@@ -1445,21 +1243,23 @@
     "content": "This study investigated the comparative outcomes of LA and OA in obese patients with acute appendicitis. The  findings  demonstrate  a  clear  superiority  of LA  in  multiple  domains,  including  postoperative pain,  hospital  stay,  complication  rates,  cosmetic satisfaction,  and  quality  of  life.  These  results  are consistent  with  a  growing  body  of  international literature supporting minimally invasive approaches in obese populations, who are at increased risk of surgical morbidity.\nOperative  time  was  significantly  longer  in  the  LA group versus OA, a finding that aligns with multiple previous  reports.  Hussein  et  al. 2 in  a  prospective complication,  an  adhesive  intestinal  obstruction, was reported in the OA group, with none in the LA group  (p=0.315).  No  cases  of  stump  appendicitis or incisional hernia were observed in either group.  None  of  the  differences  reached  statistical significance (Table 3).\nas calculated by the SF-36 score (p<0.001) (Table 2).\nstudy of 58 obese cases undergoing appendectomy, found that LA required more operative time due to the  technical  complexity  and  need  for  extensive visualization  and  dissection  in  the  presence  of increased intra-abdominal fat. The extended duration  in  our  study  (approximately  31  minutes) reflects  not  only  technical  demand  but  also  the institutional learning curve. However, it is critical to contextualize operative time against broader clinical outcomes, particularly those affecting patient recovery and safety.\nDespite the longer operative time, LA was correlated with  a  significantly  shorter  postoperative  hospital stay  in  our  cohort.  On  average,  patients  in  the LA  group  were  discharged  in  just  over  28  hours, compared  to  nearly  70  hours  in  the  OA  group (p<0.001). This results corroborates Ertekin et al. 6 who found that LA reduced length of stay in obese patients by up to 48 hours, also reported consistently shorter hospitalizations among LA recipients, even in  cases  of  complicated appendicitis. The reduced stay not only improves patient comfort and reduces nosocomial infection risk but also holds significant implications for healthcare resource allocation, especially in high-volume  surgical  centers with constrained bed availability.",
     "metadata": {
       "document_id": "paper18",
-      "source": "paper18.json",
+      "source": "paper18.pdf",
+      "topic": "Discussion",
+      "headings": [
+        "Discussion"
+      ],
       "chunk_index": 16,
       "total_chunks": 22,
+      "pages": [
+        5,
+        6
+      ],
       "docling": {
-        "schema_name": "docling_core.transforms.chunker.DocMeta",
-        "version": "1.0.0",
         "doc_items": [
           {
             "self_ref": "#/texts/56",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 5,
@@ -1468,7 +1268,7 @@
                   "t": 248.91481464843753,
                   "r": 279.0658,
                   "b": 130.69884753044914,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1479,12 +1279,8 @@
           },
           {
             "self_ref": "#/texts/57",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 5,
@@ -1493,7 +1289,7 @@
                   "t": 120.91481464843753,
                   "r": 279.06080000000003,
                   "b": 86.69884753044914,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1507,7 +1303,7 @@
                   "t": 587.9050146484375,
                   "r": 551.5598,
                   "b": 517.6890475304491,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   168,
@@ -1518,12 +1314,8 @@
           },
           {
             "self_ref": "#/texts/58",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 5,
@@ -1532,7 +1324,7 @@
                   "t": 793.5133146484375,
                   "r": 550.7029,
                   "b": 771.3830986859962,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1543,12 +1335,8 @@
           },
           {
             "self_ref": "#/texts/59",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 5,
@@ -1557,7 +1345,7 @@
                   "t": 268.9148146484374,
                   "r": 552.1567,
                   "b": 138.69884753044914,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1568,12 +1356,8 @@
           },
           {
             "self_ref": "#/texts/60",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 5,
@@ -1582,7 +1366,7 @@
                   "t": 128.91481464843753,
                   "r": 552.1477000000001,
                   "b": 82.69884753044914,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1596,7 +1380,7 @@
                   "t": 793.5132146484375,
                   "r": 277.92,
                   "b": 663.2972475304491,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   222,
@@ -1605,15 +1389,7 @@
               }
             ]
           }
-        ],
-        "headings": [
-          "Discussion"
-        ],
-        "origin": {
-          "mimetype": "application/pdf",
-          "binary_hash": 9480742103008171899,
-          "filename": "paper18"
-        }
+        ]
       }
     }
   },
@@ -1621,21 +1397,22 @@
     "content": "Pain intensity, evaluated using the Visual Analogue Scale  (VAS),  was  significantly  lower  among  LA patients in our study. The mean pain reduction in the  LA  group  was  5.9±0.7  compared  to  3.3±0.5 in the OA group (p<0.001), confirming the widely observed  association  between  minimally  invasive techniques  and  reduced  somatic  pain.  Dasari  et al. 10 reported similar outcomes,  attributing the pain  reduction  to  limited  incisional  trauma,  less peritoneal  handling,  and  smaller  exposure  sites. These  benefits  are  particularly  relevant  in  obese patients,  in  whom  thicker  subcutaneous  tissue contributes to heightened nociceptive input during open surgery. Reduced postoperative pain facilitates earlier mobilization, improved pulmonary outcomes, and faster return to normal activity.\nOur  findings  demonstrated  that  LA  significantly reduced early postoperative complications within 30 days. The overall complication rate in the OA group was 38%, versus 17% in the LA group (p=0.022). Surgical site infections (SSIs) were notably higher in OA (21% vs. 6%, p=0.037), and fistula formation occurred only in OA (10%, p=0.022). These results align with data from Mason et al. 11  who reported a 2-3-fold increase in SSI among obese OA patients. Obesity is an independent predictor of poor wound healing, attributed to impaired microvascular circulation, subcutaneous tissue ischemia, and altered immunologic responses. LA minimizes wound exposure  and  reduces  contact  between  infected intra-abdominal  contents  and  subcutaneous  fat, thus limiting the risk of wound contamination and dehiscence.\nThe  significance  of  these  differences  is  magnified when considering that SSIs are among the leading causes of postoperative readmission and prolonged morbidity  in  obese  surgical  patients.  Moreover, even minor wound infections in this population may necessitate extended dressing care, antibiotics, or further intervention, adding to both patient burden and healthcare costs.",
     "metadata": {
       "document_id": "paper18",
-      "source": "paper18.json",
+      "source": "paper18.pdf",
+      "topic": "Discussion",
+      "headings": [
+        "Discussion"
+      ],
       "chunk_index": 17,
       "total_chunks": 22,
+      "pages": [
+        6
+      ],
       "docling": {
-        "schema_name": "docling_core.transforms.chunker.DocMeta",
-        "version": "1.0.0",
         "doc_items": [
           {
             "self_ref": "#/texts/63",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 6,
@@ -1644,7 +1421,7 @@
                   "t": 653.5132146484375,
                   "r": 277.92,
                   "b": 463.2972475304491,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1655,12 +1432,8 @@
           },
           {
             "self_ref": "#/texts/64",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 6,
@@ -1669,7 +1442,7 @@
                   "t": 453.5132146484375,
                   "r": 277.93999999999994,
                   "b": 251.2972475304491,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1680,12 +1453,8 @@
           },
           {
             "self_ref": "#/texts/65",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 6,
@@ -1694,7 +1463,7 @@
                   "t": 241.5132146484375,
                   "r": 277.90999999999997,
                   "b": 147.2972475304491,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1703,15 +1472,7 @@
               }
             ]
           }
-        ],
-        "headings": [
-          "Discussion"
-        ],
-        "origin": {
-          "mimetype": "application/pdf",
-          "binary_hash": 9480742103008171899,
-          "filename": "paper18"
-        }
+        ]
       }
     }
   },
@@ -1719,21 +1480,22 @@
     "content": "Within the 3-month follow-up, our study observed only a single case of adhesive intestinal obstruction, occurring  in  the  OA  group.  No  cases  of  stump appendicitis  or  incisional  hernia  were  reported  in either group. While the short duration of follow-up limits the detection of certain delayed complications such as incisional hernias, prior longitudinal studies have  shown  that  LA  is associated with lower occurrence of these events in obese cases. Bruzzi et al. 12 attributed the reduced hernia rate to smaller fascial defects and lower tension on wound closures in LA.\nCosmetic outcomes were significantly improved in the LA group, as measured by a 5-point Likert scale assessing patient satisfaction with the surgical scar. LA patients  reported  a  mean  satisfaction  score  of 4.4±0.5 versus 3.2±0.4 in OA patients (p<0.001). Similar  findings  were  demonstrated  by  Hussein et al. 2   who found LA to be associated with higher physical  and  emotional  recovery  scores.  These findings are particularly relevant in obese patients, who  often  experience  delayed  rehabilitation  and are  at  increased  risk  of  postoperative  depression, chronic pain, and deconditioning.\nObesity imposes significant technical challenges in both OA and LA. Thick abdominal walls, increased intra-abdominal fat,  and  altered  anatomy  may obscure landmarks and complicate dissection. However,  laparoscopic surgery offers  enhanced visualization  through  magnification  and  strategic patient  positioning.  The  Trendelenburg  position, combined  with  left lateral tilt, displaces small bowel  loops  and  improves  access  to  the  right lower  quadrant.  Moreover,  high-definition  imaging and energy devices (e.g. harmonic scalpel, bipolar cautery) enable precise dissection in  deep or retrocecal positions.\nSeveral studies, including Katar et al. 13 and Ertekin et al. 6 emphasized the need for long-shafted instruments, bariatric trocars, and  careful port placement  in  obese  patients. With  appropriate tools  and  experience,  these  adaptations  mitigate technical difficulties and facilitate safe execution of LA.",
     "metadata": {
       "document_id": "paper18",
-      "source": "paper18.json",
+      "source": "paper18.pdf",
+      "topic": "Discussion",
+      "headings": [
+        "Discussion"
+      ],
       "chunk_index": 18,
       "total_chunks": 22,
+      "pages": [
+        6
+      ],
       "docling": {
-        "schema_name": "docling_core.transforms.chunker.DocMeta",
-        "version": "1.0.0",
         "doc_items": [
           {
             "self_ref": "#/texts/66",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 6,
@@ -1742,7 +1504,7 @@
                   "t": 137.5132146484375,
                   "r": 277.92,
                   "b": 79.29724753044911,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1756,7 +1518,7 @@
                   "t": 793.5132146484375,
                   "r": 550.9917999999999,
                   "b": 711.2972475304491,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   266,
@@ -1767,12 +1529,8 @@
           },
           {
             "self_ref": "#/texts/67",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 6,
@@ -1781,7 +1539,7 @@
                   "t": 701.5132146484375,
                   "r": 551.0018000000001,
                   "b": 559.2972475304491,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1792,12 +1550,8 @@
           },
           {
             "self_ref": "#/texts/68",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 6,
@@ -1806,7 +1560,7 @@
                   "t": 549.5132146484375,
                   "r": 551.0017999999999,
                   "b": 395.2972475304491,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1817,12 +1571,8 @@
           },
           {
             "self_ref": "#/texts/69",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 6,
@@ -1831,7 +1581,7 @@
                   "t": 385.8116246484375,
                   "r": 550.9906000000001,
                   "b": 303.2972475304491,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1840,15 +1590,7 @@
               }
             ]
           }
-        ],
-        "headings": [
-          "Discussion"
-        ],
-        "origin": {
-          "mimetype": "application/pdf",
-          "binary_hash": 9480742103008171899,
-          "filename": "paper18"
-        }
+        ]
       }
     }
   },
@@ -1856,21 +1598,23 @@
     "content": "It  is  important  to  note  that  the  longer  operative time associated with LA is often attributable to the surgeon's position on the learning curve. As Hussein et al. 2 and Ertekin et al. 6 both noted, operative times decrease significantly after 20-30 cases, especially when performed by dedicated laparoscopic teams. Institutions transitioning toward minimally invasive surgery must invest in training and mentorship to shorten this learning phase. Additionally, simulationbased  practice  and  hybrid  models  (e.g.  handassisted laparoscopy) can accelerate skill acquisition and reduce intraoperative complications.\nGiven Egypt's high obesity prevalence, ranked among the top globally according to WHO data, our findings have special relevance to national surgical protocols. The  rising burden  of  obesity-related surgical  complications  necessitates  an  evidencebased approach to standardize LA for appendicitis wherever  feasible.  University  hospitals,  including Capital University Hospitals, serve as referral centers and training hubs. Therefore, early and full adoption  of  laparoscopic  protocols,  infrastructure expansion,  and  structured  surgical  education  can have widespread impact on improving perioperative outcomes and reducing national healthcare  costs. This study has several limitations. It was done at a single institution with a relatively small sample size. The follow-up period was limited to three months. Outcomes were not stratified according to obesity class.  Operative  time  differences  between  groups may have been influenced by surgeon experience and institutional factors.",
     "metadata": {
       "document_id": "paper18",
-      "source": "paper18.json",
+      "source": "paper18.pdf",
+      "topic": "Discussion",
+      "headings": [
+        "Discussion"
+      ],
       "chunk_index": 19,
       "total_chunks": 22,
+      "pages": [
+        6,
+        7
+      ],
       "docling": {
-        "schema_name": "docling_core.transforms.chunker.DocMeta",
-        "version": "1.0.0",
         "doc_items": [
           {
             "self_ref": "#/texts/70",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 6,
@@ -1879,7 +1623,7 @@
                   "t": 293.5132146484375,
                   "r": 550.9917999999998,
                   "b": 151.2972475304491,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1890,12 +1634,8 @@
           },
           {
             "self_ref": "#/texts/71",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 6,
@@ -1904,7 +1644,7 @@
                   "t": 141.5132146484375,
                   "r": 550.9957999999999,
                   "b": 83.29724753044911,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1918,7 +1658,7 @@
                   "t": 793.5133146484375,
                   "r": 277.91999999999996,
                   "b": 615.2973475304491,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   253,
@@ -1927,15 +1667,7 @@
               }
             ]
           }
-        ],
-        "headings": [
-          "Discussion"
-        ],
-        "origin": {
-          "mimetype": "application/pdf",
-          "binary_hash": 9480742103008171899,
-          "filename": "paper18"
-        }
+        ]
       }
     }
   },
@@ -1943,21 +1675,22 @@
     "content": "LA  is  a  safe  and  effective  approach  for  obese patients  with  acute  appendicitis,  offering  superior postoperative  outcomes,  including  reduced  pain, shorter hospital stays, fewer complications, better cosmetic  results, and  improved  quality  of  life, despite a longer operative time.",
     "metadata": {
       "document_id": "paper18",
-      "source": "paper18.json",
+      "source": "paper18.pdf",
+      "topic": "Conclusions",
+      "headings": [
+        "Conclusions"
+      ],
       "chunk_index": 20,
       "total_chunks": 22,
+      "pages": [
+        7
+      ],
       "docling": {
-        "schema_name": "docling_core.transforms.chunker.DocMeta",
-        "version": "1.0.0",
         "doc_items": [
           {
             "self_ref": "#/texts/75",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 7,
@@ -1966,7 +1699,7 @@
                   "t": 585.5133146484375,
                   "r": 277.91999999999996,
                   "b": 515.2973475304491,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1975,15 +1708,7 @@
               }
             ]
           }
-        ],
-        "headings": [
-          "Conclusions"
-        ],
-        "origin": {
-          "mimetype": "application/pdf",
-          "binary_hash": 9480742103008171899,
-          "filename": "paper18"
-        }
+        ]
       }
     }
   },
@@ -1991,21 +1716,22 @@
     "content": "1. Scheijmans JCG, Haijanen J, Flum DR, Bom WJ, Davidson GH, Vons C, et al: Antibiotic treatment versus appendicectomy for acute appendicitis in adults: An individual patient data meta-analysis. Lancet  Gastroenterol  Hepatol . 2025;  10:  222233.\n2. Hussein AH, El-Baaly A, Ghareeb WM, Madbouly K, Gabr H: Outcome and quality of life in obese patients underwent laparoscopic vs. open appendectomy. BMC Surg . 2022; 22: 282.\n3. Shiroshita H, Inomata M, Akira S, Kanayama H, Yamaguchi S, Eguchi S, et al: Current status of endoscopic surgery in Japan: The 15 th National Survey  of  Endoscopic  Surgery  by  the  Japan Society for Endoscopic Surgery. Asian J Endosc Surg . 2022; 15: 415-426.\n4. Sarno G, Simancas-Racines D, Gargiulo A, Tedesco A, Iacone B, Reytor-González C, et al: Impact of obesity on postoperative\n5. complications  in  colorectal  cancer  surgery:  A systematic  review  and  meta-analysis. Semin Cancer Biol . 2025; 113: 176-189.\n5. Boland PA, Donlon NE, Kelly ME, Nugent T, Free R, Waters P, et al: Current opinions and practices for the management of acute appendicitis: An international  survey. Ir  J  Med  Sci . 2021;  190: 749-754.\n6. Ertekin  SÇ:  Outcomes  of  laparoscopic  versus open appendectomy in overweight and obese patients:  the  impact  of  surgical  approach  on clinical results and quality of life. Laparoscopic Endoscopic Surgical Science . 2023; 30: 146.\n7. Moris D, Paulson EK, Pappas TN: Diagnosis and management  of  acute  appendicitis  in  adults: A review. Jama . 2021; 326: 2299-2311.",
     "metadata": {
       "document_id": "paper18",
-      "source": "paper18.json",
+      "source": "paper18.pdf",
+      "topic": "References",
+      "headings": [
+        "References"
+      ],
       "chunk_index": 21,
       "total_chunks": 22,
+      "pages": [
+        7
+      ],
       "docling": {
-        "schema_name": "docling_core.transforms.chunker.DocMeta",
-        "version": "1.0.0",
         "doc_items": [
           {
             "self_ref": "#/texts/79",
-            "parent": {
-              "$ref": "#/groups/1"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 7,
@@ -2014,7 +1740,7 @@
                   "t": 445.5133146484375,
                   "r": 277.921,
                   "b": 375.2973475304491,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -2025,12 +1751,8 @@
           },
           {
             "self_ref": "#/texts/80",
-            "parent": {
-              "$ref": "#/groups/1"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 7,
@@ -2039,7 +1761,7 @@
                   "t": 365.5133146484375,
                   "r": 277.93,
                   "b": 319.2973475304491,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -2050,12 +1772,8 @@
           },
           {
             "self_ref": "#/texts/81",
-            "parent": {
-              "$ref": "#/groups/1"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 7,
@@ -2064,7 +1782,7 @@
                   "t": 309.5133146484375,
                   "r": 277.9199999999999,
                   "b": 239.2973475304491,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -2075,12 +1793,8 @@
           },
           {
             "self_ref": "#/texts/82",
-            "parent": {
-              "$ref": "#/groups/1"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 7,
@@ -2089,7 +1803,7 @@
                   "t": 229.51331464843747,
                   "r": 277.91999999999996,
                   "b": 195.2973475304491,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -2100,12 +1814,8 @@
           },
           {
             "self_ref": "#/texts/83",
-            "parent": {
-              "$ref": "#/groups/1"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 7,
@@ -2114,7 +1824,7 @@
                   "t": 793.5133146484375,
                   "r": 550.9817999999999,
                   "b": 759.2973475304491,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -2125,12 +1835,8 @@
           },
           {
             "self_ref": "#/texts/84",
-            "parent": {
-              "$ref": "#/groups/1"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 7,
@@ -2139,7 +1845,7 @@
                   "t": 749.5133146484375,
                   "r": 550.9918,
                   "b": 691.2973475304491,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -2150,12 +1856,8 @@
           },
           {
             "self_ref": "#/texts/85",
-            "parent": {
-              "$ref": "#/groups/1"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 7,
@@ -2164,7 +1866,7 @@
                   "t": 681.5133146484375,
                   "r": 550.9918,
                   "b": 623.2973475304491,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -2175,12 +1877,8 @@
           },
           {
             "self_ref": "#/texts/86",
-            "parent": {
-              "$ref": "#/groups/1"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 7,
@@ -2189,7 +1887,7 @@
                   "t": 613.5133146484375,
                   "r": 550.9918,
                   "b": 579.2973475304491,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -2198,15 +1896,7 @@
               }
             ]
           }
-        ],
-        "headings": [
-          "References"
-        ],
-        "origin": {
-          "mimetype": "application/pdf",
-          "binary_hash": 9480742103008171899,
-          "filename": "paper18"
-        }
+        ]
       }
     }
   },
@@ -2214,21 +1904,22 @@
     "content": "8. Patel  PY,  Rathod  R,  Akhani  MK:  Laparoscopic versus open appendectomy in complicated and uncomplicated  appendicitis  in  adults:  A  twoyear  single-center  retrospective  cohort  study. Cureus . 2025; 17: e92258.\n9. Kim CW, Jeon SY, Paik B, Bong JW, Kim SH, Lee SH:  Resident  learning  curve  for  laparoscopic appendectomy according to seniority. Ann Coloproctol . 2020; 36: 163-71.\n10. Dasari BV, Tan CJ, Gurusamy KS, Martin DJ, Kirk G,  McKie  L,  et  al:  Surgical  versus  endoscopic treatment of bile duct stones. Cochrane Database Syst Rev . 2013; 2013: Cd003327.\n11. Mason RJ, Moazzez A, Moroney JR, Katkhouda N:  Laparoscopic  vs  open  appendectomy  in obese patients: Outcomes using the American College  of  Surgeons  National  Surgical  Quality Improvement  Program  database. J  Am  Coll Surg . 2012; 215: 88-99; discussion -100.\n12. Bruzzi M, M'Harzi L, Poghosyan T, Ben Abdallah  I,  Papadimitriou  A,  Ragot  E,  et  al: Arterial  vascularization  of  the  right  colon  with implications for surgery. Surg Radiol Anat . 2020; 42: 429-435.\n13. Katar  MK,  Başer  M,  Ersoy  PE:  Appendectomy in  patients  with  morbid  obesity:  Laparoscopic versus conventional technique. Med Sci Monit . 2020; 26: e928067.",
     "metadata": {
       "document_id": "paper18",
-      "source": "paper18.json",
+      "source": "paper18.pdf",
+      "topic": "References",
+      "headings": [
+        "References"
+      ],
       "chunk_index": 22,
       "total_chunks": 22,
+      "pages": [
+        7
+      ],
       "docling": {
-        "schema_name": "docling_core.transforms.chunker.DocMeta",
-        "version": "1.0.0",
         "doc_items": [
           {
             "self_ref": "#/texts/87",
-            "parent": {
-              "$ref": "#/groups/1"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 7,
@@ -2237,7 +1928,7 @@
                   "t": 569.5133146484375,
                   "r": 550.9918,
                   "b": 511.2973475304491,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -2248,12 +1939,8 @@
           },
           {
             "self_ref": "#/texts/88",
-            "parent": {
-              "$ref": "#/groups/1"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 7,
@@ -2262,7 +1949,7 @@
                   "t": 501.5133146484375,
                   "r": 550.9867999999999,
                   "b": 455.2973475304491,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -2273,12 +1960,8 @@
           },
           {
             "self_ref": "#/texts/89",
-            "parent": {
-              "$ref": "#/groups/1"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 7,
@@ -2287,7 +1970,7 @@
                   "t": 445.5133146484375,
                   "r": 551.0018,
                   "b": 399.2973475304491,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -2298,12 +1981,8 @@
           },
           {
             "self_ref": "#/texts/90",
-            "parent": {
-              "$ref": "#/groups/1"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 7,
@@ -2312,7 +1991,7 @@
                   "t": 389.5133146484375,
                   "r": 550.9918,
                   "b": 319.2973475304491,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -2323,12 +2002,8 @@
           },
           {
             "self_ref": "#/texts/91",
-            "parent": {
-              "$ref": "#/groups/1"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 7,
@@ -2337,7 +2012,7 @@
                   "t": 309.5133146484375,
                   "r": 551.0017999999999,
                   "b": 251.2973475304491,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -2348,12 +2023,8 @@
           },
           {
             "self_ref": "#/texts/92",
-            "parent": {
-              "$ref": "#/groups/1"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 7,
@@ -2362,7 +2033,7 @@
                   "t": 241.51331464843747,
                   "r": 550.9827999999999,
                   "b": 195.2973475304491,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -2371,15 +2042,7 @@
               }
             ]
           }
-        ],
-        "headings": [
-          "References"
-        ],
-        "origin": {
-          "mimetype": "application/pdf",
-          "binary_hash": 9480742103008171899,
-          "filename": "paper18"
-        }
+        ]
       }
     }
   }

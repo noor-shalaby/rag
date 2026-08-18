@@ -3,21 +3,22 @@
     "content": "Ossama M Zakaria,a MD; Tamer A Sultan,b MD\n- a) Division of Pediatric Surgery, Department of Surgery, Suez Canal University,  Egypt.\n- b) Division of Pediatric Surgery, Department of Surgery, Menoufyia University,  Egypt.\nCo\"espondence: e-mail: ossamaz2004@yahoo.com",
     "metadata": {
       "document_id": "paper5",
-      "source": "paper5.json",
+      "source": "paper5.pdf",
+      "topic": "Experience with a modified score-aided diagnosis.",
+      "headings": [
+        "Experience with a modified score-aided diagnosis."
+      ],
       "chunk_index": 1,
       "total_chunks": 23,
+      "pages": [
+        1
+      ],
       "docling": {
-        "schema_name": "docling_core.transforms.chunker.DocMeta",
-        "version": "1.0.0",
         "doc_items": [
           {
             "self_ref": "#/texts/2",
-            "parent": {
-              "$ref": "#/groups/0"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 1,
@@ -26,7 +27,7 @@
                   "t": 711.54901953125,
                   "r": 438.83281192000004,
                   "b": 699.9087468039772,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -37,12 +38,8 @@
           },
           {
             "self_ref": "#/texts/3",
-            "parent": {
-              "$ref": "#/groups/1"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 1,
@@ -51,7 +48,7 @@
                   "t": 679.12901953125,
                   "r": 392.09064670000015,
                   "b": 651.7087468039773,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -62,12 +59,8 @@
           },
           {
             "self_ref": "#/texts/4",
-            "parent": {
-              "$ref": "#/groups/1"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 1,
@@ -76,7 +69,7 @@
                   "t": 647.2090195312501,
                   "r": 392.39064670000016,
                   "b": 619.7887468039772,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -87,12 +80,8 @@
           },
           {
             "self_ref": "#/texts/5",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 1,
@@ -101,7 +90,7 @@
                   "t": 597.0640195312501,
                   "r": 337.20480128000014,
                   "b": 586.9705649857955,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -110,15 +99,7 @@
               }
             ]
           }
-        ],
-        "headings": [
-          "Experience with a modified score-aided diagnosis."
-        ],
-        "origin": {
-          "mimetype": "application/pdf",
-          "binary_hash": 9855669689426404175,
-          "filename": "paper5"
-        }
+        ]
       }
     }
   },
@@ -126,21 +107,22 @@
     "content": "Background:  Appendicitis  is the most  common surgical  emergency in children, yet diagnosis of  equivocal presentations  continues  to challenge  clinicians.\nAim: The objective  of this study  was to investigate  the hypothesis  that the use  of a modified clinical  practice  and  harmonic  ultrasonographic grading  scores  (MCPGS)  may  improve  the accuracy  in diagnosing  acute appendicitis  in the pediatric  population.\nPatients & methods: Main  outcome  measures:  Sensitivity,  specificity,  and  accuracy  ofthe modified  scoring  system. Five  hundred  and  thirty  patients  presented  with  suspected  diagnosis of  acute appendicitis  during  the period from December  2000  to December  2009  were enrolled in this study. They were classified  into 2 equal groups.\nGroup I  (n=265): Included  children who  presented with  suspected diagnosis of  acute appendicitis. To these children a special clinical practice guideline system (CPGS) incorporating clinical  judgment  and results of gray scale US was applied),2\nGroup II (n=265):  Included  a similar  group of children  with  equivocal  diagnosis  of acute appendicitis (AA), to whom a modified clinical practice guideline system (MCPGS) was applied.\nStatistical  analyses  were  carried  out  using  Z  test for  comparing  2 sample  proportions  and student's  t-test  to  compare  the two  quantitative  data  in both  groups.Sensitivity and  specificity for the 2 scoring  systems were calculated  using Epi-Info software.\nResults: The Number of appendectomies declined from 200 (75.5%) in group I to 187 (70.6%) in group II (P>0.05).\nSpecificity  was significantly  higher when  applying  MCPGS  (90.69%)  in group  II compared to 70.47% in group I when CPGS was applied (P<0.01). Furthermore, the PPV was significantly higher in group II (95.72%)  than in group I (82.88%)  (P <0.01).\nConclusions:  MCPGS  tends    to  reduce  the  numbers  of  avoidable  and  unnecessary appendectomies in  suspected  cases  of  pediatric  acute  appendicitis that  may  help  in  saving hospital  resources.\nKey  words:  Acute  appendicitis, children, Harmonic ultrasound scan,  CPGS,  MCPGS.\n1",
     "metadata": {
       "document_id": "paper5",
-      "source": "paper5.json",
+      "source": "paper5.pdf",
+      "topic": "Abstract",
+      "headings": [
+        "Abstract"
+      ],
       "chunk_index": 2,
       "total_chunks": 23,
+      "pages": [
+        1
+      ],
       "docling": {
-        "schema_name": "docling_core.transforms.chunker.DocMeta",
-        "version": "1.0.0",
         "doc_items": [
           {
             "self_ref": "#/texts/7",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 1,
@@ -149,7 +131,7 @@
                   "t": 539.69489953125,
                   "r": 528.98253952,
                   "b": 515.8418668039773,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -160,12 +142,8 @@
           },
           {
             "self_ref": "#/texts/8",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 1,
@@ -174,7 +152,7 @@
                   "t": 511.79489953125005,
                   "r": 531.23776384,
                   "b": 473.84186680397727,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -185,12 +163,8 @@
           },
           {
             "self_ref": "#/texts/9",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 1,
@@ -199,7 +173,7 @@
                   "t": 470.21489953125007,
                   "r": 530.6827513600002,
                   "b": 418.1618668039773,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -210,12 +184,8 @@
           },
           {
             "self_ref": "#/texts/10",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 1,
@@ -224,7 +194,7 @@
                   "t": 414.24401953125005,
                   "r": 529.0913612800001,
                   "b": 376.1018668039773,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -235,12 +205,8 @@
           },
           {
             "self_ref": "#/texts/11",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 1,
@@ -249,7 +215,7 @@
                   "t": 372.22401953125006,
                   "r": 522.8242885120001,
                   "b": 348.0618668039773,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -260,12 +226,8 @@
           },
           {
             "self_ref": "#/texts/12",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 1,
@@ -274,7 +236,7 @@
                   "t": 343.89489953125,
                   "r": 530.18972224,
                   "b": 306.3018668039773,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -285,12 +247,8 @@
           },
           {
             "self_ref": "#/texts/13",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 1,
@@ -299,7 +257,7 @@
                   "t": 302.25489953125,
                   "r": 522.30082048,
                   "b": 278.2818668039773,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -310,12 +268,8 @@
           },
           {
             "self_ref": "#/texts/14",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 1,
@@ -324,7 +278,7 @@
                   "t": 274.17489953125005,
                   "r": 531.22204288,
                   "b": 236.28186680397732,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -335,12 +289,8 @@
           },
           {
             "self_ref": "#/texts/15",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 1,
@@ -349,7 +299,7 @@
                   "t": 232.23489953125,
                   "r": 531.843844096,
                   "b": 194.34186680397727,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -360,12 +310,8 @@
           },
           {
             "self_ref": "#/texts/16",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 1,
@@ -374,7 +320,7 @@
                   "t": 190.23489953125,
                   "r": 517.854981376,
                   "b": 180.3018668039773,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -385,12 +331,8 @@
           },
           {
             "self_ref": "#/texts/17",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 1,
@@ -399,7 +341,7 @@
                   "t": 45.02001953125,
                   "r": 526.6666666666666,
                   "b": 35.35335286458337,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -408,15 +350,7 @@
               }
             ]
           }
-        ],
-        "headings": [
-          "Abstract"
-        ],
-        "origin": {
-          "mimetype": "application/pdf",
-          "binary_hash": 9855669689426404175,
-          "filename": "paper5"
-        }
+        ]
       }
     }
   },
@@ -424,21 +358,22 @@
     "content": "Certainty  of  clinical  diagnosis  is  the  most challenging  task  in  clinical  practice. It is relatively  straight  forward to  look   up  the treatment  once  a  correct  diagnosis has  been made. A single perfect diagnostic test for acute appendicitis  does not exist.1,3\nDespite the  number   of  algorithms  and diagnostic tests available, about 200/o of patients with    appendicitis  are   misdiagnosed.3-9\nPresence of normal  appendix ranges from 5-25%  out    of  suspected  cases    of  acute appendicitis.5,10-13  Negative  appendectomies were    thought  to  be  relatively  harmless; nevertheless,  they   result   in   considerable unnecessary clinical  and  economic costs.t4 Even  despite  the  uncertainty  of  diagnosis, appendicitis demands prompt treatment in order not to be neglected  and misdiagnosed  leading to progression of the disease with its associated morbidity  and  mortality  that may  include  the risk  of perforation which  happens  in approximately one third  of  the cases.5, 15,16\nIn an attempt to improve diagnosis, attention has turned to radiological  imaging. The use of ultrasound scan  (US)  has  been  advocated  as the  readily  available  simple  and fast  imaging modality  particularly  in  thin   patients  and children. A normal appendix  is not  frequently observed  using  gray-scale  US, 17-18  however, on  the  other  hand,  Harmonic imaging  (HI) increases   the  contrast   and  spatial  resolution resulting  in artifact-free  images,  and  has been shown  to  significantly  improve   abdominal ultrasonography.  However,  only  a handful  of reports  exist   regarding  its   application in pediatric  patients.  Most   of  them   do   not encompass its  use  in  acute  appendicities.t9 This  work aimed to investigate  and assess the hypothesis  that  the use  of a modified  clinical practice, judgment and harmonic ultrasonography as  a  modified  score-aided diagnosis;  MCPGS may improve the accuracy in  diagnosing acute  appendicitis in  children with  equivocal  pictures  of  acute  appendicitis and  to  compare these  results  with  those  of previously  published  data   of   CPGS),2",
     "metadata": {
       "document_id": "paper5",
-      "source": "paper5.json",
+      "source": "paper5.pdf",
+      "topic": "Introduction:",
+      "headings": [
+        "Introduction:"
+      ],
       "chunk_index": 3,
       "total_chunks": 23,
+      "pages": [
+        2
+      ],
       "docling": {
-        "schema_name": "docling_core.transforms.chunker.DocMeta",
-        "version": "1.0.0",
         "doc_items": [
           {
             "self_ref": "#/texts/21",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 2,
@@ -447,7 +382,7 @@
                   "t": 766.56337953125,
                   "r": 295.06218214399996,
                   "b": 686.84465953125,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -458,12 +393,8 @@
           },
           {
             "self_ref": "#/texts/22",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 2,
@@ -472,7 +403,7 @@
                   "t": 682.36337953125,
                   "r": 294.25161843200004,
                   "b": 644.7846595312501,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -483,12 +414,8 @@
           },
           {
             "self_ref": "#/texts/23",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 2,
@@ -497,7 +424,7 @@
                   "t": 640.6633795312499,
                   "r": 295.36907648,
                   "b": 463.28465953125004,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -508,12 +435,8 @@
           },
           {
             "self_ref": "#/texts/24",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 2,
@@ -522,7 +445,7 @@
                   "t": 458.81345953125003,
                   "r": 295.116875648,
                   "b": 127.38465953125001,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -531,15 +454,7 @@
               }
             ]
           }
-        ],
-        "headings": [
-          "Introduction:"
-        ],
-        "origin": {
-          "mimetype": "application/pdf",
-          "binary_hash": 9855669689426404175,
-          "filename": "paper5"
-        }
+        ]
       }
     }
   },
@@ -547,21 +462,22 @@
     "content": "The study was carried out during the period from December 2000 to December 2009.Cases of suspected  pediatric  acute  appendicitis  were included in the study. The first 265 cases were referred   to  as Groupl to  whom  the  clinical judgment  and  ultraosongraphy  score  aided CGPS was  applied. 1 This  was  a modification of  previously  published scoring   methods2,3 including  certain subjective clinical parameters measured  as  1 point   such   as  fever   of  38, anorexia  and  vomiting,  tachycardia   of  more than   120   beats/minute.  Abdominal  pain parameters  were  also  measured  with  special emphasis  on guarding  or rigidity, positive  per­ rectal   examinations,  however,  a   positive rebound  tenderness  was  given  3 points  in  this score   method   as  well   as  other  clinical, laboratory and  harmonic   US  measurements Table(l); Results  for  this  group  are already published. I The next 265 cases  were referred to as Groupll to  whom the proposed usage of harmonic ultrasonography  clinical  judgment and  practice as  a modified  score aided  system MCPGS was applied.\nGroupll (n=265): consisted of  a  similar group of children in whom our modified score aided  system  MCPGS  with   twenty  five variables  including harmonic  ultrasound  (US) examination and  a  marker  of  inflammatory response was assessed  in multivariate analysis using  the  finding  of  AA  at  operation as  the end point were enrolled in this study Table(2). Exclusion criteria  included  those  who  were proved to have other causes of acute abdominal pain  rather  than  acute  appendicitis. Children were equally distributed regarding sex and age into 2 equal groups.\nilltrasonography was performed using linear and curved  transducers  with    ultrasound frequencies ranging between 2.5 and 7.5 MHz, commercially  available  US  systems  (Sonoace XP8; Medison,  Korea). The  examination  was performed  with    both    conventional  and harmonic  imaging  US. Scanning  parameters were optimized for each method, and all images were obtained  with  the  use  of  the same  focal zone. An external  video  with  cine  playback mode  was  used  to obtain  identical  images  in two standard planes, longitudinal and transverse scans.  Images   were  obtained  with  the  two methods in random sequence to facilitate their masking  for  the  observers.  Harmonic  images were  acquired  at a transmitting  frequency  of\n1",
     "metadata": {
       "document_id": "paper5",
-      "source": "paper5.json",
+      "source": "paper5.pdf",
+      "topic": "Patients and methods:",
+      "headings": [
+        "Patients and methods:"
+      ],
       "chunk_index": 4,
       "total_chunks": 23,
+      "pages": [
+        2
+      ],
       "docling": {
-        "schema_name": "docling_core.transforms.chunker.DocMeta",
-        "version": "1.0.0",
         "doc_items": [
           {
             "self_ref": "#/texts/26",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 2,
@@ -570,7 +486,7 @@
                   "t": 94.94337953125,
                   "r": 293.96703487999997,
                   "b": 71.04465953124998,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -584,7 +500,7 @@
                   "t": 780.24337953125,
                   "r": 531.6828559359999,
                   "b": 476.30465953125,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   86,
@@ -595,12 +511,8 @@
           },
           {
             "self_ref": "#/texts/27",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 2,
@@ -609,7 +521,7 @@
                   "t": 472.60337953125,
                   "r": 531.6827722239999,
                   "b": 294.60465953125004,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -620,12 +532,8 @@
           },
           {
             "self_ref": "#/texts/28",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 2,
@@ -634,7 +542,7 @@
                   "t": 290.48337953124997,
                   "r": 531.760908544,
                   "b": 70.56465953125007,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -645,12 +553,8 @@
           },
           {
             "self_ref": "#/texts/29",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 2,
@@ -659,7 +563,7 @@
                   "t": 45.02001953125,
                   "r": 526.6666666666666,
                   "b": 35.35335286458337,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -668,15 +572,7 @@
               }
             ]
           }
-        ],
-        "headings": [
-          "Patients and methods:"
-        ],
-        "origin": {
-          "mimetype": "application/pdf",
-          "binary_hash": 9855669689426404175,
-          "filename": "paper5"
-        }
+        ]
       }
     }
   },
@@ -684,21 +580,23 @@
     "content": "2.0 MHz and a receiving hannonic bandwidth of  4.0  MHz. Conventional  US images  were obtained at a frequency of3.5 MHz, which is a  frequency  used  commonly  at  abdominal imaging  in    adults.  The    harmonic  and conventional US  modes  were  switched  by means of a toggle switch on1he scanner control panel Figure(l). In both groups the rationale of  active watchful  waiting    in  suspected appendicitis was  a prudent  and safe strategy with the use of at least one time repetition of conventional US or Harmonic US in groups I\nand n, respectively with no increase in the risk of perforation.\nAll  appendices were  routinely sent  for histopathological examination.\nCollected  data  were statistically  analyzed using   X2  test.  Continuous  variables   were analyzed  using  Z test  and  student's  t-test.\n.05were considered statistically significant Sensitivity and specificity were calculated for the CPGS. Kappa test was used to verify the specificity.  All calculations  were performed using SAS version 8.2.\nFigure (1): Acute appendicitis by conventional US (A) Longitudinal scan showing a peristaltic non compressible blind ended tubular structure with distinct  thickened wall/ayers and diameter > 6mm (B) Transverse scan showing target sign appearance.\n-&iiihl!fiil!ffNtiiDWfl:tJ",
     "metadata": {
       "document_id": "paper5",
-      "source": "paper5.json",
+      "source": "paper5.pdf",
+      "topic": "Patients and methods:",
+      "headings": [
+        "Patients and methods:"
+      ],
       "chunk_index": 5,
       "total_chunks": 23,
+      "pages": [
+        3,
+        4
+      ],
       "docling": {
-        "schema_name": "docling_core.transforms.chunker.DocMeta",
-        "version": "1.0.0",
         "doc_items": [
           {
             "self_ref": "#/texts/32",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 3,
@@ -707,7 +605,7 @@
                   "t": 781.5360195312501,
                   "r": 295.223,
                   "b": 617.28401953125,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -718,12 +616,8 @@
           },
           {
             "self_ref": "#/texts/33",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 3,
@@ -732,7 +626,7 @@
                   "t": 784.94257953125,
                   "r": 526.2159999999999,
                   "b": 756.86401953125,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -743,12 +637,8 @@
           },
           {
             "self_ref": "#/texts/34",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 3,
@@ -757,7 +647,7 @@
                   "t": 753.2760195312501,
                   "r": 531.136,
                   "b": 728.9640195312501,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -768,12 +658,8 @@
           },
           {
             "self_ref": "#/texts/35",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 3,
@@ -782,7 +668,7 @@
                   "t": 725.43601953125,
                   "r": 531.6355000000001,
                   "b": 687.24401953125,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -793,12 +679,8 @@
           },
           {
             "self_ref": "#/texts/36",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 3,
@@ -807,7 +689,7 @@
                   "t": 683.8828795312501,
                   "r": 532.3299999999998,
                   "b": 617.28401953125,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -818,12 +700,8 @@
           },
           {
             "self_ref": "#/texts/37",
-            "parent": {
-              "$ref": "#/pictures/0"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "caption",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 3,
@@ -832,7 +710,7 @@
                   "t": 301.25589953125007,
                   "r": 515.1041799999999,
                   "b": 253.96950316761365,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -843,12 +721,8 @@
           },
           {
             "self_ref": "#/texts/43",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 3,
@@ -857,7 +731,7 @@
                   "t": 45.76801953125005,
                   "r": 232.9282569000001,
                   "b": 26.932527818542894,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -868,12 +742,8 @@
           },
           {
             "self_ref": "#/texts/45",
-            "parent": {
-              "$ref": "#/tables/0"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "caption",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 4,
@@ -882,7 +752,7 @@
                   "t": 780.86113953125,
                   "r": 425.111578,
                   "b": 770.1003540767047,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -891,41 +761,30 @@
               }
             ]
           }
-        ],
-        "headings": [
-          "Patients and methods:"
-        ],
-        "origin": {
-          "mimetype": "application/pdf",
-          "binary_hash": 9855669689426404175,
-          "filename": "paper5"
-        }
+        ]
       }
     }
   },
   {
-    "content": "Table  (1):  Clinical  Practice  Guideline  Scoring  System  (CPGS)  1.\nClinical data,  = General. Clinical data,  = -Fever. Clinical data, 1 = Yes. Clinical data, 0 = No. Clinical data, Score = . ,  = . ,  = -HR. , 1 = > 120/min. Yes. , 0 = <120/min. No. , Score = . ,  = . ,  = -Vomiting - Dehydration. , 1 = Yes. , 0 = No. , Score = . ,  = Abdominal. ,  = Abd.pain. , 1 = . , 0 = No. , Score = . ,  = . ,  = -Localized -History of. , 1 = Yes No. , 0 = Yes. , Score = . ,  = . ,  = similar - attacks -Character. , 1 = Constant. , 0 = . , Score = . ,  = . ,  = -Severity. , 1 = Intolerable. , 0 = Intermittent Tolerable. , Score = . ,  = . ,  = -Course. , 1 = Progressive. , 0 = Regressive. , Score = . ,  = . ,  = - Reliefby antispasmodic. , 1 = No. , 0 = Yes. , Score = . ,  = . ,  = - Bowel Habit alteration. , 1 = Yes. , 0 = No. , Score = . ,  = . ,  = -Rebound tenderness. , 1 = Yes (3). , 0 = No. , Score = . ,  = . ,  = - Guarding or rigidity. , 1 = Yes. , 0 = No. , Score = . ,  = . ,  = - +veP.R. examination. , 1 = Yes. , 0 = No. , Score = . Investigations,  = Laboratory. Investigations,  = -WBCs leukocytosis. Investigations, 1 = Yes. Investigations, 0 = No. Investigations, Score = . ,  = . ,  = - Urine analysis (Findings. , 1 = Yes. , 0 = No. , Score = . ,  = Focused abdominal. ,  = ofUTI) - Appendicitis. , 1 = Yes. , 0 = No. , Score = . ,  = u.s.. ,  = or mass. , 1 = No. , 0 = Yes. , Score = . ,  = . ,  = - +ve fmdings in female Adnxae - +ve fmdings in liver, Gall. , 1 = No.",
+    "content": "Table  (1):  Clinical  Practice  Guideline  Scoring  System  (CPGS)  1.\nClinical data,  = General. Clinical data,  = -Fever. Clinical data, 1 = Yes. Clinical data, 0 = No. Clinical data, Score = . ,  = . ,  = -HR. , 1 = > 120/min. Yes. , 0 = <120/min. No. , Score = . ,  = . ,  = -Vomiting - Dehydration. , 1 = Yes. , 0 = No. , Score = . ,  = Abdominal. ,  = Abd.pain. , 1 = . , 0 = No. , Score = . ,  = . ,  = -Localized -History of. , 1 = Yes No. , 0 = Yes. , Score = . ,  = . ,  = similar - attacks -Character. , 1 = Constant. , 0 = . , Score = . ,  = . ,  = -Severity. , 1 = Intolerable. , 0 = Intermittent Tolerable. , Score = . ,  = . ,  = -Course. , 1 = Progressive. , 0 = Regressive. , Score = . ,  = . ,  = - Reliefby antispasmodic. , 1 = No. , 0 = Yes. , Score = . ,  = . ,  = - Bowel Habit alteration. , 1 = Yes. , 0 = No. , Score = . ,  = . ,  = -Rebound tenderness. , 1 = Yes (3). , 0 = No. , Score = . ,  = . ,  = - Guarding or rigidity. , 1 = Yes. , 0 = No. , Score = . ,  = . ,  = - +veP.R. examination. , 1 = Yes. , 0 = No. , Score = . Investigations,  = Laboratory. Investigations,  = -WBCs leukocytosis. Investigations, 1 = Yes. Investigations, 0 = No. Investigations, Score = . ,  = . ,  = - Urine analysis (Findings. , 1 = Yes. , 0 = No. , Score = . ,  = Focused abdominal. ,  = ofUTI) - Appendicitis. , 1 = Yes. , 0 = No. , Score = . ,  = u.s.. ,  = or mass. , 1 = No. , 0 = Yes. , Score = . ,  = . ,  = - +ve fmdings in female Adnxae - +ve",
     "metadata": {
       "document_id": "paper5",
-      "source": "paper5.json",
+      "source": "paper5.pdf",
+      "topic": "Patients and methods:",
+      "headings": [
+        "Patients and methods:"
+      ],
       "chunk_index": 6,
       "total_chunks": 23,
+      "pages": [
+        4
+      ],
       "docling": {
-        "schema_name": "docling_core.transforms.chunker.DocMeta",
-        "version": "1.0.0",
         "doc_items": [
           {
             "self_ref": "#/tables/0",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [
-              {
-                "$ref": "#/texts/45"
-              }
-            ],
-            "content_layer": "body",
             "label": "table",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 4,
@@ -934,7 +793,7 @@
                   "t": 764.5806522358647,
                   "r": 503.1744611129541,
                   "b": 129.4511689297592,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -943,41 +802,30 @@
               }
             ]
           }
-        ],
-        "headings": [
-          "Patients and methods:"
-        ],
-        "origin": {
-          "mimetype": "application/pdf",
-          "binary_hash": 9855669689426404175,
-          "filename": "paper5"
-        }
+        ]
       }
     }
   },
   {
-    "content": ", 0 = Yes. , Score = . ,  = . ,  = bladder, billiary passages - +ve fmdings. , 1 = No. , 0 = Yes. , Score = . ,  = . ,  = kidneys -Free fluid. , 1 = Yes. , 0 = No. , Score = . Total score,  = . Total score,  = . Total score, 1 = . Total score, 0 = . Total score, Score =",
+    "content": "fmdings in liver, Gall. , 1 = No. , 0 = Yes. , Score = . ,  = . ,  = bladder, billiary passages - +ve fmdings. , 1 = No. , 0 = Yes. , Score = . ,  = . ,  = kidneys -Free fluid. , 1 = Yes. , 0 = No. , Score = . Total score,  = . Total score,  = . Total score, 1 = . Total score, 0 = . Total score, Score =",
     "metadata": {
       "document_id": "paper5",
-      "source": "paper5.json",
+      "source": "paper5.pdf",
+      "topic": "Patients and methods:",
+      "headings": [
+        "Patients and methods:"
+      ],
       "chunk_index": 7,
       "total_chunks": 23,
+      "pages": [
+        4
+      ],
       "docling": {
-        "schema_name": "docling_core.transforms.chunker.DocMeta",
-        "version": "1.0.0",
         "doc_items": [
           {
             "self_ref": "#/tables/0",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [
-              {
-                "$ref": "#/texts/45"
-              }
-            ],
-            "content_layer": "body",
             "label": "table",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 4,
@@ -986,7 +834,7 @@
                   "t": 764.5806522358647,
                   "r": 503.1744611129541,
                   "b": 129.4511689297592,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -995,15 +843,7 @@
               }
             ]
           }
-        ],
-        "headings": [
-          "Patients and methods:"
-        ],
-        "origin": {
-          "mimetype": "application/pdf",
-          "binary_hash": 9855669689426404175,
-          "filename": "paper5"
-        }
+        ]
       }
     }
   },
@@ -1011,21 +851,23 @@
     "content": "21- 15  =Highly  suggestive of  appendicitis.\n14-  8 = Patient  needs  repeated  evaluation for  conclusive result.\n70 = The diagnosis of acute  appendicitis in not  likely.\n-\n(",
     "metadata": {
       "document_id": "paper5",
-      "source": "paper5.json",
+      "source": "paper5.pdf",
+      "topic": "Interpretation of results:",
+      "headings": [
+        "Interpretation of results:"
+      ],
       "chunk_index": 8,
       "total_chunks": 23,
+      "pages": [
+        4,
+        5
+      ],
       "docling": {
-        "schema_name": "docling_core.transforms.chunker.DocMeta",
-        "version": "1.0.0",
         "doc_items": [
           {
             "self_ref": "#/texts/47",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "footnote",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 4,
@@ -1034,7 +876,7 @@
                   "t": 99.84915953125005,
                   "r": 283.145,
                   "b": 90.39537953125,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1045,12 +887,8 @@
           },
           {
             "self_ref": "#/texts/48",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "footnote",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 4,
@@ -1059,7 +897,7 @@
                   "t": 85.86915953125003,
                   "r": 383.125,
                   "b": 76.41537953124998,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1070,12 +908,8 @@
           },
           {
             "self_ref": "#/texts/49",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "footnote",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 4,
@@ -1084,7 +918,7 @@
                   "t": 73.07601953125004,
                   "r": 343.3995434059999,
                   "b": 62.312881409703095,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1095,12 +929,8 @@
           },
           {
             "self_ref": "#/texts/50",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 4,
@@ -1109,7 +939,7 @@
                   "t": 66.87601953125,
                   "r": 401.73563245,
                   "b": 9.024152127935054,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1120,12 +950,8 @@
           },
           {
             "self_ref": "#/texts/51",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 4,
@@ -1134,7 +960,7 @@
                   "t": 37.36657953125007,
                   "r": 432.246433378,
                   "b": 33.76739579644334,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1145,12 +971,8 @@
           },
           {
             "self_ref": "#/texts/54",
-            "parent": {
-              "$ref": "#/tables/1"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "caption",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 5,
@@ -1159,7 +981,7 @@
                   "t": 780.97489953125,
                   "r": 521.1242640879999,
                   "b": 771.0418668039773,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1168,41 +990,30 @@
               }
             ]
           }
-        ],
-        "headings": [
-          "Interpretation of results:"
-        ],
-        "origin": {
-          "mimetype": "application/pdf",
-          "binary_hash": 9855669689426404175,
-          "filename": "paper5"
-        }
+        ]
       }
     }
   },
   {
-    "content": "Table (2):Modified clinical practice and harmonic ultrasonographic  grading score (MCPGS).\nClinical data,  = General. Clinical data,  = -Fever. Clinical data, 1 = Yes. Clinical data, 0 = No. Clinical data, Score = . ,  = Abdominal. ,  = -HR.. , 1 = > 120/min. <120/min. , 0 = > 120/min. <120/min. , Score = . ,  = . ,  = -Vomiting. , 1 = Yes. , 0 = No. , Score = . ,  = . ,  = Abd.pain. , 1 = . , 0 = . , Score = . ,  = . ,  = -Localized. , 1 = Yes. , 0 = No. , Score = . ,  = . ,  = - History of similar - attacks. , 1 = No. , 0 = Yes. , Score = . ,  = . ,  = -Character. , 1 = Constant. , 0 = Intermittent. , Score = . ,  = . ,  = -Severity. , 1 = Intolerable Tolerable. , 0 = Intolerable Tolerable. , Score = . ,  = . ,  = -Course. , 1 = Progressive Regressive. , 0 = Progressive Regressive. , Score = . ,  = . ,  = -Relief by antispasmodic. , 1 = No. , 0 = Yes. , Score = . ,  = . ,  = - Bowel Habit alteration. , 1 = Yes. , 0 = No. , Score = . ,  = Laboratory. ,  = -tenderness. , 1 = Yes. , 0 = No. , Score = . ,  = . ,  = - Guarding or rigidity. , 1 = Yes. , 0 = No. , Score = . ,  = Focused abdominal u.s.. ,  = -+ve P.R.. , 1 = Yes. , 0 = No. , Score = . Investigations,  = . Investigations,  = Associated intra- abdomin,. Disease. Investigations, 1 = No. Investigations, 0 = Yes. Investigations, Score = . ,  = . ,  = -High WBCs. , 1 = Yes. , 0 = No. , Score = . ,  = . ,  = - Elevated CRP. , 1 = Yes. , 0 = No. , Score = . ,  = . ,  = -Urine analysis (Findings ofUTI). , 1 = No. , 0 = Yes. , Score = . ,",
+    "content": "Table (2):Modified clinical practice and harmonic ultrasonographic  grading score (MCPGS).\nClinical data,  = General. Clinical data,  = -Fever. Clinical data, 1 = Yes. Clinical data, 0 = No. Clinical data, Score = . ,  = Abdominal. ,  = -HR.. , 1 = > 120/min. <120/min. , 0 = > 120/min. <120/min. , Score = . ,  = . ,  = -Vomiting. , 1 = Yes. , 0 = No. , Score = . ,  = . ,  = Abd.pain. , 1 = . , 0 = . , Score = . ,  = . ,  = -Localized. , 1 = Yes. , 0 = No. , Score = . ,  = . ,  = - History of similar - attacks. , 1 = No. , 0 = Yes. , Score = . ,  = . ,  = -Character. , 1 = Constant. , 0 = Intermittent. , Score = . ,  = . ,  = -Severity. , 1 = Intolerable Tolerable. , 0 = Intolerable Tolerable. , Score = . ,  = . ,  = -Course. , 1 = Progressive Regressive. , 0 = Progressive Regressive. , Score = . ,  = . ,  = -Relief by antispasmodic. , 1 = No. , 0 = Yes. , Score = . ,  = . ,  = - Bowel Habit alteration. , 1 = Yes. , 0 = No. , Score = . ,  = Laboratory. ,  = -tenderness. , 1 = Yes. , 0 = No. , Score = . ,  = . ,  = - Guarding or rigidity. , 1 = Yes. , 0 = No. , Score = . ,  = Focused abdominal u.s.. ,  = -+ve P.R.. , 1 = Yes. , 0 = No. , Score = . Investigations,  = . Investigations,  = Associated intra- abdomin,. Disease. Investigations, 1 = No. Investigations, 0 = Yes. Investigations, Score = . ,  = . ,  = -High WBCs. , 1 = Yes. , 0 = No. , Score = . ,  = . ,  = - Elevated CRP. , 1 = Yes. , 0 = No. , Score = . ,  = . ,  = -Urine analysis (Findings ofUTI). , 1 =",
     "metadata": {
       "document_id": "paper5",
-      "source": "paper5.json",
+      "source": "paper5.pdf",
+      "topic": "Interpretation of results:",
+      "headings": [
+        "Interpretation of results:"
+      ],
       "chunk_index": 9,
       "total_chunks": 23,
+      "pages": [
+        5
+      ],
       "docling": {
-        "schema_name": "docling_core.transforms.chunker.DocMeta",
-        "version": "1.0.0",
         "doc_items": [
           {
             "self_ref": "#/tables/1",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [
-              {
-                "$ref": "#/texts/54"
-              }
-            ],
-            "content_layer": "body",
             "label": "table",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 5,
@@ -1211,7 +1022,7 @@
                   "t": 765.6387978846756,
                   "r": 516.2501573942288,
                   "b": 123.88060316240092,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1220,41 +1031,31 @@
               }
             ]
           }
-        ],
-        "headings": [
-          "Interpretation of results:"
-        ],
-        "origin": {
-          "mimetype": "application/pdf",
-          "binary_hash": 9855669689426404175,
-          "filename": "paper5"
-        }
+        ]
       }
     }
   },
   {
-    "content": "= . ,  = -Aperistaltic non- Compressible. , 1 = Yes. , 0 = No. , Score = . ,  = . ,  = blind ended tubular structure. , 1 = . , 0 = . , Score = . ,  = . ,  = -Distinct thickened appendicial. , 1 = Yes. , 0 = No. , Score = . ,  = . ,  = wall layers. , 1 = . , 0 = . , Score = . ,  = . ,  = - Outer diameter> 6mm. , 1 = . , 0 = . , Score = . ,  = . ,  = -Target sign appearance. , 1 = . , 0 = . , Score = . Total score,  = . Total score,  = -Appendicolith(s). Total score, 1 = Yes. Total score, 0 = No. Total score, Score = . ,  = . ,  = -Periappendiceal. , 1 = Yes. , 0 = No. , Score = . ,  = . ,  = fluid collection. , 1 = . , 0 = . , Score = . ,  = . ,  = - Echogenic Prominent pericecal fat. , 1 = Yes. , 0 = No. , Score = . ,  = . ,  = - +ve fmdings in female. , 1 = . , 0 = . , Score = . ,  = . ,  = Adnexae. , 1 = No. , 0 = Yes. , Score = \n15- 25 =Highly  suggestive of appendicitis.\n8 -   14 = Patient needs  repeated  evaluation for conclusive  result.\n- 0 -   7 = The diagnosis of acute appendicitis in not likely.\nTable (3): Sensitivity, specificity, PPV and NPV for Group IL\n\n+ve, Histopathology.+ve = 179. +ve, Histopathology.-ve = 8. +ve, Total. = 187. -ve, Histopathology.+ve = 0. -ve, Histopathology.-ve = 78. -ve, Total. = 78. Total, Histopathology.+ve = 179. Total, Histopathology.-ve = 86. Total, Total. = 265\nSensitivity=  100%\nPPV\n<!-- formula-not-decoded -->\n= 95.72%",
+    "content": "No. , 0 = Yes. , Score = . ,  = . ,  = -Aperistaltic non- Compressible. , 1 = Yes. , 0 = No. , Score = . ,  = . ,  = blind ended tubular structure. , 1 = . , 0 = . , Score = . ,  = . ,  = -Distinct thickened appendicial. , 1 = Yes. , 0 = No. , Score = . ,  = . ,  = wall layers. , 1 = . , 0 = . , Score = . ,  = . ,  = - Outer diameter> 6mm. , 1 = . , 0 = . , Score = . ,  = . ,  = -Target sign appearance. , 1 = . , 0 = . , Score = . Total score,  = . Total score,  = -Appendicolith(s). Total score, 1 = Yes. Total score, 0 = No. Total score, Score = . ,  = . ,  = -Periappendiceal. , 1 = Yes. , 0 = No. , Score = . ,  = . ,  = fluid collection. , 1 = . , 0 = . , Score = . ,  = . ,  = - Echogenic Prominent pericecal fat. , 1 = Yes. , 0 = No. , Score = . ,  = . ,  = - +ve fmdings in female. , 1 = . , 0 = . , Score = . ,  = . ,  = Adnexae. , 1 = No. , 0 = Yes. , Score = \n15- 25 =Highly  suggestive of appendicitis.\n8 -   14 = Patient needs  repeated  evaluation for conclusive  result.\n- 0 -   7 = The diagnosis of acute appendicitis in not likely.\nTable (3): Sensitivity, specificity, PPV and NPV for Group IL\n\n+ve, Histopathology.+ve = 179. +ve, Histopathology.-ve = 8. +ve, Total. = 187. -ve, Histopathology.+ve = 0. -ve, Histopathology.-ve = 78. -ve, Total. = 78. Total, Histopathology.+ve = 179. Total, Histopathology.-ve = 86. Total, Total. = 265\nSensitivity=  100%\nPPV",
     "metadata": {
       "document_id": "paper5",
-      "source": "paper5.json",
+      "source": "paper5.pdf",
+      "topic": "Interpretation of results:",
+      "headings": [
+        "Interpretation of results:"
+      ],
       "chunk_index": 10,
       "total_chunks": 23,
+      "pages": [
+        5,
+        6
+      ],
       "docling": {
-        "schema_name": "docling_core.transforms.chunker.DocMeta",
-        "version": "1.0.0",
         "doc_items": [
           {
             "self_ref": "#/tables/1",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [
-              {
-                "$ref": "#/texts/54"
-              }
-            ],
-            "content_layer": "body",
             "label": "table",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 5,
@@ -1263,7 +1064,7 @@
                   "t": 765.6387978846756,
                   "r": 516.2501573942288,
                   "b": 123.88060316240092,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1274,12 +1075,8 @@
           },
           {
             "self_ref": "#/texts/56",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "footnote",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 5,
@@ -1288,7 +1085,7 @@
                   "t": 106.19601953125004,
                   "r": 285.14,
                   "b": 95.86401953125005,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1299,12 +1096,8 @@
           },
           {
             "self_ref": "#/texts/57",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "footnote",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 5,
@@ -1313,7 +1106,7 @@
                   "t": 91.82337953125,
                   "r": 383.56,
                   "b": 81.90465953124999,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1324,12 +1117,8 @@
           },
           {
             "self_ref": "#/texts/58",
-            "parent": {
-              "$ref": "#/groups/2"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 5,
@@ -1338,7 +1127,7 @@
                   "t": 78.18657953125,
                   "r": 346.12,
                   "b": 67.85396693456494,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1349,12 +1138,8 @@
           },
           {
             "self_ref": "#/texts/61",
-            "parent": {
-              "$ref": "#/tables/2"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "caption",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 6,
@@ -1363,7 +1148,7 @@
                   "t": 780.46801953125,
                   "r": 370.46259862500006,
                   "b": 770.1211104403409,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1374,16 +1159,8 @@
           },
           {
             "self_ref": "#/tables/2",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [
-              {
-                "$ref": "#/texts/61"
-              }
-            ],
-            "content_layer": "body",
             "label": "table",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 6,
@@ -1392,7 +1169,7 @@
                   "t": 760.677461248496,
                   "r": 429.2753683223945,
                   "b": 662.8452010645585,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1403,12 +1180,8 @@
           },
           {
             "self_ref": "#/texts/62",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 6,
@@ -1417,7 +1190,7 @@
                   "t": 649.96337953125,
                   "r": 163.28,
                   "b": 640.0446595312501,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1428,12 +1201,8 @@
           },
           {
             "self_ref": "#/texts/63",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 6,
@@ -1442,7 +1211,7 @@
                   "t": 636.34337953125,
                   "r": 98.88,
                   "b": 626.4246595312501,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1450,15 +1219,31 @@
                 ]
               }
             ]
-          },
+          }
+        ]
+      }
+    }
+  },
+  {
+    "content": "<!-- formula-not-decoded -->\n= 95.72%\nThe Number of appendectomies  declined from 200 (75.5%) in group I to 187 (70.6%)  in group II (P>0.05).",
+    "metadata": {
+      "document_id": "paper5",
+      "source": "paper5.pdf",
+      "topic": "Interpretation of results:",
+      "headings": [
+        "Interpretation of results:"
+      ],
+      "chunk_index": 11,
+      "total_chunks": 23,
+      "pages": [
+        6
+      ],
+      "docling": {
+        "doc_items": [
           {
             "self_ref": "#/texts/64",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "formula",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 6,
@@ -1467,7 +1252,7 @@
                   "t": 649.96337953125,
                   "r": 352.5971413760001,
                   "b": 626.4246595312501,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1478,12 +1263,8 @@
           },
           {
             "self_ref": "#/texts/65",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 6,
@@ -1492,7 +1273,7 @@
                   "t": 636.34337953125,
                   "r": 174.85999999999999,
                   "b": 626.4246595312501,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1500,38 +1281,11 @@
                 ]
               }
             ]
-          }
-        ],
-        "headings": [
-          "Interpretation of results:"
-        ],
-        "origin": {
-          "mimetype": "application/pdf",
-          "binary_hash": 9855669689426404175,
-          "filename": "paper5"
-        }
-      }
-    }
-  },
-  {
-    "content": "The Number of appendectomies  declined from 200 (75.5%) in group I to 187 (70.6%)  in group II (P>0.05).",
-    "metadata": {
-      "document_id": "paper5",
-      "source": "paper5.json",
-      "chunk_index": 11,
-      "total_chunks": 23,
-      "docling": {
-        "schema_name": "docling_core.transforms.chunker.DocMeta",
-        "version": "1.0.0",
-        "doc_items": [
+          },
           {
             "self_ref": "#/texts/66",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 6,
@@ -1540,7 +1294,7 @@
                   "t": 622.76657953125,
                   "r": 526.36,
                   "b": 598.2846595312501,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1549,15 +1303,7 @@
               }
             ]
           }
-        ],
-        "headings": [
-          "Interpretation of results:"
-        ],
-        "origin": {
-          "mimetype": "application/pdf",
-          "binary_hash": 9855669689426404175,
-          "filename": "paper5"
-        }
+        ]
       }
     }
   },
@@ -1565,21 +1311,22 @@
     "content": "Our study included 530 children  of whom 280 were males and 250 were females, with a male  to  female  ratio  of  1.12:1.  Our  patients aged  between  one  year  and  17  with  a  mean age of 12.6 ±1.4 (mean± S.D.). No significant differences were  observed  between  the  two groups as  regard   age  and  sex  distribution.\nIn group I, traditional clinical judgment and grey    scale  US  score  aided  CPGS    were performed.  200  patients  (75.5%)  underwent appendectomy, of them 35 appendices (17.5%) were  normal  at  histopathological evaluation. The   remaining  65  patients  (24.5%)  were discharged from the Pediatric Surgical Facility as not having  appendicitis.  Yet, out of  those 65, 3  children  (4.6%),  (2 males  and  I  female) were    re-admitted.  Ultrasonography  was repeated  suggesting  acute  appendicitis.  They underwent  appendectomy  with    positive pathological  results. A  total  of    203 appendectomies (76.6)  were  performed in this group.\nIn  group   II,   I87  patients  (70.6%)  have undergone appendectomy,  of them 90 patients (48.1%)  showed an MCPGS score between  I5 and 22, those patients  were  kept  with  no  oral feeding  (NPO),  intravenous fluid  infusion  (IV fluid) of appropriate type and amount according to patient's age  before  undergoing appendectomy.\nOnly  8  out  of  the  total  appendectomies (4.3%)  were    normal  at  histopathological evaluation.\nThe remaining 97 patients (36.6%)  initially showed  MCPGS  of   8-I4.  On   repeated evaluation every 2 hours for a maximum of 6",
     "metadata": {
       "document_id": "paper5",
-      "source": "paper5.json",
+      "source": "paper5.pdf",
+      "topic": "Results:",
+      "headings": [
+        "Results:"
+      ],
       "chunk_index": 12,
       "total_chunks": 23,
+      "pages": [
+        6
+      ],
       "docling": {
-        "schema_name": "docling_core.transforms.chunker.DocMeta",
-        "version": "1.0.0",
         "doc_items": [
           {
             "self_ref": "#/texts/68",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 6,
@@ -1588,7 +1335,7 @@
                   "t": 571.6633795312499,
                   "r": 294.91848322399994,
                   "b": 478.10465953125004,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1599,12 +1346,8 @@
           },
           {
             "self_ref": "#/texts/69",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 6,
@@ -1613,7 +1356,7 @@
                   "t": 474.04337953125,
                   "r": 294.685088,
                   "b": 268.50465953125,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1624,12 +1367,8 @@
           },
           {
             "self_ref": "#/texts/70",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 6,
@@ -1638,7 +1377,7 @@
                   "t": 264.80337953125,
                   "r": 294.9968990720001,
                   "b": 156.84465953125004,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1649,12 +1388,8 @@
           },
           {
             "self_ref": "#/texts/71",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 6,
@@ -1663,7 +1398,7 @@
                   "t": 152.66337953125003,
                   "r": 295.11107686400004,
                   "b": 115.08465953125005,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1674,12 +1409,8 @@
           },
           {
             "self_ref": "#/texts/72",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 6,
@@ -1688,7 +1419,7 @@
                   "t": 111.02337953125004,
                   "r": 294.69302528000003,
                   "b": 73.14465953125,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1697,15 +1428,7 @@
               }
             ]
           }
-        ],
-        "headings": [
-          "Results:"
-        ],
-        "origin": {
-          "mimetype": "application/pdf",
-          "binary_hash": 9855669689426404175,
-          "filename": "paper5"
-        }
+        ]
       }
     }
   },
@@ -1713,21 +1436,23 @@
     "content": "times  and  repetition  of  harmonic  US  during the  repeated  evaluation  for  at  least  one  time, their score progressed to 15 or more [61 patients (62.9%)  with a MCPGS of I5-I7, II  patients (Il.3%) with MCPGS  of 18, and  25 patients (25.8%) with  MCPGS   of  I9].   During  the observation period,  these  patients  were  kept with    nothing  to  be  taken    orally  (NPO), intravenous (IV) fluids  were  administered as appropriate. No antibiotics were given in order not  to  alter   the  clinical  picture. However, antibiotics were started once the diagnosis was confirmed. No  false   negative  cases   were recorded when using MCPGS.\nOn the other hand, 78 children (29.4%) did not undergo appendectomy, 48 of them (61.5%) showed  MCPGS  of  8  or  less  at  the  initial examination. They   were   referred  to   the Pediatric  Medical  Care   with   no  need   for surgical interventions. Thirty patients  (38.5%) showed MCPGS  between  9 and 14 declining with  repeated  examinations until  their  score became definitely 8 or less, they were managed medically.\nSpecificity ofMCPGS was higher than that of CPGS, this may be attributed  to the use of harmonic US in this modified scoring  system that seems  to be significantly  superior  to the conventional  grey scale US 90.69% in group! Table(3) compared to a specificity of70.47% in  group   II  (Z=5.999, P<O.OI).    Also  the Positive Predictive  Value for group II (95. 72%) was significantly higher  than  that  of group! (Z=4.727, P<O.OI). Applying Kappa analysis on  that data  of Table(l) revealed  the Kappa Measure  for  Agreement to  be 0.929  (93%), Confidence  intervals  (88.I-97. 7),\n(MCPGS  vs.    Histopathology), Z Kappa=15.1, P value ofO.OOOl. These results show the high specificity of our fmding in the MCPGS group.",
     "metadata": {
       "document_id": "paper5",
-      "source": "paper5.json",
+      "source": "paper5.pdf",
+      "topic": "Results:",
+      "headings": [
+        "Results:"
+      ],
       "chunk_index": 13,
       "total_chunks": 23,
+      "pages": [
+        6,
+        7
+      ],
       "docling": {
-        "schema_name": "docling_core.transforms.chunker.DocMeta",
-        "version": "1.0.0",
         "doc_items": [
           {
             "self_ref": "#/texts/73",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 6,
@@ -1736,7 +1461,7 @@
                   "t": 586.06337953125,
                   "r": 531.403932928,
                   "b": 394.28465953125004,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1747,12 +1472,8 @@
           },
           {
             "self_ref": "#/texts/74",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 6,
@@ -1761,7 +1482,7 @@
                   "t": 390.16337953125003,
                   "r": 531.6138350079999,
                   "b": 254.70465953124994,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1772,12 +1493,8 @@
           },
           {
             "self_ref": "#/texts/75",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 6,
@@ -1786,7 +1503,7 @@
                   "t": 251.04657953125002,
                   "r": 528.286936576,
                   "b": 72.72465953125004,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1797,12 +1514,8 @@
           },
           {
             "self_ref": "#/texts/78",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 7,
@@ -1811,7 +1524,7 @@
                   "t": 781.2960195312501,
                   "r": 295.08500999999995,
                   "b": 728.90401953125,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1820,15 +1533,7 @@
               }
             ]
           }
-        ],
-        "headings": [
-          "Results:"
-        ],
-        "origin": {
-          "mimetype": "application/pdf",
-          "binary_hash": 9855669689426404175,
-          "filename": "paper5"
-        }
+        ]
       }
     }
   },
@@ -1836,21 +1541,22 @@
     "content": "Acute appendicitis traditionally has been a clinical diagnosis and remains so to this day. The diagnosis can be difficult to make in many children who  may  present with atypical symptoms  or an equivocal physical examination. 18\nIn our current study, the newly advocated score aided guideline system (MCPGS) based on clinical judgment, laboratory investigations for  inflammatory response and harmonic US studies (Hn  in association with the strategy of active  watchful  waiting  performing  repeated clinical  examinations  as  well  as  at  least  one time  repetition  of  Harmonic  US  before  the decision-making  process. It was   highly accurate in the diagnosis of acute appendicitis in children.  The  specificity of the MCPGS was 90.69% compared to a specificity of70.47% in  the  children  to  whom  CPGS  and  active watchful  waiting  strategy was  applied.  In addition, we observed a statistically significant decrease in the negative appendectomy rate in groupll  compared  with those in groupl.  The decrease in negative appendectomies occurred without a rise in  the perforation rate. In fact, the  perforation  rate  was  lower  under the MCPGS,  although  this  change    was  not significant.\nThe inclusion and exclusion criteria of group formation in our study aimed at avoiding any selection bias as regards the patient's age and sex,  attending hospital  staff,  investigatory facilities  whether  laboratory  or  radiological and  the  pediatric  surgical  team.  Our  study aimed at avoiding the selection bias mentioned before in similar scoring system.19 Screening ultrasound scanning for pediatric appendicitis has suboptimal accuracy, particularly in obese children with a low likelihood of appendicitis who should not routinely undergo ultrasound scanning.However, when followed by a second ultrasound scanning or a clinical reassessment, it  offers  high  diagnostic   accuracy  in  lean children. 2 0\nTargeted abdominal examination as well as hannonic ultrasound scan HI constituted  around\n75% of our MCPGS scoring system with the aim  of  increasing  its  specificity  without affecting the system sensitivity.\nResults showed the superiority ofharmonic imaging   over  conventional  US  for  lesion visibility,  with   harmonic  imaging   being preferred  over  conventional  US  for  65%  of cases.  The  fmdings  were  clearer  and  better defmed with harmonic imaging which thereby improved the  detection of  subtle  lesions. Harmonic  imaging  theoretically  improved signal-to-noise ratios by reducing noise from side lobe  artifact in the  near  field  and  echo detection   from  multiple  scattering  events.",
     "metadata": {
       "document_id": "paper5",
-      "source": "paper5.json",
+      "source": "paper5.pdf",
+      "topic": "Discussion:",
+      "headings": [
+        "Discussion:"
+      ],
       "chunk_index": 14,
       "total_chunks": 23,
+      "pages": [
+        7
+      ],
       "docling": {
-        "schema_name": "docling_core.transforms.chunker.DocMeta",
-        "version": "1.0.0",
         "doc_items": [
           {
             "self_ref": "#/texts/80",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 7,
@@ -1859,7 +1565,7 @@
                   "t": 701.61601953125,
                   "r": 295.39310000000006,
                   "b": 621.00401953125,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1870,12 +1576,8 @@
           },
           {
             "self_ref": "#/texts/81",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 7,
@@ -1884,7 +1586,7 @@
                   "t": 617.3665795312501,
                   "r": 295.45610000000005,
                   "b": 313.48401953124994,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1895,12 +1597,8 @@
           },
           {
             "self_ref": "#/texts/82",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 7,
@@ -1909,7 +1607,7 @@
                   "t": 309.77601953125,
                   "r": 294.96425,
                   "b": 90.28401953125001,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1920,12 +1618,8 @@
           },
           {
             "self_ref": "#/texts/83",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 7,
@@ -1934,7 +1628,7 @@
                   "t": 86.09601953125002,
                   "r": 295.1258,
                   "b": 61.36401953125005,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1945,12 +1639,8 @@
           },
           {
             "self_ref": "#/texts/84",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 7,
@@ -1959,7 +1649,7 @@
                   "t": 781.2960195312501,
                   "r": 531.4897000000002,
                   "b": 742.9440195312501,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1970,12 +1660,8 @@
           },
           {
             "self_ref": "#/texts/85",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 7,
@@ -1984,7 +1670,7 @@
                   "t": 739.23601953125,
                   "r": 531.9555999999999,
                   "b": 589.14401953125,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1993,15 +1679,7 @@
               }
             ]
           }
-        ],
-        "headings": [
-          "Discussion:"
-        ],
-        "origin": {
-          "mimetype": "application/pdf",
-          "binary_hash": 9855669689426404175,
-          "filename": "paper5"
-        }
+        ]
       }
     }
   },
@@ -2009,21 +1687,22 @@
     "content": "This reduced  noise was most likely responsible  for  the  superiority  of  harmonic imaging  over    conventional  US in the visualization of the findings and improved the confidence  of  diagnosis  for most  cases. Harmonic  imaging  was    superior to conventional US in the visualization of lesions containing highly reflective tissues such as fat, calcium and air. It is therefore recommended to be used in obese patients. Better definition of    the    posterior  acoustic  shadows  in calcifications  and  appendicolith(s).21-28",
     "metadata": {
       "document_id": "paper5",
-      "source": "paper5.json",
+      "source": "paper5.pdf",
+      "topic": "Discussion:",
+      "headings": [
+        "Discussion:"
+      ],
       "chunk_index": 15,
       "total_chunks": 23,
+      "pages": [
+        7
+      ],
       "docling": {
-        "schema_name": "docling_core.transforms.chunker.DocMeta",
-        "version": "1.0.0",
         "doc_items": [
           {
             "self_ref": "#/texts/86",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 7,
@@ -2032,7 +1711,7 @@
                   "t": 585.43601953125,
                   "r": 532.0006,
                   "b": 422.10401953125,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -2041,15 +1720,7 @@
               }
             ]
           }
-        ],
-        "headings": [
-          "Discussion:"
-        ],
-        "origin": {
-          "mimetype": "application/pdf",
-          "binary_hash": 9855669689426404175,
-          "filename": "paper5"
-        }
+        ]
       }
     }
   },
@@ -2057,21 +1728,23 @@
     "content": "In our  study  the  negative  appendectomy rate  in  groups  I and  II  was  17.5  and  4.3%, respectively. Contrary to our results of  group I some did show a negative appendectomy rate of 5.5% by applying somewhat similar scoring system.19 The reason for such difference may be their  use  of  CT  scanning  in  their system. However,    the  difference  in  the  negative appendectomy  rate does not  support  the use of such an  expensive  sophisticated  and hazardous  radiological  tool  to  children. CT scanning is not always available in all centers limiting  its incorporation  in  clinical  practice guideline scoring system. A recently published study  of  a  practice  guideline  found  that  CT scan did not improve the accuracy of diagnosis in patients with suspected  appenecistis.29 Their guideline   did  not  specifically  address   the appropriate use of CT scan. Our study results ofMCPGS, however, did show a great decline in  the rate of  negative appendectomies. This goes with data of some authors who showed that  an imaging  protocol  using US  followed by  CT  in  their patients  with equivocal presentations  improved  the  accuracy  of diagnosis of appendicitis.30  We  present  our current results ofMCPGS which evolved from this and other studies recommending ultrasound as  the  imaging   modality of  choice   in  most patients.  In  addition  the  recommendation of MCPGS  was  not  limited  to  imaging  alone. Most  clinical  practice  guidelines  encourage, but do not    require  complaints  with recommendations)!Measuring complaints can  be  challenging  because   guidelines can include  numerous  recommendations  and because patients do not, especially  children do not  always  match  preconceived scenarios. 32 Although  many    barriers  limit  physician acceptance  of  guidelines,  33the  compliance with  our  MCPGS  is  consistent  with  other developed  practice  guidelines.2,3,6-9,34  A considerable  portion  of the  improvement  seen in our study could be because of the utilization and  accuracy  of  suitable  imaging. Practice guidelines and  clinical   pathways  have  been implemented  for many  conditions, 26 including acute  appendecitis)6,30,35   Analysis  of  such guidelines   can  focus  on  any  combination of patient  outcome, resource  utilization  or complaints  with   recommendation.16,34-36",
     "metadata": {
       "document_id": "paper5",
-      "source": "paper5.json",
+      "source": "paper5.pdf",
+      "topic": "Discussion:",
+      "headings": [
+        "Discussion:"
+      ],
       "chunk_index": 16,
       "total_chunks": 23,
+      "pages": [
+        7,
+        8
+      ],
       "docling": {
-        "schema_name": "docling_core.transforms.chunker.DocMeta",
-        "version": "1.0.0",
         "doc_items": [
           {
             "self_ref": "#/texts/87",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 7,
@@ -2080,7 +1753,7 @@
                   "t": 418.16657953124997,
                   "r": 532.0267,
                   "b": 72.46401953124996,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -2094,7 +1767,7 @@
                   "t": 780.6633795312499,
                   "r": 295.76827750399997,
                   "b": 422.54465953125003,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   1167,
@@ -2103,15 +1776,7 @@
               }
             ]
           }
-        ],
-        "headings": [
-          "Discussion:"
-        ],
-        "origin": {
-          "mimetype": "application/pdf",
-          "binary_hash": 9855669689426404175,
-          "filename": "paper5"
-        }
+        ]
       }
     }
   },
@@ -2119,21 +1784,22 @@
     "content": "Although  most  appendicitis  guideline  and pathways  focus  on  decreasing postoperative treatment cost,  a few concentrate on  diagnosis itself. One such pathway in a pediatric hospital achieved a significant reduction in the number oflaboratory  tests and X-rays without adversely affecting  the incidence  of    negative appendectomies  or  perforation.34 However,  in our   proposed  MCPGS  we   included  the minimum  necessary  laboratory  investigations to measure the inflammatory response and time and    effort  saving  harmonic  abdominal ultrasound  scan   in  order   to  decrease  the probabilities of  misdiagnosing acute abdominal pain due to other reasons as acute appendicitis.\nIn our current study both groups underwent the  active   watchful  waiting  strategy.  This excludes that  the decision-making  process  did result strictly from  the MCPGS  scale, and was not   rather  based   on   the  repeated  clinical reevaluation  that was  adopted  also  on  PGCS. This  exactly  shows  that  our proposed  score is superior  to  the  real   life   common clinical practice.\nIt may  be  concluded  that  the  use  of  a modified clinical and harmonic ultrasonographic grading score (MCPGS) with the  rationale of  active   watchful   waiting in suspected  appendicitis  with  at  least  one time repetition  of Harmonic  US was a prudent  and safe  strategy. It may  improve  the  accuracy  of diagnosing  acute  appendicitis  in  the  pediatric population as  it  is  superior   to  the  real  life common   clinical  practice. It leads  to  fewer negative appendectomies compared with  those children  to whom  it was  not applied  or  other scoring  systems  were  applied  as  the  CPGS with   the  same  strategy  of  active   watchful waiting and repeated US, without a significant change in  the  perforation  rate.   Moreover, inpatient  observation  for  serial  examinations was  reduced  significantly. Guidelines  such  as this   can   have  considerable  impact   on  the diagnosis  of acute  appendicitis in children. A larger  cohort   is  necessary to  validate our findings.",
     "metadata": {
       "document_id": "paper5",
-      "source": "paper5.json",
+      "source": "paper5.pdf",
+      "topic": "Discussion:",
+      "headings": [
+        "Discussion:"
+      ],
       "chunk_index": 17,
       "total_chunks": 23,
+      "pages": [
+        8
+      ],
       "docling": {
-        "schema_name": "docling_core.transforms.chunker.DocMeta",
-        "version": "1.0.0",
         "doc_items": [
           {
             "self_ref": "#/texts/90",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 8,
@@ -2142,7 +1808,7 @@
                   "t": 417.70337953125005,
                   "r": 295.1921984,
                   "b": 211.86465953125003,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -2153,12 +1819,8 @@
           },
           {
             "self_ref": "#/texts/91",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 8,
@@ -2167,7 +1829,7 @@
                   "t": 207.75345953124997,
                   "r": 295.0034197760001,
                   "b": 86.28465953124999,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -2178,12 +1840,8 @@
           },
           {
             "self_ref": "#/texts/92",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 8,
@@ -2192,7 +1850,7 @@
                   "t": 780.76657953125,
                   "r": 531.480603136,
                   "b": 477.20465953125,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -2201,15 +1859,7 @@
               }
             ]
           }
-        ],
-        "headings": [
-          "Discussion:"
-        ],
-        "origin": {
-          "mimetype": "application/pdf",
-          "binary_hash": 9855669689426404175,
-          "filename": "paper5"
-        }
+        ]
       }
     }
   },
@@ -2217,21 +1867,22 @@
     "content": "- 1Zakaria OM,  Adly  OA,  El-Labban GA, Khalil  HT: Acute  appendicitis  in  children: A clinical practice guideline scoring system. Suez Canal Univ Med J 2005;  8: 20-26.\n- 2-   Fran  ois  Y, Bonvoisin S, Descos  L, Vignal J: Prospective study of a predictive scoring  system  for   the   diagnosis  of appendicitis in patients  with  right  lower quadrant  pain.  Long-term  outcome. Gastroenterol Clin Bio/1991; 15: 794-799.\n- 3- Samuel  M: Pediatric  appendicitis  score. J Pediatr  Surg 2002;   37:    877-881.\n- 4- Rezak A, Abbas HM, Ajemian MS, Dudrick SJ,    Kwasnik  EM:  Decreased  use    of computed  tomography  with  a  modified clinical  scoring  system  in  diagnosis  of pediatric acute  appendicitis. Arch Surg 2011; 146: 64-67.\n- 5- Dado  G, Anania  G, Baccarani  U, Marcotti E,  Donini  A,  Risaliti   A,  Pasqualucci A, Bresadola F: Application of a clinical score for  the  diagnosis  of acute  appendicitis  in childhood: A retrospective  analysis  of  197 patients. J Pediatr Surg 2000;  35: 13201322.\n- 6-  Escriba  A,  Gamell AM,  Fernandez Y,",
     "metadata": {
       "document_id": "paper5",
-      "source": "paper5.json",
+      "source": "paper5.pdf",
+      "topic": "References:",
+      "headings": [
+        "References:"
+      ],
       "chunk_index": 18,
       "total_chunks": 23,
+      "pages": [
+        8
+      ],
       "docling": {
-        "schema_name": "docling_core.transforms.chunker.DocMeta",
-        "version": "1.0.0",
         "doc_items": [
           {
             "self_ref": "#/texts/94",
-            "parent": {
-              "$ref": "#/groups/3"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 8,
@@ -2240,7 +1891,7 @@
                   "t": 445.37345953125003,
                   "r": 531.2569599999999,
                   "b": 393.3611104403409,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -2251,12 +1902,8 @@
           },
           {
             "self_ref": "#/texts/95",
-            "parent": {
-              "$ref": "#/groups/3"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 8,
@@ -2265,7 +1912,7 @@
                   "t": 389.38337953125,
                   "r": 530.3919246239999,
                   "b": 309.521110440341,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -2276,12 +1923,8 @@
           },
           {
             "self_ref": "#/texts/96",
-            "parent": {
-              "$ref": "#/groups/3"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 8,
@@ -2290,7 +1933,7 @@
                   "t": 306.17601953124995,
                   "r": 529.32,
                   "b": 281.8611104403409,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -2301,12 +1944,8 @@
           },
           {
             "self_ref": "#/texts/97",
-            "parent": {
-              "$ref": "#/groups/3"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 8,
@@ -2315,7 +1954,7 @@
                   "t": 277.82337953125,
                   "r": 531.679003264,
                   "b": 197.88465953125,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -2326,12 +1965,8 @@
           },
           {
             "self_ref": "#/texts/98",
-            "parent": {
-              "$ref": "#/groups/3"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 8,
@@ -2340,7 +1975,7 @@
                   "t": 193.76337953125005,
                   "r": 531.243847824,
                   "b": 99.84465953125004,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -2351,12 +1986,8 @@
           },
           {
             "self_ref": "#/texts/99",
-            "parent": {
-              "$ref": "#/groups/3"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 8,
@@ -2365,7 +1996,7 @@
                   "t": 96.59601953125002,
                   "r": 526.6,
                   "b": 86.26401953125003,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -2374,15 +2005,7 @@
               }
             ]
           }
-        ],
-        "headings": [
-          "References:"
-        ],
-        "origin": {
-          "mimetype": "application/pdf",
-          "binary_hash": 9855669689426404175,
-          "filename": "paper5"
-        }
+        ]
       }
     }
   },
@@ -2390,21 +2013,22 @@
     "content": "- Quintilla JM,  Cubells CL:  Prospective validation of two systems of classification for  the  diagnosis of  acute  appendicitis. Pediatr  Emerg  Care 2011;  27:165-169.\n- 7- Shera  AH, Nizami  FA, Malik  AA, Naikoo ZA, Wani MA: Clinical scoring system  for diagnosis  of acute appendicitis  in children. Indianjoumal  of pediatrics 2011; 78: 287290.\n- 8-  Shreef   KS,  Waly  AH,  Abd-Elrahman S, Abd  Elhafez  MA: Alvarado score  as  an admission  criterion  in  children  with  pain in  right  iliac  fossa. Afr J Paediatr  Surg 2010; 7: 163-165.\n- 9-  Bhatt  M, Joseph  L,  Ducharme  FM, Dougherty  G, McGillivray  D: Prospective validation of the pediatric appendicitis score in a  Canadian  pediatric  emergency department. Acad Emerg Med 2009;  16: 591-596.\n- 10- Neilson IR, Laberge JM, Nguyen LT, Moir C,  Doody   D,  Sonnino  RE,  Youssef S, Guttman  FM:  Appendicitis  in  children: Current    therapeutic  recommendations. J Pediatr  Surg 1990;  25:    1113-1116.\n- 11-Pearl RH, Hale DA, Molloy M, Schutt DC, Jaques   DP:  Pediatric  appendectomy. J Pediatr  Surg 1995;  30:    173-178.\n- 12-Korner  H,  Sondenaa  K,  Soreide  JA, Andersen  E,    Nysted  A,  Lende  TH, Kjellevold  KH:    Incidence  of acute nonperforated  and  perforated  appendicitis: Age-specific  and  sex-specific  analysis. World J Surg 1997;  21:   313-317.\n- 13-Stephen AE, Segev DL, Ryan DP, Mullins ME,  Kim  SH,  Schnitzer JJ,  Doody   DP: The  diagnosis of  acute  appendicitis in  a pediatric  population:  To  CT or  not  to CT. J Pediatr Surg 2003;  38:   367-371.",
     "metadata": {
       "document_id": "paper5",
-      "source": "paper5.json",
+      "source": "paper5.pdf",
+      "topic": "References:",
+      "headings": [
+        "References:"
+      ],
       "chunk_index": 19,
       "total_chunks": 23,
+      "pages": [
+        9
+      ],
       "docling": {
-        "schema_name": "docling_core.transforms.chunker.DocMeta",
-        "version": "1.0.0",
         "doc_items": [
           {
             "self_ref": "#/texts/102",
-            "parent": {
-              "$ref": "#/groups/4"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 9,
@@ -2413,7 +2037,7 @@
                   "t": 781.0233795312499,
                   "r": 290.0,
                   "b": 729.5011104403409,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -2424,12 +2048,8 @@
           },
           {
             "self_ref": "#/texts/103",
-            "parent": {
-              "$ref": "#/groups/4"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 9,
@@ -2438,7 +2058,7 @@
                   "t": 725.46337953125,
                   "r": 294.04138880000005,
                   "b": 659.5446595312501,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -2449,12 +2069,8 @@
           },
           {
             "self_ref": "#/texts/104",
-            "parent": {
-              "$ref": "#/groups/4"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 9,
@@ -2463,7 +2079,7 @@
                   "t": 655.7833795312499,
                   "r": 294.73830310400007,
                   "b": 589.7646595312501,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -2474,12 +2090,8 @@
           },
           {
             "self_ref": "#/texts/105",
-            "parent": {
-              "$ref": "#/groups/4"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 9,
@@ -2488,7 +2100,7 @@
                   "t": 586.00337953125,
                   "r": 294.8609868799999,
                   "b": 505.70465953125,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -2499,12 +2111,8 @@
           },
           {
             "self_ref": "#/texts/106",
-            "parent": {
-              "$ref": "#/groups/4"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 9,
@@ -2513,7 +2121,7 @@
                   "t": 502.34657953125,
                   "r": 296.64226798399994,
                   "b": 435.901110440341,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -2524,12 +2132,8 @@
           },
           {
             "self_ref": "#/texts/107",
-            "parent": {
-              "$ref": "#/groups/4"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 9,
@@ -2538,7 +2142,7 @@
                   "t": 432.28337953125003,
                   "r": 291.86,
                   "b": 394.32111044034093,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -2549,12 +2153,8 @@
           },
           {
             "self_ref": "#/texts/108",
-            "parent": {
-              "$ref": "#/groups/4"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 9,
@@ -2563,7 +2163,7 @@
                   "t": 390.10337953125,
                   "r": 294.90254105599996,
                   "b": 310.18111044034094,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -2574,12 +2174,8 @@
           },
           {
             "self_ref": "#/texts/109",
-            "parent": {
-              "$ref": "#/groups/4"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 9,
@@ -2588,7 +2184,7 @@
                   "t": 306.62337953125007,
                   "r": 294.4384988059999,
                   "b": 240.52111044034086,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -2597,15 +2193,7 @@
               }
             ]
           }
-        ],
-        "headings": [
-          "References:"
-        ],
-        "origin": {
-          "mimetype": "application/pdf",
-          "binary_hash": 9855669689426404175,
-          "filename": "paper5"
-        }
+        ]
       }
     }
   },
@@ -2613,21 +2201,22 @@
     "content": "- 14-Partrick  DA,  Janik  JE, Janik  JS,  Bensard DD,    Karrer  FM: Increased  CT  scan utilization  does not improve the  diagnostic accuracy  of  appendicitis in  children. J Pediatr  Surg 2003;  38:    659-662.\n- 15-Flum  DR,  Koepsell   T:  The  clinical   and economic  correlates  of  misdiagnosed appendicitis:  Nationwide  analysis. Arch Surg 2002; 137: 799-804.\n- 16-Putnam TC,  Gagliano N,  Emmens  RW: Appendicitis  in  children. Surg  Gynecol Obstet 1990; 170: 527-532.\n- 17-Emil S, Laberge JM, Mikhail P, Baican L, Flageole  H,   Nguyen   L,   Shaw  K: Appendicitis  in children:A  ten-year update of  therapeutic  recommendations. J Pediatr Surg 2003; 38: 236-242.\n- 18-Zielke  A,  Sitter  H,  Rampp  T,  Bohrer  T, Rothmund  M:  Clinical    decision-making, ultrasonography,  and  scores for  evaluation of  suspected  acute  appendicitis. World  J Surg 2001; 25:578-584.\n- 19-Emil  S,  Mikhail  P,  Laberge  JM,  Flageole H,  Nguyen  LT,  Shaw   KS,   Baican L, Oudjhane  K: Clinical  versus  sonographic evaluation of acute appendicitis in children: A comparison of patient characteristics and outcomes. J Pediatr Surg 2001;  36: 780783.\n- 20-Schuh S,  Man  C,  Cheng  A,  Murphy   A, Mohanta  A,  Moineddin  R,  Tomlinson  G, Langer  JC,  Doria  AS: Predictors  of  non­ diagnostic  ultrasound  scanning  in  children with suspected appendicitis. J Pediatr 2011; 158: 112-118.\n- 21-Smink   DS,  Finkelstein JA,  Garcia  PeOa BM, Shannon  MW,  Taylor  GA, Fishman SJ:  Diagnosis  of  acute   appendicitis  in children using a clinical practice guideline. J Pediatr  Surg 2004;  39:   458-463.",
     "metadata": {
       "document_id": "paper5",
-      "source": "paper5.json",
+      "source": "paper5.pdf",
+      "topic": "References:",
+      "headings": [
+        "References:"
+      ],
       "chunk_index": 20,
       "total_chunks": 23,
+      "pages": [
+        9
+      ],
       "docling": {
-        "schema_name": "docling_core.transforms.chunker.DocMeta",
-        "version": "1.0.0",
         "doc_items": [
           {
             "self_ref": "#/texts/110",
-            "parent": {
-              "$ref": "#/groups/4"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 9,
@@ -2636,7 +2225,7 @@
                   "t": 236.48337953124997,
                   "r": 295.862339384,
                   "b": 170.44111044034094,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -2647,12 +2236,8 @@
           },
           {
             "self_ref": "#/texts/111",
-            "parent": {
-              "$ref": "#/groups/4"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 9,
@@ -2661,7 +2246,7 @@
                   "t": 166.46337953124998,
                   "r": 294.54837862399995,
                   "b": 114.70111044034093,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -2672,12 +2257,8 @@
           },
           {
             "self_ref": "#/texts/112",
-            "parent": {
-              "$ref": "#/groups/4"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 9,
@@ -2686,7 +2267,7 @@
                   "t": 110.36337953125008,
                   "r": 295.10984460800006,
                   "b": 72.76111044034087,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -2697,12 +2278,8 @@
           },
           {
             "self_ref": "#/texts/113",
-            "parent": {
-              "$ref": "#/groups/4"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 9,
@@ -2711,7 +2288,7 @@
                   "t": 781.0233795312499,
                   "r": 530.3679999999999,
                   "b": 715.5211104403409,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -2722,12 +2299,8 @@
           },
           {
             "self_ref": "#/texts/114",
-            "parent": {
-              "$ref": "#/groups/4"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 9,
@@ -2736,7 +2309,7 @@
                   "t": 711.84337953125,
                   "r": 532.0449575,
                   "b": 645.8411104403409,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -2747,12 +2320,8 @@
           },
           {
             "self_ref": "#/texts/115",
-            "parent": {
-              "$ref": "#/groups/4"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 9,
@@ -2761,7 +2330,7 @@
                   "t": 641.86337953125,
                   "r": 531.2795376639999,
                   "b": 548.24465953125,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -2772,12 +2341,8 @@
           },
           {
             "self_ref": "#/texts/116",
-            "parent": {
-              "$ref": "#/groups/4"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 9,
@@ -2786,7 +2351,7 @@
                   "t": 543.94337953125,
                   "r": 531.3460994559999,
                   "b": 464.18465953125,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -2797,12 +2362,8 @@
           },
           {
             "self_ref": "#/texts/117",
-            "parent": {
-              "$ref": "#/groups/4"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 9,
@@ -2811,7 +2372,7 @@
                   "t": 460.42337953125,
                   "r": 531.400908544,
                   "b": 394.44111044034094,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -2820,15 +2381,7 @@
               }
             ]
           }
-        ],
-        "headings": [
-          "References:"
-        ],
-        "origin": {
-          "mimetype": "application/pdf",
-          "binary_hash": 9855669689426404175,
-          "filename": "paper5"
-        }
+        ]
       }
     }
   },
@@ -2836,21 +2389,22 @@
     "content": "- 22-Perez  J, Barone  JE, Wilbanks  TO, Jorgensson D,  Corvo  PR:  Liberal  use  of computed  tomography  scanning  does  not improve diagnostic accuracy in appendicitis. Am J Surg 2003; 185: 194197.\n- 23-Peiia BM,  Taylor GA, Fishman  SJ, Mandl KD:  Effect   of  an  imaging protocol on clinical outcomes  among  pediatric patients with  appendicitis. Pediatrics 2002;  110: 1088-1093.\n- 24-Grossman RG,  Homer  C,  Goldman  DA: Case 2: Establishing and running a clinical practice  guideline   program  at  Children's Hospital,  Boston. In: Implementing  Clinical Practice  Guidelines.  Margolis  CZ,  Cretin S  (Editors);  Chicago,  IL,  AHA   Press (Publisher);  1999; p.151-175.\n- 25-Cretin S: Evaluating and monitoring clinical practice  guidelines.  In:    Implementing Clinical  Practice  Guidelines.Margolis  CZ, Cretin S (Editors); Chicago, IL, AHA Press (Publisher);  1999; p.121-138.",
     "metadata": {
       "document_id": "paper5",
-      "source": "paper5.json",
+      "source": "paper5.pdf",
+      "topic": "References:",
+      "headings": [
+        "References:"
+      ],
       "chunk_index": 21,
       "total_chunks": 23,
+      "pages": [
+        9
+      ],
       "docling": {
-        "schema_name": "docling_core.transforms.chunker.DocMeta",
-        "version": "1.0.0",
         "doc_items": [
           {
             "self_ref": "#/texts/118",
-            "parent": {
-              "$ref": "#/groups/4"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 9,
@@ -2859,7 +2413,7 @@
                   "t": 390.40337953125004,
                   "r": 531.608204032,
                   "b": 310.44465953124995,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -2870,12 +2424,8 @@
           },
           {
             "self_ref": "#/texts/119",
-            "parent": {
-              "$ref": "#/groups/4"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 9,
@@ -2884,7 +2434,7 @@
                   "t": 306.68337953125,
                   "r": 530.75451234,
                   "b": 240.66465953124998,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -2895,12 +2445,8 @@
           },
           {
             "self_ref": "#/texts/120",
-            "parent": {
-              "$ref": "#/groups/4"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 9,
@@ -2909,7 +2455,7 @@
                   "t": 236.48337953124997,
                   "r": 530.99553472,
                   "b": 142.56465953125007,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -2920,12 +2466,8 @@
           },
           {
             "self_ref": "#/texts/121",
-            "parent": {
-              "$ref": "#/groups/4"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 9,
@@ -2934,7 +2476,7 @@
                   "t": 138.50337953125006,
                   "r": 530.2846689280002,
                   "b": 72.78465953124999,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -2943,37 +2485,30 @@
               }
             ]
           }
-        ],
-        "headings": [
-          "References:"
-        ],
-        "origin": {
-          "mimetype": "application/pdf",
-          "binary_hash": 9855669689426404175,
-          "filename": "paper5"
-        }
+        ]
       }
     }
   },
   {
-    "content": "- 26-Cabana MD, Rand CS, Powe NR, Wu AW, Wilson  MH, Abboud  PA, Rubin HR:Why don't physicians   follow  clinical  practice guidelines? A framework for improvement. JAMA 1999; 282: 1458-1465.\n- 27-Grimshaw JM, Russell IT: Effect of clinical guidelines  on medical practice:  A systematic  review  of rigorous  evaluations. Lancet1993;342: 1317-1322.\n- 28-Wamer BW,  Kulick   RM,  Stoops  MM, Mehta  S,  Stephan M,  Kotagal  UR:  An evidenced-based clinical pathway for acute appendicitis decreases hospital  duration and cost. J Pediatr Surg 1998; 33: 13711375.\n- 29-Firilas AM,  Higginbotham PH,  Johnson DD, Jackson  RJ, Wagner  CW, Smith  SD: A new  economic  benchmark for  surgical treatment  of appendicitis. Am Surg 1999; 65: 769-773.\n- 30- Choudhry S, Gorman  B, Charboneau  JW, Tradup  DJ,  Beck  RJ, Kofler  JM,    Groth DS: Comparison  of tissue  harmonic imaging with conventional us in abdominal disease. Radio Graphics 2000; 20: 11271135.\n- 31-Ward  B,  Baker  AC,    Humphrey  VF: Nonlinear  propagation  applied  to the improvement of  resolution   in  diagnostic medical ultrasound. J Acoust Soc Am 1997; 101: 143-154.\n- 32-Starritt  HC,   Duck   FA,   Hawkins AJ, Humphrey  VF: The development  of harmonic  distortion  in  pulsed  finite­ amplitude ultrasound passing through liver. Phys  Med  Bioi 1986;   31:  1401-1409.\n- 33-Starritt  HC,  Perkins  MA, Duck    FA, Humphrey  VF:  Evidence  for  ultrasonic finite-amplitude  distortion  in muscle  using medical equipment. J Acoust Soc Am 1985; 77: 302-306.\n- 34-Muir TG:  Nonlinear effects  in  acoustic imaging. Acoust  /mag 1980;  9: 93-109.\n- 35-Ragavendra N,  Chen H, Powers JE, Nilawat C,   Robert  JM,  Carangi  C,  Laifer-Narin SL:Harmonic  imaging  of    porcine intraovarian  arteries    using    sonographic contrast  medium:  Initial   findings. illtrasound Obstet Gynecol1997; 9: 266270.",
+    "content": "- 26-Cabana MD, Rand CS, Powe NR, Wu AW, Wilson  MH, Abboud  PA, Rubin HR:Why don't physicians   follow  clinical  practice guidelines? A framework for improvement. JAMA 1999; 282: 1458-1465.\n- 27-Grimshaw JM, Russell IT: Effect of clinical guidelines  on medical practice:  A systematic  review  of rigorous  evaluations. Lancet1993;342: 1317-1322.\n- 28-Wamer BW,  Kulick   RM,  Stoops  MM, Mehta  S,  Stephan M,  Kotagal  UR:  An evidenced-based clinical pathway for acute appendicitis decreases hospital  duration and cost. J Pediatr Surg 1998; 33: 13711375.\n- 29-Firilas AM,  Higginbotham PH,  Johnson DD, Jackson  RJ, Wagner  CW, Smith  SD: A new  economic  benchmark for  surgical treatment  of appendicitis. Am Surg 1999; 65: 769-773.\n- 30- Choudhry S, Gorman  B, Charboneau  JW, Tradup  DJ,  Beck  RJ, Kofler  JM,    Groth DS: Comparison  of tissue  harmonic imaging with conventional us in abdominal disease. Radio Graphics 2000; 20: 11271135.\n- 31-Ward  B,  Baker  AC,    Humphrey  VF: Nonlinear  propagation  applied  to the improvement of  resolution   in  diagnostic medical ultrasound. J Acoust Soc Am 1997; 101: 143-154.\n- 32-Starritt  HC,   Duck   FA,   Hawkins AJ, Humphrey  VF: The development  of harmonic  distortion  in  pulsed  finite­ amplitude ultrasound passing through liver. Phys  Med  Bioi 1986;   31:  1401-1409.\n- 33-Starritt  HC,  Perkins  MA, Duck    FA, Humphrey  VF:  Evidence  for  ultrasonic finite-amplitude  distortion  in muscle  using medical equipment. J Acoust Soc Am 1985; 77: 302-306.\n- 34-Muir TG:  Nonlinear effects  in  acoustic imaging. Acoust  /mag 1980;  9: 93-109.",
     "metadata": {
       "document_id": "paper5",
-      "source": "paper5.json",
+      "source": "paper5.pdf",
+      "topic": "References:",
+      "headings": [
+        "References:"
+      ],
       "chunk_index": 22,
       "total_chunks": 23,
+      "pages": [
+        10
+      ],
       "docling": {
-        "schema_name": "docling_core.transforms.chunker.DocMeta",
-        "version": "1.0.0",
         "doc_items": [
           {
             "self_ref": "#/texts/124",
-            "parent": {
-              "$ref": "#/groups/5"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 10,
@@ -2982,7 +2517,7 @@
                   "t": 781.11601953125,
                   "r": 294.580613504,
                   "b": 714.5011104403409,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -2993,12 +2528,8 @@
           },
           {
             "self_ref": "#/texts/125",
-            "parent": {
-              "$ref": "#/groups/5"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 10,
@@ -3007,7 +2538,7 @@
                   "t": 710.46337953125,
                   "r": 294.108376692,
                   "b": 658.3211104403409,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -3018,12 +2549,8 @@
           },
           {
             "self_ref": "#/texts/126",
-            "parent": {
-              "$ref": "#/groups/5"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 10,
@@ -3032,7 +2559,7 @@
                   "t": 654.22337953125,
                   "r": 294.54727265599996,
                   "b": 574.5246595312501,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -3043,12 +2570,8 @@
           },
           {
             "self_ref": "#/texts/127",
-            "parent": {
-              "$ref": "#/groups/5"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 10,
@@ -3057,7 +2580,7 @@
                   "t": 570.4033795312499,
                   "r": 294.363751808,
                   "b": 504.38465953125,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -3068,12 +2591,8 @@
           },
           {
             "self_ref": "#/texts/128",
-            "parent": {
-              "$ref": "#/groups/5"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 10,
@@ -3082,7 +2601,7 @@
                   "t": 500.20337953125005,
                   "r": 294.90464652799994,
                   "b": 420.44465953125,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -3093,12 +2612,8 @@
           },
           {
             "self_ref": "#/texts/129",
-            "parent": {
-              "$ref": "#/groups/5"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 10,
@@ -3107,7 +2622,7 @@
                   "t": 416.32337953125,
                   "r": 294.45512921600005,
                   "b": 350.70465953125,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -3118,12 +2633,8 @@
           },
           {
             "self_ref": "#/texts/130",
-            "parent": {
-              "$ref": "#/groups/5"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 10,
@@ -3132,7 +2643,7 @@
                   "t": 780.30337953125,
                   "r": 531.1501143039999,
                   "b": 714.5011104403409,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -3143,12 +2654,8 @@
           },
           {
             "self_ref": "#/texts/131",
-            "parent": {
-              "$ref": "#/groups/5"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 10,
@@ -3157,7 +2664,7 @@
                   "t": 710.46337953125,
                   "r": 531.1937428479999,
                   "b": 644.36465953125,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -3168,12 +2675,8 @@
           },
           {
             "self_ref": "#/texts/132",
-            "parent": {
-              "$ref": "#/groups/5"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 10,
@@ -3182,7 +2685,7 @@
                   "t": 640.60337953125,
                   "r": 530.6865283839999,
                   "b": 616.2611104403409,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -3190,15 +2693,31 @@
                 ]
               }
             ]
-          },
+          }
+        ]
+      }
+    }
+  },
+  {
+    "content": "- 35-Ragavendra N,  Chen H, Powers JE, Nilawat C,   Robert  JM,  Carangi  C,  Laifer-Narin SL:Harmonic  imaging  of    porcine intraovarian  arteries    using    sonographic contrast  medium:  Initial   findings. illtrasound Obstet Gynecol1997; 9: 266270.\n- 36-Wu  JY,  Shung KK:  Nonlinear  energy exchange  among  harmonic  modes  and  its applications to nonlinear imaging. J  Acoust Soc Am 1990; 88: 2852-2858.\n- 37-Siegel  S: Nonparametric statistics  for the behavioral  sciences.  New   York,   NY: McGraw-Hill,  1956: 68-75.\n- 38-Shapiro  RS,  Wagreich  J,  Parsons  RB, Stancato-Pasik  A, Yeh HC,  Lao R: Tissue harmonic  imaging  sonography:  Evaluation of    image  quality compared  with conventional  sonography. AJR Am  J Roentgenol1998; 171:  1203-1206.",
+    "metadata": {
+      "document_id": "paper5",
+      "source": "paper5.pdf",
+      "topic": "References:",
+      "headings": [
+        "References:"
+      ],
+      "chunk_index": 23,
+      "total_chunks": 23,
+      "pages": [
+        10
+      ],
+      "docling": {
+        "doc_items": [
           {
             "self_ref": "#/texts/133",
-            "parent": {
-              "$ref": "#/groups/5"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 10,
@@ -3207,7 +2726,7 @@
                   "t": 612.7633795312499,
                   "r": 531.7861181439999,
                   "b": 518.72465953125,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -3215,38 +2734,11 @@
                 ]
               }
             ]
-          }
-        ],
-        "headings": [
-          "References:"
-        ],
-        "origin": {
-          "mimetype": "application/pdf",
-          "binary_hash": 9855669689426404175,
-          "filename": "paper5"
-        }
-      }
-    }
-  },
-  {
-    "content": "- 36-Wu  JY,  Shung KK:  Nonlinear  energy exchange  among  harmonic  modes  and  its applications to nonlinear imaging. J  Acoust Soc Am 1990; 88: 2852-2858.\n- 37-Siegel  S: Nonparametric statistics  for the behavioral  sciences.  New   York,   NY: McGraw-Hill,  1956: 68-75.\n- 38-Shapiro  RS,  Wagreich  J,  Parsons  RB, Stancato-Pasik  A, Yeh HC,  Lao R: Tissue harmonic  imaging  sonography:  Evaluation of    image  quality compared  with conventional  sonography. AJR Am  J Roentgenol1998; 171:  1203-1206.",
-    "metadata": {
-      "document_id": "paper5",
-      "source": "paper5.json",
-      "chunk_index": 23,
-      "total_chunks": 23,
-      "docling": {
-        "schema_name": "docling_core.transforms.chunker.DocMeta",
-        "version": "1.0.0",
-        "doc_items": [
+          },
           {
             "self_ref": "#/texts/134",
-            "parent": {
-              "$ref": "#/groups/5"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 10,
@@ -3255,7 +2747,7 @@
                   "t": 514.54337953125,
                   "r": 530.9009666560002,
                   "b": 462.54111044034096,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -3266,12 +2758,8 @@
           },
           {
             "self_ref": "#/texts/135",
-            "parent": {
-              "$ref": "#/groups/5"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 10,
@@ -3280,7 +2768,7 @@
                   "t": 458.98337953125,
                   "r": 530.346800512,
                   "b": 420.92465953125003,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -3291,12 +2779,8 @@
           },
           {
             "self_ref": "#/texts/136",
-            "parent": {
-              "$ref": "#/groups/5"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 10,
@@ -3305,7 +2789,7 @@
                   "t": 416.80337953125,
                   "r": 532.778397184,
                   "b": 336.8811104403409,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -3314,15 +2798,7 @@
               }
             ]
           }
-        ],
-        "headings": [
-          "References:"
-        ],
-        "origin": {
-          "mimetype": "application/pdf",
-          "binary_hash": 9855669689426404175,
-          "filename": "paper5"
-        }
+        ]
       }
     }
   }

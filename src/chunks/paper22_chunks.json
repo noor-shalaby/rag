@@ -3,21 +3,22 @@
     "content": "Hazem M. Sobieh, Hisham H. Mohamed, Ibrahim E. Ibrahim, Mohamed O El-shaer\nGeneral Surgery Department, Faculty of Medicine Benha University, Egypt.",
     "metadata": {
       "document_id": "paper22",
-      "source": "paper22.json",
+      "source": "paper22.pdf",
+      "topic": "Acute Appendicitis in Children; Is Surgery the Only Treatment Modality?",
+      "headings": [
+        "Acute Appendicitis in Children; Is Surgery the Only Treatment Modality?"
+      ],
       "chunk_index": 1,
       "total_chunks": 25,
+      "pages": [
+        1
+      ],
       "docling": {
-        "schema_name": "docling_core.transforms.chunker.DocMeta",
-        "version": "1.0.0",
         "doc_items": [
           {
             "self_ref": "#/texts/5",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 1,
@@ -26,7 +27,7 @@
                   "t": 642.736,
                   "r": 511.18,
                   "b": 632.404,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -37,12 +38,8 @@
           },
           {
             "self_ref": "#/texts/6",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 1,
@@ -51,7 +48,7 @@
                   "t": 590.32228,
                   "r": 183.23000000000002,
                   "b": 556.9067200000001,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -60,15 +57,7 @@
               }
             ]
           }
-        ],
-        "headings": [
-          "Acute Appendicitis in Children; Is Surgery the Only Treatment Modality?"
-        ],
-        "origin": {
-          "mimetype": "application/pdf",
-          "binary_hash": 3728831133730751743,
-          "filename": "paper22"
-        }
+        ]
       }
     }
   },
@@ -76,21 +65,22 @@
     "content": "General Surgery Department, Faculty of Medicine Benha University, Egypt.",
     "metadata": {
       "document_id": "paper22",
-      "source": "paper22.json",
+      "source": "paper22.pdf",
+      "topic": "Corresponding to:",
+      "headings": [
+        "Corresponding to:"
+      ],
       "chunk_index": 2,
       "total_chunks": 25,
+      "pages": [
+        1
+      ],
       "docling": {
-        "schema_name": "docling_core.transforms.chunker.DocMeta",
-        "version": "1.0.0",
         "doc_items": [
           {
             "self_ref": "#/texts/8",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 1,
@@ -99,7 +89,7 @@
                   "t": 532.57228,
                   "r": 183.23000000000002,
                   "b": 499.27672,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -108,15 +98,7 @@
               }
             ]
           }
-        ],
-        "headings": [
-          "Corresponding to:"
-        ],
-        "origin": {
-          "mimetype": "application/pdf",
-          "binary_hash": 3728831133730751743,
-          "filename": "paper22"
-        }
+        ]
       }
     }
   },
@@ -124,21 +106,22 @@
     "content": "eidibrahim081@gmail.com\nReceived:\n31 December 2023\nAccepted:\n15 May 2024",
     "metadata": {
       "document_id": "paper22",
-      "source": "paper22.json",
+      "source": "paper22.pdf",
+      "topic": "Email:",
+      "headings": [
+        "Email:"
+      ],
       "chunk_index": 3,
       "total_chunks": 25,
+      "pages": [
+        1
+      ],
       "docling": {
-        "schema_name": "docling_core.transforms.chunker.DocMeta",
-        "version": "1.0.0",
         "doc_items": [
           {
             "self_ref": "#/texts/10",
-            "parent": {
-              "$ref": "#/groups/1"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 1,
@@ -147,7 +130,7 @@
                   "t": 458.17228,
                   "r": 175.07,
                   "b": 449.59672,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -158,12 +141,8 @@
           },
           {
             "self_ref": "#/texts/11",
-            "parent": {
-              "$ref": "#/groups/1"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 1,
@@ -172,7 +151,7 @@
                   "t": 433.17292000000003,
                   "r": 106.91,
                   "b": 424.79535272727276,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -183,12 +162,8 @@
           },
           {
             "self_ref": "#/texts/12",
-            "parent": {
-              "$ref": "#/groups/1"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 1,
@@ -197,7 +172,7 @@
                   "t": 433.33228,
                   "r": 185.51000000000002,
                   "b": 424.75672000000003,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -208,12 +183,8 @@
           },
           {
             "self_ref": "#/texts/13",
-            "parent": {
-              "$ref": "#/groups/1"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 1,
@@ -222,7 +193,7 @@
                   "t": 400.41292000000004,
                   "r": 107.99,
                   "b": 392.03535272727277,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -233,12 +204,8 @@
           },
           {
             "self_ref": "#/texts/14",
-            "parent": {
-              "$ref": "#/groups/1"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 1,
@@ -247,7 +214,7 @@
                   "t": 400.57228000000003,
                   "r": 163.91,
                   "b": 391.99672000000004,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -256,15 +223,7 @@
               }
             ]
           }
-        ],
-        "headings": [
-          "Email:"
-        ],
-        "origin": {
-          "mimetype": "application/pdf",
-          "binary_hash": 3728831133730751743,
-          "filename": "paper22"
-        }
+        ]
       }
     }
   },
@@ -272,21 +231,22 @@
     "content": "Background: Historically, appendectomy has been the treatment of choice for children with acute appendicitis. Nevertheless, there is growing interest in the effectiveness and security of non-invasive methods. This study aimed  to comparing a non-operative therapy approach to appendectomy in children with simple acute appendicitis in terms of efficacy, safety, and cost-effectiveness. Methods: This prospective randomized  controlled  clinical  trial  was  undertaken  at  Benha University Hospital from December 2022 to December 2023. The  study  comprised  children  between  the  ages  of  4  and  16 who had uncomplicated acute appendicitis pediatric Appendicitis  Score  (PAS  4  to  6).  Appendectomy  and  nonoperative (antibiotic therapy) patient groups were established. Extensive examinations were conducted, encompassing clinical,  laboratory,  and  radiographic  studies. Results :  120 patients out of a total of 133 were studied (60 in each group). Significant variations were noted in PAS, laboratory tests, days of  hospitalization,  and  problems  prior  to  release  across  the groups. Conclusion: Significant disparities in outcomes between non-operative and appendectomy treatments in pediatric  patients  with  uncomplicated  acute  appendicitis  are suggested  by  the  study.  Non-operative  therapy  has  exhibited potential  advantages  in  some  instances,  including  decreased hospitalization and equivalent safety results.\nKeywords: Acute  Appendicitis;  Non-operative  Treatment;  Appendectomy;  Pediatric Appendicitis Score; Antibiotic Therapy.",
     "metadata": {
       "document_id": "paper22",
-      "source": "paper22.json",
+      "source": "paper22.pdf",
+      "topic": "Abstract",
+      "headings": [
+        "Abstract"
+      ],
       "chunk_index": 4,
       "total_chunks": 25,
+      "pages": [
+        1
+      ],
       "docling": {
-        "schema_name": "docling_core.transforms.chunker.DocMeta",
-        "version": "1.0.0",
         "doc_items": [
           {
             "self_ref": "#/texts/16",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 1,
@@ -295,7 +255,7 @@
                   "t": 569.176,
                   "r": 525.1,
                   "b": 193.99400000000003,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -306,12 +266,8 @@
           },
           {
             "self_ref": "#/texts/17",
-            "parent": {
-              "$ref": "#/groups/2"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 1,
@@ -320,7 +276,7 @@
                   "t": 176.336,
                   "r": 524.9539999999998,
                   "b": 150.164,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -329,15 +285,7 @@
               }
             ]
           }
-        ],
-        "headings": [
-          "Abstract"
-        ],
-        "origin": {
-          "mimetype": "application/pdf",
-          "binary_hash": 3728831133730751743,
-          "filename": "paper22"
-        }
+        ]
       }
     }
   },
@@ -345,21 +293,22 @@
     "content": "Inflammation of the appendix occurs suddenly  and  is  known  as  appendicitis. In  addition  to  being  a  leading  cause  of stomach discomfort, especially in youngsters,  it  is  also  the  most  common surgical emergency. In patients who have never had an appendectomy before but are experiencing severe stomach discomfort, it should be considered (1).\nAmong the most prevalent intraabdominal  crises  is  acute  appendicitis, which  affects  89  out  of  100,000  people every  year  and  puts  7-8  percent  of  the population at risk of having the condition at some point in their lives (2).\nThe  gold standard for treating acute appendicitis is appendectomy (3). On the other  hand,  there  is  growing  concern  in medical  journals  about  the  conservative approach to treating this prevalent ailment: Within the several years, a number of meta-analyses and randomized  controlled  trials  have  been carried out (4).\nThe  antibiotic  therapy's  efficacy,  safety, therapeutic appropriateness, and costeffectiveness  in  comparison  to  surgical treatment  of  acute  appendicitis  are  the primary concerns tackled by this research.  Even  though  appendectomy  is still  the  preferred  therapy  according  to international standards, antibiotic management is still an option for simple cases of acute appendicitis (5).\nAn invasive treatment like an appendectomy might throw a child's regular schedule into a loop. 5 Complication rates for this curative treatment  range  from  5%  to  10%,  with 1% to 7% of patients experiencing major problems (6).\nReducing  the  need  for  appendectomy and associated costs, non-operative therapy (NOT) combines a wait-and-see strategy with medical treatment, limiting appendectomy to cases with severe appendicitis.  NOT  leads  to  regression lymphoid  follicles  which  subsequently decrease  inflammation  and  obstruction. The morbidity caused by acute appendicitis  in  children  can  be  reduced with medical therapy, since it is feasible to avoid surgery and associated consequences (7).\nThe  overall  cost  was  lower  in  cases  of NOT, and it is considered a costeffective method with little hospital burden,  even  if  some  children  required readmission owing to recurrent appendicitis (8).\nThe  grey  area  about  the  exact  line  of treatment of query appendicitis in children and lack of approved guidelines has motivated the authors to conduct this study",
     "metadata": {
       "document_id": "paper22",
-      "source": "paper22.json",
+      "source": "paper22.pdf",
+      "topic": "Introduction",
+      "headings": [
+        "Introduction"
+      ],
       "chunk_index": 5,
       "total_chunks": 25,
+      "pages": [
+        2
+      ],
       "docling": {
-        "schema_name": "docling_core.transforms.chunker.DocMeta",
-        "version": "1.0.0",
         "doc_items": [
           {
             "self_ref": "#/texts/21",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 2,
@@ -368,7 +317,7 @@
                   "t": 689.296,
                   "r": 291.348,
                   "b": 552.004,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -379,12 +328,8 @@
           },
           {
             "self_ref": "#/texts/22",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 2,
@@ -393,7 +338,7 @@
                   "t": 534.466,
                   "r": 291.39799999999997,
                   "b": 444.81399999999996,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -404,12 +349,8 @@
           },
           {
             "self_ref": "#/texts/23",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 2,
@@ -418,7 +359,7 @@
                   "t": 427.186,
                   "r": 291.422,
                   "b": 289.87399999999997,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -429,12 +370,8 @@
           },
           {
             "self_ref": "#/texts/24",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 2,
@@ -443,7 +380,7 @@
                   "t": 272.366,
                   "r": 291.386,
                   "b": 119.20399999999995,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -454,12 +391,8 @@
           },
           {
             "self_ref": "#/texts/25",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 2,
@@ -468,7 +401,7 @@
                   "t": 101.70000000000005,
                   "r": 291.31200000000007,
                   "b": 75.40800000000002,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -482,7 +415,7 @@
                   "t": 701.296,
                   "r": 524.9779999999998,
                   "b": 627.484,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   65,
@@ -493,12 +426,8 @@
           },
           {
             "self_ref": "#/texts/26",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 2,
@@ -507,7 +436,7 @@
                   "t": 609.976,
                   "r": 525.1,
                   "b": 409.174,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -518,12 +447,8 @@
           },
           {
             "self_ref": "#/texts/27",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 2,
@@ -532,7 +457,7 @@
                   "t": 391.666,
                   "r": 524.9779999999997,
                   "b": 301.87399999999997,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -543,12 +468,8 @@
           },
           {
             "self_ref": "#/texts/28",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 2,
@@ -557,7 +478,7 @@
                   "t": 284.366,
                   "r": 525.0219999999999,
                   "b": 210.55399999999997,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -566,15 +487,7 @@
               }
             ]
           }
-        ],
-        "headings": [
-          "Introduction"
-        ],
-        "origin": {
-          "mimetype": "application/pdf",
-          "binary_hash": 3728831133730751743,
-          "filename": "paper22"
-        }
+        ]
       }
     }
   },
@@ -582,21 +495,23 @@
     "content": "The  current  study  was  a  randomized clinical  trial  that  was  included  children presenting  to  the  emergency  room  at Benha University Hospital between December  2022 and December  2023 with uncomplicated acute appendicitis.\nEach patient was asked to sign a document indicating their fully informed permission. An explanation of the study's  goal  and  a  secret  code  number were given to each patient, after receiving approval from Benha University's Research Ethics Committee, the  Faculty  of  Medicine    (MS  50-102022).\nInclusion criteria were :This study included both boys and girls who were 4 to 16 years old, diagnosed with moderate probability acute appendicitis, and had a paediatric  appendicitis  score  (PAS)  less than 7 (9).\nThe  exclusion  criteria  for  this  study included the following: admission with unstable vital signs such as hypotension and tachycardia despite resuscitation; clinical or radiological indications of perforated appendicitis; presentation with  an  appendix  mass;  previous  nonoperative  treatment  for  appendicitis  or appendix mass; known antibiotic allergies  that  preclude  the  allocation  of non-operative  treatment;  or  initiation  of antibiotic therapy at the referring institution, which is defined as the administration of two or more doses.",
     "metadata": {
       "document_id": "paper22",
-      "source": "paper22.json",
+      "source": "paper22.pdf",
+      "topic": "Study design:",
+      "headings": [
+        "Study design:"
+      ],
       "chunk_index": 6,
       "total_chunks": 25,
+      "pages": [
+        2,
+        3
+      ],
       "docling": {
-        "schema_name": "docling_core.transforms.chunker.DocMeta",
-        "version": "1.0.0",
         "doc_items": [
           {
             "self_ref": "#/texts/31",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 2,
@@ -605,7 +520,7 @@
                   "t": 134.57600000000002,
                   "r": 525.088,
                   "b": 76.72799999999995,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -619,7 +534,7 @@
                   "t": 717.3960000000001,
                   "r": 291.336,
                   "b": 691.2040000000001,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   162,
@@ -630,12 +545,8 @@
           },
           {
             "self_ref": "#/texts/34",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 3,
@@ -644,7 +555,7 @@
                   "t": 673.696,
                   "r": 291.44599999999997,
                   "b": 536.404,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -655,12 +566,8 @@
           },
           {
             "self_ref": "#/texts/35",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 3,
@@ -669,7 +576,7 @@
                   "t": 518.746,
                   "r": 291.4339999999999,
                   "b": 429.094,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -680,12 +587,8 @@
           },
           {
             "self_ref": "#/texts/36",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 3,
@@ -694,7 +597,7 @@
                   "t": 411.154,
                   "r": 291.398,
                   "b": 194.95399999999995,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -703,15 +606,7 @@
               }
             ]
           }
-        ],
-        "headings": [
-          "Study design:"
-        ],
-        "origin": {
-          "mimetype": "application/pdf",
-          "binary_hash": 3728831133730751743,
-          "filename": "paper22"
-        }
+        ]
       }
     }
   },
@@ -719,21 +614,22 @@
     "content": "It was done using specific software (Random Allocation Software 1.0, 2011).  This  block  randomization  was done by an independent investigator",
     "metadata": {
       "document_id": "paper22",
-      "source": "paper22.json",
+      "source": "paper22.pdf",
+      "topic": "Randomization:",
+      "headings": [
+        "Randomization:"
+      ],
       "chunk_index": 7,
       "total_chunks": 25,
+      "pages": [
+        3
+      ],
       "docling": {
-        "schema_name": "docling_core.transforms.chunker.DocMeta",
-        "version": "1.0.0",
         "doc_items": [
           {
             "self_ref": "#/texts/38",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 3,
@@ -742,7 +638,7 @@
                   "t": 149.45600000000002,
                   "r": 291.39799999999997,
                   "b": 91.60799999999995,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -751,15 +647,7 @@
               }
             ]
           }
-        ],
-        "headings": [
-          "Randomization:"
-        ],
-        "origin": {
-          "mimetype": "application/pdf",
-          "binary_hash": 3728831133730751743,
-          "filename": "paper22"
-        }
+        ]
       }
     }
   },
@@ -767,21 +655,23 @@
     "content": "Complete preoperative assessment for all included patient was done include detailed medical history. A comprehensive clinical examination was undertaken, encompassing a systemic evaluation as well as a general assessment (including pallor or jaundice symptoms,  vital  signs  including  pulse, blood pressure, capillary filling time, and respiration rate, and temperature) (covering cardiovascular, respiratory, gastrointestinal, CNS, and musculoskeletal  systems).  The routine laboratory examinations comprised a random blood sugar evaluation, complete  blood  count,  kidney  function testing, and liver function tests. Radiological assessments consisted of abdominal-pelvic ultrasound, with the possibility  of  an  abdominal  CT  scan  if considered essential.\nThe participants were allocated into two distinct groups: the non-operative group, which received targeted antibiotic regimens initially intravenously and subsequently orally as soon as their clinical condition improved; and the appendectomy  group,  which  underwent open appendectomy and concurrently received  three  doses  of  antibiotics in addition to standard post-operative care. Patients  were  administered  a  parenteral second-generation cephalosporin antibiotic while supinely positioned during surgery. The procedure was conducted under general anaesthesia, and a urinary catheter was introduced to facilitate the management of intraoperative and postoperative fluids.",
     "metadata": {
       "document_id": "paper22",
-      "source": "paper22.json",
+      "source": "paper22.pdf",
+      "topic": "Methods:",
+      "headings": [
+        "Methods:"
+      ],
       "chunk_index": 8,
       "total_chunks": 25,
+      "pages": [
+        3,
+        4
+      ],
       "docling": {
-        "schema_name": "docling_core.transforms.chunker.DocMeta",
-        "version": "1.0.0",
         "doc_items": [
           {
             "self_ref": "#/texts/40",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 3,
@@ -790,7 +680,7 @@
                   "t": 689.5360000000001,
                   "r": 525.112,
                   "b": 361.774,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -801,12 +691,8 @@
           },
           {
             "self_ref": "#/texts/41",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 3,
@@ -815,7 +701,7 @@
                   "t": 344.246,
                   "r": 525.112,
                   "b": 95.80799999999999,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -829,7 +715,7 @@
                   "t": 717.3960000000001,
                   "r": 291.324,
                   "b": 691.2040000000001,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   613,
@@ -838,15 +724,7 @@
               }
             ]
           }
-        ],
-        "headings": [
-          "Methods:"
-        ],
-        "origin": {
-          "mimetype": "application/pdf",
-          "binary_hash": 3728831133730751743,
-          "filename": "paper22"
-        }
+        ]
       }
     }
   },
@@ -854,21 +732,22 @@
     "content": "All included patients underwent appendectomy other conventional surgical method or laparoscopic technique was applied\nPatient  care  following  surgery  consists of prophylactic antibiotics, pain treatment, early ambulation, a progressive diet, and exercise levels raised in accordance with tolerance.\nOne  week  following  the  procedure,  an outpatient  clinic  conducts  postoperative follow-up  to  accomplish  stitch  removal and provide reassurance. Due  to the impracticability of blinding for nonoperative  therapy,  participants,  parents, and staff are informed about the intervention. The same discharge criteria apply  to  both  cohorts:  maintenance  of stable vital signs, absence of fever for at least  24  hours,  tolerance  to  oral  intake, effective pain management, and adequate mobility. At the time of discharge, participants are provided with information on symptoms that raise concerns or \"red flags\" and the recommended courses of action.\nForty-eight  hours  owing  to  symptoms worsening, or appendicitis recurrence within  six  months  are  used  to  ascertain non-operative therapy failure.\nFollow up: Improvement or development of complications will be noted.\nParticipants will be asked to complete a diary card for the first 14 days following hospital discharge about: medication taken (antibiotics and analgesia), whether they are able to return to normal activity  or  full  activity  that  day  and  if their parent(s) have to take time off work because of their appendicitis.\nA  clinic  follow-up  visit  will  be  at  6 weeks  with  further  trial  follow-up  at  3 and 6 months following discharge, in the outpatient clinic.\nFailure  of  non-operative  treatment  will be defined if any one of the following is seen: abscess formation or complex periappendiceal fluid collection seen on ultrasonography,  the need  for surgery (due to worsening of symptoms evaluated by history, physical examination and repeat USG) within 48 hours, or recurrence of appendicitis within 6 months.",
     "metadata": {
       "document_id": "paper22",
-      "source": "paper22.json",
+      "source": "paper22.pdf",
+      "topic": "Surgical technique:",
+      "headings": [
+        "Surgical technique:"
+      ],
       "chunk_index": 9,
       "total_chunks": 25,
+      "pages": [
+        4
+      ],
       "docling": {
-        "schema_name": "docling_core.transforms.chunker.DocMeta",
-        "version": "1.0.0",
         "doc_items": [
           {
             "self_ref": "#/texts/45",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 4,
@@ -877,7 +756,7 @@
                   "t": 645.736,
                   "r": 291.37200000000007,
                   "b": 587.884,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -888,12 +767,8 @@
           },
           {
             "self_ref": "#/texts/46",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 4,
@@ -902,7 +777,7 @@
                   "t": 570.2560000000001,
                   "r": 291.31200000000007,
                   "b": 496.414,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -913,12 +788,8 @@
           },
           {
             "self_ref": "#/texts/47",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 4,
@@ -927,7 +798,7 @@
                   "t": 478.90599999999995,
                   "r": 291.41,
                   "b": 214.63400000000001,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -938,12 +809,8 @@
           },
           {
             "self_ref": "#/texts/48",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 4,
@@ -952,7 +819,7 @@
                   "t": 197.12599999999998,
                   "r": 291.41,
                   "b": 139.12400000000002,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -963,12 +830,8 @@
           },
           {
             "self_ref": "#/texts/49",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 4,
@@ -977,7 +840,7 @@
                   "t": 121.61599999999999,
                   "r": 291.3200000000001,
                   "b": 95.44799999999998,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -988,12 +851,8 @@
           },
           {
             "self_ref": "#/texts/50",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 4,
@@ -1002,7 +861,7 @@
                   "t": 717.3960000000001,
                   "r": 525.058,
                   "b": 595.9240000000001,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1013,12 +872,8 @@
           },
           {
             "self_ref": "#/texts/51",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 4,
@@ -1027,7 +882,7 @@
                   "t": 578.416,
                   "r": 525.1,
                   "b": 520.414,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1038,12 +893,8 @@
           },
           {
             "self_ref": "#/texts/52",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 4,
@@ -1052,7 +903,7 @@
                   "t": 502.90599999999995,
                   "r": 525.1,
                   "b": 349.75399999999996,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1061,15 +912,7 @@
               }
             ]
           }
-        ],
-        "headings": [
-          "Surgical technique:"
-        ],
-        "origin": {
-          "mimetype": "application/pdf",
-          "binary_hash": 3728831133730751743,
-          "filename": "paper22"
-        }
+        ]
       }
     }
   },
@@ -1077,21 +920,22 @@
     "content": "Primary: effective treatment of children with query appendicitis without unneeded surgeries\nSecondary: decrease  overall  cost  and burden on the health care system",
     "metadata": {
       "document_id": "paper22",
-      "source": "paper22.json",
+      "source": "paper22.pdf",
+      "topic": "Outcomes:",
+      "headings": [
+        "Outcomes:"
+      ],
       "chunk_index": 10,
       "total_chunks": 25,
+      "pages": [
+        4
+      ],
       "docling": {
-        "schema_name": "docling_core.transforms.chunker.DocMeta",
-        "version": "1.0.0",
         "doc_items": [
           {
             "self_ref": "#/texts/54",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 4,
@@ -1100,7 +944,7 @@
                   "t": 304.40599999999995,
                   "r": 524.9979999999997,
                   "b": 262.274,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1111,12 +955,8 @@
           },
           {
             "self_ref": "#/texts/55",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 4,
@@ -1125,7 +965,7 @@
                   "t": 245.95507999999995,
                   "r": 525.088,
                   "b": 218.59400000000005,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1134,15 +974,7 @@
               }
             ]
           }
-        ],
-        "headings": [
-          "Outcomes:"
-        ],
-        "origin": {
-          "mimetype": "application/pdf",
-          "binary_hash": 3728831133730751743,
-          "filename": "paper22"
-        }
+        ]
       }
     }
   },
@@ -1150,21 +982,23 @@
     "content": "The  sample  size  required  to  achieve  a power  of  1  𝛽 =0.80  (80%)  for  the Spearman , s  correlation at level α = 0.05\n(5%),  under  these  assumptions  amounts to 193 (G*Power, version 3.1)\nAn  SPSS  v26  statistical  analysis  was performed (IBM Inc., Armonk, NY, USA). The quantitative data were expressed as the mean  and standard deviation  (SD).  To  compare  the  two groups,  unpaired  Student's  t-tests  and ANOVA  (F)  tests were utilized. In instances  where  applicable,  qualitative variables  were  evaluated  using  the  Chisquare test or Fisher's exact test in conjunction with frequency and percentage (percent) presentations. A two-tailed  P  value  less  than  0.05  was deemed to indicate statistical significance.",
     "metadata": {
       "document_id": "paper22",
-      "source": "paper22.json",
+      "source": "paper22.pdf",
+      "topic": "Sample size",
+      "headings": [
+        "Sample size"
+      ],
       "chunk_index": 11,
       "total_chunks": 25,
+      "pages": [
+        4,
+        5
+      ],
       "docling": {
-        "schema_name": "docling_core.transforms.chunker.DocMeta",
-        "version": "1.0.0",
         "doc_items": [
           {
             "self_ref": "#/texts/58",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 4,
@@ -1173,7 +1007,7 @@
                   "t": 145.25599999999997,
                   "r": 525.0579999999999,
                   "b": 102.88400000000001,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1184,12 +1018,8 @@
           },
           {
             "self_ref": "#/texts/61",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 5,
@@ -1198,7 +1028,7 @@
                   "t": 717.3960000000001,
                   "r": 291.28800000000007,
                   "b": 691.2040000000001,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1209,12 +1039,8 @@
           },
           {
             "self_ref": "#/texts/62",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 5,
@@ -1223,7 +1049,7 @@
                   "t": 673.696,
                   "r": 291.386,
                   "b": 441.094,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1232,15 +1058,7 @@
               }
             ]
           }
-        ],
-        "headings": [
-          "Sample size"
-        ],
-        "origin": {
-          "mimetype": "application/pdf",
-          "binary_hash": 3728831133730751743,
-          "filename": "paper22"
-        }
+        ]
       }
     }
   },
@@ -1248,21 +1066,23 @@
     "content": "From December 2022 to December 2023,  a  prospective  randomized  clinical trial  was  carried  out  in  the  emergency department of Benha University Hospital.  The  study  included  a  total  of 120 subjects, who were divided into two groups:  the  Appendectomy  group  (60 children  undergoing  appendectomy) and the non-operative group (60 children receiving non-operative treatment). In the  beginning,  a  total  of  150  patients were enrolled; however, 17 were excluded for failing to meet the inclusion criteria or declining to participate, leaving  133  individuals.  Following  this, thirteen  patients  were  lost  to  follow-up, leaving for  analysis  120  people  who were  evenly  allocated  between  the  two groups. Figure 1\nFigure 1: CONSORT flowchart\nOverall, there were no substantial demographic differences observed between the two groups based on age or sex distribution. In terms of PAS, a substantial and statistically significant difference existed between the two groups under study. A statistically significant distinction was observed between the two groups under study with respect to laboratory studies. Regarding  clinical  manifestation,  there was no statistically significant difference between  the  two  groups  examined.  In terms  of  days  of  hospitalization,  there was a substantial and statistically significant  difference  between  the  two groups under study. Table 1\nA statistically significant distinction was seen between the two groups under investigation  with  respect  to  problems before to discharge. Table 2",
     "metadata": {
       "document_id": "paper22",
-      "source": "paper22.json",
+      "source": "paper22.pdf",
+      "topic": "Results",
+      "headings": [
+        "Results"
+      ],
       "chunk_index": 12,
       "total_chunks": 25,
+      "pages": [
+        5,
+        6
+      ],
       "docling": {
-        "schema_name": "docling_core.transforms.chunker.DocMeta",
-        "version": "1.0.0",
         "doc_items": [
           {
             "self_ref": "#/texts/64",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 5,
@@ -1271,7 +1091,7 @@
                   "t": 686.8960000000001,
                   "r": 525.1,
                   "b": 390.81399999999996,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1282,12 +1102,8 @@
           },
           {
             "self_ref": "#/texts/65",
-            "parent": {
-              "$ref": "#/pictures/1"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "caption",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 5,
@@ -1296,7 +1112,7 @@
                   "t": 127.42399999999998,
                   "r": 389.83,
                   "b": 117.33054545454547,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1307,12 +1123,8 @@
           },
           {
             "self_ref": "#/texts/87",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 6,
@@ -1321,7 +1133,7 @@
                   "t": 705.376,
                   "r": 318.41,
                   "b": 520.414,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1335,7 +1147,7 @@
                   "t": 717.3960000000001,
                   "r": 525.1,
                   "b": 643.5640000000001,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   452,
@@ -1346,12 +1158,8 @@
           },
           {
             "self_ref": "#/texts/88",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 6,
@@ -1360,7 +1168,7 @@
                   "t": 626.056,
                   "r": 525.0339999999999,
                   "b": 568.0840000000001,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1371,12 +1179,8 @@
           },
           {
             "self_ref": "#/texts/89",
-            "parent": {
-              "$ref": "#/tables/0"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "caption",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 6,
@@ -1385,7 +1189,7 @@
                   "t": 503.89228,
                   "r": 396.16,
                   "b": 495.31672000000003,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1394,41 +1198,30 @@
               }
             ]
           }
-        ],
-        "headings": [
-          "Results"
-        ],
-        "origin": {
-          "mimetype": "application/pdf",
-          "binary_hash": 3728831133730751743,
-          "filename": "paper22"
-        }
+        ]
       }
     }
   },
   {
-    "content": "Table 1: Comparison between studied cases according to demographic data\nAge (years), Non-operative group (n = 60) = . Age (years), Appendectomy group (n = 60) = . Age (years), Test of sig. = . Age (years),  = . Age (years), p = . Range., Non-operative group (n = 60) = 4 - 16 8 (6 - 11). Range., Appendectomy group (n = 60) = 4 - 16 9 (5 - 11.25). Range., Test of sig. = 4 - 16 9 (5 - 11.25). Range.,  = U= 1776.0. Range., p = 0.899. Median (IQR) ≤6, Non-operative group (n = 60) = No. % 23 38.3 61.7. Median (IQR) ≤6, Appendectomy group (n = 60) = No. 23. Median (IQR) ≤6, Test of sig. = % 38.3 61.7. Median (IQR) ≤6,  = χ 2 = 0.0. Median (IQR) ≤6, p = 1.0030. >6 Sex, Non-operative group (n = 60) = 37 No. % 36.7. >6 Sex, Appendectomy group (n = 60) = 37 No.. >6 Sex, Test of sig. = %. >6 Sex,  = χ 2 =. >6 Sex, p = 0.702. Female Male PAS, Non-operative group (n = 60) = 22 38 63.3. Female Male PAS, Appendectomy group (n = 60) = 20 40. Female Male PAS, Test of sig. = 33.3 66.7. Female Male PAS,  = 0.147. Female Male PAS, p = . Range. Median (IQR), Non-operative group (n = 60) = 5 - 9. Range. Median (IQR), Appendectomy group (n = 60) = 7 - 9. Range. Median (IQR), Test of sig. = 10 (8 - 10). Range. Median (IQR),  = U= 712.5. Range. Median (IQR), p = <0.001 *. TLC",
+    "content": "Table 1: Comparison between studied cases according to demographic data\nAge (years), Non-operative group (n = 60) = . Age (years), Appendectomy group (n = 60) = . Age (years), Test of sig. = . Age (years),  = . Age (years), p = . Range., Non-operative group (n = 60) = 4 - 16 8 (6 - 11). Range., Appendectomy group (n = 60) = 4 - 16 9 (5 - 11.25). Range., Test of sig. = 4 - 16 9 (5 - 11.25). Range.,  = U= 1776.0. Range., p = 0.899. Median (IQR) ≤6, Non-operative group (n = 60) = No. % 23 38.3 61.7. Median (IQR) ≤6, Appendectomy group (n = 60) = No. 23. Median (IQR) ≤6, Test of sig. = % 38.3 61.7. Median (IQR) ≤6,  = χ 2 = 0.0. Median (IQR) ≤6, p = 1.0030. >6 Sex, Non-operative group (n = 60) = 37 No. % 36.7. >6 Sex, Appendectomy group (n = 60) = 37 No.. >6 Sex, Test of sig. = %. >6 Sex,  = χ 2 =. >6 Sex, p = 0.702. Female Male PAS, Non-operative group (n = 60) = 22 38 63.3. Female Male PAS, Appendectomy group (n = 60) = 20 40. Female Male PAS, Test of sig. = 33.3 66.7. Female Male PAS,  = 0.147. Female Male PAS, p = . Range. Median (IQR), Non-operative group (n = 60) = 5 - 9. Range. Median (IQR), Appendectomy group (n = 60) = 7 - 9. Range. Median (IQR), Test of sig. = 10 (8 - 10). Range. Median (IQR),  = U= 712.5. Range. Median (IQR),",
     "metadata": {
       "document_id": "paper22",
-      "source": "paper22.json",
+      "source": "paper22.pdf",
+      "topic": "Results",
+      "headings": [
+        "Results"
+      ],
       "chunk_index": 13,
       "total_chunks": 25,
+      "pages": [
+        6
+      ],
       "docling": {
-        "schema_name": "docling_core.transforms.chunker.DocMeta",
-        "version": "1.0.0",
         "doc_items": [
           {
             "self_ref": "#/tables/0",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [
-              {
-                "$ref": "#/texts/89"
-              }
-            ],
-            "content_layer": "body",
             "label": "table",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 6,
@@ -1437,7 +1230,7 @@
                   "t": 484.1574401855469,
                   "r": 531.0929565429688,
                   "b": 180.37420654296875,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1446,41 +1239,30 @@
               }
             ]
           }
-        ],
-        "headings": [
-          "Results"
-        ],
-        "origin": {
-          "mimetype": "application/pdf",
-          "binary_hash": 3728831133730751743,
-          "filename": "paper22"
-        }
+        ]
       }
     }
   },
   {
-    "content": "(x10 3 ) Range., Non-operative group (n = 60) = 8 (6 - 8). TLC (x10 3 ) Range., Appendectomy group (n = 60) = . TLC (x10 3 ) Range., Test of sig. = 21.7 3.8. TLC (x10 3 ) Range.,  = . TLC (x10 3 ) Range., p = 0.001 *. Mean ± SD. N%, Non-operative group (n = 60) = 8.3 - 19.9 13.73 ± 3.58. Mean ± SD. N%, Appendectomy group (n = 60) = 10.7 - 16.09. Mean ± SD. N%, Test of sig. = ±. Mean ± SD. N%,  = t= 3.503. Mean ± SD. N%, p = . Range. Mean ± SD., Non-operative group (n = 60) = 54.8 - 97.2. Range. Mean ± SD., Appendectomy group (n = 60) = 70 - 94 80.83 ±. Range. Mean ± SD., Test of sig. = 7.6. Range. Mean ± SD.,  = t=. Range. Mean ± SD., p = 0.004 *. CRP (mg/L) Range., Non-operative group (n = 60) = 75.44 ± 11.8. CRP (mg/L) Range., Appendectomy group (n = 60) = 5.4. CRP (mg/L) Range., Test of sig. = - 143. CRP (mg/L) Range.,  = 2.973. CRP (mg/L) Range., p = 0.005 *. Median (IQR) of hospitalization Range., Non-operative group (n = 60) = 5.5 - 66 28.5 (9.4 - 51). Median (IQR) of hospitalization Range., Appendectomy group (n = 60) = 38.5 (20 -. Median (IQR) of hospitalization Range., Test of sig. = 89) - 12. Median (IQR) of hospitalization Range.,  = U= 1264.0. Median (IQR) of",
+    "content": "p = <0.001 *. TLC (x10 3 ) Range., Non-operative group (n = 60) = 8 (6 - 8). TLC (x10 3 ) Range., Appendectomy group (n = 60) = . TLC (x10 3 ) Range., Test of sig. = 21.7 3.8. TLC (x10 3 ) Range.,  = . TLC (x10 3 ) Range., p = 0.001 *. Mean ± SD. N%, Non-operative group (n = 60) = 8.3 - 19.9 13.73 ± 3.58. Mean ± SD. N%, Appendectomy group (n = 60) = 10.7 - 16.09. Mean ± SD. N%, Test of sig. = ±. Mean ± SD. N%,  = t= 3.503. Mean ± SD. N%, p = . Range. Mean ± SD., Non-operative group (n = 60) = 54.8 - 97.2. Range. Mean ± SD., Appendectomy group (n = 60) = 70 - 94 80.83 ±. Range. Mean ± SD., Test of sig. = 7.6. Range. Mean ± SD.,  = t=. Range. Mean ± SD., p = 0.004 *. CRP (mg/L) Range., Non-operative group (n = 60) = 75.44 ± 11.8. CRP (mg/L) Range., Appendectomy group (n = 60) = 5.4. CRP (mg/L) Range., Test of sig. = - 143. CRP (mg/L) Range.,  = 2.973. CRP (mg/L) Range., p = 0.005 *. Median (IQR) of hospitalization Range., Non-operative group (n = 60) = 5.5 - 66 28.5 (9.4 - 51). Median (IQR) of hospitalization Range., Appendectomy group (n = 60) = 38.5 (20 -. Median (IQR) of hospitalization Range., Test of sig. = 89) - 12. Median (IQR)",
     "metadata": {
       "document_id": "paper22",
-      "source": "paper22.json",
+      "source": "paper22.pdf",
+      "topic": "Results",
+      "headings": [
+        "Results"
+      ],
       "chunk_index": 14,
       "total_chunks": 25,
+      "pages": [
+        6
+      ],
       "docling": {
-        "schema_name": "docling_core.transforms.chunker.DocMeta",
-        "version": "1.0.0",
         "doc_items": [
           {
             "self_ref": "#/tables/0",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [
-              {
-                "$ref": "#/texts/89"
-              }
-            ],
-            "content_layer": "body",
             "label": "table",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 6,
@@ -1489,7 +1271,7 @@
                   "t": 484.1574401855469,
                   "r": 531.0929565429688,
                   "b": 180.37420654296875,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1498,41 +1280,31 @@
               }
             ]
           }
-        ],
-        "headings": [
-          "Results"
-        ],
-        "origin": {
-          "mimetype": "application/pdf",
-          "binary_hash": 3728831133730751743,
-          "filename": "paper22"
-        }
+        ]
       }
     }
   },
   {
-    "content": "hospitalization Range., p = . Days Median (IQR), Non-operative group (n = 60) = 3 - 7. Days Median (IQR), Appendectomy group (n = 60) = 3. Days Median (IQR), Test of sig. = . Days Median (IQR),  = 728.0. Days Median (IQR), p = <0.001 *. , Non-operative group (n = 60) = 5 (4 - 6). , Appendectomy group (n = 60) = 8. , Test of sig. = (5 - 9). ,  = . , p = \nData  are  presented  as  frequency  (%)  unless  otherwise  mentioned,  SD: Standard  deviation, IQR: Interquartile range.",
+    "content": "of hospitalization Range.,  = U= 1264.0. Median (IQR) of hospitalization Range., p = . Days Median (IQR), Non-operative group (n = 60) = 3 - 7. Days Median (IQR), Appendectomy group (n = 60) = 3. Days Median (IQR), Test of sig. = . Days Median (IQR),  = 728.0. Days Median (IQR), p = <0.001 *. , Non-operative group (n = 60) = 5 (4 - 6). , Appendectomy group (n = 60) = 8. , Test of sig. = (5 - 9). ,  = . , p = \nData  are  presented  as  frequency  (%)  unless  otherwise  mentioned,  SD: Standard  deviation, IQR: Interquartile range.",
     "metadata": {
       "document_id": "paper22",
-      "source": "paper22.json",
+      "source": "paper22.pdf",
+      "topic": "Results",
+      "headings": [
+        "Results"
+      ],
       "chunk_index": 15,
       "total_chunks": 25,
+      "pages": [
+        6,
+        7
+      ],
       "docling": {
-        "schema_name": "docling_core.transforms.chunker.DocMeta",
-        "version": "1.0.0",
         "doc_items": [
           {
             "self_ref": "#/tables/0",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [
-              {
-                "$ref": "#/texts/89"
-              }
-            ],
-            "content_layer": "body",
             "label": "table",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 6,
@@ -1541,7 +1313,7 @@
                   "t": 484.1574401855469,
                   "r": 531.0929565429688,
                   "b": 180.37420654296875,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1552,12 +1324,8 @@
           },
           {
             "self_ref": "#/texts/90",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 6,
@@ -1566,7 +1334,7 @@
                   "t": 178.88228000000004,
                   "r": 524.5899999999999,
                   "b": 158.58535272727272,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1577,12 +1345,8 @@
           },
           {
             "self_ref": "#/texts/93",
-            "parent": {
-              "$ref": "#/tables/1"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "caption",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 7,
@@ -1591,7 +1355,7 @@
                   "t": 717.90228,
                   "r": 380.92,
                   "b": 709.32672,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1600,41 +1364,30 @@
               }
             ]
           }
-        ],
-        "headings": [
-          "Results"
-        ],
-        "origin": {
-          "mimetype": "application/pdf",
-          "binary_hash": 3728831133730751743,
-          "filename": "paper22"
-        }
+        ]
       }
     }
   },
   {
-    "content": "Table 2: Comparison between studied cases according to complications\nBefore discharge, Non-operative group (n = 60) = No.. Before discharge, Non-operative group (n = 60) = %. Before discharge, Appendectomy group (n = 60) = No.. Before discharge, Appendectomy group (n = 60) = %. Before discharge, χ 2 = . Before discharge, p = . Abdominal Abscess, Non-operative group (n = 60) = 0. Abdominal Abscess, Non-operative group (n = 60) = 0.0. Abdominal Abscess, Appendectomy group (n = 60) = 2. Abdominal Abscess, Appendectomy group (n = 60) = 3.3. Abdominal Abscess, χ 2 = 8.571. Abdominal Abscess, p = 0.014 *. SSI, Non-operative group (n = 60) = 0. SSI, Non-operative group (n = 60) = 0.0. SSI, Appendectomy group (n = 60) = 6. SSI, Appendectomy group (n = 60) = 10.0. SSI, χ 2 = . SSI, p = . Abdominal Abscess 3 months, Non-operative group (n = 60) = 1. Abdominal Abscess 3 months, Non-operative group (n = 60) = 1.7. Abdominal Abscess 3 months, Appendectomy group (n = 60) = 3. Abdominal Abscess 3 months, Appendectomy group (n = 60) = 5.0. Abdominal Abscess 3 months, χ 2 = 1.034. Abdominal Abscess 3 months, p = 0.309. Abdominal Abscess, Non-operative group (n = 60) = 2. Abdominal Abscess, Non-operative group (n = 60) = 3.3. Abdominal Abscess, Appendectomy group (n = 60) = 0. Abdominal Abscess, Appendectomy group (n = 60) = 0.0. Abdominal Abscess, χ 2 = 3.009. Abdominal Abscess, p = 0.222. Functional paralytic ileus 6 months, Non-operative group (n = 60) = 0. Functional paralytic ileus 6 months, Non-operative group (n =",
+    "content": "Table 2: Comparison between studied cases according to complications\nBefore discharge, Non-operative group (n = 60) = No.. Before discharge, Non-operative group (n = 60) = %. Before discharge, Appendectomy group (n = 60) = No.. Before discharge, Appendectomy group (n = 60) = %. Before discharge, χ 2 = . Before discharge, p = . Abdominal Abscess, Non-operative group (n = 60) = 0. Abdominal Abscess, Non-operative group (n = 60) = 0.0. Abdominal Abscess, Appendectomy group (n = 60) = 2. Abdominal Abscess, Appendectomy group (n = 60) = 3.3. Abdominal Abscess, χ 2 = 8.571. Abdominal Abscess, p = 0.014 *. SSI, Non-operative group (n = 60) = 0. SSI, Non-operative group (n = 60) = 0.0. SSI, Appendectomy group (n = 60) = 6. SSI, Appendectomy group (n = 60) = 10.0. SSI, χ 2 = . SSI, p = . Abdominal Abscess 3 months, Non-operative group (n = 60) = 1. Abdominal Abscess 3 months, Non-operative group (n = 60) = 1.7. Abdominal Abscess 3 months, Appendectomy group (n = 60) = 3. Abdominal Abscess 3 months, Appendectomy group (n = 60) = 5.0. Abdominal Abscess 3 months, χ 2 = 1.034. Abdominal Abscess 3 months, p = 0.309. Abdominal Abscess, Non-operative group (n = 60) = 2. Abdominal Abscess, Non-operative group (n = 60) = 3.3. Abdominal Abscess, Appendectomy group (n = 60) = 0. Abdominal Abscess, Appendectomy group (n = 60) = 0.0. Abdominal Abscess, χ 2 = 3.009. Abdominal Abscess, p = 0.222. Functional paralytic ileus 6 months, Non-operative group (n = 60) = 0. Functional paralytic",
     "metadata": {
       "document_id": "paper22",
-      "source": "paper22.json",
+      "source": "paper22.pdf",
+      "topic": "Results",
+      "headings": [
+        "Results"
+      ],
       "chunk_index": 16,
       "total_chunks": 25,
+      "pages": [
+        7
+      ],
       "docling": {
-        "schema_name": "docling_core.transforms.chunker.DocMeta",
-        "version": "1.0.0",
         "doc_items": [
           {
             "self_ref": "#/tables/1",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [
-              {
-                "$ref": "#/texts/93"
-              }
-            ],
-            "content_layer": "body",
             "label": "table",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 7,
@@ -1643,7 +1396,7 @@
                   "t": 698.9207153320312,
                   "r": 534.9041748046875,
                   "b": 556.1962127685547,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1652,41 +1405,30 @@
               }
             ]
           }
-        ],
-        "headings": [
-          "Results"
-        ],
-        "origin": {
-          "mimetype": "application/pdf",
-          "binary_hash": 3728831133730751743,
-          "filename": "paper22"
-        }
+        ]
       }
     }
   },
   {
-    "content": "60) = 0.0. Functional paralytic ileus 6 months, Appendectomy group (n = 60) = 1. Functional paralytic ileus 6 months, Appendectomy group (n = 60) = 1.7. Functional paralytic ileus 6 months, χ 2 = . Functional paralytic ileus 6 months, p = . Abdominal fluids, Non-operative group (n = 60) = 3. Abdominal fluids, Non-operative group (n = 60) = 5.0. Abdominal fluids, Appendectomy group (n = 60) = 1. Abdominal fluids, Appendectomy group (n = 60) = 1.7. Abdominal fluids, χ 2 = 2.078. Abdominal fluids, p = 0.354\nData are presented as frequency (%).",
+    "content": "ileus 6 months, Non-operative group (n = 60) = 0.0. Functional paralytic ileus 6 months, Appendectomy group (n = 60) = 1. Functional paralytic ileus 6 months, Appendectomy group (n = 60) = 1.7. Functional paralytic ileus 6 months, χ 2 = . Functional paralytic ileus 6 months, p = . Abdominal fluids, Non-operative group (n = 60) = 3. Abdominal fluids, Non-operative group (n = 60) = 5.0. Abdominal fluids, Appendectomy group (n = 60) = 1. Abdominal fluids, Appendectomy group (n = 60) = 1.7. Abdominal fluids, χ 2 = 2.078. Abdominal fluids, p = 0.354\nData are presented as frequency (%).",
     "metadata": {
       "document_id": "paper22",
-      "source": "paper22.json",
+      "source": "paper22.pdf",
+      "topic": "Results",
+      "headings": [
+        "Results"
+      ],
       "chunk_index": 17,
       "total_chunks": 25,
+      "pages": [
+        7
+      ],
       "docling": {
-        "schema_name": "docling_core.transforms.chunker.DocMeta",
-        "version": "1.0.0",
         "doc_items": [
           {
             "self_ref": "#/tables/1",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [
-              {
-                "$ref": "#/texts/93"
-              }
-            ],
-            "content_layer": "body",
             "label": "table",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 7,
@@ -1695,7 +1437,7 @@
                   "t": 698.9207153320312,
                   "r": 534.9041748046875,
                   "b": 556.1962127685547,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1706,12 +1448,8 @@
           },
           {
             "self_ref": "#/texts/94",
-            "parent": {
-              "$ref": "#/groups/3"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 7,
@@ -1720,7 +1458,7 @@
                   "t": 553.8422800000001,
                   "r": 240.26000000000002,
                   "b": 545.2667200000001,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1729,15 +1467,7 @@
               }
             ]
           }
-        ],
-        "headings": [
-          "Results"
-        ],
-        "origin": {
-          "mimetype": "application/pdf",
-          "binary_hash": 3728831133730751743,
-          "filename": "paper22"
-        }
+        ]
       }
     }
   },
@@ -1745,21 +1475,23 @@
     "content": "The  present study observed a highly statistically significant difference in PAS between the two groups in this investigation. When it came to laboratory  tests,  the  two  groups  were significantly different.\nThe validity of PAS scores as an indicator  of  appendicitis  in  children  has been  shown  by  several  research.  PAS ratings were  recently verified by the assessment of ultrasonography results and  histopathological  reports.  A  further investigation confirmed that a PAS value of seven or higher was highly suggestive of appendicitis, with a zero percent chance of negative appendectomy observed.  A  local  study  found  that  the diagnostic accuracy of an Alvarado score of six or above in predicting acute appendicitis in children is 82.9% (9) .\nAdditionally, it was  reported that an ultrasound examination identified appendicitis  in  88.3%  of  the  children. Although the correlation between paediatric appendicitis score and PAS\nwas not statistically significant, ultrasound  detected  appendicitis  in  all children with a PAS of seven or higher; therefore, the paediatric appendicitis score is a valuable diagnostic tool, particularly in settings with limited resources (10).\nAn  author  who  did  a  separate  study found  that  children  with  a  PAS  of  3 maintained the same PAS even six hours later. Appendicitis was diagnosis-able in just one of ten children with PAS 3 who had surgery and had a biopsy performed. Thirty  percent  of  the  thirty  children  (49 percent)  with  a  PAS  between  four  and six had a repeat score of three or less; the remaining ten were admitted for surgery with  a  repeat  PAS  of  seven  or  higher. Everyone's biopsy revealed appendicitis. The histology of twenty children with an initial  PAS  of  seven  or  more  revealed appendicitis  in  seventy  percent  of  those who  had surgery. Therefore, a  PAS value of seven or higher is highly suggestive  of  appendicitis,  a  condition that necessitates surgical intervention (11).\nRegarding clinical presentation, the current investigation indicated no statistically significant difference between the two groups examined (Onset symptoms). A substantial statistically significant disparity was seen in the number of days of hospitalization  between  the  two  groups under investigation.",
     "metadata": {
       "document_id": "paper22",
-      "source": "paper22.json",
+      "source": "paper22.pdf",
+      "topic": "Discussion",
+      "headings": [
+        "Discussion"
+      ],
       "chunk_index": 18,
       "total_chunks": 25,
+      "pages": [
+        7,
+        8
+      ],
       "docling": {
-        "schema_name": "docling_core.transforms.chunker.DocMeta",
-        "version": "1.0.0",
         "doc_items": [
           {
             "self_ref": "#/texts/96",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 7,
@@ -1768,7 +1500,7 @@
                   "t": 501.70599999999996,
                   "r": 291.398,
                   "b": 412.054,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1779,12 +1511,8 @@
           },
           {
             "self_ref": "#/texts/97",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 7,
@@ -1793,7 +1521,7 @@
                   "t": 394.546,
                   "r": 291.4099999999999,
                   "b": 177.88400000000001,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1804,12 +1532,8 @@
           },
           {
             "self_ref": "#/texts/98",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 7,
@@ -1818,7 +1542,7 @@
                   "t": 160.37599999999998,
                   "r": 291.374,
                   "b": 86.56799999999998,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1829,12 +1553,8 @@
           },
           {
             "self_ref": "#/texts/99",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 7,
@@ -1843,7 +1563,7 @@
                   "t": 501.70599999999996,
                   "r": 525.076,
                   "b": 396.214,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1854,12 +1574,8 @@
           },
           {
             "self_ref": "#/texts/100",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 7,
@@ -1868,7 +1584,7 @@
                   "t": 378.70599999999996,
                   "r": 525.124,
                   "b": 98.56399999999996,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1882,7 +1598,7 @@
                   "t": 717.3960000000001,
                   "r": 291.41,
                   "b": 691.2040000000001,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   753,
@@ -1893,12 +1609,8 @@
           },
           {
             "self_ref": "#/texts/103",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 8,
@@ -1907,7 +1619,7 @@
                   "t": 673.696,
                   "r": 291.41,
                   "b": 536.404,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1916,15 +1628,7 @@
               }
             ]
           }
-        ],
-        "headings": [
-          "Discussion"
-        ],
-        "origin": {
-          "mimetype": "application/pdf",
-          "binary_hash": 3728831133730751743,
-          "filename": "paper22"
-        }
+        ]
       }
     }
   },
@@ -1932,21 +1636,22 @@
     "content": "Another  study  found  that  conservative treatment  failed  in  a  similar  proportion of patients depending on how long their symptoms lasted: just one patient out of nineteen (p = 0.18) failed if they came in within 12 hours, eight out of fifty-seven failed between 12 and 24 hours, and six out of fourteen failed after 24 hours (8).\nThis contradicts the results of a research that  found  that  the  average  duration  of stay on the first visit was  1.5 days (SD=1.0)  for  the  NOM  group  and  1.3 days  (p  =0.61)  for  the  OM  group.  The average duration of stay for each patient was  1.8  days  (NOM)  compared  to  1.7 days  (OM)  (p  =  0.97),  considering  any later readmissions. Compared to the OM (Operative  Management)  group,  which had  2 repeat trips to  the  emergency room,  the  NOM  group  had  4  (0.3  per patient) (p = 0.51).(12).\nConcerning  complications,  the  current investigation indicated no statistically significant  difference  between  the  two groups.\nIn contrast, the study found that histology  confirmed  appendicitis  in  all ten patients within six months of followup, but no appendicolith. The patients all suffered from recurrent appendicitis. Complete victory was recorded in Group B.  (p  value  0.0001).  The  incidence  of perforated  or  gangrenous  appendix  was 7.8%, or seven individuals. During the 6month follow-up, one patient (1.1%) had adhesion blockage. It is not recommended for some youngsters since keeping the appendix helps boost immunity (13).",
     "metadata": {
       "document_id": "paper22",
-      "source": "paper22.json",
+      "source": "paper22.pdf",
+      "topic": "Discussion",
+      "headings": [
+        "Discussion"
+      ],
       "chunk_index": 19,
       "total_chunks": 25,
+      "pages": [
+        8
+      ],
       "docling": {
-        "schema_name": "docling_core.transforms.chunker.DocMeta",
-        "version": "1.0.0",
         "doc_items": [
           {
             "self_ref": "#/texts/104",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 8,
@@ -1955,7 +1660,7 @@
                   "t": 518.746,
                   "r": 291.40999999999997,
                   "b": 397.414,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1966,12 +1671,8 @@
           },
           {
             "self_ref": "#/texts/105",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 8,
@@ -1980,7 +1681,7 @@
                   "t": 379.786,
                   "r": 291.44599999999997,
                   "b": 179.08400000000006,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1991,12 +1692,8 @@
           },
           {
             "self_ref": "#/texts/106",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 8,
@@ -2005,7 +1702,7 @@
                   "t": 161.45600000000002,
                   "r": 291.336,
                   "b": 103.60400000000004,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -2016,12 +1713,8 @@
           },
           {
             "self_ref": "#/texts/107",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 8,
@@ -2030,7 +1723,7 @@
                   "t": 717.3960000000001,
                   "r": 525.088,
                   "b": 500.734,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -2039,15 +1732,7 @@
               }
             ]
           }
-        ],
-        "headings": [
-          "Discussion"
-        ],
-        "origin": {
-          "mimetype": "application/pdf",
-          "binary_hash": 3728831133730751743,
-          "filename": "paper22"
-        }
+        ]
       }
     }
   },
@@ -2055,21 +1740,23 @@
     "content": "Additionally, it  was shown that two out of  twelve  patients  (16.7  percent)  in  the OM group acquired surgical site infections (SSIs), one of which was superficial and the other deep. The patient's pain management and antibiotic treatment necessitated two two-day readmissions because to a deep SSI. The problem was treated with antibiotics after imaging revealed a tiny intraabdominal  abscess that could not be percutaneously drained. Antibiotics were administered  as  an  outpatient  treatment to the patient who had a superficial SSI and was discovered to have an infected 5 mm port site in the left lower quadrant. The  OM  group  has  a  greater  risk  of complications.  Possible  causes  include the study's limited sample size, the absence of a standard procedure for perioperative antibiotic treatment, and the  low  severity  of  occurrences  deemed as complications (14).\nThe  good  news  is  that  individuals  with simple appendicitis who  initially had non-operative treatment did not have any complications.  The  fact  that  just  fifteen (15/248, or 6%) of the individuals diagnosed with simple appendicitis were less than five years old might  be a contributing factor. Thus, there is still a lack of clarity on the non-operative treatment of simple appendicitis in children younger than 5 years old (15).\nAppendicoliths are frequently temporary and are linked to a low risk of appendicitis, according to recent reports. Regarding the complex appendicitis (16) demonstrated  that,  in  the  event  of  nonoperative treatment for juvenile ruptured appendicitis, the existence of an appendicolith predicts the occurrence of recurrent appendicitis. In cases with simple appendicitis, in the current study found  that  appendicoliths,  which  were visible during the first non-operative treatment,  occasionally  go  away  during the  follow-up  (17).  A  novel  diagnostic criterion for acute appendicitis may include  intraluminal  appendiceal  fluid, according  to  reports.  There  was  a  90% sensitivity  and  specificity  rate  for  the diagnosis of acute appendicitis when the maximal depth of intraluminal appendiceal  fluid  was  >2.6  mm,  and 86.6%  of  appendicitis  patients  had  this finding (18).",
     "metadata": {
       "document_id": "paper22",
-      "source": "paper22.json",
+      "source": "paper22.pdf",
+      "topic": "Discussion",
+      "headings": [
+        "Discussion"
+      ],
       "chunk_index": 20,
       "total_chunks": 25,
+      "pages": [
+        8,
+        9
+      ],
       "docling": {
-        "schema_name": "docling_core.transforms.chunker.DocMeta",
-        "version": "1.0.0",
         "doc_items": [
           {
             "self_ref": "#/texts/108",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 8,
@@ -2078,7 +1765,7 @@
                   "t": 483.226,
                   "r": 525.1,
                   "b": 123.644,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -2089,12 +1776,8 @@
           },
           {
             "self_ref": "#/texts/109",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 8,
@@ -2103,7 +1786,7 @@
                   "t": 106.13999999999999,
                   "r": 524.9739999999999,
                   "b": 79.96799999999996,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -2117,7 +1800,7 @@
                   "t": 717.3960000000001,
                   "r": 291.3979999999999,
                   "b": 580.0840000000001,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   84,
@@ -2128,12 +1811,8 @@
           },
           {
             "self_ref": "#/texts/112",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 9,
@@ -2142,7 +1821,7 @@
                   "t": 562.576,
                   "r": 291.41,
                   "b": 203.11400000000003,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -2151,15 +1830,7 @@
               }
             ]
           }
-        ],
-        "headings": [
-          "Discussion"
-        ],
-        "origin": {
-          "mimetype": "application/pdf",
-          "binary_hash": 3728831133730751743,
-          "filename": "paper22"
-        }
+        ]
       }
     }
   },
@@ -2167,21 +1838,22 @@
     "content": "On the other hand, compared to individuals who had their appendix removed early on, those whose condition was first treated non-operatively and then had an interval appendectomy had a far  greater  incidence  of  complications. An  evaluation  of  hospital  charges  and expenses revealed that early appendectomy  resulted  in  substantially reduced  expenditures  (19).  The  second randomized controlled trial (RCT) compared  the  outcomes  of  40  children whose perforated appendicitis had progressed to abscess formation: immediate appendectomy vs initial nonoperative treatment followed by interval appendectomy at 10 weeks (20). Unlike the previous research that found no significant difference in total costs, recurrent abscess  rate, or  duration of hospitalization  between  the  two  groups. Patients  who  were  handled  with  early surgery had a longer operative time and a longer time to resume their diet compared  to patients who  were  first managed  non-operatively  with  interval appendectomy.  Other  than that, there were  no  differences  between  the  two groups. Patients with perforated appendicitis  can  safely  undergo  initial non-operative therapy, which has a success  rate  of 66-95  percent.  Initial non-operative treatment may be beneficial  for  patients  who  have  a  fully developed abscess or mass (19).\nWith  a  risk  of  complications  similar  to appendectomy, the initial success rate of antibiotic therapy reached 90.5%. During  the  1-year  follow-up,  45  out  of 168 patients (26.8% of the total) underwent interval appendectomy due to treatment failure (10 patients), histopathologically confirmed recurrence (27 patients), or parental  demand  (8 patients), indicating a higher risk of failure compared with urgent appendectomy (21).",
     "metadata": {
       "document_id": "paper22",
-      "source": "paper22.json",
+      "source": "paper22.pdf",
+      "topic": "Discussion",
+      "headings": [
+        "Discussion"
+      ],
       "chunk_index": 21,
       "total_chunks": 25,
+      "pages": [
+        9
+      ],
       "docling": {
-        "schema_name": "docling_core.transforms.chunker.DocMeta",
-        "version": "1.0.0",
         "doc_items": [
           {
             "self_ref": "#/texts/113",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 9,
@@ -2190,7 +1862,7 @@
                   "t": 185.45600000000002,
                   "r": 291.38599999999997,
                   "b": 79.96799999999996,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -2204,7 +1876,7 @@
                   "t": 717.3960000000001,
                   "r": 525.124,
                   "b": 278.59400000000005,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   271,
@@ -2215,12 +1887,8 @@
           },
           {
             "self_ref": "#/texts/114",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 9,
@@ -2229,7 +1897,7 @@
                   "t": 260.966,
                   "r": 525.034,
                   "b": 76.12800000000004,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -2238,15 +1906,7 @@
               }
             ]
           }
-        ],
-        "headings": [
-          "Discussion"
-        ],
-        "origin": {
-          "mimetype": "application/pdf",
-          "binary_hash": 3728831133730751743,
-          "filename": "paper22"
-        }
+        ]
       }
     }
   },
@@ -2254,21 +1914,22 @@
     "content": "Non-operative care, achievable via targeted antibiotic regimens, has potential as a viable substitute, as it achieves similar levels of safety and shortens  the  length  of hospitalization. Nevertheless, although non-operative therapy  may  seem  attractive  in  certain circumstances,  appendectomy  continues to be the only viable alternative, guaranteeing prompt remission while eliminating the possibility of recurrence.",
     "metadata": {
       "document_id": "paper22",
-      "source": "paper22.json",
+      "source": "paper22.pdf",
+      "topic": "Conclusion",
+      "headings": [
+        "Conclusion"
+      ],
       "chunk_index": 22,
       "total_chunks": 25,
+      "pages": [
+        10
+      ],
       "docling": {
-        "schema_name": "docling_core.transforms.chunker.DocMeta",
-        "version": "1.0.0",
         "doc_items": [
           {
             "self_ref": "#/texts/118",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 10,
@@ -2277,7 +1938,7 @@
                   "t": 686.8960000000001,
                   "r": 291.41,
                   "b": 517.774,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -2286,15 +1947,7 @@
               }
             ]
           }
-        ],
-        "headings": [
-          "Conclusion"
-        ],
-        "origin": {
-          "mimetype": "application/pdf",
-          "binary_hash": 3728831133730751743,
-          "filename": "paper22"
-        }
+        ]
       }
     }
   },
@@ -2302,21 +1955,22 @@
     "content": "1.  Cameron  DB,  Anandalwar  SP,  Graham  DA, Melvin  P, Serres SK, Dunlap  JL, et al. Development and Implications of an Evidence-based  and  Public  Health-relevant Definition  of  Complicated  Appendicitis  in Children. Ann Surg. 2020;271:962-8.\n2.  Moris  D,  Paulson  EK,  Pappas  TN.  Diagnosis and  Management  of  Acute  Appendicitis  in Adults: A Review. Jama. 2021;326:2299-311.\n3. Snyder MJ, Guthrie M, Cagle S. Acute Appendicitis: Efficient Diagnosis and Management. Am Fam Physician. 2018;98:25-33.\n4.  Sallinen  V,  Akl  EA,  You  JJ,  Agarwal  A, Shoucair S, Vandvik PO, et al. Meta-analysis of antibiotics versus appendicectomy for nonperforated acute appendicitis. Br J Surg. 2016;103:656-67.\n5.  Podda  M,  Gerardi  C,  Cillara  N,  Fearnhead  N, Gomes  CA,  Birindelli  A,  et  al.  Antibiotic Treatment and Appendectomy for Uncomplicated Acute Appendicitis in Adults and Children: A Systematic Review and Meta-analysis. Ann Surg. 2019;270:1028-40.\n6.  Scott  A,  Lee  SL,  DeUgarte  DA,  Shew  SB, Dunn  JCY,  Shekherdimian  S.  Nonoperative Management  of  Appendicitis.  Clin  Pediatr (Phila). 2018;57:200-4.\n7. Sajjad MN, Naumeri F, Hina S. Non-operative treatment versus appendectomy for acute\n8. uncomplicated  appendicitis:  A  randomized controlled trial. Pak J Med Sci. 2021;37:1276-81.\n8. Minneci PC, Mahida JB, Lodwick DL, Sulkowski JP, Nacion KM, Cooper JN, et al. Effectiveness of Patient Choice in Nonoperative vs Surgical  Management  of Pediatric Uncomplicated Acute Appendicitis. JAMA Surg. 2016;151:408-15.",
     "metadata": {
       "document_id": "paper22",
-      "source": "paper22.json",
+      "source": "paper22.pdf",
+      "topic": "References",
+      "headings": [
+        "References"
+      ],
       "chunk_index": 23,
       "total_chunks": 25,
+      "pages": [
+        10
+      ],
       "docling": {
-        "schema_name": "docling_core.transforms.chunker.DocMeta",
-        "version": "1.0.0",
         "doc_items": [
           {
             "self_ref": "#/texts/120",
-            "parent": {
-              "$ref": "#/groups/4"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 10,
@@ -2325,7 +1979,7 @@
                   "t": 474.13228000000004,
                   "r": 290.8704800000001,
                   "b": 399.43672000000004,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -2336,12 +1990,8 @@
           },
           {
             "self_ref": "#/texts/121",
-            "parent": {
-              "$ref": "#/groups/4"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 10,
@@ -2350,7 +2000,7 @@
                   "t": 394.81228000000004,
                   "r": 290.68856,
                   "b": 359.83672,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -2361,12 +2011,8 @@
           },
           {
             "self_ref": "#/texts/122",
-            "parent": {
-              "$ref": "#/groups/4"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 10,
@@ -2375,7 +2021,7 @@
                   "t": 355.07228000000003,
                   "r": 290.76824000000016,
                   "b": 306.89672,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -2386,12 +2032,8 @@
           },
           {
             "self_ref": "#/texts/123",
-            "parent": {
-              "$ref": "#/groups/4"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 10,
@@ -2400,7 +2042,7 @@
                   "t": 302.27228,
                   "r": 290.8804400000001,
                   "b": 240.77671999999995,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -2411,12 +2053,8 @@
           },
           {
             "self_ref": "#/texts/124",
-            "parent": {
-              "$ref": "#/groups/4"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 10,
@@ -2425,7 +2063,7 @@
                   "t": 236.15228000000002,
                   "r": 290.89196000000004,
                   "b": 161.42671999999993,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -2436,12 +2074,8 @@
           },
           {
             "self_ref": "#/texts/125",
-            "parent": {
-              "$ref": "#/groups/4"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 10,
@@ -2450,7 +2084,7 @@
                   "t": 156.68228,
                   "r": 290.70848,
                   "b": 108.50671999999997,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -2461,12 +2095,8 @@
           },
           {
             "self_ref": "#/texts/126",
-            "parent": {
-              "$ref": "#/groups/4"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 10,
@@ -2475,7 +2105,7 @@
                   "t": 103.88627999999994,
                   "r": 290.8498400000001,
                   "b": 81.99072000000001,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -2486,12 +2116,8 @@
           },
           {
             "self_ref": "#/texts/127",
-            "parent": {
-              "$ref": "#/groups/4"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 10,
@@ -2500,7 +2126,7 @@
                   "t": 717.78228,
                   "r": 524.4383200000004,
                   "b": 682.7867200000001,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -2511,12 +2137,8 @@
           },
           {
             "self_ref": "#/texts/128",
-            "parent": {
-              "$ref": "#/groups/4"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 10,
@@ -2525,7 +2147,7 @@
                   "t": 678.04228,
                   "r": 524.4853600000001,
                   "b": 603.34672,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -2534,15 +2156,7 @@
               }
             ]
           }
-        ],
-        "headings": [
-          "References"
-        ],
-        "origin": {
-          "mimetype": "application/pdf",
-          "binary_hash": 3728831133730751743,
-          "filename": "paper22"
-        }
+        ]
       }
     }
   },
@@ -2550,21 +2164,22 @@
     "content": "9. Parveen KZ, Avabratha KS, Shetty K. Pediatric appendicitis score in the diagnosis of childhood appendicitis: a validation study. Int J Contemp Pediatr. 2017;4:2196.\n10.  Iqbal  T,  Shahid  MU,  Shad  IA,  Bhatti  SK, Gilani  SA,  Siddique  Z.  Diagnostic  accuracy of  gray  scale  ultrasonography  versus  color doppler in suspected cases of acute appendicitis:  Acute  appendicitis,  gray  scale ultrasonography, color doppler. Inter  J  Front Sci. 2021;5.\n11.  Jaremko  JL,  Crockett  A,  Rucker  D,  Magnus KG. Incidence and significance of inconclusive results in ultrasound for appendicitis  in  children  and  teenagers.  Can Assoc Radiol J. 2011;62:197-202.\n12. Varadhan KK, Neal KR, Lobo DN. Safety and efficacy of antibiotics compared with appendicectomy for treatment of uncomplicated acute appendicitis: metaanalysis of randomised controlled trials. Bmj. 2012;344.\n13.  Patkova  B,  Svenningsson  A,  Almström  M, Eaton S, Wester T, Svensson JF. Nonoperative Treatment Versus Appendectomy for Acute Nonperforated Appendicitis  in  Children:  Five-year  Follow Up  of  a  Randomized  Controlled  Pilot  Trial. Ann Surg. 2020;271:1030-5.\n14. Vons C, Barry C, Maitre S, Pautrat K, Leconte M,  Costaglioli  B,  et  al.  Amoxicillin  plus clavulanic  acid  versus  appendicectomy  for treatment of acute uncomplicated appendicitis:  an  open-label,  non-inferiority, randomised controlled trial. Lancet. 2011;377:1573-9.\n15.  Bansal  S,  Banever  GT,  Karrer  FM,  Partrick DA. Appendicitis in children less than 5 years old:  influence  of  age  on  presentation  and",
     "metadata": {
       "document_id": "paper22",
-      "source": "paper22.json",
+      "source": "paper22.pdf",
+      "topic": "References",
+      "headings": [
+        "References"
+      ],
       "chunk_index": 24,
       "total_chunks": 25,
+      "pages": [
+        10
+      ],
       "docling": {
-        "schema_name": "docling_core.transforms.chunker.DocMeta",
-        "version": "1.0.0",
         "doc_items": [
           {
             "self_ref": "#/texts/129",
-            "parent": {
-              "$ref": "#/groups/4"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 10,
@@ -2573,7 +2188,7 @@
                   "t": 598.7222800000001,
                   "r": 524.5339600000002,
                   "b": 550.54672,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -2584,12 +2199,8 @@
           },
           {
             "self_ref": "#/texts/130",
-            "parent": {
-              "$ref": "#/groups/4"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 10,
@@ -2598,7 +2209,7 @@
                   "t": 545.80228,
                   "r": 524.4184000000002,
                   "b": 457.87672000000003,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -2609,12 +2220,8 @@
           },
           {
             "self_ref": "#/texts/131",
-            "parent": {
-              "$ref": "#/groups/4"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 10,
@@ -2623,7 +2230,7 @@
                   "t": 453.25228000000004,
                   "r": 524.4283600000003,
                   "b": 391.75672000000003,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -2634,12 +2241,8 @@
           },
           {
             "self_ref": "#/texts/132",
-            "parent": {
-              "$ref": "#/groups/4"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 10,
@@ -2648,7 +2251,7 @@
                   "t": 387.13228000000004,
                   "r": 524.4184000000005,
                   "b": 312.41672,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -2659,12 +2262,8 @@
           },
           {
             "self_ref": "#/texts/133",
-            "parent": {
-              "$ref": "#/groups/4"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 10,
@@ -2673,7 +2272,7 @@
                   "t": 307.79228,
                   "r": 524.5254400000001,
                   "b": 219.89671999999996,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -2684,12 +2283,8 @@
           },
           {
             "self_ref": "#/texts/134",
-            "parent": {
-              "$ref": "#/groups/4"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 10,
@@ -2698,7 +2293,7 @@
                   "t": 215.15228000000002,
                   "r": 524.5068400000004,
                   "b": 127.22672,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -2709,12 +2304,8 @@
           },
           {
             "self_ref": "#/texts/135",
-            "parent": {
-              "$ref": "#/groups/4"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 10,
@@ -2723,7 +2314,7 @@
                   "t": 122.60228000000006,
                   "r": 524.56636,
                   "b": 87.63072,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -2732,15 +2323,7 @@
               }
             ]
           }
-        ],
-        "headings": [
-          "References"
-        ],
-        "origin": {
-          "mimetype": "application/pdf",
-          "binary_hash": 3728831133730751743,
-          "filename": "paper22"
-        }
+        ]
       }
     }
   },
@@ -2748,21 +2331,22 @@
     "content": "- outcome. Am J Surg. 2012;204:1031-5; discussion 5.\n16. Rollins MD, Andolsek W, Scaife ER, Meyers RL, Duke TH, Lilyquist M, et al. Prophylactic  appendectomy:  unnecessary  in children with incidental appendicoliths detected  by  computed  tomographic  scan.  J Pediatr Surg. 2010;45:2377-80.\n17. Eun S, Ho IG, Bae GE, Kim H, Koo CM, Kim MK, et al. Neutrophil-to-lymphocyte ratio for the  diagnosis  of  pediatric  acute  appendicitis: a  systematic  review  and  meta-analysis.  Eur Rev Med Pharmacol Sci. 2021;25:7097-107.\n18. Moteki T, Horikoshi H. New CT criterion for acute appendicitis: maximum depth of\n- intraluminal  appendiceal  fluid.  AJR  Am  J Roentgenol. 2007;188:1313-9.\n19.  Blakely  ML,  Williams  R,  Dassinger  MS, Eubanks JW, 3rd, Fischer P, Huang EY, et al. Early  vs  interval  appendectomy  for  children with perforated appendicitis. Arch Surg. 2011;146:660-5.\n20. St Peter SD, Snyder CL. Operative management  of  appendicitis.  Semin  Pediatr Surg. 2016;25:208-11.\n21. Hartwich J, Luks FI, Watson-Smith D, Kurkchubasche AG, Muratore CS, Wills HE, et al. Nonoperative treatment of acute appendicitis in children: A feasibility study. J Pediatr Surg. 2016;51:111-6.\nTo cite this article: Hazem M. Sobieh, Hisham H. Mohamed, Ibrahim E. Ibrahim, Mohamed O El-shaer. Acute Appendicitis in Children; Is Surgery the Only Treatment Modality? BMFJ 2024;41(1):246-256.",
     "metadata": {
       "document_id": "paper22",
-      "source": "paper22.json",
+      "source": "paper22.pdf",
+      "topic": "References",
+      "headings": [
+        "References"
+      ],
       "chunk_index": 25,
       "total_chunks": 25,
+      "pages": [
+        11
+      ],
       "docling": {
-        "schema_name": "docling_core.transforms.chunker.DocMeta",
-        "version": "1.0.0",
         "doc_items": [
           {
             "self_ref": "#/texts/138",
-            "parent": {
-              "$ref": "#/groups/5"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 11,
@@ -2771,7 +2355,7 @@
                   "t": 717.78228,
                   "r": 290.8892000000001,
                   "b": 695.98672,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -2782,12 +2366,8 @@
           },
           {
             "self_ref": "#/texts/139",
-            "parent": {
-              "$ref": "#/groups/5"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 11,
@@ -2796,7 +2376,7 @@
                   "t": 691.36228,
                   "r": 290.90004,
                   "b": 616.66672,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -2807,12 +2387,8 @@
           },
           {
             "self_ref": "#/texts/140",
-            "parent": {
-              "$ref": "#/groups/5"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 11,
@@ -2821,7 +2397,7 @@
                   "t": 611.92228,
                   "r": 290.85284,
                   "b": 550.54672,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -2832,12 +2408,8 @@
           },
           {
             "self_ref": "#/texts/141",
-            "parent": {
-              "$ref": "#/groups/5"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 11,
@@ -2846,7 +2418,7 @@
                   "t": 545.80228,
                   "r": 290.7125600000001,
                   "b": 523.99672,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -2857,12 +2429,8 @@
           },
           {
             "self_ref": "#/texts/142",
-            "parent": {
-              "$ref": "#/groups/5"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 11,
@@ -2871,7 +2439,7 @@
                   "t": 717.78228,
                   "r": 524.3586400000005,
                   "b": 695.98672,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -2882,12 +2450,8 @@
           },
           {
             "self_ref": "#/texts/143",
-            "parent": {
-              "$ref": "#/groups/5"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 11,
@@ -2896,7 +2460,7 @@
                   "t": 691.36228,
                   "r": 524.4905200000002,
                   "b": 629.86672,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -2907,12 +2471,8 @@
           },
           {
             "self_ref": "#/texts/144",
-            "parent": {
-              "$ref": "#/groups/5"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 11,
@@ -2921,7 +2481,7 @@
                   "t": 625.24228,
                   "r": 524.3785600000002,
                   "b": 590.1467200000001,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -2932,12 +2492,8 @@
           },
           {
             "self_ref": "#/texts/145",
-            "parent": {
-              "$ref": "#/groups/5"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 11,
@@ -2946,7 +2502,7 @@
                   "t": 585.52228,
                   "r": 524.53252,
                   "b": 524.11672,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -2957,12 +2513,8 @@
           },
           {
             "self_ref": "#/texts/146",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 11,
@@ -2971,7 +2523,7 @@
                   "t": 493.786,
                   "r": 550.4080000000001,
                   "b": 455.854,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -2980,15 +2532,7 @@
               }
             ]
           }
-        ],
-        "headings": [
-          "References"
-        ],
-        "origin": {
-          "mimetype": "application/pdf",
-          "binary_hash": 3728831133730751743,
-          "filename": "paper22"
-        }
+        ]
       }
     }
   }

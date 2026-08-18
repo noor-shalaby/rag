@@ -3,21 +3,20 @@
     "content": "MJMR, Vol. 34, No. 4, 2023, pages (325-334)\nResearch Article",
     "metadata": {
       "document_id": "paper29",
-      "source": "paper29.json",
+      "source": "paper29.pdf",
+      "topic": "Unknown",
+      "headings": [],
       "chunk_index": 1,
       "total_chunks": 35,
+      "pages": [
+        1
+      ],
       "docling": {
-        "schema_name": "docling_core.transforms.chunker.DocMeta",
-        "version": "1.0.0",
         "doc_items": [
           {
             "self_ref": "#/texts/0",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 1,
@@ -26,7 +25,7 @@
                   "t": 761.5429029101563,
                   "r": 261.84668,
                   "b": 753.1653356374289,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -37,12 +36,8 @@
           },
           {
             "self_ref": "#/texts/1",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 1,
@@ -51,7 +46,7 @@
                   "t": 735.8437429101563,
                   "r": 169.25,
                   "b": 723.7378592737927,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -60,12 +55,7 @@
               }
             ]
           }
-        ],
-        "origin": {
-          "mimetype": "application/pdf",
-          "binary_hash": 9140916357503570421,
-          "filename": "paper29"
-        }
+        ]
       }
     }
   },
@@ -73,21 +63,22 @@
     "content": "Nagwa M. Sabry Mahmoud 1 , Ahmed F. M. Khalil 2  and Moustafa M Abdel Raheem 1\n1 Department of Pediatric, Faculty of Medicine, Minia University, Egypt\n2 Assiut General Hospital, Assiut, Egypt\nDOI: 10.21608/MJMR.2023.187892.1308",
     "metadata": {
       "document_id": "paper29",
-      "source": "paper29.json",
+      "source": "paper29.pdf",
+      "topic": "Neurological effects of COVID-19 in pediatric patients with the multisystem inflammatory syndrome in children (MIS-C).",
+      "headings": [
+        "Neurological effects of COVID-19 in pediatric patients with the multisystem inflammatory syndrome in children (MIS-C)."
+      ],
       "chunk_index": 2,
       "total_chunks": 35,
+      "pages": [
+        1
+      ],
       "docling": {
-        "schema_name": "docling_core.transforms.chunker.DocMeta",
-        "version": "1.0.0",
         "doc_items": [
           {
             "self_ref": "#/texts/7",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 1,
@@ -96,7 +87,7 @@
                   "t": 627.6639829101563,
                   "r": 514.3,
                   "b": 617.5705283647017,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -107,12 +98,8 @@
           },
           {
             "self_ref": "#/texts/8",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "footnote",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 1,
@@ -121,7 +108,7 @@
                   "t": 615.4832629101562,
                   "r": 398.59,
                   "b": 604.8452629101563,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -132,12 +119,8 @@
           },
           {
             "self_ref": "#/texts/9",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "footnote",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 1,
@@ -146,7 +129,7 @@
                   "t": 602.7632629101563,
                   "r": 256.61,
                   "b": 592.1252629101563,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -157,12 +140,8 @@
           },
           {
             "self_ref": "#/texts/10",
-            "parent": {
-              "$ref": "#/groups/1"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 1,
@@ -171,7 +150,7 @@
                   "t": 576.2540629101562,
                   "r": 271.25,
                   "b": 566.9680847283381,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -180,15 +159,7 @@
               }
             ]
           }
-        ],
-        "headings": [
-          "Neurological effects of COVID-19 in pediatric patients with the multisystem inflammatory syndrome in children (MIS-C)."
-        ],
-        "origin": {
-          "mimetype": "application/pdf",
-          "binary_hash": 9140916357503570421,
-          "filename": "paper29"
-        }
+        ]
       }
     }
   },
@@ -196,21 +167,22 @@
     "content": "Background :  In  December 2019, people residing in the Chinese region of Wuhan were reported to have developed a severe form of pneumonia brought on by a novel coronavirus that is now known as severe  acute  respiratory  syndrome  coronavirus  2  (SARS-CoV-2).  Since  then,  cases  of  the  ensuing clinical syndrome, known as COVID-19, have been documented from every nation in the world. The authors  of  this  article  outline  the  present  state  of  information  regarding  COVID-19  in  children's neurologic sequelae. Objective: To assess the neurological impact in pediatric patients with COVID19-associated Multisystem Inflammatory Syndrome in Children (MIS-C). Methods: Patients who were admitted to Minia University Hospital's Pediatric Intensive Care Unit (PICU) isolation unit between December 2020 and July 2022 were included in this cross-sectional study. We investigated at a total of 368 patients,  of  which  62 had  PCR results  that  were  positive for covid. Results: Convulsions was demonstrated among the patients by 20 (31.7%), p-value<0.0001.  followed by DCL was 18 (28.2%) p-value<0.0001.  Headache  was  also  demonstrated  among  the  patients  also  by  18  (28.2%)  pvalue<0.0001. Weakness was also demonstrated among the patients 18 (28.3%) p-value<0.0001. While, drowsiness among patients was (9 (14.52%), p-value<0.0001. Hypertonia, hyperreflexia, hypotonia, hyporeflexia, 4 (3.5%) and2 (1.7%) respectively. The majority of the patients had abnormal ground glass  opacities  on  their  chest  scans  (CO-RADS  III).  The  number  of  patients  who  had  neurological manifestations show significantly increased mortality. Conclusion: pediatric patients with SARS-CoV2 infection may have life-threatening neurological disorders, even if only neurologic symptoms are present, pediatric patients with neurologic presentations should be tested for SARS-CoV-2 due to its prevalence in children. In addition, many of these patients arrived at the hospital unaware of COVID19 exposure and positivity, so testing is necessary to prevent infection.",
     "metadata": {
       "document_id": "paper29",
-      "source": "paper29.json",
+      "source": "paper29.pdf",
+      "topic": "Abstract",
+      "headings": [
+        "Abstract"
+      ],
       "chunk_index": 3,
       "total_chunks": 35,
+      "pages": [
+        1
+      ],
       "docling": {
-        "schema_name": "docling_core.transforms.chunker.DocMeta",
-        "version": "1.0.0",
         "doc_items": [
           {
             "self_ref": "#/texts/12",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 1,
@@ -219,7 +191,7 @@
                   "t": 530.3207029101562,
                   "r": 526.18,
                   "b": 267.8352629101563,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -228,15 +200,7 @@
               }
             ]
           }
-        ],
-        "headings": [
-          "Abstract"
-        ],
-        "origin": {
-          "mimetype": "application/pdf",
-          "binary_hash": 9140916357503570421,
-          "filename": "paper29"
-        }
+        ]
       }
     }
   },
@@ -244,21 +208,22 @@
     "content": "Keywords: COVID-19,  multisystem  inflammatory  syndrome  in  children  (MIS-C),  pediatrics, neurological symptoms, SARS-CoV-2",
     "metadata": {
       "document_id": "paper29",
-      "source": "paper29.json",
+      "source": "paper29.pdf",
+      "topic": "Abstract",
+      "headings": [
+        "Abstract"
+      ],
       "chunk_index": 4,
       "total_chunks": 35,
+      "pages": [
+        1
+      ],
       "docling": {
-        "schema_name": "docling_core.transforms.chunker.DocMeta",
-        "version": "1.0.0",
         "doc_items": [
           {
             "self_ref": "#/texts/13",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 1,
@@ -267,7 +232,7 @@
                   "t": 252.02070291015627,
                   "r": 526.1116,
                   "b": 229.67526291015633,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -276,15 +241,7 @@
               }
             ]
           }
-        ],
-        "headings": [
-          "Abstract"
-        ],
-        "origin": {
-          "mimetype": "application/pdf",
-          "binary_hash": 9140916357503570421,
-          "filename": "paper29"
-        }
+        ]
       }
     }
   },
@@ -292,21 +249,23 @@
     "content": "Worldwide morbidity and mortality have increased since December 2019 as a result of the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) pandemic, which is  the  virus  that  causes  coronavirus  disease 2019 (Covid-19). 1 The National Health Service of  the  United  Kingdom  issued  a  warning  to physicians  on  April  25,  2020,  on  a  recently identified  syndrome  in  children  that  causes severe multisystem inflammation and has clinical signs like Kawasaki disease and toxic shock syndrome. 2 As more cases spread around the world, the Centers for Disease Control and Prevention (CDC) and the World Health Organization (WHO) designated the illness as multisystem inflammatory syndrome in children  (MIS-C). 3-5 The  spread  of  SARSCoV-2 coincided with the appearance of MISC. This hyperinflammatory condition revealed involvement of the cardiovascular, hematologic,  pulmonary,  gastrointestinal,  and mucocutaneous systems. In at least four biomarkers that indicate inflammation, the majority of patients (92%) reported increases. 6,7\nIt  is  possible  for  the  SARS-CoV-2  virus  to reach  the  brain  via  a  hematogenous  pathway and cross the blood-brain barrier, according to the evidence that is currently available. Additionally,  it  might  traverse  the  cribriform plate via the olfactory system and enter transneuronally. The endothelial cells of the cerebral vasculature have angiotensin-converting enzyme  2  receptors,  which  serve  as  ports  of entrance  for  the  virus. 8 In  the  absence  of respiratory  symptoms,  children  with  MIS-C manifested with novel neurological symptoms involving both the central and peripheral nerve systems  as  well  as  splenial  abnormalities  on imaging. Encephalopathy, headaches, brainstem  and  cerebellar  indications,  muscle weakness, and slowed reflexes were among the symptoms. 9",
     "metadata": {
       "document_id": "paper29",
-      "source": "paper29.json",
+      "source": "paper29.pdf",
+      "topic": "Introduction",
+      "headings": [
+        "Introduction"
+      ],
       "chunk_index": 5,
       "total_chunks": 35,
+      "pages": [
+        1,
+        2
+      ],
       "docling": {
-        "schema_name": "docling_core.transforms.chunker.DocMeta",
-        "version": "1.0.0",
         "doc_items": [
           {
             "self_ref": "#/texts/15",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 1,
@@ -315,7 +274,7 @@
                   "t": 198.8607029101563,
                   "r": 282.40999999999997,
                   "b": 75.56926291015634,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -329,7 +288,7 @@
                   "t": 211.58070291015633,
                   "r": 526.0504,
                   "b": 75.56926291015634,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   452,
@@ -343,7 +302,7 @@
                   "t": 767.3707029101563,
                   "r": 282.24768000000006,
                   "b": 732.5252629101562,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   927,
@@ -354,12 +313,8 @@
           },
           {
             "self_ref": "#/texts/19",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 2,
@@ -368,7 +323,7 @@
                   "t": 716.7107029101562,
                   "r": 282.40997999999996,
                   "b": 492.1352629101563,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -377,15 +332,7 @@
               }
             ]
           }
-        ],
-        "headings": [
-          "Introduction"
-        ],
-        "origin": {
-          "mimetype": "application/pdf",
-          "binary_hash": 9140916357503570421,
-          "filename": "paper29"
-        }
+        ]
       }
     }
   },
@@ -393,21 +340,22 @@
     "content": "In this cross-sectional study, patients who were admitted to Minia University Hospital's Pediatric Intensive Care Unit (PICU) isolation unit  between  December  2020  and  July  2022 were  included.  The  aim  of  this  study  was  to evaluate the neurological manifestations in pediatric  patients  with  MIS-C  associated  to COVID-19. In the study we observed a total of 368 patients from them we studied included 60 patients with MIS-C who had laboratory confirmed SARS-CoV-2  infection  (positive SARS-CoV-2 RT-PCR) according to CDC case detention for MIS-C associated to COVID-19 3 . inclusion  criteria: Both  male  and  female pediatric  patients  (under  the  age  of  18)  ,  a severe  illness  requiring  hospitalization , body temperature greater than 38.0°C or a report of a subjective fever lasting at least 24 hours , and laboratory  proof  of  organ  involvement  and inflammation (i.e., involving at least two systems).",
     "metadata": {
       "document_id": "paper29",
-      "source": "paper29.json",
+      "source": "paper29.pdf",
+      "topic": "Patients and methods",
+      "headings": [
+        "Patients and methods"
+      ],
       "chunk_index": 6,
       "total_chunks": 35,
+      "pages": [
+        2
+      ],
       "docling": {
-        "schema_name": "docling_core.transforms.chunker.DocMeta",
-        "version": "1.0.0",
         "doc_items": [
           {
             "self_ref": "#/texts/21",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 2,
@@ -416,7 +364,7 @@
                   "t": 462.6407029101563,
                   "r": 285.28999999999996,
                   "b": 200.03526291015623,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -425,15 +373,7 @@
               }
             ]
           }
-        ],
-        "headings": [
-          "Patients and methods"
-        ],
-        "origin": {
-          "mimetype": "application/pdf",
-          "binary_hash": 9140916357503570421,
-          "filename": "paper29"
-        }
+        ]
       }
     }
   },
@@ -441,21 +381,22 @@
     "content": "The  study  protocol  and  all  procedures  were approved by the ethical committee of the Minia College of medicine. Before include the patient's family in the study, a signed consent was  obtained  from  them.  With  the  family members, the procedures, objectives, potential advantages, and risks were all reviewed.",
     "metadata": {
       "document_id": "paper29",
-      "source": "paper29.json",
+      "source": "paper29.pdf",
+      "topic": "Ethical considerations:",
+      "headings": [
+        "Ethical considerations:"
+      ],
       "chunk_index": 7,
       "total_chunks": 35,
+      "pages": [
+        2
+      ],
       "docling": {
-        "schema_name": "docling_core.transforms.chunker.DocMeta",
-        "version": "1.0.0",
         "doc_items": [
           {
             "self_ref": "#/texts/23",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 2,
@@ -464,7 +405,7 @@
                   "t": 171.59070291015632,
                   "r": 282.39320000000004,
                   "b": 86.24926291015629,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -473,15 +414,7 @@
               }
             ]
           }
-        ],
-        "headings": [
-          "Ethical considerations:"
-        ],
-        "origin": {
-          "mimetype": "application/pdf",
-          "binary_hash": 9140916357503570421,
-          "filename": "paper29"
-        }
+        ]
       }
     }
   },
@@ -489,21 +422,22 @@
     "content": "All patients underwent the following:\n1. Meticulous history taking including:\n2. Name, sex, age, residence, history of medical problems,  history  of  chronic  diseases,  family history of recent COVID-19 infection.\n3. 2-  presenting  complain:    Fever,  respiratory, cardiovascular, neurologic, gastrointestinal tract (GIT), hematologic, renal and dermatologic.\n2. Thorough clinical examination to all children including:\n- a) General examination.\n- b) A physical and local examination.\n- c) neurological evaluation: Convulsions, a lowered conscious level (DCL),  weakness, drowsiness,  irritability,  hypertonia,  hyperreflexia,  ataxia,  nystagmus,  hallucinations,  and lethargy were identified.\n3.  Lab  tests,  such  as  complete  blood  counts (CBC),  prothrombin  concentrations  (PC),  Creactive  protein  (CRP),  markers  of  coagulopathy (D-dimer), serum ferritin, liver function tests (Albumin), lactate dehydro-genase (LDH), troponin, creatine phosphor-kinase (CPK),  and  erythrocyte  sedimentation  rates (ESR).\n4.  Radiological  evaluation  such  as  abdominal ultrasound, echocardiography, brain and chest MRI, and chest CT.\n5. Hospital stay and result (whether the patient survived or not) were also evaluated.",
     "metadata": {
       "document_id": "paper29",
-      "source": "paper29.json",
+      "source": "paper29.pdf",
+      "topic": "data collection",
+      "headings": [
+        "data collection"
+      ],
       "chunk_index": 8,
       "total_chunks": 35,
+      "pages": [
+        2
+      ],
       "docling": {
-        "schema_name": "docling_core.transforms.chunker.DocMeta",
-        "version": "1.0.0",
         "doc_items": [
           {
             "self_ref": "#/texts/25",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 2,
@@ -512,7 +446,7 @@
                   "t": 754.7507029101563,
                   "r": 486.09999999999997,
                   "b": 745.2452629101563,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -523,12 +457,8 @@
           },
           {
             "self_ref": "#/texts/26",
-            "parent": {
-              "$ref": "#/groups/2"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 2,
@@ -537,7 +467,7 @@
                   "t": 742.0307029101563,
                   "r": 492.58,
                   "b": 732.5252629101562,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -548,12 +478,8 @@
           },
           {
             "self_ref": "#/texts/27",
-            "parent": {
-              "$ref": "#/groups/2"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 2,
@@ -562,7 +488,7 @@
                   "t": 729.4307029101562,
                   "r": 525.8736799999997,
                   "b": 694.6052629101563,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -573,12 +499,8 @@
           },
           {
             "self_ref": "#/texts/28",
-            "parent": {
-              "$ref": "#/groups/2"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 2,
@@ -587,7 +509,7 @@
                   "t": 691.5107029101563,
                   "r": 525.9171999999998,
                   "b": 643.9652629101563,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -598,12 +520,8 @@
           },
           {
             "self_ref": "#/texts/29",
-            "parent": {
-              "$ref": "#/groups/2"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 2,
@@ -612,7 +530,7 @@
                   "t": 640.8707029101563,
                   "r": 525.9619999999995,
                   "b": 618.7652629101563,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -623,12 +541,8 @@
           },
           {
             "self_ref": "#/texts/30",
-            "parent": {
-              "$ref": "#/groups/2"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 2,
@@ -637,7 +551,7 @@
                   "t": 615.5507029101562,
                   "r": 427.15,
                   "b": 606.0452629101562,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -648,12 +562,8 @@
           },
           {
             "self_ref": "#/texts/31",
-            "parent": {
-              "$ref": "#/groups/2"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 2,
@@ -662,7 +572,7 @@
                   "t": 602.9507029101562,
                   "r": 483.09999999999997,
                   "b": 593.4452629101562,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -673,12 +583,8 @@
           },
           {
             "self_ref": "#/texts/32",
-            "parent": {
-              "$ref": "#/groups/2"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 2,
@@ -687,7 +593,7 @@
                   "t": 590.2307029101563,
                   "r": 526.0059999999997,
                   "b": 530.1752629101562,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -698,12 +604,8 @@
           },
           {
             "self_ref": "#/texts/33",
-            "parent": {
-              "$ref": "#/groups/2"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 2,
@@ -712,7 +614,7 @@
                   "t": 526.9607029101562,
                   "r": 526.04368,
                   "b": 428.8952629101563,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -723,12 +625,8 @@
           },
           {
             "self_ref": "#/texts/34",
-            "parent": {
-              "$ref": "#/groups/2"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 2,
@@ -737,7 +635,7 @@
                   "t": 425.80070291015625,
                   "r": 526.0045599999999,
                   "b": 390.9752629101563,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -748,12 +646,8 @@
           },
           {
             "self_ref": "#/texts/35",
-            "parent": {
-              "$ref": "#/groups/2"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 2,
@@ -762,7 +656,7 @@
                   "t": 387.8807029101563,
                   "r": 525.8803999999997,
                   "b": 365.6352629101563,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -771,15 +665,7 @@
               }
             ]
           }
-        ],
-        "headings": [
-          "data collection"
-        ],
-        "origin": {
-          "mimetype": "application/pdf",
-          "binary_hash": 9140916357503570421,
-          "filename": "paper29"
-        }
+        ]
       }
     }
   },
@@ -787,21 +673,22 @@
     "content": "Data  entry  and  all  statistical  analyses  were performed using Statistical Package for Social Science (SPSS) version 21 (IBM Corp. 2011) under windows 7 operating system. For quantitative  data,  results  are  shown  as  means SD, while for qualitative data, they are presented as No. (%). Analyses were done for quantitative variables using one-way ANOVA test for comparison between the studied patients and post Hoc Tukey's correction between  studied  patients.  The  nonparametric quantitative  variables  analyzed  by  the  same tests after logarithmic transformation. Chi square test, however, was employed to compare qualitative  data  between  studied  patients.  Pvalues were considered significant if they were less  than  0.05  and  highly  significant  if  they were less than 0.01. If the P-value was larger than or equal to 0.05, it was considered to be non-significant.",
     "metadata": {
       "document_id": "paper29",
-      "source": "paper29.json",
+      "source": "paper29.pdf",
+      "topic": "Statistical Analysis:",
+      "headings": [
+        "Statistical Analysis:"
+      ],
       "chunk_index": 9,
       "total_chunks": 35,
+      "pages": [
+        2
+      ],
       "docling": {
-        "schema_name": "docling_core.transforms.chunker.DocMeta",
-        "version": "1.0.0",
         "doc_items": [
           {
             "self_ref": "#/texts/37",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 2,
@@ -810,7 +697,7 @@
                   "t": 337.22070291015626,
                   "r": 526.0412799999999,
                   "b": 87.32926291015633,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -819,15 +706,7 @@
               }
             ]
           }
-        ],
-        "headings": [
-          "Statistical Analysis:"
-        ],
-        "origin": {
-          "mimetype": "application/pdf",
-          "binary_hash": 9140916357503570421,
-          "filename": "paper29"
-        }
+        ]
       }
     }
   },
@@ -835,21 +714,22 @@
     "content": "Regarding the demographic and baseline data among the studied patients, the results revealed that the Mean ± SD age was 0.8 ± 0.3, and the age range was 0.4-7.0 years. With regard to sex, males 43 (70.0%) were more demonstrated in the  studied  patients  than  female  patients  19 (30.0%).  However,  this  difference  was  nonsignificant. (Table 1).\nRegarding symptoms 60 (96.77%) of patients had  fever  while  2(3.23%)  show  no  fever  at presentation with significant difference with pvalue < 0.0001.  The  majority  of  the  patients showed respiratory symptoms, 57 (93.3%). The cardiovascular  symptoms  were  significantly highly demonstrated among the majority of the patients  43  (70.0%) with p-value < 0.0001, neurologic symptoms were demonstrated among the patients by 29 (46.77%). Gastrointestinal symptoms were demonstrated by  19  (30.0%)  with  significant  difference  pvalue < 0.0001.  Hematologic  symptoms  also were significantly highly demonstrated among the  patients  48  (78.3%),  p-value<0.0001.  On the  other  hand,  only  a  small  number  of  the patients 3 (4.84%) and 2 (3.23%), showed renal and dermatologic symptoms respectively (Table 2).\nConcerning neurological manifestations among the studied patients. Convulsions was demonstrated  among  the  patients      by  20 (31.7%),  p-value<0.0001.    followed  by  DCL was 18 (28.2%) p-value<0.0001. Headache was also more demonstrated among the patients also by 18 (28.2%) p-value<0.0001. Weakness was also  demonstrated  among  the  patients  by  18",
     "metadata": {
       "document_id": "paper29",
-      "source": "paper29.json",
+      "source": "paper29.pdf",
+      "topic": "Results",
+      "headings": [
+        "Results"
+      ],
       "chunk_index": 10,
       "total_chunks": 35,
+      "pages": [
+        3
+      ],
       "docling": {
-        "schema_name": "docling_core.transforms.chunker.DocMeta",
-        "version": "1.0.0",
         "doc_items": [
           {
             "self_ref": "#/texts/42",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 3,
@@ -858,7 +738,7 @@
                   "t": 753.5507029101562,
                   "r": 282.40999999999997,
                   "b": 655.4852629101563,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -869,12 +749,8 @@
           },
           {
             "self_ref": "#/texts/43",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 3,
@@ -883,7 +759,7 @@
                   "t": 639.6707029101563,
                   "r": 282.40999999999997,
                   "b": 402.5380847283381,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -894,12 +770,8 @@
           },
           {
             "self_ref": "#/texts/44",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 3,
@@ -908,7 +780,7 @@
                   "t": 386.68070291015624,
                   "r": 282.40855999999997,
                   "b": 288.5952629101563,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -917,15 +789,7 @@
               }
             ]
           }
-        ],
-        "headings": [
-          "Results"
-        ],
-        "origin": {
-          "mimetype": "application/pdf",
-          "binary_hash": 9140916357503570421,
-          "filename": "paper29"
-        }
+        ]
       }
     }
   },
@@ -933,21 +797,22 @@
     "content": "(28.3%)  p-value<0.0001.  While,  drowsiness among patients was (9 (14.52%), pvalue<0.0001. Hypertonia, hyperreflexia, hypotonia, hyporeflexia, 4 (3.5%) and2 (1.7%) respectively (Table  3). The  radiological  data showed  significant  difference  in  the  studied patients regarding the percentage of the normal and abnormal signs of Chest CT, Brain CT, and Brain MRI. The abnormal signs of Chest CT and Brain CT were more demonstrated in the studied patients, the percentage of the abnormal signs of Chest CT were 56(93.3%), the abnormal signs of Brain CT were 12 (20.0%), the abnormal signs of Brain MRI were 1(1.7%). (Table  4). Regarding  Chest  CT,  the  results revealed  that  the  majority  of  patients  in  the studied  patients  showed  abnormal  Chest  CT findings in the form of ground glass opacities (CO-RADS III)   45(73.3%) followed by (CORADS  IV)  12(18.3%)  then  (CO-RADS  V). CO-RADS IV 1(1.7%). However, these results were non-significant (Table 5). Brain  CT results revealed that normal Brain CT was more demonstrated among patients 48(80%) Cerebral edema was demonstrated among patients  by  12  (18.3%).  Intracerebral  hemorrhage was more demonstrated among patients by 2 (1.7%). Cerebral venous sinus thrombosis as  well  as  cerebral  infarction  were  not  seen (Table 6). The duration of the hospital stay was (Mean ± SD is 7.8 ± 2.1 with a range of 6-11 days). With regard to the outcomes, the percentage of non-survived patients among the patients was 14 (22.58%) (Table7). Concerning  the outcomes  of patients with neurological manifestations, the percentage of non-survived patients was (12(42.86%) (Table 8)",
     "metadata": {
       "document_id": "paper29",
-      "source": "paper29.json",
+      "source": "paper29.pdf",
+      "topic": "Results",
+      "headings": [
+        "Results"
+      ],
       "chunk_index": 11,
       "total_chunks": 35,
+      "pages": [
+        3
+      ],
       "docling": {
-        "schema_name": "docling_core.transforms.chunker.DocMeta",
-        "version": "1.0.0",
         "doc_items": [
           {
             "self_ref": "#/texts/45",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 3,
@@ -956,7 +821,7 @@
                   "t": 767.3707029101563,
                   "r": 526.06096,
                   "b": 289.8380847283381,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -965,15 +830,7 @@
               }
             ]
           }
-        ],
-        "headings": [
-          "Results"
-        ],
-        "origin": {
-          "mimetype": "application/pdf",
-          "binary_hash": 9140916357503570421,
-          "filename": "paper29"
-        }
+        ]
       }
     }
   },
@@ -981,21 +838,23 @@
     "content": "Table (1): demographic and baseline data of the studied patients:\n\nAge (year),  = Mean ± SD. Age (year), Patients with MIS-C PCR +ve (n=62) = 0.8 ± 0.3. Age (year), P. value (Sig.). = 0.08 *. Age (year),  = Range. Age (year), Patients with MIS-C PCR +ve (n=62) = 0.4-7.0. Age (year), P. value (Sig.). = 0.08 *. Sex,  = Male. Sex, Patients with MIS-C PCR +ve (n=62) = 43 (70.0%). Sex, P. value (Sig.). = 0.52 *. Sex,  = Female. Sex, Patients with MIS-C PCR +ve (n=62) = 19 (30.0%). Sex, P. value (Sig.). = 0.52 *. Weight (kg),  = Mean ± SD. Weight (kg), Patients with MIS-C PCR +ve (n=62) = 9.4 ± 2.9. Weight (kg), P. value (Sig.). = . Weight (kg),  = Range. Weight (kg), Patients with MIS-C PCR +ve (n=62) = 5-15. Weight (kg), P. value (Sig.). = . Residence,  = Urban. Residence, Patients with MIS-C PCR +ve (n=62) = 33 (53.3%). Residence, P. value (Sig.). = 0.80 *. Residence,  = Rural. Residence, Patients with MIS-C PCR +ve (n=62) = 29 (46.7%). Residence, P. value (Sig.). = 0.80 *\nANOVA and Chi-square tests were used to compare among studied patients.\n*: Not significant.",
     "metadata": {
       "document_id": "paper29",
-      "source": "paper29.json",
+      "source": "paper29.pdf",
+      "topic": "Results",
+      "headings": [
+        "Results"
+      ],
       "chunk_index": 12,
       "total_chunks": 35,
+      "pages": [
+        3,
+        4
+      ],
       "docling": {
-        "schema_name": "docling_core.transforms.chunker.DocMeta",
-        "version": "1.0.0",
         "doc_items": [
           {
             "self_ref": "#/texts/46",
-            "parent": {
-              "$ref": "#/tables/0"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "caption",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 3,
@@ -1004,7 +863,7 @@
                   "t": 272.72406291015636,
                   "r": 380.11,
                   "b": 263.438084728338,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1015,16 +874,8 @@
           },
           {
             "self_ref": "#/tables/0",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [
-              {
-                "$ref": "#/texts/46"
-              }
-            ],
-            "content_layer": "body",
             "label": "table",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 3,
@@ -1033,7 +884,7 @@
                   "t": 256.6920953731134,
                   "r": 509.7860840050394,
                   "b": 97.89242958395153,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1044,12 +895,8 @@
           },
           {
             "self_ref": "#/texts/47",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 3,
@@ -1058,7 +905,7 @@
                   "t": 95.99470291015632,
                   "r": 467.5,
                   "b": 86.4892629101563,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1069,12 +916,8 @@
           },
           {
             "self_ref": "#/texts/48",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "footnote",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 3,
@@ -1083,7 +926,7 @@
                   "t": 83.2747029101563,
                   "r": 154.57999999999998,
                   "b": 73.76926291015627,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1094,12 +937,8 @@
           },
           {
             "self_ref": "#/texts/52",
-            "parent": {
-              "$ref": "#/tables/1"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "caption",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 4,
@@ -1108,7 +947,7 @@
                   "t": 767.1940629101563,
                   "r": 416.83,
                   "b": 757.9080847283382,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1117,41 +956,30 @@
               }
             ]
           }
-        ],
-        "headings": [
-          "Results"
-        ],
-        "origin": {
-          "mimetype": "application/pdf",
-          "binary_hash": 9140916357503570421,
-          "filename": "paper29"
-        }
+        ]
       }
     }
   },
   {
-    "content": "Table (2): Comparison among the studied patients regarding symptoms:\nFever,  = No. Fever, Patients with MIS-C PCR +ve (n=62) = 2(3.23). Fever, P. value (Sig.) = P < 0.0001 ***. ,  = Yes. , Patients with MIS-C PCR +ve (n=62) = 60 (96.77%). , P. value (Sig.) = . Respiratory symptoms,  = No. Respiratory symptoms, Patients with MIS-C PCR +ve (n=62) = 5 (6.7%). Respiratory symptoms, P. value (Sig.) = < 0.0001 ***. ,  = Yes. , Patients with MIS-C PCR +ve (n=62) = 57 (93.3%). , P. value (Sig.) = . Cardiovascular symptoms,  = No. Cardiovascular symptoms, Patients with MIS-C PCR +ve (n=62) = 19 (30.0%). Cardiovascular symptoms, P. value (Sig.) = < 0.0001 ***. ,  = Yes. , Patients with MIS-C PCR +ve (n=62) = 43 (70.0%). , P. value (Sig.) = . Neurologic symptoms,  = No. Neurologic symptoms, Patients with MIS-C PCR +ve (n=62) = 33 (53.22%). Neurologic symptoms, P. value (Sig.) = 0.4744 *. ,  = Yes. , Patients with MIS-C PCR +ve (n=62) = 29 (46.77%). , P. value (Sig.) = . Gastrointestinal symptoms,  = No. Gastrointestinal symptoms, Patients with MIS-C PCR +ve (n=62) = 43 (70.0%). Gastrointestinal symptoms, P. value (Sig.) = < 0.0001 ***. ,  = Yes. , Patients with MIS-C PCR +ve (n=62) = 19 (30.0%). , P. value (Sig.) = . Hematologic symptoms,  = No. Hematologic symptoms, Patients with MIS-C PCR +ve (n=62) = 14",
+    "content": "Table (2): Comparison among the studied patients regarding symptoms:\nFever,  = No. Fever, Patients with MIS-C PCR +ve (n=62) = 2(3.23). Fever, P. value (Sig.) = P < 0.0001 ***. ,  = Yes. , Patients with MIS-C PCR +ve (n=62) = 60 (96.77%). , P. value (Sig.) = . Respiratory symptoms,  = No. Respiratory symptoms, Patients with MIS-C PCR +ve (n=62) = 5 (6.7%). Respiratory symptoms, P. value (Sig.) = < 0.0001 ***. ,  = Yes. , Patients with MIS-C PCR +ve (n=62) = 57 (93.3%). , P. value (Sig.) = . Cardiovascular symptoms,  = No. Cardiovascular symptoms, Patients with MIS-C PCR +ve (n=62) = 19 (30.0%). Cardiovascular symptoms, P. value (Sig.) = < 0.0001 ***. ,  = Yes. , Patients with MIS-C PCR +ve (n=62) = 43 (70.0%). , P. value (Sig.) = . Neurologic symptoms,  = No. Neurologic symptoms, Patients with MIS-C PCR +ve (n=62) = 33 (53.22%). Neurologic symptoms, P. value (Sig.) = 0.4744 *. ,  = Yes. , Patients with MIS-C PCR +ve (n=62) = 29 (46.77%). , P. value (Sig.) = . Gastrointestinal symptoms,  = No. Gastrointestinal symptoms, Patients with MIS-C PCR +ve (n=62) = 43 (70.0%). Gastrointestinal symptoms, P. value (Sig.) = < 0.0001 ***. ,  = Yes. , Patients with MIS-C PCR +ve (n=62) = 19 (30.0%). , P. value (Sig.) = . Hematologic symptoms,  = No. Hematologic symptoms, Patients with MIS-C",
     "metadata": {
       "document_id": "paper29",
-      "source": "paper29.json",
+      "source": "paper29.pdf",
+      "topic": "Results",
+      "headings": [
+        "Results"
+      ],
       "chunk_index": 13,
       "total_chunks": 35,
+      "pages": [
+        4
+      ],
       "docling": {
-        "schema_name": "docling_core.transforms.chunker.DocMeta",
-        "version": "1.0.0",
         "doc_items": [
           {
             "self_ref": "#/tables/1",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [
-              {
-                "$ref": "#/texts/52"
-              }
-            ],
-            "content_layer": "body",
             "label": "table",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 4,
@@ -1160,7 +988,7 @@
                   "t": 757.6641967363054,
                   "r": 517.036410776964,
                   "b": 506.90772497851066,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1169,41 +997,30 @@
               }
             ]
           }
-        ],
-        "headings": [
-          "Results"
-        ],
-        "origin": {
-          "mimetype": "application/pdf",
-          "binary_hash": 9140916357503570421,
-          "filename": "paper29"
-        }
+        ]
       }
     }
   },
   {
-    "content": "(21.7%). Hematologic symptoms, P. value (Sig.) = < 0.0001 ***. ,  = Yes. , Patients with MIS-C PCR +ve (n=62) = 48 (78.3%). , P. value (Sig.) = . Renal symptoms,  = No. Renal symptoms, Patients with MIS-C PCR +ve (n=62) = 59 (95.16%). Renal symptoms, P. value (Sig.) = < 0.0001 ***. ,  = Yes. , Patients with MIS-C PCR +ve (n=62) = 3 (4.84%). , P. value (Sig.) = . Dermatologic symptoms,  = No. Dermatologic symptoms, Patients with MIS-C PCR +ve (n=62) = 58 (93.55%). Dermatologic symptoms, P. value (Sig.) = < 0.0001 ***. ,  = Yes. , Patients with MIS-C PCR +ve (n=62) = 2 (3.23%). , P. value (Sig.) = \nChi-square test was used to compare among studied patients\n*: Not significant.                  **: Significant (p < 0.05)                   ***: Highly significant (p < 0.01)",
+    "content": "PCR +ve (n=62) = 14 (21.7%). Hematologic symptoms, P. value (Sig.) = < 0.0001 ***. ,  = Yes. , Patients with MIS-C PCR +ve (n=62) = 48 (78.3%). , P. value (Sig.) = . Renal symptoms,  = No. Renal symptoms, Patients with MIS-C PCR +ve (n=62) = 59 (95.16%). Renal symptoms, P. value (Sig.) = < 0.0001 ***. ,  = Yes. , Patients with MIS-C PCR +ve (n=62) = 3 (4.84%). , P. value (Sig.) = . Dermatologic symptoms,  = No. Dermatologic symptoms, Patients with MIS-C PCR +ve (n=62) = 58 (93.55%). Dermatologic symptoms, P. value (Sig.) = < 0.0001 ***. ,  = Yes. , Patients with MIS-C PCR +ve (n=62) = 2 (3.23%). , P. value (Sig.) = \nChi-square test was used to compare among studied patients\n*: Not significant.                  **: Significant (p < 0.05)                   ***: Highly significant (p < 0.01)",
     "metadata": {
       "document_id": "paper29",
-      "source": "paper29.json",
+      "source": "paper29.pdf",
+      "topic": "Results",
+      "headings": [
+        "Results"
+      ],
       "chunk_index": 14,
       "total_chunks": 35,
+      "pages": [
+        4
+      ],
       "docling": {
-        "schema_name": "docling_core.transforms.chunker.DocMeta",
-        "version": "1.0.0",
         "doc_items": [
           {
             "self_ref": "#/tables/1",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [
-              {
-                "$ref": "#/texts/52"
-              }
-            ],
-            "content_layer": "body",
             "label": "table",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 4,
@@ -1212,7 +1029,7 @@
                   "t": 757.6641967363054,
                   "r": 517.036410776964,
                   "b": 506.90772497851066,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1223,12 +1040,8 @@
           },
           {
             "self_ref": "#/texts/53",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 4,
@@ -1237,7 +1050,7 @@
                   "t": 504.7040629101563,
                   "r": 358.39,
                   "b": 495.4180847283381,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1248,12 +1061,8 @@
           },
           {
             "self_ref": "#/texts/54",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 4,
@@ -1262,7 +1071,7 @@
                   "t": 492.16070291015626,
                   "r": 519.34,
                   "b": 482.6552629101563,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1273,12 +1082,8 @@
           },
           {
             "self_ref": "#/texts/55",
-            "parent": {
-              "$ref": "#/tables/2"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "caption",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 4,
@@ -1287,7 +1092,7 @@
                   "t": 466.6640629101563,
                   "r": 494.74,
                   "b": 457.3780847283381,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1296,41 +1101,30 @@
               }
             ]
           }
-        ],
-        "headings": [
-          "Results"
-        ],
-        "origin": {
-          "mimetype": "application/pdf",
-          "binary_hash": 9140916357503570421,
-          "filename": "paper29"
-        }
+        ]
       }
     }
   },
   {
-    "content": "Table (3): Comparison among the studied patients regarding neurological manifestations.\nConvulsions, Variable = - ve. Convulsions, Patients with MIS-C PCR +ve (n=62) = 42 (68.3%). Convulsions, P. value (Sig.) = < < 0.0001* **. Convulsions, Variable = + ve. Convulsions, Patients with MIS-C PCR +ve (n=62) = 20 (31.7%). Convulsions, P. value (Sig.) = < < 0.0001* **. DCL, Variable = - ve. DCL, Patients with MIS-C PCR +ve (n=62) = 44 (71.7%). DCL, P. value (Sig.) = < 0.0001* **. DCL, Variable = + ve. DCL, Patients with MIS-C PCR +ve (n=62) = 18 (28.2%). DCL, P. value (Sig.) = < 0.0001* **. Headache, Variable = - ve. Headache, Patients with MIS-C PCR +ve (n=62) = 44 (71.8%). Headache, P. value (Sig.) = < 0.0001* **. Headache, Variable = + ve. Headache, Patients with MIS-C PCR +ve (n=62) = 18 (28.3%). Headache, P. value (Sig.) = < 0.0001* **. Weakness, Variable = - ve. Weakness, Patients with MIS-C PCR +ve (n=62) = 46 (74.19%). Weakness, P. value (Sig.) = < 0.00018* **. Weakness, Variable = + ve. Weakness, Patients with MIS-C PCR +ve (n=62) = 16 (25.8%). Weakness, P. value (Sig.) = < 0.00018* **. Drowsiness, Variable = - ve. Drowsiness, Patients with MIS-C PCR +ve (n=62) = 53 (85.48%). Drowsiness, P. value (Sig.) = < 0.0001*",
+    "content": "Table (3): Comparison among the studied patients regarding neurological manifestations.\nConvulsions, Variable = - ve. Convulsions, Patients with MIS-C PCR +ve (n=62) = 42 (68.3%). Convulsions, P. value (Sig.) = < < 0.0001* **. Convulsions, Variable = + ve. Convulsions, Patients with MIS-C PCR +ve (n=62) = 20 (31.7%). Convulsions, P. value (Sig.) = < < 0.0001* **. DCL, Variable = - ve. DCL, Patients with MIS-C PCR +ve (n=62) = 44 (71.7%). DCL, P. value (Sig.) = < 0.0001* **. DCL, Variable = + ve. DCL, Patients with MIS-C PCR +ve (n=62) = 18 (28.2%). DCL, P. value (Sig.) = < 0.0001* **. Headache, Variable = - ve. Headache, Patients with MIS-C PCR +ve (n=62) = 44 (71.8%). Headache, P. value (Sig.) = < 0.0001* **. Headache, Variable = + ve. Headache, Patients with MIS-C PCR +ve (n=62) = 18 (28.3%). Headache, P. value (Sig.) = < 0.0001* **. Weakness, Variable = - ve. Weakness, Patients with MIS-C PCR +ve (n=62) = 46 (74.19%). Weakness, P. value (Sig.) = < 0.00018* **. Weakness, Variable = + ve. Weakness, Patients with MIS-C PCR +ve (n=62) = 16 (25.8%). Weakness, P. value (Sig.) = < 0.00018* **. Drowsiness, Variable = - ve. Drowsiness, Patients with MIS-C PCR +ve (n=62) = 53 (85.48%). Drowsiness, P. value",
     "metadata": {
       "document_id": "paper29",
-      "source": "paper29.json",
+      "source": "paper29.pdf",
+      "topic": "Results",
+      "headings": [
+        "Results"
+      ],
       "chunk_index": 15,
       "total_chunks": 35,
+      "pages": [
+        4
+      ],
       "docling": {
-        "schema_name": "docling_core.transforms.chunker.DocMeta",
-        "version": "1.0.0",
         "doc_items": [
           {
             "self_ref": "#/tables/2",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [
-              {
-                "$ref": "#/texts/55"
-              }
-            ],
-            "content_layer": "body",
             "label": "table",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 4,
@@ -1339,7 +1133,7 @@
                   "t": 455.89743633906966,
                   "r": 518.8791371528716,
                   "b": 101.66379966401882,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1348,41 +1142,30 @@
               }
             ]
           }
-        ],
-        "headings": [
-          "Results"
-        ],
-        "origin": {
-          "mimetype": "application/pdf",
-          "binary_hash": 9140916357503570421,
-          "filename": "paper29"
-        }
+        ]
       }
     }
   },
   {
-    "content": "**. Drowsiness, Variable = + ve. Drowsiness, Patients with MIS-C PCR +ve (n=62) = 9 (14.52%). Drowsiness, P. value (Sig.) = < 0.0001* **. Irritability, Variable = - ve. Irritability, Patients with MIS-C PCR +ve (n=62) = 60 (98.2%). Irritability, P. value (Sig.) = < 0.0001* **. Irritability, Variable = + ve. Irritability, Patients with MIS-C PCR +ve (n=62) = 2 (1.8%). Irritability, P. value (Sig.) = < 0.0001* **. Hypertonia, hyperreflexia, Variable = - ve. Hypertonia, hyperreflexia, Patients with MIS-C PCR +ve (n=62) = 57 (96.5%). Hypertonia, hyperreflexia, P. value (Sig.) = < 0.0001* **. Hypertonia, hyperreflexia, Variable = + ve. Hypertonia, hyperreflexia, Patients with MIS-C PCR +ve (n=62) = 4 (3.5%). Hypertonia, hyperreflexia, P. value (Sig.) = < 0.0001* **. Hypotonia, hyporeflexia, Variable = - ve. Hypotonia, hyporeflexia, Patients with MIS-C PCR +ve (n=62) = 60 (98.3%). Hypotonia, hyporeflexia, P. value (Sig.) = < 0.0001 ***. Hypotonia, hyporeflexia, Variable = + ve. Hypotonia, hyporeflexia, Patients with MIS-C PCR +ve (n=62) = 2 (1.7%). Hypotonia, hyporeflexia, P. value (Sig.) = < 0.0001 ***. Ataxia, Variable = - ve. Ataxia, Patients with MIS-C PCR +ve (n=62) = 60",
+    "content": "(Sig.) = < 0.0001* **. Drowsiness, Variable = + ve. Drowsiness, Patients with MIS-C PCR +ve (n=62) = 9 (14.52%). Drowsiness, P. value (Sig.) = < 0.0001* **. Irritability, Variable = - ve. Irritability, Patients with MIS-C PCR +ve (n=62) = 60 (98.2%). Irritability, P. value (Sig.) = < 0.0001* **. Irritability, Variable = + ve. Irritability, Patients with MIS-C PCR +ve (n=62) = 2 (1.8%). Irritability, P. value (Sig.) = < 0.0001* **. Hypertonia, hyperreflexia, Variable = - ve. Hypertonia, hyperreflexia, Patients with MIS-C PCR +ve (n=62) = 57 (96.5%). Hypertonia, hyperreflexia, P. value (Sig.) = < 0.0001* **. Hypertonia, hyperreflexia, Variable = + ve. Hypertonia, hyperreflexia, Patients with MIS-C PCR +ve (n=62) = 4 (3.5%). Hypertonia, hyperreflexia, P. value (Sig.) = < 0.0001* **. Hypotonia, hyporeflexia, Variable = - ve. Hypotonia, hyporeflexia, Patients with MIS-C PCR +ve (n=62) = 60 (98.3%). Hypotonia, hyporeflexia, P. value (Sig.) = < 0.0001 ***. Hypotonia, hyporeflexia, Variable = + ve. Hypotonia, hyporeflexia, Patients with MIS-C PCR +ve (n=62) = 2 (1.7%). Hypotonia, hyporeflexia, P. value (Sig.) = < 0.0001 ***. Ataxia, Variable = -",
     "metadata": {
       "document_id": "paper29",
-      "source": "paper29.json",
+      "source": "paper29.pdf",
+      "topic": "Results",
+      "headings": [
+        "Results"
+      ],
       "chunk_index": 16,
       "total_chunks": 35,
+      "pages": [
+        4
+      ],
       "docling": {
-        "schema_name": "docling_core.transforms.chunker.DocMeta",
-        "version": "1.0.0",
         "doc_items": [
           {
             "self_ref": "#/tables/2",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [
-              {
-                "$ref": "#/texts/55"
-              }
-            ],
-            "content_layer": "body",
             "label": "table",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 4,
@@ -1391,7 +1174,7 @@
                   "t": 455.89743633906966,
                   "r": 518.8791371528716,
                   "b": 101.66379966401882,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1400,41 +1183,30 @@
               }
             ]
           }
-        ],
-        "headings": [
-          "Results"
-        ],
-        "origin": {
-          "mimetype": "application/pdf",
-          "binary_hash": 9140916357503570421,
-          "filename": "paper29"
-        }
+        ]
       }
     }
   },
   {
-    "content": "(96.78%). Ataxia, P. value (Sig.) = < 0.0001 ***. Ataxia, Variable = + ve. Ataxia, Patients with MIS-C PCR +ve (n=62) = 2(3.23). Ataxia, P. value (Sig.) = < 0.0001 ***. Nystagmus, Variable = - ve. Nystagmus, Patients with MIS-C PCR +ve (n=62) = 61 (98.39%). Nystagmus, P. value (Sig.) = < 0.0001 ***. Nystagmus, Variable = + ve. Nystagmus, Patients with MIS-C PCR +ve (n=62) = 1(1.61). Nystagmus, P. value (Sig.) = < 0.0001 ***. Hallucinations, Variable = - ve. Hallucinations, Patients with MIS-C PCR +ve (n=62) = 60 (96.78%). Hallucinations, P. value (Sig.) = < 0.0001 ***. Hallucinations, Variable = + ve. Hallucinations, Patients with MIS-C PCR +ve (n=62) = 2(3.23%). Hallucinations, P. value (Sig.) = < 0.0001 ***. Lethargy, Variable = - ve. Lethargy, Patients with MIS-C PCR +ve (n=62) = 62 (96.78%). Lethargy, P. value (Sig.) = < 0.0001 ***. Lethargy, Variable = + ve. Lethargy, Patients with MIS-C PCR +ve (n=62) = 2(3.23%). Lethargy, P. value (Sig.) = < 0.0001 ***\nChi-square test was used to compare among studied patients\n.\n*: Not significant, **: Significant (p<0.05), ***: Highly significant (p<0.01), DCL: Decreased conscious level",
+    "content": "ve. Ataxia, Patients with MIS-C PCR +ve (n=62) = 60 (96.78%). Ataxia, P. value (Sig.) = < 0.0001 ***. Ataxia, Variable = + ve. Ataxia, Patients with MIS-C PCR +ve (n=62) = 2(3.23). Ataxia, P. value (Sig.) = < 0.0001 ***. Nystagmus, Variable = - ve. Nystagmus, Patients with MIS-C PCR +ve (n=62) = 61 (98.39%). Nystagmus, P. value (Sig.) = < 0.0001 ***. Nystagmus, Variable = + ve. Nystagmus, Patients with MIS-C PCR +ve (n=62) = 1(1.61). Nystagmus, P. value (Sig.) = < 0.0001 ***. Hallucinations, Variable = - ve. Hallucinations, Patients with MIS-C PCR +ve (n=62) = 60 (96.78%). Hallucinations, P. value (Sig.) = < 0.0001 ***. Hallucinations, Variable = + ve. Hallucinations, Patients with MIS-C PCR +ve (n=62) = 2(3.23%). Hallucinations, P. value (Sig.) = < 0.0001 ***. Lethargy, Variable = - ve. Lethargy, Patients with MIS-C PCR +ve (n=62) = 62 (96.78%). Lethargy, P. value (Sig.) = < 0.0001 ***. Lethargy, Variable = + ve. Lethargy, Patients with MIS-C PCR +ve (n=62) = 2(3.23%). Lethargy, P. value (Sig.) = < 0.0001 ***\nChi-square test was used to compare among studied patients\n.",
     "metadata": {
       "document_id": "paper29",
-      "source": "paper29.json",
+      "source": "paper29.pdf",
+      "topic": "Results",
+      "headings": [
+        "Results"
+      ],
       "chunk_index": 17,
       "total_chunks": 35,
+      "pages": [
+        4
+      ],
       "docling": {
-        "schema_name": "docling_core.transforms.chunker.DocMeta",
-        "version": "1.0.0",
         "doc_items": [
           {
             "self_ref": "#/tables/2",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [
-              {
-                "$ref": "#/texts/55"
-              }
-            ],
-            "content_layer": "body",
             "label": "table",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 4,
@@ -1443,7 +1215,7 @@
                   "t": 455.89743633906966,
                   "r": 518.8791371528716,
                   "b": 101.66379966401882,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1454,12 +1226,8 @@
           },
           {
             "self_ref": "#/texts/56",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 4,
@@ -1468,7 +1236,7 @@
                   "t": 99.23470291015633,
                   "r": 350.15191999999985,
                   "b": 89.72926291015631,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1479,12 +1247,8 @@
           },
           {
             "self_ref": "#/texts/57",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 4,
@@ -1493,7 +1257,7 @@
                   "t": 99.05806291015631,
                   "r": 385.87,
                   "b": 89.77208472833809,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1501,15 +1265,32 @@
                 ]
               }
             ]
-          },
+          }
+        ]
+      }
+    }
+  },
+  {
+    "content": "*: Not significant, **: Significant (p<0.05), ***: Highly significant (p<0.01), DCL: Decreased conscious level\nTable (4): Comparison among the studied patients regarding radiological data.\n\nChest CT,  = Normal Abnormal. Chest CT, Patients with MIS-C PCR +ve (n=62) = 4(6.7%) 56(93.3%). Chest CT, P. value (Sig.). = <0.0001***. Brain CT,  = Normal Abnormal. Brain CT, Patients with MIS-C PCR +ve (n=62) = 48 (80.0%) 12 (20.0%). Brain CT, P. value (Sig.). = <0.0001***. Brain MRI,  = Normal Abnormal. Brain MRI, Patients with MIS-C PCR +ve (n=62) = 59(98.3%) 1(1.7%). Brain MRI, P. value (Sig.). = <0.0001***. Echo,  = Normal Abnormal. Echo, Patients with MIS-C PCR +ve (n=62) = 52(86.7%) 8(13.3%). Echo, P. value (Sig.). = 0.002***. Abdominal Ultrasound,  = Normal Abnormal. Abdominal Ultrasound, Patients with MIS-C PCR +ve (n=62) = 56(93.3%) 4(6.7%). Abdominal Ultrasound, P. value (Sig.). = 0.03***",
+    "metadata": {
+      "document_id": "paper29",
+      "source": "paper29.pdf",
+      "topic": "Results",
+      "headings": [
+        "Results"
+      ],
+      "chunk_index": 18,
+      "total_chunks": 35,
+      "pages": [
+        4,
+        5
+      ],
+      "docling": {
+        "doc_items": [
           {
             "self_ref": "#/texts/58",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "footnote",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 4,
@@ -1518,7 +1299,7 @@
                   "t": 86.5147029101563,
                   "r": 568.06,
                   "b": 77.00926291015628,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1526,38 +1307,11 @@
                 ]
               }
             ]
-          }
-        ],
-        "headings": [
-          "Results"
-        ],
-        "origin": {
-          "mimetype": "application/pdf",
-          "binary_hash": 9140916357503570421,
-          "filename": "paper29"
-        }
-      }
-    }
-  },
-  {
-    "content": "Table (4): Comparison among the studied patients regarding radiological data.\n\nChest CT,  = Normal Abnormal. Chest CT, Patients with MIS-C PCR +ve (n=62) = 4(6.7%) 56(93.3%). Chest CT, P. value (Sig.). = <0.0001***. Brain CT,  = Normal Abnormal. Brain CT, Patients with MIS-C PCR +ve (n=62) = 48 (80.0%) 12 (20.0%). Brain CT, P. value (Sig.). = <0.0001***. Brain MRI,  = Normal Abnormal. Brain MRI, Patients with MIS-C PCR +ve (n=62) = 59(98.3%) 1(1.7%). Brain MRI, P. value (Sig.). = <0.0001***. Echo,  = Normal Abnormal. Echo, Patients with MIS-C PCR +ve (n=62) = 52(86.7%) 8(13.3%). Echo, P. value (Sig.). = 0.002***. Abdominal Ultrasound,  = Normal Abnormal. Abdominal Ultrasound, Patients with MIS-C PCR +ve (n=62) = 56(93.3%) 4(6.7%). Abdominal Ultrasound, P. value (Sig.). = 0.03***",
-    "metadata": {
-      "document_id": "paper29",
-      "source": "paper29.json",
-      "chunk_index": 18,
-      "total_chunks": 35,
-      "docling": {
-        "schema_name": "docling_core.transforms.chunker.DocMeta",
-        "version": "1.0.0",
-        "doc_items": [
+          },
           {
             "self_ref": "#/texts/62",
-            "parent": {
-              "$ref": "#/tables/3"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "caption",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 5,
@@ -1566,7 +1320,7 @@
                   "t": 767.1940629101563,
                   "r": 444.55,
                   "b": 757.9080847283382,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1577,28 +1331,8 @@
           },
           {
             "self_ref": "#/tables/3",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [
-              {
-                "$ref": "#/texts/62"
-              },
-              {
-                "$ref": "#/texts/63"
-              },
-              {
-                "$ref": "#/texts/64"
-              },
-              {
-                "$ref": "#/texts/65"
-              },
-              {
-                "$ref": "#/texts/66"
-              }
-            ],
-            "content_layer": "body",
             "label": "table",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 5,
@@ -1607,7 +1341,7 @@
                   "t": 745.2576152526447,
                   "r": 514.0212402025128,
                   "b": 560.2471989876483,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1616,15 +1350,7 @@
               }
             ]
           }
-        ],
-        "headings": [
-          "Results"
-        ],
-        "origin": {
-          "mimetype": "application/pdf",
-          "binary_hash": 9140916357503570421,
-          "filename": "paper29"
-        }
+        ]
       }
     }
   },
@@ -1632,21 +1358,22 @@
     "content": "Table 5: Comparison among the studied patients regarding Chest CT.\n\nNormal, Patients with MIS-C PCR +ve (n=62) = 4(6.7%) 45(73.3%). Normal, P. value (Sig.). = . (CO-RADS III), Patients with MIS-C PCR +ve (n=62) = . (CO-RADS III), P. value (Sig.). = 0.27 *. (CO-RADS IV), Patients with MIS-C PCR +ve (n=62) = 12(18.3%). (CO-RADS IV), P. value (Sig.). = . (CO-RADS V), Patients with MIS-C PCR +ve (n=62) = 1(1.7%). (CO-RADS V), P. value (Sig.). = \nCO-RADS: The COVID-19 Reporting and Data System.\nTable 6: Comparison among the studied patients regarding brain CT.\n\nNormal, Patients with MIS-C PCR +ve (n=62) = 48 (80%). Normal, P. value (Sig.). = 0.88*. cerebral edema, Patients with MIS-C PCR +ve (n=62) = 12 (18.3%). cerebral edema, P. value (Sig.). = 0.88*. intracerebral hemorrhage, Patients with MIS-C PCR +ve (n=62) = 2 (1.7%). intracerebral hemorrhage, P. value (Sig.). = 0.88*. cerebral venous sinus thrombosis, Patients with MIS-C PCR +ve (n=62) = 0 (0%). cerebral venous sinus thrombosis, P. value (Sig.). = 0.88*. cerebral infarction, Patients with MIS-C PCR +ve (n=62) = 0 (0%). cerebral infarction, P. value (Sig.). = 0.88*\nChi-square test was used to compare among patients.\n*: Not significant.",
     "metadata": {
       "document_id": "paper29",
-      "source": "paper29.json",
+      "source": "paper29.pdf",
+      "topic": "Results",
+      "headings": [
+        "Results"
+      ],
       "chunk_index": 19,
       "total_chunks": 35,
+      "pages": [
+        5
+      ],
       "docling": {
-        "schema_name": "docling_core.transforms.chunker.DocMeta",
-        "version": "1.0.0",
         "doc_items": [
           {
             "self_ref": "#/texts/67",
-            "parent": {
-              "$ref": "#/tables/4"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "caption",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 5,
@@ -1655,7 +1382,7 @@
                   "t": 495.16070291015626,
                   "r": 397.51,
                   "b": 485.6552629101563,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1666,22 +1393,8 @@
           },
           {
             "self_ref": "#/tables/4",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [
-              {
-                "$ref": "#/texts/67"
-              },
-              {
-                "$ref": "#/texts/68"
-              },
-              {
-                "$ref": "#/texts/69"
-              }
-            ],
-            "content_layer": "body",
             "label": "table",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 5,
@@ -1690,7 +1403,7 @@
                   "t": 473.6787053702063,
                   "r": 513.634008124646,
                   "b": 357.3649613846297,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1701,12 +1414,8 @@
           },
           {
             "self_ref": "#/texts/70",
-            "parent": {
-              "$ref": "#/groups/4"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 5,
@@ -1715,7 +1424,7 @@
                   "t": 329.54070291015626,
                   "r": 327.77,
                   "b": 320.03526291015623,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1726,12 +1435,8 @@
           },
           {
             "self_ref": "#/texts/71",
-            "parent": {
-              "$ref": "#/tables/5"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "caption",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 5,
@@ -1740,7 +1445,7 @@
                   "t": 278.84406291015625,
                   "r": 401.83,
                   "b": 269.55808472833814,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1751,16 +1456,8 @@
           },
           {
             "self_ref": "#/tables/5",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [
-              {
-                "$ref": "#/texts/71"
-              }
-            ],
-            "content_layer": "body",
             "label": "table",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 5,
@@ -1769,7 +1466,7 @@
                   "t": 257.703656947926,
                   "r": 523.6331574647742,
                   "b": 128.13113280959124,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1780,12 +1477,8 @@
           },
           {
             "self_ref": "#/texts/72",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 5,
@@ -1794,7 +1487,7 @@
                   "t": 125.51070291015628,
                   "r": 335.71,
                   "b": 116.00526291015626,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1805,12 +1498,8 @@
           },
           {
             "self_ref": "#/texts/73",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "footnote",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 5,
@@ -1819,7 +1508,7 @@
                   "t": 112.91070291015626,
                   "r": 157.22,
                   "b": 103.40526291015635,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1828,15 +1517,7 @@
               }
             ]
           }
-        ],
-        "headings": [
-          "Results"
-        ],
-        "origin": {
-          "mimetype": "application/pdf",
-          "binary_hash": 9140916357503570421,
-          "filename": "paper29"
-        }
+        ]
       }
     }
   },
@@ -1844,21 +1525,22 @@
     "content": "Table (7): Comparison among the studied patients regarding hospital stay and outcomes.\n\n,  = Mean ± SD. , Patients with MIS-C PCR +ve (n=62) = 7.8 ± 2.1. , P. value (Sig.). = . ,  = Range. , Patients with MIS-C PCR +ve (n=62) = 6-11. , P. value (Sig.). = . Outcome,  = Survived. Outcome, Patients with MIS-C PCR +ve (n=62) = 48 (77.42%). Outcome, P. value (Sig.). = < 0.0001 ***. Outcome,  = Not-survived. Outcome, Patients with MIS-C PCR +ve (n=62) = 14 (22.58%). Outcome, P. value (Sig.). = < 0.0001 ***\nANOVA and Chi-square tests were used to compare among studied patients\n*: Not significant.\n**: Significant (p<0.05)\n***: Highly significant (p<0.01)\nTable 8: Outcomes of patients with neurological manifestations.\n\n, Variable = Survival. , Patients with MIS-C PCR +ve (n=62) = 16 (57.14%). , P. value (Sig.) = Outcomes. , Variable = Non survival. , Patients with MIS-C PCR +ve (n=62) = (12 (42.86%). , P. value (Sig.) = Outcomes\nChi-square test was used to compare among studied patients\n*: Not significant.",
     "metadata": {
       "document_id": "paper29",
-      "source": "paper29.json",
+      "source": "paper29.pdf",
+      "topic": "Results",
+      "headings": [
+        "Results"
+      ],
       "chunk_index": 20,
       "total_chunks": 35,
+      "pages": [
+        6
+      ],
       "docling": {
-        "schema_name": "docling_core.transforms.chunker.DocMeta",
-        "version": "1.0.0",
         "doc_items": [
           {
             "self_ref": "#/texts/77",
-            "parent": {
-              "$ref": "#/tables/6"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "caption",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 6,
@@ -1867,7 +1549,7 @@
                   "t": 767.1940629101563,
                   "r": 491.62,
                   "b": 757.9080847283382,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1878,16 +1560,8 @@
           },
           {
             "self_ref": "#/tables/6",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [
-              {
-                "$ref": "#/texts/77"
-              }
-            ],
-            "content_layer": "body",
             "label": "table",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 6,
@@ -1896,7 +1570,7 @@
                   "t": 745.2843461105491,
                   "r": 519.5168090275106,
                   "b": 629.062451305672,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1907,12 +1581,8 @@
           },
           {
             "self_ref": "#/texts/78",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 6,
@@ -1921,7 +1591,7 @@
                   "t": 627.0707029101562,
                   "r": 442.21191999999985,
                   "b": 617.5652629101562,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1932,12 +1602,8 @@
           },
           {
             "self_ref": "#/texts/79",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "footnote",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 6,
@@ -1946,7 +1612,7 @@
                   "t": 614.4707029101563,
                   "r": 243.04999999999998,
                   "b": 604.9652629101563,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1957,12 +1623,8 @@
           },
           {
             "self_ref": "#/texts/80",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "footnote",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 6,
@@ -1971,7 +1633,7 @@
                   "t": 601.8707029101563,
                   "r": 255.64999999999998,
                   "b": 592.3652629101563,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -1982,12 +1644,8 @@
           },
           {
             "self_ref": "#/texts/81",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "footnote",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 6,
@@ -1996,7 +1654,7 @@
                   "t": 589.1507029101563,
                   "r": 289.84999999999997,
                   "b": 579.6452629101562,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -2007,12 +1665,8 @@
           },
           {
             "self_ref": "#/texts/82",
-            "parent": {
-              "$ref": "#/tables/7"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "caption",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 6,
@@ -2021,7 +1675,7 @@
                   "t": 551.0240629101562,
                   "r": 373.63,
                   "b": 541.7380847283381,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -2032,16 +1686,8 @@
           },
           {
             "self_ref": "#/tables/7",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [
-              {
-                "$ref": "#/texts/82"
-              }
-            ],
-            "content_layer": "body",
             "label": "table",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 6,
@@ -2050,7 +1696,7 @@
                   "t": 542.1156519680569,
                   "r": 518.2580757695085,
                   "b": 422.95617014405286,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -2061,12 +1707,8 @@
           },
           {
             "self_ref": "#/texts/83",
-            "parent": {
-              "$ref": "#/groups/5"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 6,
@@ -2075,7 +1717,7 @@
                   "t": 419.92070291015625,
                   "r": 350.15191999999985,
                   "b": 410.4152629101563,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -2086,12 +1728,8 @@
           },
           {
             "self_ref": "#/texts/84",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "footnote",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 6,
@@ -2100,7 +1738,7 @@
                   "t": 407.0240629101563,
                   "r": 160.94,
                   "b": 397.7380847283381,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -2109,15 +1747,7 @@
               }
             ]
           }
-        ],
-        "headings": [
-          "Results"
-        ],
-        "origin": {
-          "mimetype": "application/pdf",
-          "binary_hash": 9140916357503570421,
-          "filename": "paper29"
-        }
+        ]
       }
     }
   },
@@ -2125,21 +1755,22 @@
     "content": "In children with COVID-19, MIS-C is a disease that causes inflammation in a number of organ systems, including the heart, lungs, brain, kidneys, gastrointestinal tract, skin, and eyes 10 . Most of the patients with MIS-C in the research were younger than 5 years old, which is in line with Gupta Dch 11 observation that nearly 60% of children presenting with MIS-C were. In all studied patients, there were more male patients (43, 70.0%) than female patients (19, 30.0%). These results corroborated those of LaRovere et al., 12 Additionally,  a  disproportionately  high proportion of mortalities and critical cases have included men. 13\nOnly 62 (27.17%) of the 368 MIS-C patients who were observed over the study period (in the current  study)  had  positive  COVID-19  RTPCR results. These findings corroborated Chen 14 claim that 46% of MIS-C patients had COVID-19 RT-PCR results that were positive. According  to  this  data,  even  when  MIS-C\n.\noccurred, the majority of the patients may not have  an  active  COVID-19  infection.  A  large majority  of  MIS-C  patients  are  PCR-negative but  positive  serologically  for  SARS-CoV-2 antibodies and/or have a history of mild COVID-19 infection or exposure several weeks prior to presentation, despite the fact that only about  a  third  of  patients  with  MIS-C  are positive for SARS-CoV-2 by PCR. Given the chronology,  it is likely that  MIS-C  is  an immunological, autoimmune, or postinfectious  condition. 15 .  Contrary  to  research that  showed COVID-19 in adults only causes moderate respiratory sickness in children, and the majority of cases are asymptomatic 16,17 , in the current study, 60 (96.77%) of the patients had fever at the time of presentation, compared to 2 (3.23%), who  did not, a significant difference with a p-value of 0.0001. 57 patients (93.3%) of the patients had respiratory symptoms. Neurologic symptoms were evident in  29  patients  (46.77%),  while  43  patients (70.0%)  of  the  patients  had  cardiovascular\n.",
     "metadata": {
       "document_id": "paper29",
-      "source": "paper29.json",
+      "source": "paper29.pdf",
+      "topic": "Discussion",
+      "headings": [
+        "Discussion"
+      ],
       "chunk_index": 21,
       "total_chunks": 35,
+      "pages": [
+        6
+      ],
       "docling": {
-        "schema_name": "docling_core.transforms.chunker.DocMeta",
-        "version": "1.0.0",
         "doc_items": [
           {
             "self_ref": "#/texts/86",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 6,
@@ -2148,7 +1779,7 @@
                   "t": 354.3807029101563,
                   "r": 282.40999999999997,
                   "b": 180.3252629101563,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -2159,12 +1790,8 @@
           },
           {
             "self_ref": "#/texts/87",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 6,
@@ -2173,7 +1800,7 @@
                   "t": 164.51070291015628,
                   "r": 282.40997999999996,
                   "b": 79.16926291015625,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -2184,12 +1811,8 @@
           },
           {
             "self_ref": "#/texts/88",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 6,
@@ -2198,7 +1821,7 @@
                   "t": 419.7440629101563,
                   "r": 383.11,
                   "b": 410.45808472833806,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -2209,12 +1832,8 @@
           },
           {
             "self_ref": "#/texts/89",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 6,
@@ -2223,7 +1842,7 @@
                   "t": 368.18070291015624,
                   "r": 526.0652799999999,
                   "b": 80.3692629101563,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -2234,12 +1853,8 @@
           },
           {
             "self_ref": "#/texts/90",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 6,
@@ -2248,7 +1863,7 @@
                   "t": 626.8940629101562,
                   "r": 480.7,
                   "b": 617.6080847283381,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -2257,15 +1872,7 @@
               }
             ]
           }
-        ],
-        "headings": [
-          "Discussion"
-        ],
-        "origin": {
-          "mimetype": "application/pdf",
-          "binary_hash": 9140916357503570421,
-          "filename": "paper29"
-        }
+        ]
       }
     }
   },
@@ -2273,21 +1880,22 @@
     "content": "symptoms, which were much more prevalent. 19  patients  (30.0%)  reported  having  gastrointestinal manifestations with a significant difference  p-value  of  0.0001.  The  48  patients (78.3%) showed a significant increase in hematologic symptoms,  with a p-value of 0.0001. However, just a few of the patients-3 (4.84%) and 2(3.23%), respectively-exhibited dermatologic and renal symptoms. Our findings corroborated the findings of other studies that indicated  individuals  with  MIS-C  may  experience respiratory  symptoms,  gastrointestinal problems, neurocognitive symptoms, sore throats,  and  myalgias.  Patients  with  moderate symptoms  at  first  may  quickly  escalate  to severe  sickness  with  multi-organ  dysfunction since 18-20 MIS-C is often a progressive illness.",
     "metadata": {
       "document_id": "paper29",
-      "source": "paper29.json",
+      "source": "paper29.pdf",
+      "topic": "Discussion",
+      "headings": [
+        "Discussion"
+      ],
       "chunk_index": 22,
       "total_chunks": 35,
+      "pages": [
+        7
+      ],
       "docling": {
-        "schema_name": "docling_core.transforms.chunker.DocMeta",
-        "version": "1.0.0",
         "doc_items": [
           {
             "self_ref": "#/texts/94",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 7,
@@ -2296,7 +1904,7 @@
                   "t": 767.3707029101563,
                   "r": 282.77,
                   "b": 555.3752629101563,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -2305,15 +1913,7 @@
               }
             ]
           }
-        ],
-        "headings": [
-          "Discussion"
-        ],
-        "origin": {
-          "mimetype": "application/pdf",
-          "binary_hash": 9140916357503570421,
-          "filename": "paper29"
-        }
+        ]
       }
     }
   },
@@ -2321,21 +1921,22 @@
     "content": "Haemodynamic  instability, tachycardia, left ventricular failure, and respiratory distress are examples of critical symptoms that may occur either  on  their  own  or  as  a  result  of  cardiac dysfunction. 21 According  to  Duarte-Neto  et al., 22 COVID-19  virus  commonly  infects  the respiratory tract in MIS-C patients. The abdominal pain associated with MIS-C can be so severe that it has occasionally been misdiagnosed  as  appendicitis. 23,24 .  Regarding the neurological symptoms in the present study, Twenty (31.7%) of the patients showed evidence  of  convulsions,  with  a  p-value  of 0.0001. DCL came in second with 18 (28.2%), p-value 0.0001. Additionally, 18 (28.2%) individuals  showed  a  greater  occurrence  of headaches, with a p-value of 0.0001. Weakness was also demonstrated among the patients 18 (28.3%)  p-value<0.0001.  While,  drowsiness among patients was (9(14.52%), pvalue<0.0001.  4(3.5%)  cases  of  hypertonia, hyperreflexia, hypotonia, and hyporeflexia, and 2 (1.7%) cases, respectively. According to these findings,  numerous  studies  have  found  that children with MIS-C exhibit neurological symptoms surprisingly frequently. 12,14,25 . According to the results of this study, patients with neurological manifestations have had worse outcomes than those without neurological  manifestations.  The  duration  of the hospital stay was (Mean ± SD is 7.8 ± 2.1 with a range of 6-11 days). With regard to the outcomes, the percentage of non-survived patients among the patients was 14 (22.58%). Concerning  the outcomes  of patients with neurological manifestations, the percentage of non-survived patients was (12 (42.86%).",
     "metadata": {
       "document_id": "paper29",
-      "source": "paper29.json",
+      "source": "paper29.pdf",
+      "topic": "Discussion",
+      "headings": [
+        "Discussion"
+      ],
       "chunk_index": 23,
       "total_chunks": 35,
+      "pages": [
+        7
+      ],
       "docling": {
-        "schema_name": "docling_core.transforms.chunker.DocMeta",
-        "version": "1.0.0",
         "doc_items": [
           {
             "self_ref": "#/texts/95",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 7,
@@ -2344,7 +1945,7 @@
                   "t": 539.6807029101562,
                   "r": 282.40999999999997,
                   "b": 74.72926291015631,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -2353,15 +1954,7 @@
               }
             ]
           }
-        ],
-        "headings": [
-          "Discussion"
-        ],
-        "origin": {
-          "mimetype": "application/pdf",
-          "binary_hash": 9140916357503570421,
-          "filename": "paper29"
-        }
+        ]
       }
     }
   },
@@ -2369,21 +1962,22 @@
     "content": "pediatric patients with SARS-CoV-2 infections may  have  life-threatening  neurological  disorders,  even  if  only  neurologic  symptoms  are present, pediatric patients with neurologic presentations should be tested for SARS-CoV2 due to its prevalence in children. In addition, many of these patients  arrived  at  the  hospital unaware of COVID-19 exposure and positivity, so testing is necessary to prevent infection. The neurological manifestations in COVID-19 pediatric  patients  with  MIS-C  could  include convulsions, DCL, headache, and weakness.",
     "metadata": {
       "document_id": "paper29",
-      "source": "paper29.json",
+      "source": "paper29.pdf",
+      "topic": "Conclusion",
+      "headings": [
+        "Conclusion"
+      ],
       "chunk_index": 24,
       "total_chunks": 35,
+      "pages": [
+        7
+      ],
       "docling": {
-        "schema_name": "docling_core.transforms.chunker.DocMeta",
-        "version": "1.0.0",
         "doc_items": [
           {
             "self_ref": "#/texts/97",
-            "parent": {
-              "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "text",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 7,
@@ -2392,7 +1986,7 @@
                   "t": 753.5507029101562,
                   "r": 526.06,
                   "b": 604.9652629101563,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -2401,15 +1995,7 @@
               }
             ]
           }
-        ],
-        "headings": [
-          "Conclusion"
-        ],
-        "origin": {
-          "mimetype": "application/pdf",
-          "binary_hash": 9140916357503570421,
-          "filename": "paper29"
-        }
+        ]
       }
     }
   },
@@ -2417,21 +2003,22 @@
     "content": "- Ethics approval: This study was approved by the ethical committee, faculty of medicine,  all  methods  were  performed  in accordance with the relevant guidelines and regulations by including a statement.\n- Consent to participate: A written consent was obtained from each parent to agree to participate in the study. Protect the participant's anonymity and confidentiality. Avoiding using deceptive practices. Giving participants the right to withdraw from our research. Consent for publication was taken.\n- Consent for publication: Not applicable\n- Availability of data and materials: The datasets  used  and/or  analyzed  during  the current study are available from the corresponding author on reasonable request.\n- Competing  interests: We  declared no conflict of interest concerning the study\n- Funding: we  are  not  in  receipt  of  any research funding support from any Funding agency  for  this research.  The  study  is Personally funded by the authors.\n- Acknowledgments: None.",
     "metadata": {
       "document_id": "paper29",
-      "source": "paper29.json",
+      "source": "paper29.pdf",
+      "topic": "Declarations:",
+      "headings": [
+        "Declarations:"
+      ],
       "chunk_index": 25,
       "total_chunks": 35,
+      "pages": [
+        7
+      ],
       "docling": {
-        "schema_name": "docling_core.transforms.chunker.DocMeta",
-        "version": "1.0.0",
         "doc_items": [
           {
             "self_ref": "#/texts/99",
-            "parent": {
-              "$ref": "#/groups/6"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 7,
@@ -2440,7 +2027,7 @@
                   "t": 577.2918229101563,
                   "r": 525.9824799999997,
                   "b": 516.3752629101563,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -2451,12 +2038,8 @@
           },
           {
             "self_ref": "#/texts/100",
-            "parent": {
-              "$ref": "#/groups/6"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 7,
@@ -2465,7 +2048,7 @@
                   "t": 514.0218229101563,
                   "r": 526.00528,
                   "b": 415.0952629101563,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -2476,12 +2059,8 @@
           },
           {
             "self_ref": "#/texts/101",
-            "parent": {
-              "$ref": "#/groups/6"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 7,
@@ -2490,7 +2069,7 @@
                   "t": 412.8618229101563,
                   "r": 515.77672,
                   "b": 402.4952629101563,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -2501,12 +2080,8 @@
           },
           {
             "self_ref": "#/texts/102",
-            "parent": {
-              "$ref": "#/groups/6"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 7,
@@ -2515,7 +2090,7 @@
                   "t": 400.2618229101563,
                   "r": 526.0547199999999,
                   "b": 339.2352629101563,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -2526,12 +2101,8 @@
           },
           {
             "self_ref": "#/texts/103",
-            "parent": {
-              "$ref": "#/groups/6"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 7,
@@ -2540,7 +2111,7 @@
                   "t": 337.0018229101563,
                   "r": 525.99352,
                   "b": 313.91526291015634,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -2551,12 +2122,8 @@
           },
           {
             "self_ref": "#/texts/104",
-            "parent": {
-              "$ref": "#/groups/6"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 7,
@@ -2565,7 +2132,7 @@
                   "t": 311.68182291015637,
                   "r": 525.9867999999996,
                   "b": 263.39526291015636,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -2576,12 +2143,8 @@
           },
           {
             "self_ref": "#/texts/105",
-            "parent": {
-              "$ref": "#/groups/6"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 7,
@@ -2590,7 +2153,7 @@
                   "t": 261.04182291015627,
                   "r": 452.926,
                   "b": 250.67526291015633,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -2599,15 +2162,7 @@
               }
             ]
           }
-        ],
-        "headings": [
-          "Declarations:"
-        ],
-        "origin": {
-          "mimetype": "application/pdf",
-          "binary_hash": 9140916357503570421,
-          "filename": "paper29"
-        }
+        ]
       }
     }
   },
@@ -2615,21 +2170,22 @@
     "content": "1. Rosenberg ES, Dufort EM, Blog DS, Hall EW, Hoefer D, Backenson BP, Muse AT, Kirkwood JN, St George K, Holtgrave DR, Hutton  BJ,  Zucker  HA;  New  York  State Coronavirus 2019 Response Team. COVID-19  Testing,  Epidemic  Features, Hospital Outcomes, and Household Prevalence, New York State-March 2020. Clin  Infect  Dis.  2020  Nov  5;71(8):19531959. doi: 10.1093/cid/ciaa549.  PMID: 32382743; PMCID: PMC7239264.",
     "metadata": {
       "document_id": "paper29",
-      "source": "paper29.json",
+      "source": "paper29.pdf",
+      "topic": "References",
+      "headings": [
+        "References"
+      ],
       "chunk_index": 26,
       "total_chunks": 35,
+      "pages": [
+        7
+      ],
       "docling": {
-        "schema_name": "docling_core.transforms.chunker.DocMeta",
-        "version": "1.0.0",
         "doc_items": [
           {
             "self_ref": "#/texts/107",
-            "parent": {
-              "$ref": "#/groups/7"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 7,
@@ -2638,7 +2194,7 @@
                   "t": 221.06070291015635,
                   "r": 526.0211199999999,
                   "b": 85.04926291015624,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -2647,15 +2203,7 @@
               }
             ]
           }
-        ],
-        "headings": [
-          "References"
-        ],
-        "origin": {
-          "mimetype": "application/pdf",
-          "binary_hash": 9140916357503570421,
-          "filename": "paper29"
-        }
+        ]
       }
     }
   },
@@ -2663,21 +2211,22 @@
     "content": "2. PICS Statement. Increased number of reported  cases  of  novel  presentation  of multi-system inflammatory disease [Internet]. Pediatric Intensive Care Society. [cited  2020  April  27].  Available  from: https://picsociety.uk/ wp-content/uploads/ 2020/04/PICS-statement-re-novel-KDC19- presentation-v2-27042020.\n3. Centers  for  Disease  Control  and  Prevention. Emergency preparedness and response: health alert network. Multisystem Inflammatory Syndrome in Children (MIS-C) Associated with Coronavirus Disease 2019 (COVID-19) [Internet]. [cited 2020  May  14].  Available from: https://emergency.cdc.gov/han/2020/han0 0432.asp\n4. World Health Org. Multisystem inflammatory syndrome in children and adolescents with  COVID-19  [Internet].  2020  [cited 2020 May 15]. Available from: https://www.who.int/publications/i/item/m ultisystem-inflammatory-syndrome-inchildren-and-adolescents-with-covid-19\n5. Verdoni L, Mazza A, Gervasoni A, Martelli L, Ruggeri M, Ciuffreda M, Bonanomi E, D'Antiga L. An outbreak of severe Kawasaki-like disease at the Italian epicentre of the SARS-CoV-2 epidemic: an observational  cohort  study.  Lancet.  2020 Jun 6;395(10239):1771-1778. doi: 10.1016/S0140-6736(20)31103-X. Epub 2020 May 13. PMID: 32410760; PMCID: PMC7220177.",
     "metadata": {
       "document_id": "paper29",
-      "source": "paper29.json",
+      "source": "paper29.pdf",
+      "topic": "References",
+      "headings": [
+        "References"
+      ],
       "chunk_index": 27,
       "total_chunks": 35,
+      "pages": [
+        8
+      ],
       "docling": {
-        "schema_name": "docling_core.transforms.chunker.DocMeta",
-        "version": "1.0.0",
         "doc_items": [
           {
             "self_ref": "#/texts/111",
-            "parent": {
-              "$ref": "#/groups/8"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 8,
@@ -2686,7 +2235,7 @@
                   "t": 767.3707029101563,
                   "r": 282.38840000000005,
                   "b": 669.2852629101562,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -2697,12 +2246,8 @@
           },
           {
             "self_ref": "#/texts/112",
-            "parent": {
-              "$ref": "#/groups/8"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 8,
@@ -2711,7 +2256,7 @@
                   "t": 666.1907029101562,
                   "r": 282.35383999999993,
                   "b": 555.3752629101563,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -2722,12 +2267,8 @@
           },
           {
             "self_ref": "#/texts/113",
-            "parent": {
-              "$ref": "#/groups/8"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 8,
@@ -2736,7 +2277,7 @@
                   "t": 552.2807029101563,
                   "r": 282.39560000000006,
                   "b": 466.9352629101563,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -2747,12 +2288,8 @@
           },
           {
             "self_ref": "#/texts/114",
-            "parent": {
-              "$ref": "#/groups/8"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 8,
@@ -2761,7 +2298,7 @@
                   "t": 463.72070291015626,
                   "r": 282.39367999999996,
                   "b": 340.4352629101563,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -2770,15 +2307,7 @@
               }
             ]
           }
-        ],
-        "headings": [
-          "References"
-        ],
-        "origin": {
-          "mimetype": "application/pdf",
-          "binary_hash": 9140916357503570421,
-          "filename": "paper29"
-        }
+        ]
       }
     }
   },
@@ -2786,21 +2315,22 @@
     "content": "6. Feldstein LR, Rose EB, Horwitz  SM, Collins  JP,  Newhams  MM,  Son  MBF, Newburger JW, Kleinman LC, Heidemann SM, Martin AA, Singh AR, Li S, Tarquinio KM, Jaggi P, Oster ME, Zackai SP, Gillen J,  Ratner  AJ,  Walsh  RF,  Fitzgerald  JC, Keenaghan  MA,  Alharash  H,  Doymaz  S, Clouser  KN,  Giuliano  JS  Jr,  Gupta  A, Parker  RM,  Maddux  AB,  Havalad  V, Ramsingh  S,  Bukulmez  H,  Bradford  TT, Smith  LS,  Tenforde  MW,  Carroll  CL, Riggs BJ, Gertz SJ, Daube A, Lansell A, Coronado Munoz A,  Hobbs  CV, Marohn KL, Halasa NB, Patel MM, Randolph AG; Overcoming COVID-19 Investigators; CDC  COVID-19  Response  Team.  Multisystem  Inflammatory  Syndrome  in  U.S. Children and Adolescents. N Engl J Med. 2020 Jul 23;383(4):334-346. doi: 10.1056/ NEJMoa2021680. Epub 2020 Jun 29. PMID: 32598831; PMCID: PMC 7346765.\n7. Natoli S, Oliveira V, Calabresi P, Maia LF, Pisani  A.  Does  SARS-Cov-2  invade  the brain?  Translational  lessons  from  animal models.  Eur  J  Neurol.  2020  Sep;27(9): 1764-1773. doi: 10.1111/ene.14277. Epub 2020 May 22. PMID: 32333487; PMCID: PMC7267377.\n8. Li MY,  Li L, Zhang Y, Wang  XS. Expression of the SARS-CoV-2 cell receptor  gene  ACE2  in  a  wide  variety  of human  tissues.  Infect  Dis  Poverty.  2020 Apr 28;9(1):45. doi: 10.1186/s40249-02000662-x. PMID: 32345362; PMCID: PMC 7186534.",
     "metadata": {
       "document_id": "paper29",
-      "source": "paper29.json",
+      "source": "paper29.pdf",
+      "topic": "References",
+      "headings": [
+        "References"
+      ],
       "chunk_index": 28,
       "total_chunks": 35,
+      "pages": [
+        8
+      ],
       "docling": {
-        "schema_name": "docling_core.transforms.chunker.DocMeta",
-        "version": "1.0.0",
         "doc_items": [
           {
             "self_ref": "#/texts/115",
-            "parent": {
-              "$ref": "#/groups/8"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 8,
@@ -2809,7 +2339,7 @@
                   "t": 337.22070291015626,
                   "r": 282.40999999999997,
                   "b": 74.72926291015631,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -2820,12 +2350,8 @@
           },
           {
             "self_ref": "#/texts/116",
-            "parent": {
-              "$ref": "#/groups/8"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 8,
@@ -2834,7 +2360,7 @@
                   "t": 767.3707029101563,
                   "r": 526.06,
                   "b": 682.0052629101563,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -2845,12 +2371,8 @@
           },
           {
             "self_ref": "#/texts/117",
-            "parent": {
-              "$ref": "#/groups/8"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 8,
@@ -2859,7 +2381,7 @@
                   "t": 678.7907029101563,
                   "r": 526.06,
                   "b": 593.4452629101562,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -2868,15 +2390,7 @@
               }
             ]
           }
-        ],
-        "headings": [
-          "References"
-        ],
-        "origin": {
-          "mimetype": "application/pdf",
-          "binary_hash": 9140916357503570421,
-          "filename": "paper29"
-        }
+        ]
       }
     }
   },
@@ -2884,21 +2398,22 @@
     "content": "9. Abdel-Mannan O, Eyre M, Löbel U, Bamford A, Eltze C, Hameed B, Hemingway C, Hacohen Y. Neurologic and Radiographic  Findings  Associated  With COVID-19  Infection  in  Children.  JAMA Neurol. 2020 Nov  1;77(11):1440-1445. doi: 10.1001/jamaneurol.2020.2687. Erratum in:  JAMA  Neurol.  2020  Dec 1;77(12):1582. PMID: 32609336; PMCID: PMC7330822.\n10. Gottlieb M, Bridwell R, Ravera J, Long B. Multisystem inflammatory syndrome  in children  with  COVID-19.  Am  J  Emerg Med. 2021 Nov; 49:148-152. doi: 10.1016/j.ajem.2021.05.076. Epub 2021 Jun  8.  PMID:  34116467;  PMCID:  PMC 8185530.\n11. Gupta Dch S, Chopra Md N, Singh Md A, Gera  R,  Chellani  Md  H,  Pandey  PhD  R, Arora  Md  BS.  Unusual  Clinical  Manifestations and Outcome of Multisystem Inflammatory Syndrome in Children (MISC)  in  a  Tertiary  Care  Hospital  of  North India.  J  Trop  Pediatr.  2021  Jan  29;67(1): fmaa127. doi: 10.1093/tropej/fmaa127. PMID: 33513240; PMCID: PMC7928672.",
     "metadata": {
       "document_id": "paper29",
-      "source": "paper29.json",
+      "source": "paper29.pdf",
+      "topic": "References",
+      "headings": [
+        "References"
+      ],
       "chunk_index": 29,
       "total_chunks": 35,
+      "pages": [
+        8
+      ],
       "docling": {
-        "schema_name": "docling_core.transforms.chunker.DocMeta",
-        "version": "1.0.0",
         "doc_items": [
           {
             "self_ref": "#/texts/118",
-            "parent": {
-              "$ref": "#/groups/8"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 8,
@@ -2907,7 +2422,7 @@
                   "t": 590.2307029101563,
                   "r": 526.0585599999999,
                   "b": 466.9352629101563,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -2918,12 +2433,8 @@
           },
           {
             "self_ref": "#/texts/119",
-            "parent": {
-              "$ref": "#/groups/8"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 8,
@@ -2932,7 +2443,7 @@
                   "t": 463.72070291015626,
                   "r": 526.06,
                   "b": 378.3752629101563,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -2943,12 +2454,8 @@
           },
           {
             "self_ref": "#/texts/120",
-            "parent": {
-              "$ref": "#/groups/8"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 8,
@@ -2957,7 +2464,7 @@
                   "t": 375.1407029101563,
                   "r": 526.06,
                   "b": 264.4752629101563,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -2966,15 +2473,7 @@
               }
             ]
           }
-        ],
-        "headings": [
-          "References"
-        ],
-        "origin": {
-          "mimetype": "application/pdf",
-          "binary_hash": 9140916357503570421,
-          "filename": "paper29"
-        }
+        ]
       }
     }
   },
@@ -2982,21 +2481,22 @@
     "content": "12. LaRovere  KL,  Riggs  BJ,  Poussaint  TY, Young  CC,  Newhams  MM,  Maamari  M, Walker  TC,  Singh  AR,  Dapul  H,  Hobbs CV, McLaughlin GE, Son MBF, Maddux AB, Clouser KN, Rowan CM, McGuire JK, Fitzgerald JC, Gertz SJ, Shein SL, Munoz AC, Thomas NJ, Irby K, Levy ER, Staat MA, Tenforde MW, Feldstein LR, Halasa NB,  Giuliano  JS  Jr,  Hall  MW,  Kong  M, Carroll CL, Schuster JE, Doymaz S, Loftis LL,  Tarquinio  KM,  Babbitt  CJ,  Nofziger RA, Kleinman LC, Keenaghan MA, Cvijanovich  NZ,  Spinella  PC,  Hume  JR, Wellnitz  K,  Mack  EH,  Michelson  KN, Flori HR, Patel MM,  Randolph AG;",
     "metadata": {
       "document_id": "paper29",
-      "source": "paper29.json",
+      "source": "paper29.pdf",
+      "topic": "References",
+      "headings": [
+        "References"
+      ],
       "chunk_index": 30,
       "total_chunks": 35,
+      "pages": [
+        8
+      ],
       "docling": {
-        "schema_name": "docling_core.transforms.chunker.DocMeta",
-        "version": "1.0.0",
         "doc_items": [
           {
             "self_ref": "#/texts/121",
-            "parent": {
-              "$ref": "#/groups/8"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 8,
@@ -3005,7 +2505,7 @@
                   "t": 261.3807029101563,
                   "r": 526.06,
                   "b": 74.72926291015631,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -3014,15 +2514,7 @@
               }
             ]
           }
-        ],
-        "headings": [
-          "References"
-        ],
-        "origin": {
-          "mimetype": "application/pdf",
-          "binary_hash": 9140916357503570421,
-          "filename": "paper29"
-        }
+        ]
       }
     }
   },
@@ -3030,21 +2522,22 @@
     "content": "- Overcoming COVID-19 Investigators. Neurologic  Involvement  in  Children  and Adolescents  Hospitalized  in  the  United States for COVID-19 or Multisystem Inflammatory  Syndrome.  JAMA  Neurol. 2021 May 1;78(5):536-547. doi: 10.1001/ jamaneurol.2021.0504.  PMID:  33666649; PMCID: PMC7936352.\n13. Kragholm  K,  Andersen  MP,  Gerds  TA, Butt  JH,  Østergaard  L,  Polcwiartek  C, Phelps  M,  Andersson  C,  Gislason  GH, Torp-Pedersen  C,  Køber  L,  Schou  M, Fosbøl EL. Association Between Male Sex and Outcomes  of Coronavirus Disease 2019  (COVID-19)-A  Danish  Nationwide, Register-based Study. Clin Infect Dis. 2021 Dec  6;73(11):e4025-e4030.  doi:  10.1093/ cid/ciaa924.  PMID:  32634827;  PMCID: PMC7454435.\n14. Chen TH. Neurological involvement associated  with  COVID-19  infection  in children. J Neurol Sci. 2020 Nov 15;418: 117096. doi: 10.1016/j.jns.2020.117096. Epub  2020  Aug  13.  PMID:  32823135; PMCID: PMC7423535.\n15. Noval  Rivas  M,  Porritt  RA,  Cheng  MH, Bahar  I,  Arditi  M.  COVID-19-associated multisystem inflammatory syndrome in children (MIS-C):  A novel  disease  that mimics toxic shock syndrome-the superantigen hypothesis. J Allergy Clin Immunol. 2021 Jan;147(1):57-59. doi: 10.1016/j.jaci. 2020.10.008.  Epub  2020  Oct  16.  PMID: 33075409; PMCID: PMC7564502.",
     "metadata": {
       "document_id": "paper29",
-      "source": "paper29.json",
+      "source": "paper29.pdf",
+      "topic": "References",
+      "headings": [
+        "References"
+      ],
       "chunk_index": 31,
       "total_chunks": 35,
+      "pages": [
+        9
+      ],
       "docling": {
-        "schema_name": "docling_core.transforms.chunker.DocMeta",
-        "version": "1.0.0",
         "doc_items": [
           {
             "self_ref": "#/texts/125",
-            "parent": {
-              "$ref": "#/groups/9"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 9,
@@ -3053,7 +2546,7 @@
                   "t": 767.3707029101563,
                   "r": 282.40999999999997,
                   "b": 669.2852629101562,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -3064,12 +2557,8 @@
           },
           {
             "self_ref": "#/texts/126",
-            "parent": {
-              "$ref": "#/groups/9"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 9,
@@ -3078,7 +2567,7 @@
                   "t": 666.1907029101562,
                   "r": 282.40999999999997,
                   "b": 530.1752629101562,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -3089,12 +2578,8 @@
           },
           {
             "self_ref": "#/texts/127",
-            "parent": {
-              "$ref": "#/groups/9"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 9,
@@ -3103,7 +2588,7 @@
                   "t": 526.9607029101562,
                   "r": 282.40999999999997,
                   "b": 454.2152629101563,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -3114,12 +2599,8 @@
           },
           {
             "self_ref": "#/texts/128",
-            "parent": {
-              "$ref": "#/groups/9"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 9,
@@ -3128,7 +2609,7 @@
                   "t": 451.1207029101563,
                   "r": 282.40999999999997,
                   "b": 340.4352629101563,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -3137,15 +2618,7 @@
               }
             ]
           }
-        ],
-        "headings": [
-          "References"
-        ],
-        "origin": {
-          "mimetype": "application/pdf",
-          "binary_hash": 9140916357503570421,
-          "filename": "paper29"
-        }
+        ]
       }
     }
   },
@@ -3153,21 +2626,22 @@
     "content": "16. Castagnoli R, Votto M, Licari A, Brambilla I, Bruno R, Perlini S, Rovida F, Baldanti F, Marseglia  GL.  Severe  Acute  Respiratory Syndrome  Coronavirus  2  (SARS-CoV-2) Infection  in  Children  and  Adolescents:  A Systematic  Review.  JAMA  Pediatr.  2020 Sep 1;174(9):882-889. doi: 10.1001/ jamapediatrics.2020.1467. PMID: 32320004.\n17. Parri N, Lenge M, Buonsenso D; Coronavirus Infection in Pediatric Emergency Departments (CONFIDENCE) Research  studied  patients.  Children  with Covid-19 in Pediatric Emergency Departments  in  Italy.  N  Engl  J  Med.  2020  Jul 9;383(2):187-190. doi: 10.1056/ NEJMc2007617. Epub 2020 May 1. PMID: 32356945; PMCID: PMC 7206930.\n18. Valverde I, Singh Y, Sanchez-de-Toledo J, Theocharis P, Chikermane A, Di Filippo S, Kuciñska B, Mannarino S, Tamariz-Martel A, Gutierrez-Larraya F, Soda G,\n- Vandekerckhove K, Gonzalez-Barlatay  F, McMahon CJ, Marcora S, Napoleone CP, Duong P, Tuo G, Deri A, Nepali G, Ilina M, Ciliberti  P,  Miller  O;  AEPC  COVID-19 Rapid  Response  Team*.  Acute  Cardiovascular  Manifestations  in  286  Children with Multisystem Inflammatory Syndrome Associated  With  COVID-19  Infection  in Europe. Circulation. 2021 Jan 5;143(1):2132. doi: 10.1161/CIRCULATIONAHA. 120.050065.  Epub  2020  Nov  9.  PMID: 33166189.",
     "metadata": {
       "document_id": "paper29",
-      "source": "paper29.json",
+      "source": "paper29.pdf",
+      "topic": "References",
+      "headings": [
+        "References"
+      ],
       "chunk_index": 32,
       "total_chunks": 35,
+      "pages": [
+        9
+      ],
       "docling": {
-        "schema_name": "docling_core.transforms.chunker.DocMeta",
-        "version": "1.0.0",
         "doc_items": [
           {
             "self_ref": "#/texts/129",
-            "parent": {
-              "$ref": "#/groups/9"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 9,
@@ -3176,7 +2650,7 @@
                   "t": 337.22070291015626,
                   "r": 282.39943999999997,
                   "b": 239.15526291015635,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -3187,12 +2661,8 @@
           },
           {
             "self_ref": "#/texts/130",
-            "parent": {
-              "$ref": "#/groups/9"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 9,
@@ -3201,7 +2671,7 @@
                   "t": 236.06070291015635,
                   "r": 282.40999999999997,
                   "b": 125.36526291015628,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -3212,12 +2682,8 @@
           },
           {
             "self_ref": "#/texts/131",
-            "parent": {
-              "$ref": "#/groups/9"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 9,
@@ -3226,7 +2692,7 @@
                   "t": 122.15070291015627,
                   "r": 282.39464,
                   "b": 74.72926291015631,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -3237,12 +2703,8 @@
           },
           {
             "self_ref": "#/texts/132",
-            "parent": {
-              "$ref": "#/groups/9"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 9,
@@ -3251,7 +2713,7 @@
                   "t": 767.3707029101563,
                   "r": 526.06,
                   "b": 618.7652629101563,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -3260,15 +2722,7 @@
               }
             ]
           }
-        ],
-        "headings": [
-          "References"
-        ],
-        "origin": {
-          "mimetype": "application/pdf",
-          "binary_hash": 9140916357503570421,
-          "filename": "paper29"
-        }
+        ]
       }
     }
   },
@@ -3276,21 +2730,22 @@
     "content": "19. Ahmed M, Advani S, Moreira A, Zoretic S, Martinez J, Chorath K, Acosta S, Naqvi R, Burmeister-Morton F, Burmeister F, Tarriela A, Petershack M, Evans M, Hoang A,  Rajasekaran  K,  Ahuja  S,  Moreira  A. Multisystem inflammatory syndrome  in children:  A  systematic  review.  EClinical Medicine. 2020 Sep; 26:100527. doi: 10.1016/j.eclinm.2020.100527. Epub 2020 Sep 4. PMID: 32923992; PMCID: PMC7473262.\n20. Radia T, Williams N, Agrawal P, Harman K, Weale J, Cook J, Gupta A. Multi-system inflammatory syndrome in children  & adolescents (MIS-C): A systematic review of clinical features and presentation. Paediatr  Respir  Rev.  2021  Jun;  38:51-57. doi: 10.1016/j.prrv.2020.08.001. Epub 2020 Aug 11. PMID: 32891582; PMCID: PMC7417920.\n21. Rubens  JH,  Akindele  NP,  Tschudy  MM, Sick-Samuels  AC.  Acute  covid-19  and multisystem inflammatory syndrome in children. BMJ. 2021 Mar 1;372:n385. doi: 10.1136/bmj.n385. PMID: 33648933.",
     "metadata": {
       "document_id": "paper29",
-      "source": "paper29.json",
+      "source": "paper29.pdf",
+      "topic": "References",
+      "headings": [
+        "References"
+      ],
       "chunk_index": 33,
       "total_chunks": 35,
+      "pages": [
+        9
+      ],
       "docling": {
-        "schema_name": "docling_core.transforms.chunker.DocMeta",
-        "version": "1.0.0",
         "doc_items": [
           {
             "self_ref": "#/texts/133",
-            "parent": {
-              "$ref": "#/groups/9"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 9,
@@ -3299,7 +2754,7 @@
                   "t": 615.5507029101562,
                   "r": 526.06,
                   "b": 479.5352629101563,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -3310,12 +2765,8 @@
           },
           {
             "self_ref": "#/texts/134",
-            "parent": {
-              "$ref": "#/groups/9"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 9,
@@ -3324,7 +2775,7 @@
                   "t": 476.4407029101563,
                   "r": 526.0585599999999,
                   "b": 365.6352629101563,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -3335,12 +2786,8 @@
           },
           {
             "self_ref": "#/texts/135",
-            "parent": {
-              "$ref": "#/groups/9"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 9,
@@ -3349,7 +2796,7 @@
                   "t": 362.54070291015626,
                   "r": 526.0316799999999,
                   "b": 302.39526291015636,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -3358,15 +2805,7 @@
               }
             ]
           }
-        ],
-        "headings": [
-          "References"
-        ],
-        "origin": {
-          "mimetype": "application/pdf",
-          "binary_hash": 9140916357503570421,
-          "filename": "paper29"
-        }
+        ]
       }
     }
   },
@@ -3374,21 +2813,22 @@
     "content": "22. Duarte-Neto AN,  Caldini  EG,  GomesGouvêa  MS,  Kanamura  CT,  de  Almeida Monteiro RA, Ferranti JF, Ventura AMC, Regalio FA, Fiorenzano DM, Gibelli MABC,  Carvalho  WB,  Leal  GN,  Pinho JRR,  Delgado  AF,  Carneiro-Sampaio  M, Mauad T, Ferraz da Silva LF, Saldiva PHN, Dolhnikoff  M.  An  autopsy  study  of  the spectrum of severe COVID-19 in children: From  SARS  to  different  phenotypes  of MIS-C. EClinicalMedicine. 2021 May;35: 100850. doi: 10.1016/j.eclinm.2021. 100850. Epub 2021 Apr 26. PMID: 33937731; PMCID: PMC8072136.\n23. Belhadjer Z, Méot M, Bajolle F, Khraiche D, Legendre  A, Abakka  S, Auriau J, Grimaud M, Oualha M, Beghetti M, Wacker J, Ovaert C, Hascoet S, Selegny M,",
     "metadata": {
       "document_id": "paper29",
-      "source": "paper29.json",
+      "source": "paper29.pdf",
+      "topic": "References",
+      "headings": [
+        "References"
+      ],
       "chunk_index": 34,
       "total_chunks": 35,
+      "pages": [
+        9
+      ],
       "docling": {
-        "schema_name": "docling_core.transforms.chunker.DocMeta",
-        "version": "1.0.0",
         "doc_items": [
           {
             "self_ref": "#/texts/136",
-            "parent": {
-              "$ref": "#/groups/9"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 9,
@@ -3397,7 +2837,7 @@
                   "t": 299.30070291015625,
                   "r": 526.06,
                   "b": 125.36526291015628,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -3408,12 +2848,8 @@
           },
           {
             "self_ref": "#/texts/137",
-            "parent": {
-              "$ref": "#/groups/9"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 9,
@@ -3422,7 +2858,7 @@
                   "t": 122.15070291015627,
                   "r": 525.9536800000001,
                   "b": 74.72926291015631,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -3431,15 +2867,7 @@
               }
             ]
           }
-        ],
-        "headings": [
-          "References"
-        ],
-        "origin": {
-          "mimetype": "application/pdf",
-          "binary_hash": 9140916357503570421,
-          "filename": "paper29"
-        }
+        ]
       }
     }
   },
@@ -3447,21 +2875,22 @@
     "content": "- Malekzadeh-Milani S, Maltret A, Bosser G, Giroux  N,  Bonnemains  L,  Bordet  J,  Di Filippo  S,  Mauran  P,  Falcon-Eicher  S, Thambo JB, Lefort B, Moceri P, Houyel L, Renolleau S, Bonnet D. Acute Heart Failure in Multisystem Inflammatory Syndrome  in  Children  in  the  Context  of Global SARS-CoV-2  Pandemic. Circulation.  2020  Aug  4;142(5):429-436.  doi: 10.1161/CIRCULATIONAHA.120.04836 0. Epub 2020 May 17. PMID: 32418446.\n24. Dasgupta K, Finch SE. A Case of Pediatric Multisystem Inflammatory Syndrome\n- Temporally Associated with COVID-19 in South Dakota. S D Med. 2020 Jun;73(6): 246-251. PMID: 32580256.\n25. Nepal G, Shrestha GS, Rehrig JH, Gajurel BP, Ojha R, Agrawal A, Panthi S, Khatri B, Adhikari I. Neurological Manifestations of COVID-19 Associated Multi-system Inflammatory  Syndrome  in  Children:  A Systematic  Review  and  Meta-analysis.  J Nepal Health Res Counc. 2021 Apr 23;19(1):10-18. doi: 10.33314/jnhrc. v19i1.3410. PMID: 33934126.",
     "metadata": {
       "document_id": "paper29",
-      "source": "paper29.json",
+      "source": "paper29.pdf",
+      "topic": "References",
+      "headings": [
+        "References"
+      ],
       "chunk_index": 35,
       "total_chunks": 35,
+      "pages": [
+        10
+      ],
       "docling": {
-        "schema_name": "docling_core.transforms.chunker.DocMeta",
-        "version": "1.0.0",
         "doc_items": [
           {
             "self_ref": "#/texts/141",
-            "parent": {
-              "$ref": "#/groups/10"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 10,
@@ -3470,7 +2899,7 @@
                   "t": 767.3707029101563,
                   "r": 282.40759999999995,
                   "b": 631.3652629101563,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -3481,12 +2910,8 @@
           },
           {
             "self_ref": "#/texts/142",
-            "parent": {
-              "$ref": "#/groups/10"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 10,
@@ -3495,7 +2920,7 @@
                   "t": 628.2707029101563,
                   "r": 282.3076799999999,
                   "b": 606.0452629101562,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -3506,12 +2931,8 @@
           },
           {
             "self_ref": "#/texts/143",
-            "parent": {
-              "$ref": "#/groups/10"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 10,
@@ -3520,7 +2941,7 @@
                   "t": 767.3707029101563,
                   "r": 526.06,
                   "b": 732.5252629101562,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -3531,12 +2952,8 @@
           },
           {
             "self_ref": "#/texts/144",
-            "parent": {
-              "$ref": "#/groups/10"
-            },
-            "children": [],
-            "content_layer": "body",
             "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
             "prov": [
               {
                 "page_no": 10,
@@ -3545,7 +2962,7 @@
                   "t": 729.4307029101562,
                   "r": 526.06,
                   "b": 618.7652629101563,
-                  "coord_origin": "BOTTOMLEFT"
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
                 },
                 "charspan": [
                   0,
@@ -3554,15 +2971,7 @@
               }
             ]
           }
-        ],
-        "headings": [
-          "References"
-        ],
-        "origin": {
-          "mimetype": "application/pdf",
-          "binary_hash": 9140916357503570421,
-          "filename": "paper29"
-        }
+        ]
       }
     }
   }
