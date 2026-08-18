@@ -1,0 +1,2287 @@
+[
+  {
+    "content": "Magdy Bassiouny, MD; Ahmed H Abdelhafez, MD; Salah M Raslan, MD; Ashraf Hegab, MD; Mohammed Saif, MD; Gamal Fawzy, MD\nAin Shams University, Cairo, Egypt.",
+    "metadata": {
+      "document_id": "paper3",
+      "source": "paper3.json",
+      "chunk_index": 1,
+      "total_chunks": 16,
+      "docling": {
+        "schema_name": "docling_core.transforms.chunker.DocMeta",
+        "version": "1.0.0",
+        "doc_items": [
+          {
+            "self_ref": "#/texts/1",
+            "parent": {
+              "$ref": "#/groups/0"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 1,
+                "bbox": {
+                  "l": 83.0,
+                  "t": 730.3333333333334,
+                  "r": 511.3333333333333,
+                  "b": 700.3333333333333,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  117
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/2",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 1,
+                "bbox": {
+                  "l": 193.66666666666666,
+                  "t": 683.0,
+                  "r": 399.3333333333333,
+                  "b": 667.6666666666667,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  35
+                ]
+              }
+            ]
+          }
+        ],
+        "headings": [
+          "Laparoscopic management of perforated peptic ulcer using combined suturing and fibrin glue patch"
+        ],
+        "origin": {
+          "mimetype": "application/pdf",
+          "binary_hash": 16155002568856138466,
+          "filename": "paper3"
+        }
+      }
+    }
+  },
+  {
+    "content": "Background: Duodenal perforation is a common complication of duodenal ulcer. Treatment for perforated peptic ulcer can be performed by laparoscopy in 85% of cases, making it possible to avoid a median laparotomy which can lead to wound infection and late incisional hernia.\nMethods: Twenty-four patients with perforated peptic ulcer were planned to be treated laproscopically, three of whom were excluded from the study (one patient with previous upper abdominal operations, one with bleeding peptic ulcer and the third one had evidence of gastric outlet obstruction).The study started from January 2009 till December 2010. Five patients were operated in Ain Shams University hospitals (Egypt) and sixteen patients were operated upon in Kingdom of Saudi Arabia. Mean age was (38.1±10.3), diagnosis of perforated peptic ulcer was reached usual by clinical examination, laboratory investigations, plain X-ray chest, abdomen and abdominal U/S. One case was misdiagnosed originally as acute appendicitis. All operations we swers u-e  uofrd  u :e  fd wuena application of fibrin glue patch.\nResults: Mean operating time was 65 minutes. All procedures included suturing of the perforation with application of fibrin glue patch with peritoneal toilet and suction drain. Mean hospital stay was 3.5days. All patients had no serious postoperative complications apart from three patients, two of them developed chest infection and the third patient had postoperative leak and peritonitis.\nConclusion: Laparoscopic closure of peptic ulcer is safe with short hospital stay and early return to work.\nKey words: Peptic ulcer, perforation, fibrin glue patch and laparoscopy.",
+    "metadata": {
+      "document_id": "paper3",
+      "source": "paper3.json",
+      "chunk_index": 2,
+      "total_chunks": 16,
+      "docling": {
+        "schema_name": "docling_core.transforms.chunker.DocMeta",
+        "version": "1.0.0",
+        "doc_items": [
+          {
+            "self_ref": "#/texts/4",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 1,
+                "bbox": {
+                  "l": 68.0,
+                  "t": 637.6666666666666,
+                  "r": 526.0,
+                  "b": 596.3333333333334,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  273
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/5",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 1,
+                "bbox": {
+                  "l": 69.33333333333333,
+                  "t": 595.6666666666666,
+                  "r": 526.3333333333333,
+                  "b": 456.3333333333333,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  811
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/6",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 1,
+                "bbox": {
+                  "l": 69.0,
+                  "t": 455.3333333333333,
+                  "r": 525.6666666666667,
+                  "b": 386.6666666666667,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  391
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/7",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 1,
+                "bbox": {
+                  "l": 70.0,
+                  "t": 385.3333333333333,
+                  "r": 525.3333333333333,
+                  "b": 359.6666666666667,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  107
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/8",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 1,
+                "bbox": {
+                  "l": 83.33333333333333,
+                  "t": 358.3333333333333,
+                  "r": 434.3333333333333,
+                  "b": 343.3333333333333,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  72
+                ]
+              }
+            ]
+          }
+        ],
+        "headings": [
+          "Abstract"
+        ],
+        "origin": {
+          "mimetype": "application/pdf",
+          "binary_hash": 16155002568856138466,
+          "filename": "paper3"
+        }
+      }
+    }
+  },
+  {
+    "content": "Perforated peptic ulcer is mainly a disease of young men but because of increasing smoking in women and use of NSAID in all age groups, nowadays it is common in all adult population. Up to 80% of perforated duodenal ulcers are Helicobacter pylori positive.1\nThe treatment of peptic ulcer disease (PUD) that involves duodenal bulb and prepyloric ulcers continue to evolve because of recent advances in pharmacology, bacteriology, and operative techniques. The first major change occurred after the introduction of H2-receptor antagonists for gastric acid suppression in the 1970s, followed by proton pump inhibitors in the late 1980s. In addition, the discovery that Helicobacter pylori is present in 75-85% of these patients revolutionized the pathophysiologic understanding of peptic ulcer disease.2 Since the first description of surgery for acute perforated peptic ulcer disease, many techniques have been recommended like hand suturing the edges of the wound, stapling, omental patch and closing the perforations with fibrin sealant and gelatine plug products.3\nLaparoscopic surgery has revolutionized the practice of cholecystectomy and has led to the development of a wide range of laparoscopic surgical procedures. Progress currently can be said to include this minimally invasive surgical procedure for perforated peptic ulcer.4\nTreatment for perforated ulcer can be performed laparoscopically in 85% of cases, making it possible to avoid a median laparotomy which can lead to wound infection and late incisional hernia. Laparoscopic repair of duodenal perforation with combined suturing and fibrin glue is a useful method for reducing hospital stay, complications and return to normal activity.1",
+    "metadata": {
+      "document_id": "paper3",
+      "source": "paper3.json",
+      "chunk_index": 3,
+      "total_chunks": 16,
+      "docling": {
+        "schema_name": "docling_core.transforms.chunker.DocMeta",
+        "version": "1.0.0",
+        "doc_items": [
+          {
+            "self_ref": "#/texts/10",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 1,
+                "bbox": {
+                  "l": 69.0,
+                  "t": 277.0,
+                  "r": 289.66666666666663,
+                  "b": 194.33333333333337,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  257
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/11",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 1,
+                "bbox": {
+                  "l": 69.33333333333333,
+                  "t": 193.0,
+                  "r": 290.0,
+                  "b": 68.33333333333337,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  407
+                ]
+              },
+              {
+                "page_no": 1,
+                "bbox": {
+                  "l": 305.66666666666663,
+                  "t": 291.33333333333337,
+                  "r": 527.0,
+                  "b": 166.33333333333337,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  408,
+                  807
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/12",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 1,
+                "bbox": {
+                  "l": 305.0,
+                  "t": 165.33333333333337,
+                  "r": 527.0,
+                  "b": 67.66666666666663,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  270
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/15",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 2,
+                "bbox": {
+                  "l": 68.66666666666667,
+                  "t": 782.0,
+                  "r": 289.33333333333337,
+                  "b": 657.6666666666666,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  367
+                ]
+              }
+            ]
+          }
+        ],
+        "headings": [
+          "Introduction:"
+        ],
+        "origin": {
+          "mimetype": "application/pdf",
+          "binary_hash": 16155002568856138466,
+          "filename": "paper3"
+        }
+      }
+    }
+  },
+  {
+    "content": "Twenty-one patients treated with laparoscopic suturing of perforated peptic ulcer with fibrin glue patch over it . The study started from January 2009 till December 2010. Five patients were operated on in Ain Shams University hospitals (Egypt) and sixteen patients were operated on in Kingdom of Saudi Arabia.",
+    "metadata": {
+      "document_id": "paper3",
+      "source": "paper3.json",
+      "chunk_index": 4,
+      "total_chunks": 16,
+      "docling": {
+        "schema_name": "docling_core.transforms.chunker.DocMeta",
+        "version": "1.0.0",
+        "doc_items": [
+          {
+            "self_ref": "#/texts/17",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 2,
+                "bbox": {
+                  "l": 68.66666666666667,
+                  "t": 628.3333333333334,
+                  "r": 290.0,
+                  "b": 517.6666666666667,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  309
+                ]
+              }
+            ]
+          }
+        ],
+        "headings": [
+          "Patients and methods:"
+        ],
+        "origin": {
+          "mimetype": "application/pdf",
+          "binary_hash": 16155002568856138466,
+          "filename": "paper3"
+        }
+      }
+    }
+  },
+  {
+    "content": "The patient is placed in supine position with legs straight. The patient position is changed several times during the procedure: in steep anti-Trendelenburg position during suturing and in the right lateral position and head down position during peritoneal lavage.\nEndotracheal anaesthesia is generally used. Close anaesthetic monitoring must be done for such a patient and intravenous antibiotic therapy should be given before induction. An H2 recn unr oot  o nt ntor injection was used.\nThe surgical team stands as for laparoscopic cholecystectomy. The surgeon stands on the patient's left side and the assistant to the patient's right. The camera man on the surgeon's left side.\nThe laparoscopic unit is placed on the patient's right side toward the shoulder. The instrument table is placed beside the patient's right leg.\nFour trocars have been used. An optical trocar of 10 mm is introduced in the periumbilical region. One trocar of 5 mm is placed in the inferior aspect of the right hypochondrium on the anterior axillary line for liver retraction with a traumatic grasper. A 10 mm trocar is placed in the epigastrium for the needle holder. A fourth trocar of 5 mm is placed at the level of the umbilicus in the midclavicular line. The instruments are similar to those used in most laparoscopic procedures. A 0° laparoscope is commonly used, but a 30° laparoscope may be useful to see better a perforated ulcer placed on the superior surface of the duodenum. The other instruments necessary for this operation are: 2 atraumatic graspers, needle holder, suction-irrigation device, and scissors. A liver retractor was used in some cases instead of a grasper.",
+    "metadata": {
+      "document_id": "paper3",
+      "source": "paper3.json",
+      "chunk_index": 5,
+      "total_chunks": 16,
+      "docling": {
+        "schema_name": "docling_core.transforms.chunker.DocMeta",
+        "version": "1.0.0",
+        "doc_items": [
+          {
+            "self_ref": "#/texts/19",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 2,
+                "bbox": {
+                  "l": 69.0,
+                  "t": 488.0,
+                  "r": 289.33333333333337,
+                  "b": 405.3333333333333,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  264
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/20",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 2,
+                "bbox": {
+                  "l": 69.0,
+                  "t": 404.3333333333333,
+                  "r": 289.33333333333337,
+                  "b": 321.66666666666674,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  223
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/21",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 2,
+                "bbox": {
+                  "l": 68.66666666666667,
+                  "t": 320.66666666666674,
+                  "r": 289.33333333333337,
+                  "b": 251.33333333333337,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  192
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/22",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 2,
+                "bbox": {
+                  "l": 68.66666666666667,
+                  "t": 249.33333333333337,
+                  "r": 289.66666666666663,
+                  "b": 194.0,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  143
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/23",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 2,
+                "bbox": {
+                  "l": 305.33333333333337,
+                  "t": 782.3333333333334,
+                  "r": 526.3333333333333,
+                  "b": 516.6666666666667,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  837
+                ]
+              }
+            ]
+          }
+        ],
+        "headings": [
+          "Operative technique:"
+        ],
+        "origin": {
+          "mimetype": "application/pdf",
+          "binary_hash": 16155002568856138466,
+          "filename": "paper3"
+        }
+      }
+    }
+  },
+  {
+    "content": "The Veress needle technique was used. The abdomen was entered through a small incision just above the umbilicus. A CO2 intraabdominal pressure between 12 and 14 mmHg was used. The scope was inserted through the 10 mm trocar placed in the supra-umbilical position. Once the diagnosis was confirmed the other three ports were placed as mentioned above. Bacteriological samples were taken and sent immediately to the laboratory. The abdomen was explored to identify the perforation and to assess the magnitude of peritonitis. The gallbladder, which usually adheres to the perforation was retracted by the surgeon's left instrument and moved upwards. The gallbladder was passed to the assistant using the instrument placed in the inferior aspect of the right hypochondrium on the anterior axillary line. Once the liver was retracted, the exposed area was carefully checked and the perforation was usually clearly identified as a small hole on the anterior aspect of the first portion of the duodenum Figure(1).\nFigure (1): Perforated duodenal peptic ulcer identified through laparoscopy\nNext step was peritoneal toilet. The subhepatic and subphrenic spaces were irrigated and aspirated with warm saline solution. Fibrinous membranes were removed as much as possible. Once the abdominal cavity was clean the attention was returned to the perforation. Biopsy of a duodenal ulcer was not necessary. However, for a prepyloric ulcer, samples of the gastric wall at the level of the perforation were taken and sent for histological examination. Suturing was done with 2/0 or 3/0 absorbable sutures Figure(2).\nFigure (2): Suture of the perforation using standard stitches\nInterrupted sutures were used and usually two or three stitches were placed in a transversal manner over the perforation, focused on the pyloroduodenal axis in case of a duodenal ulcer. Once the perforation was sealed, a small sheet of fibrin glue patch was fixed over the suture line. Figure(3)A,B\nFigure (3)A: Fixation of the fibrin glue over the site of perforation after suturing.",
+    "metadata": {
+      "document_id": "paper3",
+      "source": "paper3.json",
+      "chunk_index": 6,
+      "total_chunks": 16,
+      "docling": {
+        "schema_name": "docling_core.transforms.chunker.DocMeta",
+        "version": "1.0.0",
+        "doc_items": [
+          {
+            "self_ref": "#/texts/24",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 2,
+                "bbox": {
+                  "l": 304.33333333333337,
+                  "t": 516.3333333333333,
+                  "r": 526.6666666666667,
+                  "b": 195.0,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  1006
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/27",
+            "parent": {
+              "$ref": "#/pictures/0"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "caption",
+            "prov": [
+              {
+                "page_no": 3,
+                "bbox": {
+                  "l": 101.66666666666666,
+                  "t": 571.0,
+                  "r": 473.6666666666667,
+                  "b": 556.6666666666666,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  75
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/28",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 3,
+                "bbox": {
+                  "l": 68.66666666666667,
+                  "t": 546.6666666666666,
+                  "r": 289.66666666666663,
+                  "b": 449.6666666666667,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  293
+                ]
+              },
+              {
+                "page_no": 3,
+                "bbox": {
+                  "l": 305.0,
+                  "t": 546.3333333333334,
+                  "r": 526.3333333333333,
+                  "b": 478.0,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  294,
+                  504
+                ]
+              },
+              {
+                "page_no": 3,
+                "bbox": {
+                  "l": 305.66666666666663,
+                  "t": 476.3333333333333,
+                  "r": 359.6666666666667,
+                  "b": 463.0,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  505,
+                  515
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/29",
+            "parent": {
+              "$ref": "#/pictures/1"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "caption",
+            "prov": [
+              {
+                "page_no": 3,
+                "bbox": {
+                  "l": 150.0,
+                  "t": 225.66666666666663,
+                  "r": 442.3333333333333,
+                  "b": 211.66666666666663,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  61
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/30",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 3,
+                "bbox": {
+                  "l": 68.66666666666667,
+                  "t": 201.0,
+                  "r": 289.66666666666663,
+                  "b": 146.33333333333337,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  178
+                ]
+              },
+              {
+                "page_no": 3,
+                "bbox": {
+                  "l": 305.66666666666663,
+                  "t": 201.33333333333337,
+                  "r": 526.0,
+                  "b": 160.33333333333337,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  179,
+                  298
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/33",
+            "parent": {
+              "$ref": "#/pictures/2"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "caption",
+            "prov": [
+              {
+                "page_no": 4,
+                "bbox": {
+                  "l": 69.33333333333333,
+                  "t": 597.0,
+                  "r": 294.0,
+                  "b": 570.6666666666666,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  85
+                ]
+              }
+            ]
+          }
+        ],
+        "headings": [
+          "Operative technique:"
+        ],
+        "origin": {
+          "mimetype": "application/pdf",
+          "binary_hash": 16155002568856138466,
+          "filename": "paper3"
+        }
+      }
+    }
+  },
+  {
+    "content": "The peritoneal lavage was continued after suturing. Warm saline solution was used until the returned liquid was clear. About four litres of saline are generally used.\nFigure (3)B: Fibrin glue after fixation.\nRoutine drainage of the peritoneal cavity was performed using suction drain (18 French) in the subhepatic region coming out via the trocar site situated on the right flank Figure(4).\nFigure (4): 18 French suction drain placed in subhepatic space.\nFinally the trocars were removed one after the other and haemostasis of the trocar sites was checked. The scope was removed leaving the gas valve of umbilical port open to let out all the gas. The anterior rectus sheath was closed at the site of the 10 mm trocar sites. The skin was closed using staples or sutures.",
+    "metadata": {
+      "document_id": "paper3",
+      "source": "paper3.json",
+      "chunk_index": 7,
+      "total_chunks": 16,
+      "docling": {
+        "schema_name": "docling_core.transforms.chunker.DocMeta",
+        "version": "1.0.0",
+        "doc_items": [
+          {
+            "self_ref": "#/texts/34",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 4,
+                "bbox": {
+                  "l": 69.0,
+                  "t": 552.3333333333334,
+                  "r": 289.33333333333337,
+                  "b": 497.3333333333333,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  166
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/35",
+            "parent": {
+              "$ref": "#/pictures/3"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "caption",
+            "prov": [
+              {
+                "page_no": 4,
+                "bbox": {
+                  "l": 312.66666666666663,
+                  "t": 596.6666666666666,
+                  "r": 500.6666666666667,
+                  "b": 583.6666666666666,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  40
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/36",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 4,
+                "bbox": {
+                  "l": 305.33333333333337,
+                  "t": 552.3333333333334,
+                  "r": 526.0,
+                  "b": 497.0,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  182
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/37",
+            "parent": {
+              "$ref": "#/pictures/4"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "caption",
+            "prov": [
+              {
+                "page_no": 4,
+                "bbox": {
+                  "l": 141.66666666666666,
+                  "t": 264.66666666666663,
+                  "r": 452.3333333333333,
+                  "b": 249.33333333333337,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  63
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/38",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 4,
+                "bbox": {
+                  "l": 69.33333333333333,
+                  "t": 231.33333333333337,
+                  "r": 290.0,
+                  "b": 133.33333333333337,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  315
+                ]
+              }
+            ]
+          }
+        ],
+        "headings": [
+          "Operative technique:"
+        ],
+        "origin": {
+          "mimetype": "application/pdf",
+          "binary_hash": 16155002568856138466,
+          "filename": "paper3"
+        }
+      }
+    }
+  },
+  {
+    "content": "Fibrin glue patch is a ready-to-use surgical patch that allows haemostasis and tissue sealing to be achieved quickly and easily. It is a fixed combination of a patch sponge coated with a dry layer of the human coagulation factors fibrinogen and thrombin. It achieves haemostasis and sealing in 3-5 minutes and has several distinct advantages compared with current supportive techniques.5\nFibrin glue patch has strong adhesive properties in all body fluids, creating an airand liquid-tight seal. It is truly ready-to-use as it needs no preparation, no reconditioning and no thawing prior to application.\nIt is physiologically extensible and pliable, allowing it to follow the movement of organs freely and easily.5 It is enzymatically degraded and safely absorbed by the body within twelve weeks of application. It can be applied in surgical areas that are difficult to access.6 It allows compression to be applied to the tissue.6",
+    "metadata": {
+      "document_id": "paper3",
+      "source": "paper3.json",
+      "chunk_index": 8,
+      "total_chunks": 16,
+      "docling": {
+        "schema_name": "docling_core.transforms.chunker.DocMeta",
+        "version": "1.0.0",
+        "doc_items": [
+          {
+            "self_ref": "#/texts/40",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 4,
+                "bbox": {
+                  "l": 69.0,
+                  "t": 104.0,
+                  "r": 289.0,
+                  "b": 63.33333333333337,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  142
+                ]
+              },
+              {
+                "page_no": 4,
+                "bbox": {
+                  "l": 305.66666666666663,
+                  "t": 230.33333333333337,
+                  "r": 526.0,
+                  "b": 147.66666666666663,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  143,
+                  387
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/41",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 4,
+                "bbox": {
+                  "l": 305.66666666666663,
+                  "t": 146.66666666666663,
+                  "r": 525.6666666666667,
+                  "b": 77.33333333333337,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  214
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/42",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 4,
+                "bbox": {
+                  "l": 320.3333333333333,
+                  "t": 76.0,
+                  "r": 525.3333333333333,
+                  "b": 63.0,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  45
+                ]
+              },
+              {
+                "page_no": 5,
+                "bbox": {
+                  "l": 69.0,
+                  "t": 782.3333333333334,
+                  "r": 290.0,
+                  "b": 700.0,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  46,
+                  326
+                ]
+              }
+            ]
+          }
+        ],
+        "headings": [
+          "Product details:"
+        ],
+        "origin": {
+          "mimetype": "application/pdf",
+          "binary_hash": 16155002568856138466,
+          "filename": "paper3"
+        }
+      }
+    }
+  },
+  {
+    "content": "Intravenous H2 receptor antagonists or proton pump inhibitors (PPIs) are given intravenously and then orally once oral feeding is started after assurance of bowel movement. Intravenous antibiotic therapy is maintained depending on the severity of the peritonitis and at least until a culture of the peritoneal fluid taken during the procedure is obtained. The aims of antibiotic therapy are to combat peritonitis and Helicobacter pylori. The nasogastric tube is removed once peristalsis resumes. Food intake is then restored. Drains are removed once the effluent is less than 50ml per day. Patients are usually discharged 3-4 days after operation.\nTable (1):Perioperative criteria.\n\nMean age, Patient no. = 38.1±10.3. Sex:, Patient no. = . Male, Patient no. = 18(85.7%). Female, Patient no. = 3(14.3%). Perioperative criteria, Patient no. = Patient no.. Duration of pain longer than 24 hours, Patient no. = 2(0.95%). Shock, Patient no. = 1(0.48%). ASA classification, Patient no. = . I, Patient no. = 10 (47.62%). II, Patient no. = 6 (28.57%). III, Patient no. = 4 (19%). IV, Patient no. = 1 (0.48%). Ulcer history, Patient no. = 5 (23.8%). Smoking, Patient no. = 10 (47.62%). Nonsteroidal anti-inflammatory drug use, Patient no. = 6 (28.57%)\nUpper gastroduodenoscopy is performed usually 4 to 6 weeks after the operation.",
+    "metadata": {
+      "document_id": "paper3",
+      "source": "paper3.json",
+      "chunk_index": 9,
+      "total_chunks": 16,
+      "docling": {
+        "schema_name": "docling_core.transforms.chunker.DocMeta",
+        "version": "1.0.0",
+        "doc_items": [
+          {
+            "self_ref": "#/texts/46",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 5,
+                "bbox": {
+                  "l": 68.66666666666667,
+                  "t": 670.0,
+                  "r": 290.33333333333337,
+                  "b": 490.6666666666667,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  580
+                ]
+              },
+              {
+                "page_no": 5,
+                "bbox": {
+                  "l": 305.33333333333337,
+                  "t": 782.6666666666666,
+                  "r": 525.6666666666667,
+                  "b": 755.6666666666666,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  581,
+                  647
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/47",
+            "parent": {
+              "$ref": "#/tables/0"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "caption",
+            "prov": [
+              {
+                "page_no": 5,
+                "bbox": {
+                  "l": 70.33333333333333,
+                  "t": 449.6666666666667,
+                  "r": 228.0,
+                  "b": 437.0,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  33
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/tables/0",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [
+              {
+                "$ref": "#/texts/47"
+              }
+            ],
+            "content_layer": "body",
+            "label": "table",
+            "prov": [
+              {
+                "page_no": 5,
+                "bbox": {
+                  "l": 104.08984375,
+                  "t": 420.9800109863281,
+                  "r": 492.31781005859375,
+                  "b": 120.65911865234375,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  0
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/48",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 5,
+                "bbox": {
+                  "l": 306.0,
+                  "t": 754.6666666666666,
+                  "r": 526.0,
+                  "b": 728.0,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  79
+                ]
+              }
+            ]
+          }
+        ],
+        "headings": [
+          "Postoperative management:"
+        ],
+        "origin": {
+          "mimetype": "application/pdf",
+          "binary_hash": 16155002568856138466,
+          "filename": "paper3"
+        }
+      }
+    }
+  },
+  {
+    "content": "Data were collected on standard forms and were prospectively entered into a computer database. Preoperative data comprised characteristics of the patients, history, physical examination findings, laboratory and imaging tests and intra-operative criteria and postoperative period data and return to full activity were included.",
+    "metadata": {
+      "document_id": "paper3",
+      "source": "paper3.json",
+      "chunk_index": 10,
+      "total_chunks": 16,
+      "docling": {
+        "schema_name": "docling_core.transforms.chunker.DocMeta",
+        "version": "1.0.0",
+        "doc_items": [
+          {
+            "self_ref": "#/texts/50",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 5,
+                "bbox": {
+                  "l": 305.0,
+                  "t": 698.3333333333333,
+                  "r": 526.3333333333333,
+                  "b": 588.3333333333334,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  326
+                ]
+              }
+            ]
+          }
+        ],
+        "headings": [
+          "Statistical Analysis:"
+        ],
+        "origin": {
+          "mimetype": "application/pdf",
+          "binary_hash": 16155002568856138466,
+          "filename": "paper3"
+        }
+      }
+    }
+  },
+  {
+    "content": "From January2009 till December 2010, twenty-one patients with a preoperative diagnosis of perforated peptic ulcer treated laproscopically were entered final analysis.\nThe preoperative characteristics including the demographic data of the patients:\nMean age was (38.1±10.3) and sex distribution was eighteen males (85.7%) & three females (14.3%). Data of patient's presentation such as shock on admission was one case (0.48%), and two cases presented with epigastric pain duration longer than 24 hours(0.95%), and five patients were admitted with previous history of peptic ulcer disease\nTable (2):Statistics of operative data.\n\nMean operative duration (minutes), Range = 45±15.4. Site of perforations, Range = Site of perforations. Duodenum, Range = 18(85.7%). Prepyloric, Range = 3 (14.3%). Mean size of ulcer perforations, Range = 5.1 mm\nThe mean operative time of laproscopic repair of perforated peptic ulcer ranged from 35 to 60 minutes (45±15.4). According to the sites and sizes of ulcer perforations were as\nTable (3): Postoperative data.\n\nNumber of analgesics injections per patient, Range = 1-8 inj.. Pain scores, Range = . Day 1, Range = 3.5. Day 3, Range = 1.6. Nasogastric tube duration, (day) (range), Range = 2(2-3). Resume diet day, (day) (range), Range = 4(3-5). Postop. hospital stay, (day) (range), Range = 3.5(3-4). Return normal activities, (day), Range = 9.3±5.8",
+    "metadata": {
+      "document_id": "paper3",
+      "source": "paper3.json",
+      "chunk_index": 11,
+      "total_chunks": 16,
+      "docling": {
+        "schema_name": "docling_core.transforms.chunker.DocMeta",
+        "version": "1.0.0",
+        "doc_items": [
+          {
+            "self_ref": "#/texts/52",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 5,
+                "bbox": {
+                  "l": 306.0,
+                  "t": 558.6666666666666,
+                  "r": 526.3333333333333,
+                  "b": 503.6666666666667,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  166
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/55",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 6,
+                "bbox": {
+                  "l": 69.51718711853027,
+                  "t": 783.2308470408121,
+                  "r": 289.4828084309896,
+                  "b": 755.8538309733073,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  80
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/56",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 6,
+                "bbox": {
+                  "l": 68.40625,
+                  "t": 754.7439524332682,
+                  "r": 289.4828084309896,
+                  "b": 643.0161336263021,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  338
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/57",
+            "parent": {
+              "$ref": "#/tables/1"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "caption",
+            "prov": [
+              {
+                "page_no": 6,
+                "bbox": {
+                  "l": 69.8874994913737,
+                  "t": 630.8074645996094,
+                  "r": 252.8218790690104,
+                  "b": 616.3790283203125,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  39
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/tables/1",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [
+              {
+                "$ref": "#/texts/57"
+              }
+            ],
+            "content_layer": "body",
+            "label": "table",
+            "prov": [
+              {
+                "page_no": 6,
+                "bbox": {
+                  "l": 130.75668334960938,
+                  "t": 611.7187652587891,
+                  "r": 458.088134765625,
+                  "b": 492.5005798339844,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  0
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/58",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 6,
+                "bbox": {
+                  "l": 68.77656237284343,
+                  "t": 477.27419026692706,
+                  "r": 289.4828084309896,
+                  "b": 421.0403238932292,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  175
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/59",
+            "parent": {
+              "$ref": "#/tables/2"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "caption",
+            "prov": [
+              {
+                "page_no": 6,
+                "bbox": {
+                  "l": 70.2578125,
+                  "t": 406.9818522135417,
+                  "r": 216.90156046549478,
+                  "b": 393.663330078125,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  30
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/tables/2",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [
+              {
+                "$ref": "#/texts/59"
+              }
+            ],
+            "content_layer": "body",
+            "label": "table",
+            "prov": [
+              {
+                "page_no": 6,
+                "bbox": {
+                  "l": 128.33905029296875,
+                  "t": 385.63812255859375,
+                  "r": 459.01788330078125,
+                  "b": 242.5518798828125,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  0
+                ]
+              }
+            ]
+          }
+        ],
+        "headings": [
+          "Results:"
+        ],
+        "origin": {
+          "mimetype": "application/pdf",
+          "binary_hash": 16155002568856138466,
+          "filename": "paper3"
+        }
+      }
+    }
+  },
+  {
+    "content": "The characteristics of patient's postoperative data showed that patients required significantly less parenteral analgesics, lower visual analogue pain score on postoperative days 1 (3.5) and day 3(1.6). And the timing of removal of nasogastric tube was in the second or third postoperative day and four (3-5) days are the timing of full diet resumption and the hospital stay ranged from three to four days and the patient could return back to work about ten days after discharge Table(3).\nTable (4): Post operative complications.\n\nChest infection, Patients no. (%) = 2(0.95%). Postoperative leak and peritonitis, Patients no. (%) = 1(0.48%)\nfollows: Duodenal ulcer in eighteen cases (85.7%) & prepyloric in three cases (14.3%). Mean size of ulcer perforations was 5.1 mm Table(2).\n(23.8%), and six patients with recent consumption of nonsteroidal anti-inflammatory drugs (28.57%) and ten patients gave a history of smoking (47.62%). According to American Society of Anaesthesiology (ASA) classification status was: Class I were ten cases (47.62%) & Class II were six cases (28.57%) & Class III were four cases (19%) and Class IV were one case (0.48%) Table(1).\nPost operative complications included 2 cases (0.95%) of chest infection one of them was known to have COPD and was managed by antibiotics and improved. The other one was heavy smoker and was treated with expectorants and third patient had postoperative leak and was reoperated laproscopically with deudenostomy tube and feeding jejunostomy (0.48%) Table(4).",
+    "metadata": {
+      "document_id": "paper3",
+      "source": "paper3.json",
+      "chunk_index": 12,
+      "total_chunks": 16,
+      "docling": {
+        "schema_name": "docling_core.transforms.chunker.DocMeta",
+        "version": "1.0.0",
+        "doc_items": [
+          {
+            "self_ref": "#/texts/60",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 6,
+                "bbox": {
+                  "l": 68.40625,
+                  "t": 235.320556640625,
+                  "r": 290.59375,
+                  "b": 151.70967610677087,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  275
+                ]
+              },
+              {
+                "page_no": 6,
+                "bbox": {
+                  "l": 305.03592936197913,
+                  "t": 234.58064778645837,
+                  "r": 525.7421875,
+                  "b": 165.76814778645837,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  276,
+                  488
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/61",
+            "parent": {
+              "$ref": "#/tables/3"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "caption",
+            "prov": [
+              {
+                "page_no": 6,
+                "bbox": {
+                  "l": 69.51718711853027,
+                  "t": 144.31050618489587,
+                  "r": 267.2640584309896,
+                  "b": 130.25203450520837,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  40
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/tables/3",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [
+              {
+                "$ref": "#/texts/61"
+              }
+            ],
+            "content_layer": "body",
+            "label": "table",
+            "prov": [
+              {
+                "page_no": 6,
+                "bbox": {
+                  "l": 126.84156799316406,
+                  "t": 125.568115234375,
+                  "r": 460.1250915527344,
+                  "b": 67.23822021484375,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  0
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/62",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 6,
+                "bbox": {
+                  "l": 305.03592936197913,
+                  "t": 477.27419026692706,
+                  "r": 526.1125081380208,
+                  "b": 420.6703694661458,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  139
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/63",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 6,
+                "bbox": {
+                  "l": 304.6656290690104,
+                  "t": 783.6008065541586,
+                  "r": 526.8531087239583,
+                  "b": 657.0745951334635,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  379
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/66",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 7,
+                "bbox": {
+                  "l": 68.68902397155762,
+                  "t": 783.1451619466146,
+                  "r": 289.17301432291663,
+                  "b": 658.070566813151,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  358
+                ]
+              }
+            ]
+          }
+        ],
+        "headings": [
+          "Results:"
+        ],
+        "origin": {
+          "mimetype": "application/pdf",
+          "binary_hash": 16155002568856138466,
+          "filename": "paper3"
+        }
+      }
+    }
+  },
+  {
+    "content": "Advances in the medical treatment of peptic ulcer disease have led to a dramatic decrease in the number of elective ulcer surgeries performed. Nonetheless, the number of patients treated surgically for complications such as perforations remains relatively unchanged.7\nLaparoscopy has assumed an everexpanding role in gastrointestinal surgery since the introduction of laparoscopic cholecystectomy. Laparoscopic cholecystectomy has rapidly become a standard practice in most parts of the world for elective cholecystectomy, but the role of laparoscopy in perforated peptic ulcer was not well defined.8\nActually, using laparoscopy for treatment of perforated peptic ulcer includes; GrahamSteele patch repair, suture closure with an omental patch and simple closure without omental patch. The procedure is relatively simple but requires the ability to perform an intra-corporeal knot. The application of fibrin glue patch reinforces the sutures and avoid the need to applicate an omental patch and make the procedure faster and easier.\nBoey et, al. reported that major medical illness, preoperative shock, and longstanding perforation (more than 24 hours) were considered poor prognostic factors. In this study, we found that hypotension could not reliably predict outcome, and all patients admitted with hypotension survived.9\nG.Piero et al. reported that published data comparing laparoscopic and open repair for perforated peptic ulcers report lower post operative analgesic use, lower wound infection and mortality, fewer incisional hernias with laparoscopy but longer operating time and higher reoperation rate.10\nIn our experience laparoscopic repair using fibrin glue patch was performed under supervision of expert surgeons and the results in terms of duration of surgical procedure was short (45±15.4 min.) and clinical outcome was satisfactory. We have single case of postoperative leak which was re-operated laproscopically.",
+    "metadata": {
+      "document_id": "paper3",
+      "source": "paper3.json",
+      "chunk_index": 13,
+      "total_chunks": 16,
+      "docling": {
+        "schema_name": "docling_core.transforms.chunker.DocMeta",
+        "version": "1.0.0",
+        "doc_items": [
+          {
+            "self_ref": "#/texts/68",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 7,
+                "bbox": {
+                  "l": 68.3269812266032,
+                  "t": 629.2923482259115,
+                  "r": 288.81097412109375,
+                  "b": 545.9092814127604,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  267
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/69",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 7,
+                "bbox": {
+                  "l": 68.3269812266032,
+                  "t": 544.8024291992188,
+                  "r": 288.81097412109375,
+                  "b": 435.2237955729167,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  332
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/70",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 7,
+                "bbox": {
+                  "l": 68.68902397155762,
+                  "t": 432.6411539713542,
+                  "r": 289.17301432291663,
+                  "b": 294.65323893229174,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  431
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/71",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 7,
+                "bbox": {
+                  "l": 67.96493848164876,
+                  "t": 293.17744954427076,
+                  "r": 289.17301432291663,
+                  "b": 196.51212565104163,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  291
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/72",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 7,
+                "bbox": {
+                  "l": 68.68902397155762,
+                  "t": 195.4052734375,
+                  "r": 288.81097412109375,
+                  "b": 98.73990885416663,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  290
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/73",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 7,
+                "bbox": {
+                  "l": 69.05106671651204,
+                  "t": 97.26416015625,
+                  "r": 288.44891357421875,
+                  "b": 69.96175130208337,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  81
+                ]
+              },
+              {
+                "page_no": 7,
+                "bbox": {
+                  "l": 304.7408447265625,
+                  "t": 782.7762101491293,
+                  "r": 526.3109537760417,
+                  "b": 699.3931477864583,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  82,
+                  316
+                ]
+              }
+            ]
+          }
+        ],
+        "headings": [
+          "Discussion:"
+        ],
+        "origin": {
+          "mimetype": "application/pdf",
+          "binary_hash": 16155002568856138466,
+          "filename": "paper3"
+        }
+      }
+    }
+  },
+  {
+    "content": "The medical treatment of peptic ulcer is highly successful. In addition eradication of Helicobacter pylori reduces ulcer recurrence.\nThe non-operative treatment of perforated peptic ulcer was first described by Tylor in 1945. However this kind of treatment modality is suitable for younger patients, heamodynamically stable and the disease history less than twelve hours, therefore most surgeons treat perforated peptic ulcer surgically.\nLaparoscopy provides good visualization of the peritoneal cavity without necessity to do laparotomy for a relatively simple procedure.\nAccordingly we have switched our treatment to laparoscopic simple closure of the perforation site combined with fibrin glue patch.\nLaparoscopic suturing of perforated peptic ulcer combined with fibrin glue patch is associated with minimal postoperative pain, short duration of postoperative ileus, early resumption of normal diet, early discharge from hospital and early back to work and full activity.",
+    "metadata": {
+      "document_id": "paper3",
+      "source": "paper3.json",
+      "chunk_index": 14,
+      "total_chunks": 16,
+      "docling": {
+        "schema_name": "docling_core.transforms.chunker.DocMeta",
+        "version": "1.0.0",
+        "doc_items": [
+          {
+            "self_ref": "#/texts/75",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 7,
+                "bbox": {
+                  "l": 305.1028849283854,
+                  "t": 671.3528238932292,
+                  "r": 526.3109537760417,
+                  "b": 630.3992004394531,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  132
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/76",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 7,
+                "bbox": {
+                  "l": 304.3788045247396,
+                  "t": 628.9233907063802,
+                  "r": 525.5868733723958,
+                  "b": 532.258076985677,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  304
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/77",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 7,
+                "bbox": {
+                  "l": 306.18900553385413,
+                  "t": 531.1512247721355,
+                  "r": 525.2248128255208,
+                  "b": 490.56654866536456,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  134
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/78",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 7,
+                "bbox": {
+                  "l": 305.46492513020837,
+                  "t": 488.72178141276044,
+                  "r": 525.2248128255208,
+                  "b": 447.7681477864583,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  130
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/79",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 7,
+                "bbox": {
+                  "l": 304.7408447265625,
+                  "t": 446.6612955729167,
+                  "r": 525.5868733723958,
+                  "b": 349.2580973307292,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  271
+                ]
+              }
+            ]
+          }
+        ],
+        "headings": [
+          "Conclusion:"
+        ],
+        "origin": {
+          "mimetype": "application/pdf",
+          "binary_hash": 16155002568856138466,
+          "filename": "paper3"
+        }
+      }
+    }
+  },
+  {
+    "content": "- 1- S Lunca, N S Romedea, C Morosanu: Laparoscopic repair of perforated peptic ulcer. Jurnal ul de Chirurgie Iasi 2007, Vo1. 3, Nr. 2 [ISSN 1584-9341].\n- 2- Faisal A, John G, Jay A Y: Perforated peptic ulcer. e-Medicine General Surgery 2010; 1-19.\n- 3- Atta-ur-Rehman K, Muhammad Y, Qutbe A J, Wagma N, Muhammad I: Grahm's omentopexy in closure of perforated duodenal ulcer. J Med Sci (Peshawar, Print) 2010; 18(2): 87-90.\n- 4- Masao M, Motoharu N, Tsunekazu H, Satomi S, Toshiaki W: Laparoscopic omental patch repair for perforated peptic ulcer. Annals Of Surgery 1995; 221(3): 236-240.",
+    "metadata": {
+      "document_id": "paper3",
+      "source": "paper3.json",
+      "chunk_index": 15,
+      "total_chunks": 16,
+      "docling": {
+        "schema_name": "docling_core.transforms.chunker.DocMeta",
+        "version": "1.0.0",
+        "doc_items": [
+          {
+            "self_ref": "#/texts/81",
+            "parent": {
+              "$ref": "#/groups/1"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [
+              {
+                "page_no": 7,
+                "bbox": {
+                  "l": 305.46492513020837,
+                  "t": 321.2177734375,
+                  "r": 524.86279296875,
+                  "b": 266.6129150390625,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  150
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/82",
+            "parent": {
+              "$ref": "#/groups/1"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [
+              {
+                "page_no": 7,
+                "bbox": {
+                  "l": 304.7408447265625,
+                  "t": 265.875,
+                  "r": 525.2248128255208,
+                  "b": 224.92138671875,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  93
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/83",
+            "parent": {
+              "$ref": "#/groups/1"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [
+              {
+                "page_no": 7,
+                "bbox": {
+                  "l": 305.1028849283854,
+                  "t": 222.70768229166663,
+                  "r": 525.5868733723958,
+                  "b": 154.82059733072913,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  172
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/84",
+            "parent": {
+              "$ref": "#/groups/1"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [
+              {
+                "page_no": 7,
+                "bbox": {
+                  "l": 305.1028849283854,
+                  "t": 152.975830078125,
+                  "r": 525.2248128255208,
+                  "b": 85.08870442708337,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  162
+                ]
+              }
+            ]
+          }
+        ],
+        "headings": [
+          "References:"
+        ],
+        "origin": {
+          "mimetype": "application/pdf",
+          "binary_hash": 16155002568856138466,
+          "filename": "paper3"
+        }
+      }
+    }
+  },
+  {
+    "content": "- 5- Carbon RT: Evaluation of biodegradable fleece-bound sealing: History, material science, and clinical application. In: Scientific and clinical applications. Lewandrowski K-U, et al (Editors). Marcel Dekker Inc (Publisher); 2002; p.587-650.\n- 6- Schiele U, et al: Haemostatic preparations on the basis of collagen alone and as fixed combination with fibrin glue. Clin Mater 1992; 9: 169-177.\n- 7- Kulber DA, Hartunian S, Schiller D, Morgenstern L: The current spectrum of peptic ulcer disease in the older age groups. Ann Surg 1990; 56: 737.\n- 8- Wing T S, Heng T L: Laparoscopic repair for perforated peptic ulcer a randomized controlled trial. Annals of Surgery 2002; 235 (3): 313-319.\n- 9- Boey J, Wong J, Ong GB: A prospective study of operative risk factors in perforated duodenal ulcers. Ann Surg 1982; 195: 265269.\n- 10- Piero G, Roberto B, Diego F, Renzo L: Laparoscopic repair for perforated peptic ulcers with U-CLIP. World Journal of Emergency Surgery 2009; 1186: 17491792.",
+    "metadata": {
+      "document_id": "paper3",
+      "source": "paper3.json",
+      "chunk_index": 16,
+      "total_chunks": 16,
+      "docling": {
+        "schema_name": "docling_core.transforms.chunker.DocMeta",
+        "version": "1.0.0",
+        "doc_items": [
+          {
+            "self_ref": "#/texts/87",
+            "parent": {
+              "$ref": "#/groups/2"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [
+              {
+                "page_no": 8,
+                "bbox": {
+                  "l": 69.0,
+                  "t": 783.0,
+                  "r": 288.66666666666663,
+                  "b": 699.6666666666667,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  241
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/88",
+            "parent": {
+              "$ref": "#/groups/2"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [
+              {
+                "page_no": 8,
+                "bbox": {
+                  "l": 69.0,
+                  "t": 699.6666666666667,
+                  "r": 289.0,
+                  "b": 644.3333333333334,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  148
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/89",
+            "parent": {
+              "$ref": "#/groups/2"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [
+              {
+                "page_no": 8,
+                "bbox": {
+                  "l": 69.33333333333333,
+                  "t": 642.6666666666666,
+                  "r": 289.33333333333337,
+                  "b": 588.0,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  147
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/90",
+            "parent": {
+              "$ref": "#/groups/2"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [
+              {
+                "page_no": 8,
+                "bbox": {
+                  "l": 305.0,
+                  "t": 783.0,
+                  "r": 526.0,
+                  "b": 728.0,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  143
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/91",
+            "parent": {
+              "$ref": "#/groups/2"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [
+              {
+                "page_no": 8,
+                "bbox": {
+                  "l": 305.0,
+                  "t": 726.6666666666666,
+                  "r": 526.0,
+                  "b": 672.3333333333333,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  131
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/92",
+            "parent": {
+              "$ref": "#/groups/2"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [
+              {
+                "page_no": 8,
+                "bbox": {
+                  "l": 306.33333333333337,
+                  "t": 670.3333333333333,
+                  "r": 527.3333333333333,
+                  "b": 602.3333333333334,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  160
+                ]
+              }
+            ]
+          }
+        ],
+        "headings": [
+          "References:"
+        ],
+        "origin": {
+          "mimetype": "application/pdf",
+          "binary_hash": 16155002568856138466,
+          "filename": "paper3"
+        }
+      }
+    }
+  }
+]

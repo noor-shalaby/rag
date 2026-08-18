@@ -1,0 +1,3285 @@
+[
+  {
+    "content": "- a Department of General Surgery, Faculty of Medicine, Qena University, Qena, Egypt.\n- b Department  of  Diagnostic  and  Intervention  Radiology,Faculty  of  Medicine  ,  Qena  University,  Qena, Egypt.",
+    "metadata": {
+      "document_id": "paper35",
+      "source": "paper35.json",
+      "chunk_index": 1,
+      "total_chunks": 30,
+      "docling": {
+        "schema_name": "docling_core.transforms.chunker.DocMeta",
+        "version": "1.0.0",
+        "doc_items": [
+          {
+            "self_ref": "#/texts/3",
+            "parent": {
+              "$ref": "#/groups/0"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [
+              {
+                "page_no": 1,
+                "bbox": {
+                  "l": 49.56,
+                  "t": 642.2717200000001,
+                  "r": 467.938,
+                  "b": 630.124,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  83
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/4",
+            "parent": {
+              "$ref": "#/groups/0"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [
+              {
+                "page_no": 1,
+                "bbox": {
+                  "l": 49.56,
+                  "t": 628.47172,
+                  "r": 565.6479999999999,
+                  "b": 602.524,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  116
+                ]
+              }
+            ]
+          }
+        ],
+        "headings": [
+          "Ahmed Saada a , Makarios Moheb Sedky Dawood a* , Mohamed A. Omar a , Ahmed Alsabaqy Abdulwareth b"
+        ],
+        "origin": {
+          "mimetype": "application/pdf",
+          "binary_hash": 16028804749597198589,
+          "filename": "paper35"
+        }
+      }
+    }
+  },
+  {
+    "content": "Background :  Appendicular  abscess  represents  a  complex  manifestation  of  appendicitis,  traditionally managed  with  emergency  surgery  or  initial  conservative  treatment.  Minimally  invasive  percutaneous drainage combined with antibiotics has emerged as an alternative, potentially reducing morbidity.\nObjectives: This study aimed to compare clinical outcomes, postoperative recovery, and complications between surgical and percutaneous management of appendicular abscess.\nPatients  and  methods :  A  prospective  cohort  study  was  conducted  at  Qena  University  Hospitals  from August  2024  to  August  2025,  including  53  adults  with  radiologically  confirmed  appendicular  abscess. Patients  were  allocated  to  surgical  drainage  (n  =  31)  or  ultrasound-guided  percutaneous  drainage  with antibiotics (n = 22). Allocation was by surgical team and based on patient selection and predefined clinical and  radiological  criteria.  Preoperative  assessment  included  clinical  evaluation,  laboratory  tests,  and imaging.  Procedural  details,  drain  management,  hospital  stay,  time  to  oral  intake,  complications,  and readmissions were recorded.\nResults: The  median  patient  age  was  35(16-72)  years,  with  56.6%  male.  Percutaneous  drainage  was associated with significantly shorter operative time(100(55-160) vs. 15(7-45) min; p < 0.001), earlier drain removal(4(2-14) vs. 2(2-5) days; p=0.002), reduced hospital stay(5(3-17) vs. 3(2-7) days; p=0.002), and faster resumption of oral intake(4(4-6) vs. 24(24-48) h; p < 0.001). Postoperative complications, particularly wound-related events, were significantly lower in the percutaneous group(p < 0.001). Readmission rates were higher after percutaneous drainage(50%) for elective interval appendectomy.\nConclusion: Ultrasound-guided percutaneous drainage with antibiotics offers faster recovery and lower wound morbidity than surgical drainage for appendicular abscess, though some patients may still require interval appendectomy.\nKeywords: Appendicular abscess; Percutaneous drainage; Surgical drainage.\nDOI : 10.21608/SVUIJM.2025.421942.2277\n*Correspondence:\nmakariousmohp1996@gmail.com\nReceived\n: 16 August, 2025.\nRevised",
+    "metadata": {
+      "document_id": "paper35",
+      "source": "paper35.json",
+      "chunk_index": 2,
+      "total_chunks": 30,
+      "docling": {
+        "schema_name": "docling_core.transforms.chunker.DocMeta",
+        "version": "1.0.0",
+        "doc_items": [
+          {
+            "self_ref": "#/texts/6",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 1,
+                "bbox": {
+                  "l": 49.56,
+                  "t": 571.456,
+                  "r": 565.412,
+                  "b": 533.494,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  314
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/7",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 1,
+                "bbox": {
+                  "l": 49.56,
+                  "t": 530.0260000000001,
+                  "r": 565.3159999999997,
+                  "b": 505.894,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  170
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/8",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 1,
+                "bbox": {
+                  "l": 49.56,
+                  "t": 502.426,
+                  "r": 565.5879999999997,
+                  "b": 409.294,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  701
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/9",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 1,
+                "bbox": {
+                  "l": 49.56,
+                  "t": 405.82599999999996,
+                  "r": 565.636,
+                  "b": 326.474,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  615
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/10",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 1,
+                "bbox": {
+                  "l": 49.56,
+                  "t": 323.006,
+                  "r": 565.3759999999996,
+                  "b": 285.07399999999996,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  228
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/11",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 1,
+                "bbox": {
+                  "l": 40.56,
+                  "t": 281.606,
+                  "r": 420.0319999999999,
+                  "b": 271.274,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  73
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/12",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 1,
+                "bbox": {
+                  "l": 49.56,
+                  "t": 267.61400000000003,
+                  "r": 269.532,
+                  "b": 257.5205454545455,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  38
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/13",
+            "parent": {
+              "$ref": "#/groups/1"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 1,
+                "bbox": {
+                  "l": 49.56,
+                  "t": 253.81399999999996,
+                  "r": 146.26800000000003,
+                  "b": 243.72054545454546,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  16
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/14",
+            "parent": {
+              "$ref": "#/groups/1"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 1,
+                "bbox": {
+                  "l": 146.3,
+                  "t": 255.41971999999998,
+                  "r": 316.28,
+                  "b": 243.33128,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  27
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/15",
+            "parent": {
+              "$ref": "#/groups/1"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 1,
+                "bbox": {
+                  "l": 49.56,
+                  "t": 240.014,
+                  "r": 98.49600000000001,
+                  "b": 229.9205454545454,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  8
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/16",
+            "parent": {
+              "$ref": "#/groups/1"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 1,
+                "bbox": {
+                  "l": 98.544,
+                  "t": 240.20600000000002,
+                  "r": 186.86,
+                  "b": 229.87400000000002,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  18
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/17",
+            "parent": {
+              "$ref": "#/groups/1"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 1,
+                "bbox": {
+                  "l": 49.56,
+                  "t": 226.21399999999994,
+                  "r": 92.48400000000001,
+                  "b": 216.12054545454544,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  7
+                ]
+              }
+            ]
+          }
+        ],
+        "headings": [
+          "Abstract"
+        ],
+        "origin": {
+          "mimetype": "application/pdf",
+          "binary_hash": 16028804749597198589,
+          "filename": "paper35"
+        }
+      }
+    }
+  },
+  {
+    "content": ": 16 September, 2025.\nAccepted\n: 30 September, 2025.\nPublished : 8 March, 2026.\nCite this  article  Ahmed  Saada,  Makarios  Moheb  Sedky  Dawood,  Mohamed A.  Omar, Ahmed Alsabaqy Abdulwareth(2026) The Surgical Versus Non-Surgical Management of The Appendicular Abscess: A Prospective Cohort Study. SVU-International Journal of Medical Sciences. V ol.9, Issue 1, pp: 629- 639.\nCopyright: © Saada (2026) Immediate open access to its content on the principle that making research freely available to the public supports a greater global exchange of knowledge. Users have the right to Read, download, copy, distribute, print or share link to the full texts under a Creative Commons BY-NC-SA 4.0 International License.",
+    "metadata": {
+      "document_id": "paper35",
+      "source": "paper35.json",
+      "chunk_index": 3,
+      "total_chunks": 30,
+      "docling": {
+        "schema_name": "docling_core.transforms.chunker.DocMeta",
+        "version": "1.0.0",
+        "doc_items": [
+          {
+            "self_ref": "#/texts/18",
+            "parent": {
+              "$ref": "#/groups/1"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 1,
+                "bbox": {
+                  "l": 92.544,
+                  "t": 226.40599999999995,
+                  "r": 197.768,
+                  "b": 216.07400000000007,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  21
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/19",
+            "parent": {
+              "$ref": "#/groups/1"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 1,
+                "bbox": {
+                  "l": 49.56,
+                  "t": 212.414,
+                  "r": 96.768,
+                  "b": 202.32054545454548,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  8
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/20",
+            "parent": {
+              "$ref": "#/groups/1"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 1,
+                "bbox": {
+                  "l": 96.864,
+                  "t": 212.606,
+                  "r": 205.1,
+                  "b": 202.274,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  21
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/21",
+            "parent": {
+              "$ref": "#/groups/1"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 1,
+                "bbox": {
+                  "l": 49.56,
+                  "t": 198.77600000000007,
+                  "r": 182.9,
+                  "b": 188.44399999999996,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  26
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/22",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 1,
+                "bbox": {
+                  "l": 49.56,
+                  "t": 184.976,
+                  "r": 565.6119999999999,
+                  "b": 144.88109090909097,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  297
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/23",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 1,
+                "bbox": {
+                  "l": 52.44,
+                  "t": 133.00292000000002,
+                  "r": 568.3628000000003,
+                  "b": 101.70535272727273,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  337
+                ]
+              }
+            ]
+          }
+        ],
+        "headings": [
+          "Abstract"
+        ],
+        "origin": {
+          "mimetype": "application/pdf",
+          "binary_hash": 16028804749597198589,
+          "filename": "paper35"
+        }
+      }
+    }
+  },
+  {
+    "content": "Appendicitis is a leading cause of acute abdominal pain requiring surgical intervention (Brown et al., 2012;  Das  et  al.,  2019). In  2 -7%  of  cases, appendicitis presents with more complex manifestations, including abscess or inflammatory mass formation (Lind, 2019).\nEmergency surgical intervention in these patients is  often  avoided  due  to  increased  risks,  such  as widespread intra-abdominal inflammation, intestinal  adhesions,  postoperative  sepsis,  and delayed wound healing (Thomson et al., 2015). Consequently, several authors have recommended initial conservative management, including ultrasound-guided percutaneous drainage combined  with  antibiotic  therapy,  followed  by interval appendectomy when indicated (Habib et al., 2018) . Evidence suggests that the recurrence rate  after  successful  conservative  treatment  is approximately 7%, indicating that interval appendectomy  may  not  be  routinely  required (Darwazeh et al., 2016).\nThis  study  was  conducted  to  compare  clinical outcomes,  postoperative  morbidity,  and  hospital stay in patients managed with emergency surgery versus  those  treated  with  percutaneous  drainage for appendicular abscess.",
+    "metadata": {
+      "document_id": "paper35",
+      "source": "paper35.json",
+      "chunk_index": 4,
+      "total_chunks": 30,
+      "docling": {
+        "schema_name": "docling_core.transforms.chunker.DocMeta",
+        "version": "1.0.0",
+        "doc_items": [
+          {
+            "self_ref": "#/texts/27",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 2,
+                "bbox": {
+                  "l": 49.56,
+                  "t": 723.2760000000001,
+                  "r": 291.1459999999999,
+                  "b": 643.9240000000001,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  272
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/28",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 2,
+                "bbox": {
+                  "l": 49.56,
+                  "t": 640.456,
+                  "r": 291.1700000000001,
+                  "b": 436.9405454545455,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  693
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/29",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 2,
+                "bbox": {
+                  "l": 49.56,
+                  "t": 433.426,
+                  "r": 291.024,
+                  "b": 367.894,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  229
+                ]
+              }
+            ]
+          }
+        ],
+        "headings": [
+          "Introduction"
+        ],
+        "origin": {
+          "mimetype": "application/pdf",
+          "binary_hash": 16028804749597198589,
+          "filename": "paper35"
+        }
+      }
+    }
+  },
+  {
+    "content": "This was a prospective cohort study conducted to compare  surgical  and  non-surgical  management of appendicular abscesses. The study was performed at Qena University Hospitals, encompassing  both the General Surgery and Radiology  Departments.  Patients  were  recruited from  the  hospital's  emergency  room  between August 1, 2024, and August 1, 2025.",
+    "metadata": {
+      "document_id": "paper35",
+      "source": "paper35.json",
+      "chunk_index": 5,
+      "total_chunks": 30,
+      "docling": {
+        "schema_name": "docling_core.transforms.chunker.DocMeta",
+        "version": "1.0.0",
+        "doc_items": [
+          {
+            "self_ref": "#/texts/31",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 2,
+                "bbox": {
+                  "l": 49.56,
+                  "t": 336.806,
+                  "r": 291.15799999999996,
+                  "b": 229.87400000000002,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  356
+                ]
+              }
+            ]
+          }
+        ],
+        "headings": [
+          "Patients and methods Study Design"
+        ],
+        "origin": {
+          "mimetype": "application/pdf",
+          "binary_hash": 16028804749597198589,
+          "filename": "paper35"
+        }
+      }
+    }
+  },
+  {
+    "content": "Patients  were  eligible  for  inclusion  if  they  were adults presenting with a clinically and radiologically confirmed  appendicular abscess and able to provide informed consent. Suitability for either surgical drainage or ultrasound-guided percutaneous  drainage  was  determined  by  the treating surgical team based on patient selection and predefined clinical  and radiological criteria, including abscess size, location, complexity (e.g., multiloculated collections), presence of generalized peritonitis, patient comorbidities, and overall operative risk.\nPatients  were  excluded  if  suspected  of  having underlying ileocecal disease or malignancy, had contraindications to anesthesia or antibiotic therapy, or if they declined to provide informed consent. Also, the immunocompromised patients and patients on cortisone or on immunosuppressive  drugs  were  excluded  from the study.",
+    "metadata": {
+      "document_id": "paper35",
+      "source": "paper35.json",
+      "chunk_index": 6,
+      "total_chunks": 30,
+      "docling": {
+        "schema_name": "docling_core.transforms.chunker.DocMeta",
+        "version": "1.0.0",
+        "doc_items": [
+          {
+            "self_ref": "#/texts/33",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 2,
+                "bbox": {
+                  "l": 49.56,
+                  "t": 212.606,
+                  "r": 291.15799999999996,
+                  "b": 50.44799999999998,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  563
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/34",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 2,
+                "bbox": {
+                  "l": 324.05,
+                  "t": 723.2760000000001,
+                  "r": 565.66,
+                  "b": 616.3240000000001,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  330
+                ]
+              }
+            ]
+          }
+        ],
+        "headings": [
+          "Inclusion Criteria"
+        ],
+        "origin": {
+          "mimetype": "application/pdf",
+          "binary_hash": 16028804749597198589,
+          "filename": "paper35"
+        }
+      }
+    }
+  },
+  {
+    "content": "All participants underwent a detailed preoperative assessment.  Patient  history  included  symptom onset,  duration,  and  prior  medical  or  surgical conditions. Comprehensive physical examination assessed  vital  signs,  abdominal  tenderness,  and signs of localized or systemic infection. Laboratory investigations included complete blood count (CBC), random blood glucose, renal function tests (blood urea and creatinine), coagulation profile (prothrombin time and concentration),  CRP,  electrolytes,  and  screening for  infectious  diseases  (HBsAg,  anti-HCV,  HIV antibody).\nDiagnostic imaging included erect abdominal Xrays to rule out perforation or obstruction, ultrasonography to confirm abscess size and location,  and  CT  scans  in  selected  cases  for detailed evaluation.",
+    "metadata": {
+      "document_id": "paper35",
+      "source": "paper35.json",
+      "chunk_index": 7,
+      "total_chunks": 30,
+      "docling": {
+        "schema_name": "docling_core.transforms.chunker.DocMeta",
+        "version": "1.0.0",
+        "doc_items": [
+          {
+            "self_ref": "#/texts/36",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 2,
+                "bbox": {
+                  "l": 324.05,
+                  "t": 599.056,
+                  "r": 565.636,
+                  "b": 423.094,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  586
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/37",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 2,
+                "bbox": {
+                  "l": 324.05,
+                  "t": 419.626,
+                  "r": 565.5139999999998,
+                  "b": 354.07399999999996,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  206
+                ]
+              }
+            ]
+          }
+        ],
+        "headings": [
+          "Preoperative Assessment"
+        ],
+        "origin": {
+          "mimetype": "application/pdf",
+          "binary_hash": 16028804749597198589,
+          "filename": "paper35"
+        }
+      }
+    }
+  },
+  {
+    "content": "Patients were allocated into two groups based on treatment modality: Group A underwent surgical drainage,  and  Group  B  received  percutaneous drainage with interventional radiology and antibiotics. Patients were allocated to either group with the process standardized in the study protocol to ensure consistency and minimize selection bias.\nSurgical Drainage (Group A): Surgical procedures were performed under general anesthesia  via  a  McBurney  or  right  paramedian incision.  The  abscess  was  evacuated,  the  cavity lavaged,  and  an  appendectomy  performed  when feasible. Drains (20 French) were inserted, anchored, and wounds closed. Daily drain output, wound  inspection,  and  dressing  changes  using povidone-iodine were recorded until discharge.\nPercutaneous Drainage (Group B): Under local anesthesia with lignocaine hydrochloride, the abscess  was  punctured  using  an  18-G  needle",
+    "metadata": {
+      "document_id": "paper35",
+      "source": "paper35.json",
+      "chunk_index": 8,
+      "total_chunks": 30,
+      "docling": {
+        "schema_name": "docling_core.transforms.chunker.DocMeta",
+        "version": "1.0.0",
+        "doc_items": [
+          {
+            "self_ref": "#/texts/39",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 2,
+                "bbox": {
+                  "l": 324.05,
+                  "t": 336.806,
+                  "r": 565.66,
+                  "b": 243.67399999999998,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  343
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/40",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 2,
+                "bbox": {
+                  "l": 324.05,
+                  "t": 212.606,
+                  "r": 565.636,
+                  "b": 91.84799999999996,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  422
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/41",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 2,
+                "bbox": {
+                  "l": 324.05,
+                  "t": 88.38,
+                  "r": 565.6359999999999,
+                  "b": 50.44799999999998,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  139
+                ]
+              }
+            ]
+          }
+        ],
+        "headings": [
+          "Patient Allocation and Management"
+        ],
+        "origin": {
+          "mimetype": "application/pdf",
+          "binary_hash": 16028804749597198589,
+          "filename": "paper35"
+        }
+      }
+    }
+  },
+  {
+    "content": "under ultrasound guidance. Pus was aspirated for culture and sensitivity, followed by insertion of a pigtail  catheter  (up  to  12  French)  using  wireguided placement. The catheter was secured to the skin  and  connected  to  an  evacuation  bag.  Daily saline washouts with metronidazole were performed,  and  drainage  output  was  monitored",
+    "metadata": {
+      "document_id": "paper35",
+      "source": "paper35.json",
+      "chunk_index": 9,
+      "total_chunks": 30,
+      "docling": {
+        "schema_name": "docling_core.transforms.chunker.DocMeta",
+        "version": "1.0.0",
+        "doc_items": [
+          {
+            "self_ref": "#/texts/44",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 3,
+                "bbox": {
+                  "l": 49.56,
+                  "t": 737.076,
+                  "r": 291.146,
+                  "b": 643.9240000000001,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  346
+                ]
+              }
+            ]
+          }
+        ],
+        "headings": [
+          "Saada et al (2026)                                                    SVU-IJMS 9(1), 629 -639"
+        ],
+        "origin": {
+          "mimetype": "application/pdf",
+          "binary_hash": 16028804749597198589,
+          "filename": "paper35"
+        }
+      }
+    }
+  },
+  {
+    "content": "Postoperative care included monitoring the length of hospital stay, time to symptom resolution, and tolerance of oral feeding. Patients were assessed daily  for  fever,  leukocytosis,  and  drain  output. Ultrasound  evaluations  were  performed  every other  day  or  as  indicated.  Criteria  for  operative drain or catheter removal included minimal output (<5  ml  serous  fluid  for  three  consecutive  days) and ultrasound confirmation of complete abscess evacuation.",
+    "metadata": {
+      "document_id": "paper35",
+      "source": "paper35.json",
+      "chunk_index": 10,
+      "total_chunks": 30,
+      "docling": {
+        "schema_name": "docling_core.transforms.chunker.DocMeta",
+        "version": "1.0.0",
+        "doc_items": [
+          {
+            "self_ref": "#/texts/47",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 3,
+                "bbox": {
+                  "l": 49.56,
+                  "t": 612.856,
+                  "r": 291.158,
+                  "b": 478.294,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  474
+                ]
+              }
+            ]
+          }
+        ],
+        "headings": [
+          "Postoperative and Follow-Up"
+        ],
+        "origin": {
+          "mimetype": "application/pdf",
+          "binary_hash": 16028804749597198589,
+          "filename": "paper35"
+        }
+      }
+    }
+  },
+  {
+    "content": "This study was approved by the Ethics Committee of the Faculty of Medicine, South Valley University, under ethical code ( SVU-MEDSUR011-1-24-9-937) . Written  informed  consent was  obtained  from  all  participants.  The  study conformed to the ethical standards of the Declaration of Helsinki and ensured confidentiality,  voluntary  participation,  and  the right to withdraw at any point.\nFig  1.  A-the  Ultrasound  Image  Showing  Appendicular  abscess  of  female  patient  24  Years  old B-the  3D  Ct  image  Showing  the  12  French  Pig  tail  inserted  in  the  right  iliac  fossa  cavity C-  Ct  with  contrast  image  showing Appendicular Abscess  drainage after  drainage  by  pigtail  and antibiotics coverage. D- Ct axial image showing appendicular abscess drinagr after drainage by pigtail and antibiotics coverage.",
+    "metadata": {
+      "document_id": "paper35",
+      "source": "paper35.json",
+      "chunk_index": 11,
+      "total_chunks": 30,
+      "docling": {
+        "schema_name": "docling_core.transforms.chunker.DocMeta",
+        "version": "1.0.0",
+        "doc_items": [
+          {
+            "self_ref": "#/texts/49",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 3,
+                "bbox": {
+                  "l": 49.56,
+                  "t": 461.02599999999995,
+                  "r": 291.03600000000006,
+                  "b": 436.894,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  88
+                ]
+              },
+              {
+                "page_no": 3,
+                "bbox": {
+                  "l": 324.05,
+                  "t": 737.076,
+                  "r": 565.5939999999999,
+                  "b": 643.9240000000001,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  89,
+                  392
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/50",
+            "parent": {
+              "$ref": "#/pictures/0"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "caption",
+            "prov": [
+              {
+                "page_no": 3,
+                "bbox": {
+                  "l": 49.56,
+                  "t": 143.74400000000003,
+                  "r": 568.66,
+                  "b": 78.4545454545455,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  441
+                ]
+              }
+            ]
+          }
+        ],
+        "headings": [
+          "Ethical consideration"
+        ],
+        "origin": {
+          "mimetype": "application/pdf",
+          "binary_hash": 16028804749597198589,
+          "filename": "paper35"
+        }
+      }
+    }
+  },
+  {
+    "content": "Data analysis was performed using SPSS version 26. Continuous variables are presented as median (range) and tested for normality using the Shapiro -Wilk  test.  Comparisons  of  continuous variables were conducted using the  Mann -Whitney U test. Categorical variables are expressed  as  frequencies  and  percentages,  with group comparisons made using the Chi-square or Fisher's  exact  test  as  appropriate.  A  p -value  < 0.05 was considered statistically significant.\nFig 2. A- CT images of a patient with appendicular abscess the two above images showing the abscess before the drainage by insertion of the pigtail tube. B- CT images showing Complete drainage of the abscess  after  insertion  of  the  pigtail  tube  (12  French)  as  showing  in  axial  image  under  complete coverage of antibiotics after 5 day.",
+    "metadata": {
+      "document_id": "paper35",
+      "source": "paper35.json",
+      "chunk_index": 12,
+      "total_chunks": 30,
+      "docling": {
+        "schema_name": "docling_core.transforms.chunker.DocMeta",
+        "version": "1.0.0",
+        "doc_items": [
+          {
+            "self_ref": "#/texts/61",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 3,
+                "bbox": {
+                  "l": 324.05,
+                  "t": 599.056,
+                  "r": 565.66,
+                  "b": 464.49399999999997,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  474
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/63",
+            "parent": {
+              "$ref": "#/pictures/1"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "caption",
+            "prov": [
+              {
+                "page_no": 4,
+                "bbox": {
+                  "l": 49.56,
+                  "t": 450.874,
+                  "r": 565.66,
+                  "b": 399.3805454545455,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  348
+                ]
+              }
+            ]
+          }
+        ],
+        "headings": [
+          "Statistical analysis"
+        ],
+        "origin": {
+          "mimetype": "application/pdf",
+          "binary_hash": 16028804749597198589,
+          "filename": "paper35"
+        }
+      }
+    }
+  },
+  {
+    "content": "A total of 53 patients with appendicular abscess were included, with a median age of 35 (16 - 72) years; 30 (56.6%) were male and 23 (43.4%) were female.  At  admission,  systolic  (120  (90  -  150) mmHg) and diastolic (80 (60 - 100) mmHg) blood pressures were within the normal range. Respiratory rate was slightly elevated at 21 (17 26) cycles/min, whereas oxygen saturation remained  normal  (0.97  (0.94  -  0.99)  %).  The median temperature was mildly elevated at 38.1 (37.5 - 40) °C, with a corresponding increase in heart  rate  (96  (78  -  120)  bpm).  The  median duration of pain before admission was 5 (3 - 20) days. Laboratory findings showed marked leucocytosis  (12700  (4300  -  50000)/ μL),  with neutrophilia  (82  (67.3  -  96)  %)  and  relative lymphopenia  (14.6  (2.5  -  25)  %),  yielding  an elevated neutrophil-to-lymphocyte ratio (5.5 (3 38.4)).  Haemoglobin  (12.4  (10.7  -  14.1)  g/dL), renal  function  tests  (blood  urea  30  (15  -  43) mg/dL; serum creatinine 0.9 (0.3 - 1.3) mg/dL), and electrolytes (sodium 135 (122 - 144) mEq/L) were within normal limits, although serum albumin was mildly reduced (3.5 (2 - 4.6) g/dL). Inflammatory  markers  were  markedly  elevated, including ESR at 119 (50 - 200) mm/hr (first hour) and 65 (30 - 90) mm/hr (second hour), C-reactive protein at 150 (48 - 384) mg/L, and CRP/albumin ratio at 42.8 (10.4 - 97.1) The mean abscess size was 4.5 ± 1.4 cm with range (2 -10). (Table 1). Appendectomy  was  performed  in  all  patients managed surgically (31  [100%]) compared with 13  (59%)  in  the  percutaneous  group  (p  <",
+    "metadata": {
+      "document_id": "paper35",
+      "source": "paper35.json",
+      "chunk_index": 13,
+      "total_chunks": 30,
+      "docling": {
+        "schema_name": "docling_core.transforms.chunker.DocMeta",
+        "version": "1.0.0",
+        "doc_items": [
+          {
+            "self_ref": "#/texts/75",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 4,
+                "bbox": {
+                  "l": 49.56,
+                  "t": 371.96599999999995,
+                  "r": 291.20599999999996,
+                  "b": 58.12800000000004,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  1112
+                ]
+              },
+              {
+                "page_no": 4,
+                "bbox": {
+                  "l": 324.05,
+                  "t": 385.786,
+                  "r": 565.6479999999999,
+                  "b": 237.60054545454545,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  1113,
+                  1613
+                ]
+              }
+            ]
+          }
+        ],
+        "headings": [
+          "Results"
+        ],
+        "origin": {
+          "mimetype": "application/pdf",
+          "binary_hash": 16028804749597198589,
+          "filename": "paper35"
+        }
+      }
+    }
+  },
+  {
+    "content": ".001) (Fig 3).\nOperative  time  was  substantially  longer  in  the surgical  group  (100  (55  -  160)  min)  than  in  the percutaneous group (15 (7 - 45) min; p < .001). Drain  type  differed  significantly  by  treatment modality: all surgical patients received an open 20 French drain, whereas all percutaneous cases were managed  with  a  12  French  pigtail  catheter  (p < .001). Median daily drain output was higher in the percutaneous group (140 (10 - 250) mL/day) than in the surgical group (90 (60 - 200) mL/day; p < .001). Drains were removed earlier following percutaneous drainage (2 (2 - 5) days) compared",
+    "metadata": {
+      "document_id": "paper35",
+      "source": "paper35.json",
+      "chunk_index": 14,
+      "total_chunks": 30,
+      "docling": {
+        "schema_name": "docling_core.transforms.chunker.DocMeta",
+        "version": "1.0.0",
+        "doc_items": [
+          {
+            "self_ref": "#/texts/75",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 4,
+                "bbox": {
+                  "l": 49.56,
+                  "t": 371.96599999999995,
+                  "r": 291.20599999999996,
+                  "b": 58.12800000000004,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  1112
+                ]
+              },
+              {
+                "page_no": 4,
+                "bbox": {
+                  "l": 324.05,
+                  "t": 385.786,
+                  "r": 565.6479999999999,
+                  "b": 237.60054545454545,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  1113,
+                  1613
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/76",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 4,
+                "bbox": {
+                  "l": 324.05,
+                  "t": 234.086,
+                  "r": 565.66,
+                  "b": 71.928,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  606
+                ]
+              }
+            ]
+          }
+        ],
+        "headings": [
+          "Results"
+        ],
+        "origin": {
+          "mimetype": "application/pdf",
+          "binary_hash": 16028804749597198589,
+          "filename": "paper35"
+        }
+      }
+    }
+  },
+  {
+    "content": "with surgical management (4 (2 - 14) days; p = 0.002) (Table 2) .\nClinical recovery favored percutaneous drainage. Hospital  stay  was  shorter  in  the  percutaneous group (3 (2 - 7) days) compared with the surgical group (5 (3 - 17) days; p = 0.002). Oral feeding was resumed markedly earlier after percutaneous management (4 (4 - 6) h) than after surgery (24 (24  -  48)  h;  p  <  .001).  Fever  resolved  in  most patients,  with  no  significant  difference  between groups (100.0% vs 90.3%; p = 0.133), although duration of fever was longer after surgery (3 (2 3) vs 2 (1 - 2) days; p < .001). (Table 3) .\nPostoperative complications were more frequent after surgery. Ileus occurred in 2 (6.5%) surgical patients, managed conservatively, but was absent in the percutaneous group (p = 0.505). Residual collections were significantly more  common following surgery (13 [41.9%]) than percutaneous drainage (4 [18.2%]; p < 0.001). In the surgical group,  7  patients  were  managed  conservatively with  antibiotics,  4  patients  required  ultrasoundguided aspiration, and 2 patients underwent pigtail insertion.  In  the  percutaneous  group,  2  patients required  reinsertion  of  a  pigtail  catheter,  and  2",
+    "metadata": {
+      "document_id": "paper35",
+      "source": "paper35.json",
+      "chunk_index": 15,
+      "total_chunks": 30,
+      "docling": {
+        "schema_name": "docling_core.transforms.chunker.DocMeta",
+        "version": "1.0.0",
+        "doc_items": [
+          {
+            "self_ref": "#/texts/79",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 5,
+                "bbox": {
+                  "l": 49.56,
+                  "t": 737.076,
+                  "r": 291.13399999999996,
+                  "b": 712.9440000000001,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  65
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/80",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 5,
+                "bbox": {
+                  "l": 49.56,
+                  "t": 709.456,
+                  "r": 291.17,
+                  "b": 561.124,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  546
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/81",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 5,
+                "bbox": {
+                  "l": 49.56,
+                  "t": 557.6560000000001,
+                  "r": 291.146,
+                  "b": 395.49399999999997,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  604
+                ]
+              }
+            ]
+          }
+        ],
+        "headings": [
+          "Saada et al (2026)                                                    SVU-IJMS 9(1), 629 -639"
+        ],
+        "origin": {
+          "mimetype": "application/pdf",
+          "binary_hash": 16028804749597198589,
+          "filename": "paper35"
+        }
+      }
+    }
+  },
+  {
+    "content": "underwent conversion to open surgery after failed drainage. Wound complications occurred exclusively in the surgical group, including wound infection (7 [22.6%]) managed with dressings  and  antibiotics,  and  wound  burst  with infection (5 [16.1%]) requiring surgical debridement and closure (p < 0.001) (Table 4) . Readmission rates also differed significantly (p < 0.001).  No  readmission  occurred  in  25  (80.6%) surgical patients versus 11 (50.0%) in the percutaneous group. Elective appendectomy was the main cause of readmission after percutaneous drainage (11 [50.0%]), while wound-related surgical  closure  (5  [16.1%])  and  conservative management  with CT  evaluation (1 [3.2%]) occurred only after surgery (Table 5) .\nIn patients managed conservatively, the possibility of misdiagnosing an underlying ileocecal pathology exists. Therefore, routine follow-up after resolution of the acute inflammatory  process  was  mandatory,  typically with computed tomography (CT) imaging, and in some cases, colonoscopy was warranted.\nTable 1.  Demographic, Clinical, and Laboratory Characteristics of the Sample (N = 53)\n\nAge (years), Median = 35 (16 - 72). Sex, Median = . Male, Median = 30 (56.6%). Female, Median = 23 (43.4%). Patient characteristics at admission, Median = . Systolic BP (mmHg), Median = 120 (90 - 150). Diastolic BP (mmHg), Median = 80 (60 - 100). Respiratory rate (cycles/min), Median = 21 (17 - 26). Oxygen saturation (%), Median = 0.97 (0.94 - 0.99). Temperature (°C), Median = 38.1 (37.5 - 40). Heart Rate (bpm), Median = 96 (78 - 120). Duration of Pain (days), Median = 5 (3 - 20)",
+    "metadata": {
+      "document_id": "paper35",
+      "source": "paper35.json",
+      "chunk_index": 16,
+      "total_chunks": 30,
+      "docling": {
+        "schema_name": "docling_core.transforms.chunker.DocMeta",
+        "version": "1.0.0",
+        "doc_items": [
+          {
+            "self_ref": "#/texts/82",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 5,
+                "bbox": {
+                  "l": 324.05,
+                  "t": 737.076,
+                  "r": 565.684,
+                  "b": 519.6940000000001,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  735
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/83",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 5,
+                "bbox": {
+                  "l": 324.05,
+                  "t": 516.226,
+                  "r": 565.636,
+                  "b": 423.094,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  304
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/84",
+            "parent": {
+              "$ref": "#/tables/0"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "caption",
+            "prov": [
+              {
+                "page_no": 5,
+                "bbox": {
+                  "l": 81.624,
+                  "t": 378.03400000000005,
+                  "r": 530.2159999999998,
+                  "b": 367.9405454545455,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  86
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/tables/0",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [
+              {
+                "$ref": "#/texts/84"
+              }
+            ],
+            "content_layer": "body",
+            "label": "table",
+            "prov": [
+              {
+                "page_no": 5,
+                "bbox": {
+                  "l": 48.19916534423828,
+                  "t": 367.3466491699219,
+                  "r": 563.8584594726562,
+                  "b": 70.1082763671875,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  0
+                ]
+              }
+            ]
+          }
+        ],
+        "headings": [
+          "Saada et al (2026)                                                    SVU-IJMS 9(1), 629 -639"
+        ],
+        "origin": {
+          "mimetype": "application/pdf",
+          "binary_hash": 16028804749597198589,
+          "filename": "paper35"
+        }
+      }
+    }
+  },
+  {
+    "content": "Fig 3. Female patient 24 years old with appendicular abscess managed with surgery A- Right paramedian incision under general anesthesia with pus drainage followed by peritoneal Lavage B-Perforated Appendix Found after drainage of pus and lavage. C- the tear (defect) in the Middle of appendicular wall. D-Appendix itself after appendectomy with Syringe contain pus from abscess cavity for culture and sensitivity.\n\nLaboratory investigations, 1 = . Leukocytic count (cells/μL), 1 = 12700 (4300 - 50000). Hemoglobin (g/dL), 1 = 12.4 (10.7 - 14.1). Lymphocytes (%), 1 = 14.6 (2.5 - 25). Neutrophils (%), 1 = 82 (67.3 - 96). Neutrophil/Lymphocyte ratio, 1 = 5.5 (3 - 38.4). Random Blood Glucose (mg/dL), 1 = 135 (98 - 220). Blood Urea (mg/dL), 1 = 30 (15 - 43). Serum Creatinine (mg/dL), 1 = 0.9 (0.3 - 1.3). Sodium (mEq/L), 1 = 135 (122 - 144). Serum Albumin (g/dL), 1 = 3.5 (2 - 4.6). Inflammatory markers, 1 = . Erythrocyte Sedimentation Rate, 1st hr (mm/hr), 1 = 119 (50 - 200). Erythrocyte Sedimentation Rate, 2nd hr (mm/hr), 1 = 65 (30 - 90). C-Reactive Protein (mg/L), 1 = 150 (48 - 384). CRP/Albumin ratio, 1 = 42.8 (10.4 - 97.1). Abscess Size (cm) mean ± SD, 1 = 4.5 ± 1.4. Range, 1 = 2.0 - 10.0\n\nTable (2). Comparison of Procedural Details Outcomes by Drainage Method",
+    "metadata": {
+      "document_id": "paper35",
+      "source": "paper35.json",
+      "chunk_index": 17,
+      "total_chunks": 30,
+      "docling": {
+        "schema_name": "docling_core.transforms.chunker.DocMeta",
+        "version": "1.0.0",
+        "doc_items": [
+          {
+            "self_ref": "#/texts/87",
+            "parent": {
+              "$ref": "#/tables/1"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "caption",
+            "prov": [
+              {
+                "page_no": 6,
+                "bbox": {
+                  "l": 49.56,
+                  "t": 135.46399999999994,
+                  "r": 565.5339999999998,
+                  "b": 70.17454545454552,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  413
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/tables/1",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [
+              {
+                "$ref": "#/texts/87"
+              }
+            ],
+            "content_layer": "body",
+            "label": "table",
+            "prov": [
+              {
+                "page_no": 6,
+                "bbox": {
+                  "l": 48.7289924621582,
+                  "t": 740.5584526062012,
+                  "r": 563.7973022460938,
+                  "b": 330.8609313964844,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  0
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/103",
+            "parent": {
+              "$ref": "#/tables/2"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "caption",
+            "prov": [
+              {
+                "page_no": 7,
+                "bbox": {
+                  "l": 110.78,
+                  "t": 723.0840000000001,
+                  "r": 504.46,
+                  "b": 712.9905454545454,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  71
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/tables/2",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [
+              {
+                "$ref": "#/texts/103"
+              }
+            ],
+            "content_layer": "body",
+            "label": "table",
+            "prov": [
+              {
+                "page_no": 7,
+                "bbox": {
+                  "l": 46.902957916259766,
+                  "t": 712.4218292236328,
+                  "r": 565.3737182617188,
+                  "b": 518.1851501464844,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  0
+                ]
+              }
+            ]
+          }
+        ],
+        "headings": [
+          "Saada et al (2026)                                                    SVU-IJMS 9(1), 629 -639"
+        ],
+        "origin": {
+          "mimetype": "application/pdf",
+          "binary_hash": 16028804749597198589,
+          "filename": "paper35"
+        }
+      }
+    }
+  },
+  {
+    "content": "Appendectomy Performed, Percutaneous (n=22) = 13 (59%). Appendectomy Performed, Surgical (n=31) = 31 (100.0%). Appendectomy Performed, Total (N=53) = 43 (81.1%). Appendectomy Performed, p value = < .001. Operative Time (min), Percutaneous (n=22) = 15 (7 - 45). Operative Time (min), Surgical (n=31) = 100 (55 - 160). Operative Time (min), Total (N=53) = 75 (7 - 160). Operative Time (min), p value = < .001. Drain Type, Percutaneous (n=22) = . Drain Type, Surgical (n=31) = . Drain Type, Total (N=53) = . Drain Type, p value = . Open (20 French), Percutaneous (n=22) = 0 (0.0%). Open (20 French), Surgical (n=31) = 31 (100.0%). Open (20 French), Total (N=53) = 31 (58.5%). Open (20 French), p value = < .001. 12 French Pig Tail, Percutaneous (n=22) = 22 (100.0%). 12 French Pig Tail, Surgical (n=31) = 0 (0.0%). 12 French Pig Tail, Total (N=53) = 22 (41.5%). 12 French Pig Tail, p value = . Drain Output (mL/day), Percutaneous (n=22) = 140 (10 - 250). Drain Output (mL/day), Surgical (n=31) = 90 (60 - 200). Drain Output (mL/day), Total (N=53) = 110 (10 - 250). Drain Output (mL/day), p value = < .001. Drain Removal (days), Percutaneous (n=22) = 2 (2 - 5). Drain Removal (days), Surgical (n=31) = 4 (2 - 14). Drain Removal (days), Total (N=53) = 3 (2 - 14). Drain Removal (days), p value = 0.002",
+    "metadata": {
+      "document_id": "paper35",
+      "source": "paper35.json",
+      "chunk_index": 18,
+      "total_chunks": 30,
+      "docling": {
+        "schema_name": "docling_core.transforms.chunker.DocMeta",
+        "version": "1.0.0",
+        "doc_items": [
+          {
+            "self_ref": "#/tables/2",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [
+              {
+                "$ref": "#/texts/103"
+              }
+            ],
+            "content_layer": "body",
+            "label": "table",
+            "prov": [
+              {
+                "page_no": 7,
+                "bbox": {
+                  "l": 46.902957916259766,
+                  "t": 712.4218292236328,
+                  "r": 565.3737182617188,
+                  "b": 518.1851501464844,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  0
+                ]
+              }
+            ]
+          }
+        ],
+        "headings": [
+          "Saada et al (2026)                                                    SVU-IJMS 9(1), 629 -639"
+        ],
+        "origin": {
+          "mimetype": "application/pdf",
+          "binary_hash": 16028804749597198589,
+          "filename": "paper35"
+        }
+      }
+    }
+  },
+  {
+    "content": "Table (3). Comparison of Postoperative Recovery and Outcomes by Drainage Method\n\nHospital Stay (days), Surgical (n=31) = 5 (3 - 17). Hospital Stay (days), Percutaneous (n=22) = 3 (2 - 7). Hospital Stay (days), p value = 0 . 002. Start of Oral Feeding (h), Surgical (n=31) = 24 (24 - 48). Start of Oral Feeding (h), Percutaneous (n=22) = 4 (4 - 6). Start of Oral Feeding (h), p value = < .001. Fever Resolution, Surgical (n=31) = . Fever Resolution, Percutaneous (n=22) = . Fever Resolution, p value = . Yes, Surgical (n=31) = 28 (90.3%). Yes, Percutaneous (n=22) = 22 (100.0%). Yes, p value = 0.133. No, Surgical (n=31) = 3 (9.7%). No, Percutaneous (n=22) = 0 (0.0%). No, p value = . Fever Duration (days), Surgical (n=31) = 3 (2 - 3). Fever Duration (days), Percutaneous (n=22) = 2 (1 - 2). Fever Duration (days), p value = < .001\nTable (4). Postoperative Complications and Management Strategies by Procedure Type",
+    "metadata": {
+      "document_id": "paper35",
+      "source": "paper35.json",
+      "chunk_index": 19,
+      "total_chunks": 30,
+      "docling": {
+        "schema_name": "docling_core.transforms.chunker.DocMeta",
+        "version": "1.0.0",
+        "doc_items": [
+          {
+            "self_ref": "#/texts/104",
+            "parent": {
+              "$ref": "#/tables/3"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "caption",
+            "prov": [
+              {
+                "page_no": 7,
+                "bbox": {
+                  "l": 86.904,
+                  "t": 501.274,
+                  "r": 525.0559999999998,
+                  "b": 491.18054545454544,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  79
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/tables/3",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [
+              {
+                "$ref": "#/texts/104"
+              }
+            ],
+            "content_layer": "body",
+            "label": "table",
+            "prov": [
+              {
+                "page_no": 7,
+                "bbox": {
+                  "l": 45.47332763671875,
+                  "t": 491.1297302246094,
+                  "r": 565.5569458007812,
+                  "b": 328.5025329589844,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  0
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/105",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "caption",
+            "prov": [
+              {
+                "page_no": 7,
+                "bbox": {
+                  "l": 82.824,
+                  "t": 311.654,
+                  "r": 532.42,
+                  "b": 301.56054545454543,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  82
+                ]
+              }
+            ]
+          }
+        ],
+        "headings": [
+          "Saada et al (2026)                                                    SVU-IJMS 9(1), 629 -639"
+        ],
+        "origin": {
+          "mimetype": "application/pdf",
+          "binary_hash": 16028804749597198589,
+          "filename": "paper35"
+        }
+      }
+    }
+  },
+  {
+    "content": "Ileus, Postoperative Complications.Surgical (n=31) = 2 (6.5%). Ileus, Postoperative Complications.Percutaneous (n=22) = 0 (0.0%). Ileus, Management.Surgical (n=31) = Conservative treatment for 48 h (Ryle tube, NPO, IV fluids, CT imaging). Ileus, Management.Percutaneous (n=22) = -. Ileus, p value.p value = 0.505. Residual Collection, Postoperative Complications.Surgical (n=31) = 13 (41.9%). Residual Collection, Postoperative Complications.Percutaneous (n=22) = 4 (18.2%). Residual Collection, Management.Surgical (n=31) = • 7 cases: small, localized collection managed conservatively (antibiotics, follow- up). Residual Collection, Management.Percutaneous (n=22) = • 2 cases: Pigtail reinsertion. Residual Collection, p value.p value = < 0.001\n, 1 = . , 2 = . , 3 = • 4 cases: US -guided aspiration with antibiotic coverage. , 4 = • 2 cases: Conversion to open surgery (Failed drainage). , 5 = . , 1 = . , 2 = . , 3 = • 2 cases: pigtail insertion (percutaneous drainage). , 4 = . , 5 = . Wound Complications, 1 = . Wound Complications, 2 = . Wound Complications, 3 = . Wound Complications, 4 = . Wound Complications, 5 = . Wound Infection, 1 = 7 (22.6%). Wound Infection, 2 = 0 (0.0%). Wound Infection, 3 = Repeated dressing changes and antibiotics. Wound Infection, 4 = -. Wound Infection, 5 = < 0.001. Wound Burst & Infection, 1 = 5 (16.1%). Wound Burst & Infection, 2 = 0 (0.0%). Wound Burst & Infection, 3 = Surgical debridement and closure. Wound Burst & Infection, 4 = -. Wound Burst & Infection, 5 = < 0.001\nTable (5). Causes of Readmission by Procedure Type",
+    "metadata": {
+      "document_id": "paper35",
+      "source": "paper35.json",
+      "chunk_index": 20,
+      "total_chunks": 30,
+      "docling": {
+        "schema_name": "docling_core.transforms.chunker.DocMeta",
+        "version": "1.0.0",
+        "doc_items": [
+          {
+            "self_ref": "#/tables/4",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "table",
+            "prov": [
+              {
+                "page_no": 7,
+                "bbox": {
+                  "l": 46.9066047668457,
+                  "t": 300.8278503417969,
+                  "r": 560.5682373046875,
+                  "b": 74.907470703125,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  0
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/tables/5",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "table",
+            "prov": [
+              {
+                "page_no": 8,
+                "bbox": {
+                  "l": 47.03349304199219,
+                  "t": 740.9907264709473,
+                  "r": 561.1387939453125,
+                  "b": 481.6417541503906,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  0
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/108",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "caption",
+            "prov": [
+              {
+                "page_no": 8,
+                "bbox": {
+                  "l": 170.78,
+                  "t": 464.67400000000004,
+                  "r": 441.33799999999997,
+                  "b": 454.5805454545455,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  50
+                ]
+              }
+            ]
+          }
+        ],
+        "headings": [
+          "Saada et al (2026)                                                    SVU-IJMS 9(1), 629 -639"
+        ],
+        "origin": {
+          "mimetype": "application/pdf",
+          "binary_hash": 16028804749597198589,
+          "filename": "paper35"
+        }
+      }
+    }
+  },
+  {
+    "content": "No readmission, Surgical (n=31) = 25 (80.6%). No readmission, Percutaneous (n=22) = 11 (50.0%). No readmission, Total (N=53) = 36 (67.9%). No readmission, p value = < 0.001. Elective appendectomy, Surgical (n=31) = 0 (0.0%). Elective appendectomy, Percutaneous (n=22) = 11 (50.0%). Elective appendectomy, Total (N=53) = 11 (20.8%). Elective appendectomy, p value = < 0.001. Readmission for surgical closure, Surgical (n=31) = 5 (16.1%). Readmission for surgical closure, Percutaneous (n=22) = 0 (0.0%). Readmission for surgical closure, Total (N=53) = 5 (9.4%). Readmission for surgical closure, p value = < 0.001. Readmission for conservative treatment & CT, Surgical (n=31) = 1 (3.2%). Readmission for conservative treatment & CT, Percutaneous (n=22) = 0 (0.0%). Readmission for conservative treatment & CT, Total (N=53) = 1 (1.9%). Readmission for conservative treatment & CT, p value = < 0.001",
+    "metadata": {
+      "document_id": "paper35",
+      "source": "paper35.json",
+      "chunk_index": 21,
+      "total_chunks": 30,
+      "docling": {
+        "schema_name": "docling_core.transforms.chunker.DocMeta",
+        "version": "1.0.0",
+        "doc_items": [
+          {
+            "self_ref": "#/tables/6",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "table",
+            "prov": [
+              {
+                "page_no": 8,
+                "bbox": {
+                  "l": 47.75889587402344,
+                  "t": 454.0144348144531,
+                  "r": 564.4478149414062,
+                  "b": 284.81402587890625,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  0
+                ]
+              }
+            ]
+          }
+        ],
+        "headings": [
+          "Saada et al (2026)                                                    SVU-IJMS 9(1), 629 -639"
+        ],
+        "origin": {
+          "mimetype": "application/pdf",
+          "binary_hash": 16028804749597198589,
+          "filename": "paper35"
+        }
+      }
+    }
+  },
+  {
+    "content": "Management  of  appendicular  abscess  remains controversial. Traditionally, conservative treatment  with  antibiotics  followed  by  interval appendectomy  was  recommended  to  avoid  the risks of early surgery, such as fecal fistula (Khorshid et al. 2022) However, the necessity of interval  appendectomy  has  been  questioned,  as conservative  treatment  can  fail  in  10 -20%  of cases,  requiring  emergency  surgery  with  higher morbidity, and recurrence may occur after discharge (Gignoux  et  al.,  2018). Increasing evidence supports nonsurgical approaches such as antibiotics combined with image-guided percutaneous  drainage,  which  have  shown  high success  rates  and  low  complication  incidence (Sekine et al., 2021).\nIn this context, this study compared the outcomes of ultrasound-guided percutaneous drainage versus  surgical  drainage  in  patients  presenting with appendicular abscess. Overall, percutaneous drainage was associated with shorter hospital stay, earlier return to oral feeding, faster resolution of fever,  and  lower  readmission  rates  compared  to surgical management. These findings support the growing evidence that minimally invasive approaches  can  provide  effective  source  control with less morbidity  in appropriately selected patients.\nThe demographic profile of our study population, with a median age of 35 (16 - 72) years and a male predominance (56.6%), aligns well with the established epidemiology of complicated appendicitis.  This  age  distribution  is  consistent with previous reports, such as Mejri et al. (2021). The median duration of abdominal pain prior to presentation  was  5  (3  -  20)  days,  reflecting  the typical  delayed  presentation  that  favors  abscess formation.  On admission, patients demonstrated a moderate systemic inflammatory response, with elevated WBC count (12700 (4300 - 50000) / μL ) and fever (38.1 (37.5 -40) °C). Similarly, inflammatory  markers  were  markedly  elevated, with CRP averaging 150 (48 - 384) mg/L and ESR 65 (30 - 90) mm/hr. These findings are in line with previous  descriptions  of  localized  appendiceal perforation and abscess formation (Beltrán, 2015; Singh et al., 2024).",
+    "metadata": {
+      "document_id": "paper35",
+      "source": "paper35.json",
+      "chunk_index": 22,
+      "total_chunks": 30,
+      "docling": {
+        "schema_name": "docling_core.transforms.chunker.DocMeta",
+        "version": "1.0.0",
+        "doc_items": [
+          {
+            "self_ref": "#/texts/110",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 8,
+                "bbox": {
+                  "l": 49.56,
+                  "t": 254.36599999999999,
+                  "r": 291.19399999999996,
+                  "b": 64.60799999999995,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  667
+                ]
+              },
+              {
+                "page_no": 8,
+                "bbox": {
+                  "l": 324.05,
+                  "t": 268.16599999999994,
+                  "r": 562.4419999999997,
+                  "b": 244.08054545454547,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  668,
+                  740
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/111",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 8,
+                "bbox": {
+                  "l": 324.05,
+                  "t": 240.56600000000003,
+                  "r": 565.6119999999999,
+                  "b": 78.40800000000002,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  551
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/112",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 8,
+                "bbox": {
+                  "l": 324.05,
+                  "t": 74.94000000000005,
+                  "r": 565.6119999999997,
+                  "b": 50.80799999999999,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  99
+                ]
+              },
+              {
+                "page_no": 9,
+                "bbox": {
+                  "l": 49.56,
+                  "t": 737.076,
+                  "r": 291.16999999999996,
+                  "b": 505.9405454545455,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  100,
+                  904
+                ]
+              }
+            ]
+          }
+        ],
+        "headings": [
+          "Discussion"
+        ],
+        "origin": {
+          "mimetype": "application/pdf",
+          "binary_hash": 16028804749597198589,
+          "filename": "paper35"
+        }
+      }
+    }
+  },
+  {
+    "content": "The mean abscess size was 4.5 ± 1.4 cm (range 2.0 -10.0 cm), representing an appropriate spectrum  for both surgical and percutaneous drainage.  Notably,  this  distribution  corresponds with guideline recommendations that very small collections  (<  3  cm)  may  not  be  suitable  for percutaneous drainage, while larger abscesses are generally amenable to both treatment approaches (Harclerode and Gnugnoli, 2025).\nOur  study  demonstrated  significant  differences between percutaneous drainage and surgical management  of  appendicular  abscess  in  both procedural  and  clinical  outcomes.  Percutaneous drainage was associated with significantly shorter procedure times (15 (7 - 45) vs. 100 (55 - 160) minutes,  p  <  0.001),  reflecting  the  minimally invasive  nature  of  image-guided  interventions. Similar  results  were  observed  by Negm  et  al. (2024) , who noted reduced operative durations in patients treated with conservative therapy.\nDrain management  also  differed significantly between groups. Daily drain output was higher in the percutaneous cohort (140 (10 - 250) vs. 90 (60 -  200)  mL/day,  p  <  0.001),  which  may  indicate more effective evacuation of abscess contents via the pigtail catheter or differences in abscess cavity characteristics. Despite higher output, drains were removed earlier in the percutaneous group (2 (2 5) vs. 4 (2 - 14) days, p = 0.002), suggesting more rapid resolution of the infectious process. While some prior studies have suggested longer drainage periods for percutaneous approaches (Chaiyasoot and Jaruthien, 2021). Our findings likely reflect the specific image-guided technique and tailored antibiotic regimen employed.",
+    "metadata": {
+      "document_id": "paper35",
+      "source": "paper35.json",
+      "chunk_index": 23,
+      "total_chunks": 30,
+      "docling": {
+        "schema_name": "docling_core.transforms.chunker.DocMeta",
+        "version": "1.0.0",
+        "doc_items": [
+          {
+            "self_ref": "#/texts/115",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 9,
+                "bbox": {
+                  "l": 49.56,
+                  "t": 502.426,
+                  "r": 291.1459999999999,
+                  "b": 381.74054545454544,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  417
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/116",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 9,
+                "bbox": {
+                  "l": 49.56,
+                  "t": 378.226,
+                  "r": 291.15799999999996,
+                  "b": 229.87400000000002,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  539
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/117",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 9,
+                "bbox": {
+                  "l": 49.56,
+                  "t": 226.40599999999995,
+                  "r": 291.17,
+                  "b": 50.44799999999998,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  654
+                ]
+              },
+              {
+                "page_no": 9,
+                "bbox": {
+                  "l": 324.05,
+                  "t": 737.076,
+                  "r": 565.5579999999998,
+                  "b": 712.9440000000001,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  655,
+                  732
+                ]
+              }
+            ]
+          }
+        ],
+        "headings": [
+          "Discussion"
+        ],
+        "origin": {
+          "mimetype": "application/pdf",
+          "binary_hash": 16028804749597198589,
+          "filename": "paper35"
+        }
+      }
+    }
+  },
+  {
+    "content": "Percutaneous drainage also conferred clear clinical advantages. Hospital stay was significantly shorter in the percutaneous group (3 (2 - 7) vs. 5 (3 - 17) days, p = 0.002), reflecting faster recovery and reduced postoperative burden. Oral feeding was resumed markedly earlier (4(4 6) vs. 24 (24 - 48) hours, p < 0.001), consistent with  minimal  bowel  manipulation  and  reduced systemic inflammatory response. Fever resolved in all percutaneous cases compared with 90.3% of surgical cases, with a shorter duration (3 (2 - 3) vs 2  (1  -  2)  days,  p  <  0.001),  indicating  more effective source control. These findings are supported by prior studies reporting rapid clinical improvement  with  percutaneous  drainage  when combined  with appropriate antibiotic therapy (Akingboye et al., 2021)\nOur results regarding postoperative recovery are largely consistent with existing literature. Seif et al. (2015) , Zerem et al. (2007) , and Brown et al. (2003) similarly  reported  shorter  hospitalization and  faster  recovery  with  percutaneous  drainage and interval appendectomy. Habib et al. (2018) emphasized reduced morbidity and quicker functional recovery with conservative management compared to emergency appendectomy, highlighting how patient selection, timing, and institutional protocols may influence outcomes.\nOverall,  our  findings  emphasize  the  technical simplicity, reduced procedural burden, and faster clinical  recovery  associated  with  percutaneous drainage compared with immediate surgical management, while also illustrating that operative strategy must be tailored to patient characteristics and abscess complexity.\nThe  complication  profile  in  our  study  strongly favored the percutaneous approach. Overall, 81.8%  of  patients  in  the  percutaneous  group experienced  no  complications  compared  with only  51.6%  in  the  surgical  group  (p  <  0.001), primarily  due  to  the  absence  of  wound-related complications. The surgical cohort experienced a 38.7% wound complication rate, including superficial  infections  and  more  serious  wound dehiscence  requiring  surgical  intervention.  Ileus occurred  exclusively  in  the  surgical  group  (2 cases), reflecting the greater bowel manipulation",
+    "metadata": {
+      "document_id": "paper35",
+      "source": "paper35.json",
+      "chunk_index": 24,
+      "total_chunks": 30,
+      "docling": {
+        "schema_name": "docling_core.transforms.chunker.DocMeta",
+        "version": "1.0.0",
+        "doc_items": [
+          {
+            "self_ref": "#/texts/118",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 9,
+                "bbox": {
+                  "l": 324.05,
+                  "t": 709.456,
+                  "r": 565.66,
+                  "b": 478.34054545454546,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  799
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/119",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 9,
+                "bbox": {
+                  "l": 324.05,
+                  "t": 474.82599999999996,
+                  "r": 565.66,
+                  "b": 312.674,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  527
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/120",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 9,
+                "bbox": {
+                  "l": 324.05,
+                  "t": 309.20599999999996,
+                  "r": 565.5619999999998,
+                  "b": 216.07400000000007,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  321
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/121",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 9,
+                "bbox": {
+                  "l": 324.05,
+                  "t": 212.606,
+                  "r": 565.6359999999999,
+                  "b": 50.44799999999998,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  596
+                ]
+              }
+            ]
+          }
+        ],
+        "headings": [
+          "Discussion"
+        ],
+        "origin": {
+          "mimetype": "application/pdf",
+          "binary_hash": 16028804749597198589,
+          "filename": "paper35"
+        }
+      }
+    }
+  },
+  {
+    "content": "and peritoneal inflammation associated with open surgery.\nResidual collections on ultrasound before discharge were observed in both groups, though their  management  differed.  In  the  percutaneous group,  residual  collections  were  addressed  with catheter  reinsertion  (2  cases)  or  conversion  to surgery (2 cases). In the surgical group, 7 patients were managed conservatively with antibiotics, 4 patients required  ultrasound-guided  aspiration, and  2  patients  underwent  pigtail  insertion.  Our results are in agreement with Demetrashvili et al. (2019), who reported significantly fewer postoperative complications in patients managed conservatively with interval surgery compared to those undergoing emergency surgery (P = 0.02). Similarly, Habib  et  al.  (2018) demonstrated lower complication rates, including wound infection and dehiscence, in patients treated with ultrasound-guided drainage compared to emergency  appendectomy. Olsen  et  al.  (2014) further support these findings, showing that complications  such  as  wound  infection,  fecal fistula,  and  burst  abdomen  were  significantly more  frequent  in  surgically  managed  patients, whereas the percutaneous group experienced no major complications. Together, these data strongly support the safety advantage of percutaneous  drainage  over  surgical  drainage  in appendiceal abscess.\nAn important observation in our cohort was the higher readmission rate in the percutaneous group (50.0% vs. 19.4%, p = 0.019), predominantly for elective interval appendectomy. This reflects current  standard  practice,  where  percutaneous drainage serves as a bridge to delayed appendectomy, allowing resolution of acute inflammation.  Notably,  40.9%  of  percutaneous patients  had  atrophied  appendices  that  did  not require surgery, indicating that conservative management  can  be  definitive  in  a  substantial proportion  of  cases.  These  results  align  with previous studies, show high technical and clinical success rates for percutaneous drainage (Brown et  al.,  2012;  Habib  et  al.,  2018) ,  and  support selective, rather than routine, interval appendectomy.",
+    "metadata": {
+      "document_id": "paper35",
+      "source": "paper35.json",
+      "chunk_index": 25,
+      "total_chunks": 30,
+      "docling": {
+        "schema_name": "docling_core.transforms.chunker.DocMeta",
+        "version": "1.0.0",
+        "doc_items": [
+          {
+            "self_ref": "#/texts/124",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 10,
+                "bbox": {
+                  "l": 49.56,
+                  "t": 737.076,
+                  "r": 291.0600000000001,
+                  "b": 712.9440000000001,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  57
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/125",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 10,
+                "bbox": {
+                  "l": 49.56,
+                  "t": 709.456,
+                  "r": 291.17,
+                  "b": 326.474,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  1315
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/126",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 10,
+                "bbox": {
+                  "l": 49.56,
+                  "t": 323.006,
+                  "r": 291.158,
+                  "b": 91.84799999999996,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  783
+                ]
+              }
+            ]
+          }
+        ],
+        "headings": [
+          "Saada et al (2026)                                                    SVU-IJMS 9(1), 629 -639"
+        ],
+        "origin": {
+          "mimetype": "application/pdf",
+          "binary_hash": 16028804749597198589,
+          "filename": "paper35"
+        }
+      }
+    }
+  },
+  {
+    "content": "Limitations & Recommendations: This study has some  limitations  that  should  be  acknowledged. First,  it  was  conducted  at  a  single  center  with  a relatively small sample size, which may limit the generalizability of our findings. Second, the nonrandomized design may introduce the possibility of selection bias in treatment allocation. Additionally, follow-up duration was limited, and thus long-term outcomes such as recurrence, late complications,  and  quality  of  life  could  not  be fully assessed.\nFuture research should aim to address these gaps. Larger,  multicenter  randomized  controlled  trials are needed to confirm the superiority of percutaneous  drainage  over  immediate  surgical drainage  in  selected  patients  with  appendicular abscess. A longer follow-up is also warranted to better  evaluate  recurrence  rates  and  long-term morbidity. Moreover,  standardized  criteria  for patient selection between percutaneous and surgical  management  should  be  developed  to optimize outcomes and reduce variability in practice.\nConclusion: Our findings suggest that ultrasound-guided percutaneous drainage combined with antibiotics may offer advantages over surgical drainage for appendicular abscesses, including shorter hospital stay, earlier resumption of oral intake, and lower wound-related complications.  While  percutaneous  management appears effective in achieving abscess resolution, some patients still require elective interval appendectomy.",
+    "metadata": {
+      "document_id": "paper35",
+      "source": "paper35.json",
+      "chunk_index": 26,
+      "total_chunks": 30,
+      "docling": {
+        "schema_name": "docling_core.transforms.chunker.DocMeta",
+        "version": "1.0.0",
+        "doc_items": [
+          {
+            "self_ref": "#/texts/127",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 10,
+                "bbox": {
+                  "l": 49.56,
+                  "t": 88.38,
+                  "r": 291.0,
+                  "b": 50.44799999999998,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  155
+                ]
+              },
+              {
+                "page_no": 10,
+                "bbox": {
+                  "l": 324.05,
+                  "t": 737.076,
+                  "r": 565.5699999999997,
+                  "b": 630.124,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  156,
+                  515
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/128",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 10,
+                "bbox": {
+                  "l": 324.05,
+                  "t": 626.6560000000001,
+                  "r": 565.648,
+                  "b": 464.49399999999997,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  542
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/129",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 10,
+                "bbox": {
+                  "l": 324.05,
+                  "t": 461.02599999999995,
+                  "r": 565.66,
+                  "b": 326.474,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  426
+                ]
+              }
+            ]
+          }
+        ],
+        "headings": [
+          "Saada et al (2026)                                                    SVU-IJMS 9(1), 629 -639"
+        ],
+        "origin": {
+          "mimetype": "application/pdf",
+          "binary_hash": 16028804749597198589,
+          "filename": "paper35"
+        }
+      }
+    }
+  },
+  {
+    "content": "- Akingboye AA, Mahmood F, Zaman S, Wright J,  Mannan F, Mohamedahmed AYY. (2021). Early  versus  delayed  (interval)  appendicectomy for the management of appendicular abscess and phlegmon: a systematic review and metaanalysis. Langenbeck's Archives of Surgery, 406 (5): 1341-1351.\n- Beltrán MA. (2015). The systemic inflammatory response in patients with appendicitis: a progressive phenomenon. Indian Journal of Surgery, 77 (6): 1050-1056.\n- Brown C, Abrishami M, Muller M, Velmahos GC.  (2003). Appendiceal  abscess:  immediate operation or percutaneous drainage? The American Surgeon, 69 (10): 829-832.\n- Brown C, Kang L, Kim ST. (2012). Percutaneous  drainage  of  abdominal  and  pelvic",
+    "metadata": {
+      "document_id": "paper35",
+      "source": "paper35.json",
+      "chunk_index": 27,
+      "total_chunks": 30,
+      "docling": {
+        "schema_name": "docling_core.transforms.chunker.DocMeta",
+        "version": "1.0.0",
+        "doc_items": [
+          {
+            "self_ref": "#/texts/131",
+            "parent": {
+              "$ref": "#/groups/2"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [
+              {
+                "page_no": 10,
+                "bbox": {
+                  "l": 312.05,
+                  "t": 308.366,
+                  "r": 565.5019999999997,
+                  "b": 215.23400000000004,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  282
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/132",
+            "parent": {
+              "$ref": "#/groups/2"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [
+              {
+                "page_no": 10,
+                "bbox": {
+                  "l": 312.05,
+                  "t": 210.92600000000004,
+                  "r": 565.5699999999999,
+                  "b": 159.164,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  159
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/133",
+            "parent": {
+              "$ref": "#/groups/2"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [
+              {
+                "page_no": 10,
+                "bbox": {
+                  "l": 312.05,
+                  "t": 154.856,
+                  "r": 565.5459999999997,
+                  "b": 103.12400000000002,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  164
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/134",
+            "parent": {
+              "$ref": "#/groups/2"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [
+              {
+                "page_no": 10,
+                "bbox": {
+                  "l": 312.05,
+                  "t": 98.82000000000005,
+                  "r": 565.4899999999998,
+                  "b": 74.68799999999999,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  85
+                ]
+              }
+            ]
+          }
+        ],
+        "headings": [
+          "References"
+        ],
+        "origin": {
+          "mimetype": "application/pdf",
+          "binary_hash": 16028804749597198589,
+          "filename": "paper35"
+        }
+      }
+    }
+  },
+  {
+    "content": "- abscesses in children. Seminars in Interventional Radiology, 29 (4): 286-294.\n- Chaiyasoot W, Jaruthien N. (2021). Outcomes of  percutaneous  drainage  vs.  antibiotic  therapy alone  or  emergency  surgery  in  peri-appendiceal abscess. Siriraj Medical Journal, 73 (1): 10-16.\n- Darwazeh G, Cunningham SC, Kowdley GC. (2016). A systematic review of perforated appendicitis and phlegmon: interval appendectomy or wait-and-see? American Surgeon, 82 (1): 11-55.\n- Das DK, Patra RK, Mishra S, Panigrahi SK. (2019). Ultrasound-guided percutaneous catheter drainage  of  appendicular  perforation  with  large intraperitoneal  abscess  formation:  an  effective modality of management in selected cases. International Surgery Journal, 6 (6): 2219-2221.\n- Demetrashvili Z, Kenchadze G, Pipia I, Khutsishvili K, Loladze D, Ekaladze E, et al. (2019). Comparison  of  treatment  methods  of appendiceal  mass  and  abscess:  A  prospective Cohort Study. Annals of Medicine and Surgery, 48: 48-52.\n- Gignoux B, Blanchet MC, Lanz T, Vulliez A, Saffarini M, Bothorel H, et al. (2018). Should ambulatory  appendectomy  become  the  standard treatment for  acute  appendicitis?  World  Journal of Emergency Surgery, 13 (1): 28.\n- Habib FM, Sallam AM, Gertallah LM, Amer SA. (2018). A comparative study between conservative management of appendicular abscess by percutaneous drainage and emergency operation. Journal of Medicine  and  Surgical Sciences, 1 (1): 2-7.\n- Harclerode TP, Gnugnoli DM. (2025). Percutaneous abscess drainage. StatPearls [Internet]: StatPearls Publishing.",
+    "metadata": {
+      "document_id": "paper35",
+      "source": "paper35.json",
+      "chunk_index": 28,
+      "total_chunks": 30,
+      "docling": {
+        "schema_name": "docling_core.transforms.chunker.DocMeta",
+        "version": "1.0.0",
+        "doc_items": [
+          {
+            "self_ref": "#/texts/137",
+            "parent": {
+              "$ref": "#/groups/3"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [
+              {
+                "page_no": 11,
+                "bbox": {
+                  "l": 51.12,
+                  "t": 737.076,
+                  "r": 290.98800000000017,
+                  "b": 712.9440000000001,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  77
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/138",
+            "parent": {
+              "$ref": "#/groups/3"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [
+              {
+                "page_no": 11,
+                "bbox": {
+                  "l": 37.56,
+                  "t": 708.616,
+                  "r": 291.15799999999996,
+                  "b": 656.884,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  199
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/139",
+            "parent": {
+              "$ref": "#/groups/3"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [
+              {
+                "page_no": 11,
+                "bbox": {
+                  "l": 37.56,
+                  "t": 652.576,
+                  "r": 291.1339999999999,
+                  "b": 587.044,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  181
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/140",
+            "parent": {
+              "$ref": "#/groups/3"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [
+              {
+                "page_no": 11,
+                "bbox": {
+                  "l": 37.56,
+                  "t": 582.736,
+                  "r": 291.068,
+                  "b": 503.25399999999996,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  287
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/141",
+            "parent": {
+              "$ref": "#/groups/3"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [
+              {
+                "page_no": 11,
+                "bbox": {
+                  "l": 37.56,
+                  "t": 498.94599999999997,
+                  "r": 291.0360000000001,
+                  "b": 419.614,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  239
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/142",
+            "parent": {
+              "$ref": "#/groups/3"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [
+              {
+                "page_no": 11,
+                "bbox": {
+                  "l": 37.56,
+                  "t": 415.306,
+                  "r": 291.146,
+                  "b": 349.75399999999996,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  225
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/143",
+            "parent": {
+              "$ref": "#/groups/3"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [
+              {
+                "page_no": 11,
+                "bbox": {
+                  "l": 37.56,
+                  "t": 345.44599999999997,
+                  "r": 291.072,
+                  "b": 266.11400000000003,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  236
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/144",
+            "parent": {
+              "$ref": "#/groups/3"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [
+              {
+                "page_no": 11,
+                "bbox": {
+                  "l": 37.56,
+                  "t": 261.80600000000004,
+                  "r": 291.01200000000006,
+                  "b": 223.87400000000002,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  114
+                ]
+              }
+            ]
+          }
+        ],
+        "headings": [
+          "Saada et al (2026)                                                    SVU-IJMS 9(1), 629 -639"
+        ],
+        "origin": {
+          "mimetype": "application/pdf",
+          "binary_hash": 16028804749597198589,
+          "filename": "paper35"
+        }
+      }
+    }
+  },
+  {
+    "content": "- Khorshid AH, Kotb I, Marzouk M, Elsaid KM. (2022). Laparoscopic versus open appendicectomy in the management of complicated  appendicitis.  Ain  Shams  Medical Journal, 73 (2): 339-351.\n- Lind K. (2019). Does ruptured appendicitis with abscess  warrant  urgent  operative  intervention? Gastrointestinal Emergencies: Evidence-Based Answers  to  Key  Clinical  Questions:  Springer, 277-278.\n- Mejri A, Arfaoui K, Mseddi MA, Slima MB, Saad S, Yahyaoui M. (2021). The management\n- of  appendicular  abscesses  in  a  Tunisian  tertiary care hospital. BMC Surgery, 21 (1): 427.\n- Negm S, Farag A, Allah EA, Abdelghani AA. (2024). Laparoscopic drainage versus interventional radiology for management of appendicular  abscess:  a  randomized  controlled trial.  The  Egyptian  Journal  of  Surgery,  43(2): 368-374.\n- Olsen  J,  Skovdal  J,  Qvist  N,  Bisgaard  T. (2014). Treatment of appendiceal mass--a qualitative  systematic  review.  Danish  Medical Journal, 61 (8): A4881.\n- Said Negm, Ahmed Farag, Ehab A. Allah, and Amr A. Abdelghani (2024). Laparoscopic drainage versus interventional radiology for management of appendicular abscess: a randomized controlled trial: The Egyptian Journal of Surgery 2024,43:368 -374.\n- Seif HM, Reyad HA, Korany M, Metwally M, Ahmed AI. (2015). Immediate operation versus percutaneous drainage for treatment of appendicular  abscess.  The  Egyptian  Journal  of Radiology  and  Nuclear  Medicine,  46  (4):  9991002.",
+    "metadata": {
+      "document_id": "paper35",
+      "source": "paper35.json",
+      "chunk_index": 29,
+      "total_chunks": 30,
+      "docling": {
+        "schema_name": "docling_core.transforms.chunker.DocMeta",
+        "version": "1.0.0",
+        "doc_items": [
+          {
+            "self_ref": "#/texts/145",
+            "parent": {
+              "$ref": "#/groups/3"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [
+              {
+                "page_no": 11,
+                "bbox": {
+                  "l": 37.56,
+                  "t": 219.56600000000003,
+                  "r": 291.09200000000004,
+                  "b": 154.00400000000002,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  187
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/146",
+            "parent": {
+              "$ref": "#/groups/3"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [
+              {
+                "page_no": 11,
+                "bbox": {
+                  "l": 37.56,
+                  "t": 149.69600000000003,
+                  "r": 291.14599999999996,
+                  "b": 84.168,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  204
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/147",
+            "parent": {
+              "$ref": "#/groups/3"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [
+              {
+                "page_no": 11,
+                "bbox": {
+                  "l": 37.56,
+                  "t": 79.86000000000001,
+                  "r": 291.13399999999996,
+                  "b": 55.72799999999995,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  85
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/148",
+            "parent": {
+              "$ref": "#/groups/3"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [
+              {
+                "page_no": 11,
+                "bbox": {
+                  "l": 325.61,
+                  "t": 737.076,
+                  "r": 565.5379999999998,
+                  "b": 712.9440000000001,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  95
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/149",
+            "parent": {
+              "$ref": "#/groups/3"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [
+              {
+                "page_no": 11,
+                "bbox": {
+                  "l": 312.05,
+                  "t": 708.616,
+                  "r": 565.5699999999997,
+                  "b": 629.284,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  235
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/150",
+            "parent": {
+              "$ref": "#/groups/3"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [
+              {
+                "page_no": 11,
+                "bbox": {
+                  "l": 312.05,
+                  "t": 624.976,
+                  "r": 565.66,
+                  "b": 573.244,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  164
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/151",
+            "parent": {
+              "$ref": "#/groups/3"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [
+              {
+                "page_no": 11,
+                "bbox": {
+                  "l": 312.05,
+                  "t": 568.936,
+                  "r": 565.648,
+                  "b": 489.454,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  245
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/152",
+            "parent": {
+              "$ref": "#/groups/3"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [
+              {
+                "page_no": 11,
+                "bbox": {
+                  "l": 312.05,
+                  "t": 485.14599999999996,
+                  "r": 565.5579999999998,
+                  "b": 405.81399999999996,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  232
+                ]
+              }
+            ]
+          }
+        ],
+        "headings": [
+          "Saada et al (2026)                                                    SVU-IJMS 9(1), 629 -639"
+        ],
+        "origin": {
+          "mimetype": "application/pdf",
+          "binary_hash": 16028804749597198589,
+          "filename": "paper35"
+        }
+      }
+    }
+  },
+  {
+    "content": "- Sekine  Y,  Sugo  H,  Miyano  S,  Watanobe  I, Machida M, Kojima K. (2021). Surgical outcomes of interval laparoscopic appendectomy for appendiceal abscess and predictors of conversion  to  open  surgery.  Indian  Journal  of Surgery, 83 (1): 1-6.\n- Singh AK, Paruthy SB, Kuraria V, Ul Hoda I, Khera D, Dhawaria M, et al. (2024). Anticipating urgency: predictive factors for early intervention in appendicular perforation. Cureus, 16 (1): 8-12.\n- Thomson JE, Kruger D, Jann-Kruger C, Kiss A,  Omoshoro-Jones  JA,  Luvhengo  T,  et  al. (2015). Laparoscopic  versus  open  surgery  for complicated appendicitis: a randomized controlled trial to prove safety. Surgical Endoscopy, 29 (7): 2027-2032.\n- Zerem  E,  Salkic  N,  Imamovic  G,  Terzić  I. (2007). Comparison of therapeutic effectiveness of percutaneous drainage with antibiotics versus antibiotics alone in the treatment of periappendiceal  abscess:  Is  appendectomy  always necessary after perforation of appendix? Surgical Endoscopy, 21 (3): 461-466.",
+    "metadata": {
+      "document_id": "paper35",
+      "source": "paper35.json",
+      "chunk_index": 30,
+      "total_chunks": 30,
+      "docling": {
+        "schema_name": "docling_core.transforms.chunker.DocMeta",
+        "version": "1.0.0",
+        "doc_items": [
+          {
+            "self_ref": "#/texts/153",
+            "parent": {
+              "$ref": "#/groups/3"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [
+              {
+                "page_no": 11,
+                "bbox": {
+                  "l": 312.05,
+                  "t": 401.506,
+                  "r": 565.648,
+                  "b": 322.154,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  249
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/154",
+            "parent": {
+              "$ref": "#/groups/3"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [
+              {
+                "page_no": 11,
+                "bbox": {
+                  "l": 312.05,
+                  "t": 317.84599999999995,
+                  "r": 565.4899999999997,
+                  "b": 252.31400000000008,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  196
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/155",
+            "parent": {
+              "$ref": "#/groups/3"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [
+              {
+                "page_no": 11,
+                "bbox": {
+                  "l": 312.05,
+                  "t": 248.00599999999997,
+                  "r": 565.636,
+                  "b": 168.644,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  251
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/156",
+            "parent": {
+              "$ref": "#/groups/3"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [
+              {
+                "page_no": 11,
+                "bbox": {
+                  "l": 312.05,
+                  "t": 164.336,
+                  "r": 565.5579999999998,
+                  "b": 71.20799999999997,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  314
+                ]
+              }
+            ]
+          }
+        ],
+        "headings": [
+          "Saada et al (2026)                                                    SVU-IJMS 9(1), 629 -639"
+        ],
+        "origin": {
+          "mimetype": "application/pdf",
+          "binary_hash": 16028804749597198589,
+          "filename": "paper35"
+        }
+      }
+    }
+  }
+]

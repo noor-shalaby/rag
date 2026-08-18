@@ -1,0 +1,1663 @@
+[
+  {
+    "content": "- 1 Pediatric Surgery Unit, Department of General Surgery, Sohag University, Egypt\n- 2 Pediatric Surgery Unit, Department of General Surgery, South Valley University, Egypt\nIntroduction  and  objectives: Adhesive  bowel  obstruction  is  considered  one  of  the  commonest  causes  of intestinal obstruction managed in daily practice, medical schools differ in management plans from conservative to interventional measures with increased morbidity and mortality with recurrent surgical interventions, the aim of our study is to evaluate the therapeutic role of oral water soluble contrast (urographin) in treatment of early adhesive intestinal obstruction.\nPatients  and  methods: All  pediatric  patients  presented  at  our  units  in  the  period  from  December  2016  to December  2017  by  early  adhesive  intestinal  obstruction  were  included  in  this  study.  All  patients  were  given conservative treatment for 24 hours (nothing per mouth, insertion of nasogastric tube, and intravenous fluids). Patients with failure of improvement after 24 hours  were divided to 2 groups in the first group we continued the same conservative measures for 48 hours, in the second group we used single oral dose of urographin. Follow up of the patients was done clinically and radiologically for another 48 hours. Demographic data, type of first surgery, results, complications, and outcome all were collected and statistically analyzed.\nResults: The study included 35 patients, oral urographin was used in 14 patients, and we continued traditional measures in 21 patients. The mean duration of hospital stay in the urographin group was 3.36 ± 0.49 while in the conservative group was 6.24 ± 0.89 with P value <0.001. Recurrence occurred in (14.3%) of cases in urographin group and in (33.3%) of cases in conservative group\nConclusion: The period of hospital admission is significantly shorter with the use of oral water soluble contrast (urographin) with fewer incidences of recurrent attacks but it doesn't decrease the incidence of shifting to surgery. The use of urographin is safe with no significant harmful side effects observed.\nKey words: Oral urographin, early adhesive intestinal obstruction.",
+    "metadata": {
+      "document_id": "paper14",
+      "source": "paper14.json",
+      "chunk_index": 1,
+      "total_chunks": 13,
+      "docling": {
+        "schema_name": "docling_core.transforms.chunker.DocMeta",
+        "version": "1.0.0",
+        "doc_items": [
+          {
+            "self_ref": "#/texts/2",
+            "parent": {
+              "$ref": "#/groups/0"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [
+              {
+                "page_no": 1,
+                "bbox": {
+                  "l": 37.1024,
+                  "t": 728.0602246484376,
+                  "r": 389.3938999999998,
+                  "b": 717.5458475304491,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  80
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/3",
+            "parent": {
+              "$ref": "#/groups/0"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [
+              {
+                "page_no": 1,
+                "bbox": {
+                  "l": 37.1024,
+                  "t": 716.0602246484376,
+                  "r": 416.26389999999986,
+                  "b": 705.5458475304491,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  87
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/4",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 1,
+                "bbox": {
+                  "l": 37.10489999999999,
+                  "t": 667.9118146484375,
+                  "r": 542.4328999999996,
+                  "b": 609.6958475304491,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  484
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/5",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 1,
+                "bbox": {
+                  "l": 37.09490000000005,
+                  "t": 595.9118146484375,
+                  "r": 542.4639000000001,
+                  "b": 513.6958475304491,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  779
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/6",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 1,
+                "bbox": {
+                  "l": 37.114900000000205,
+                  "t": 499.9118146484375,
+                  "r": 542.4759000000001,
+                  "b": 453.6958475304491,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  385
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/7",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 1,
+                "bbox": {
+                  "l": 37.13490000000013,
+                  "t": 439.9118146484375,
+                  "r": 542.4968999999998,
+                  "b": 405.6958475304491,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  312
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/8",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 1,
+                "bbox": {
+                  "l": 37.15490000000011,
+                  "t": 391.9118146484375,
+                  "r": 332.39189999999996,
+                  "b": 381.6958475304491,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  66
+                ]
+              }
+            ]
+          }
+        ],
+        "headings": [
+          "Mohamed Yousef Batikhe, 1  Nezar A. Abo Halawa 2"
+        ],
+        "origin": {
+          "mimetype": "application/pdf",
+          "binary_hash": 1062972874060322732,
+          "filename": "paper14"
+        }
+      }
+    }
+  },
+  {
+    "content": "Adhesive bowel obstruction is considered as an important cause of postoperative morbidity in pediatrics. Appendectomy, performing stoma and its closure, fundoplication, and operated neonatal intestinal obstruction  are  the  most  common  procedures  causing adhesive small bowel obstruction, Its incidence in the  literature  ranges  from  2  to  30%  and  is  more  in neonates, mostly occurring within 2 years after surgical intervention. 1,2 Intestinal  injury  is  reported  up  to  30  % of patients undergoing surgery for adhesive bowel obstruction  with  increased  postoperative  morbidity,  so conservative  measures  of  managing  adhesive  intestinal obstruction have generated considerable interest, among which; water soluble contrast is proved to be effective in adults. 3- 5\nThe role of using water soluble contrast in adhesive bowel obstruction, has been evaluated in the last few years with regard to diagnostic and therapeutic role, its osmolarity approximately 6 times more than the extracellular fluid osmolarity,  promotes  shifting  of  fluids  to  the  intestinal lumen and increases the pressure gradient at obstructive sites.  Furthermore,  because  water  soluble  contrast  can dilute  the  bowel  contents,  it  facilitates  the  passage  of intestinal  contents  and  decreases  edema  in  the  bowel wall. 6,7\nThe aim of this study is to evaluate the therapeutic role of  water  soluble  contrast  (urographin)  in  treatment  of adhesive intestinal obstruction in pediatric population.",
+    "metadata": {
+      "document_id": "paper14",
+      "source": "paper14.json",
+      "chunk_index": 2,
+      "total_chunks": 13,
+      "docling": {
+        "schema_name": "docling_core.transforms.chunker.DocMeta",
+        "version": "1.0.0",
+        "doc_items": [
+          {
+            "self_ref": "#/texts/10",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 1,
+                "bbox": {
+                  "l": 37.1024,
+                  "t": 308.6477146484375,
+                  "r": 266.70269999999994,
+                  "b": 148.25334424224786,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  790
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/11",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 1,
+                "bbox": {
+                  "l": 37.093399999999974,
+                  "t": 135.84771464843755,
+                  "r": 266.6924000000002,
+                  "b": 61.853344242248,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  414
+                ]
+              },
+              {
+                "page_no": 1,
+                "bbox": {
+                  "l": 313.2224,
+                  "t": 320.21271464843755,
+                  "r": 542.8105999999999,
+                  "b": 289.41834424224794,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  415,
+                  549
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/12",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 1,
+                "bbox": {
+                  "l": 313.2283,
+                  "t": 277.01241464843747,
+                  "r": 542.8228000000001,
+                  "b": 246.21804424224797,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  176
+                ]
+              }
+            ]
+          }
+        ],
+        "headings": [
+          "Introduction"
+        ],
+        "origin": {
+          "mimetype": "application/pdf",
+          "binary_hash": 1062972874060322732,
+          "filename": "paper14"
+        }
+      }
+    }
+  },
+  {
+    "content": "After acceptance of the scientific and ethical committee of our institution, this prospective comparative study was conducted  in  pediatric  surgery  unit,  Sohag  university hospital  and  Qena  university  hospital  over  12  months period  between  December  2016  to  December  2017  on all  pediatric  patients  who  presented  by  picture  of  early adhesive intestinal obstruction. Patients who improved in the first 24 hours and patients with clinical, laboratory, or radiological evidence of strangulation were excluded.\nClinical  evaluation  (mainly  to  exclude  other  possible causes  of  intestinal  obstruction  and  to  exclude  any clinical  evidence  of  strangulation),  routine  laboratory investigations, and Imaging studies (plain x- ray erect and abdominal ultrasound) were done in all cases (Figure 1) .\nFig 1: Plain X ray show multiple fluid levels.\nAll  patients were given conservative treatment for 24 hours (nothing  per  mouth,  insertion  of  nasogastric  tube,  and intravenous fluids), patients with failure of improvement after 24 hours were divided to 2 groups in the first group we  continued  the  same  conservative  measures  for  48 hours, in the second group we used single oral dose of urographin {dosage was age- dependent, with children age 8 years or older receiving 200 mL, and those under age 8 years receiving 100 mL.} (Figure 2) .\nFig 2: Oral dose of gastrografin.\nFollow up of all patients was done clinically and radiologically for another 48 hours. Surgical intervention (operative adhesiolysis) was  done  with clinical and radiological  failure  of  conservative  treatment  after  72 hours (Figure 3) or when signs of strangulation appeared during period of conservation. Patients (without surgical intervention)  were  discharged  24  hours  of  clinical  and radiological improvement, and follow up was done for 12 months to evaluate incidence of  recurrent episodes. Other data as: demographic data, type of first surgery, period of conservation, results, complications, and outcome all were collected and statistically analyzed.\nFig 3: Intra-operative adhesion.",
+    "metadata": {
+      "document_id": "paper14",
+      "source": "paper14.json",
+      "chunk_index": 3,
+      "total_chunks": 13,
+      "docling": {
+        "schema_name": "docling_core.transforms.chunker.DocMeta",
+        "version": "1.0.0",
+        "doc_items": [
+          {
+            "self_ref": "#/texts/14",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 1,
+                "bbox": {
+                  "l": 313.2283,
+                  "t": 223.01241464843747,
+                  "r": 542.8363000000002,
+                  "b": 127.41804424224779,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  530
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/15",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 1,
+                "bbox": {
+                  "l": 313.23730000000006,
+                  "t": 115.01241464843747,
+                  "r": 542.8543000000002,
+                  "b": 62.618044242247834,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  297
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/18",
+            "parent": {
+              "$ref": "#/pictures/0"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "caption",
+            "prov": [
+              {
+                "page_no": 2,
+                "bbox": {
+                  "l": 71.6042,
+                  "t": 537.8285146484375,
+                  "r": 268.75819999999993,
+                  "b": 528.7113202822403,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  46
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/20",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 2,
+                "bbox": {
+                  "l": 56.77219999999994,
+                  "t": 505.4285146484375,
+                  "r": 286.3729999999999,
+                  "b": 409.8341442422479,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  504
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/21",
+            "parent": {
+              "$ref": "#/pictures/1"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "caption",
+            "prov": [
+              {
+                "page_no": 2,
+                "bbox": {
+                  "l": 98.4416,
+                  "t": 83.61981464843757,
+                  "r": 241.88359999999994,
+                  "b": 74.50262028224029,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  33
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/22",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 2,
+                "bbox": {
+                  "l": 332.5046,
+                  "t": 784.2698146484375,
+                  "r": 562.1099,
+                  "b": 656.2754442422485,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  673
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/23",
+            "parent": {
+              "$ref": "#/pictures/2"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "caption",
+            "prov": [
+              {
+                "page_no": 2,
+                "bbox": {
+                  "l": 373.8722,
+                  "t": 310.91101464843746,
+                  "r": 517.9352000000001,
+                  "b": 301.7938202822404,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  32
+                ]
+              }
+            ]
+          }
+        ],
+        "headings": [
+          "Patients and methods"
+        ],
+        "origin": {
+          "mimetype": "application/pdf",
+          "binary_hash": 1062972874060322732,
+          "filename": "paper14"
+        }
+      }
+    }
+  },
+  {
+    "content": "In  the  period  from  December 2016 to December 2017, 35 patients were admitted with picture of early adhesive intestinal obstruction, after 24 hours of traditional conservative measures: (nothing per mouth, nasogastric tube, and intravenous fluids) patients were divided into 2 groups (Table 1) , the first group included 21 patients in which we continued the same regimen of conservation and the second group included 14 patients in which single oral  dose  of  urographin  (dosage  was  age-  dependent, with children age 8 years or older receiving 200 mL, and those under age 8 years receiving 100 mL.) was given. With follow up of patients for 48 hours, any patient with any evidence of strangulation was excluded(leukocytosis, tachycardia, rebound tenderness& fever) (Table 2) .\nTable 1: Comparison between the studied groups regarding age and sex\n\nAge (months), Conservative (N= 21) = . Age (months), Oral gastrografin (N= 14) = . Age (months), P-value = . Mean± S.D., Conservative (N= 21) = 74.43±43.4. Mean± S.D., Oral gastrografin (N= 14) = 62.86±44.64. Mean± S.D., P-value = 0.359*. Median (Range ), Conservative (N= 21) = 69 (11-170 ). Median (Range ), Oral gastrografin (N= 14) = 46.5 (9-148). Median (Range ), P-value = . Sex, Conservative (N= 21) = . Sex, Oral gastrografin (N= 14) = . Sex, P-value = . Female, Conservative (N= 21) = 12 (57.1%). Female, Oral gastrografin (N= 14) = 4 (28.6%). Female, P-value = 0.096. Male, Conservative (N= 21) = 9 (42.9%). Male, Oral gastrografin (N= 14) = 10 (71.4%). Male, P-value =",
+    "metadata": {
+      "document_id": "paper14",
+      "source": "paper14.json",
+      "chunk_index": 4,
+      "total_chunks": 13,
+      "docling": {
+        "schema_name": "docling_core.transforms.chunker.DocMeta",
+        "version": "1.0.0",
+        "doc_items": [
+          {
+            "self_ref": "#/texts/25",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 2,
+                "bbox": {
+                  "l": 332.5082,
+                  "t": 256.91101464843746,
+                  "r": 562.1359999999995,
+                  "b": 107.31664424224778,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  785
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/28",
+            "parent": {
+              "$ref": "#/tables/0"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "caption",
+            "prov": [
+              {
+                "page_no": 3,
+                "bbox": {
+                  "l": 40.1417,
+                  "t": 780.2714146484375,
+                  "r": 365.3567,
+                  "b": 771.1542202822403,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  68
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/tables/0",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [
+              {
+                "$ref": "#/texts/28"
+              }
+            ],
+            "content_layer": "body",
+            "label": "table",
+            "prov": [
+              {
+                "page_no": 3,
+                "bbox": {
+                  "l": 35.24333039075136,
+                  "t": 767.7332368046123,
+                  "r": 538.387686112523,
+                  "b": 630.9079797736739,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  0
+                ]
+              }
+            ]
+          }
+        ],
+        "headings": [
+          "Results"
+        ],
+        "origin": {
+          "mimetype": "application/pdf",
+          "binary_hash": 1062972874060322732,
+          "filename": "paper14"
+        }
+      }
+    }
+  },
+  {
+    "content": "Table 2: Comparison between the studied groups regarding pulse and WBCs at presentation\n\nPulse at presentation, Conservative (N= 21) = . Pulse at presentation, Oral gastrografin (N= 14) = . Pulse at presentation, P-value = . Mean± S.D., Conservative (N= 21) = 79.81 ± 3.99. Mean± S.D., Oral gastrografin (N= 14) = 81.64 ± 4.83. Mean± S.D., P-value = 0.23. Median (Range), Conservative (N= 21) = 80 (70 - 86). Median (Range), Oral gastrografin (N= 14) = 82 (72 - 88). Median (Range), P-value = . WBCs (10 3 / μL ) at presentation, Conservative (N= 21) = . WBCs (10 3 / μL ) at presentation, Oral gastrografin (N= 14) = . WBCs (10 3 / μL ) at presentation, P-value = . Mean± S.D., Conservative (N= 21) = 8.24 ± 1.89. Mean± S.D., Oral gastrografin (N= 14) = 8.29 ± 2.49. Mean± S.D., P-value = 0.949. Median (Range ), Conservative (N= 21) = 8 (5 - 11). Median (Range ), Oral gastrografin (N= 14) = 8 (4 - 12). Median (Range ), P-value = \nIn our study operated acute appendicitis was the commonest  cause  of  adhesive  intestinal obstruction (Table 3) . Surgical intervention was indicated in 6 cases in the conservative group and in 4 cases in gastrografin group (Table  4). Serosal  tears  occurred  in  2  patients during surgery, and full thickness injury occurred in one patient in whom primary repair was done by single layer mucosa  excluding repair with smooth  postoperative course.",
+    "metadata": {
+      "document_id": "paper14",
+      "source": "paper14.json",
+      "chunk_index": 5,
+      "total_chunks": 13,
+      "docling": {
+        "schema_name": "docling_core.transforms.chunker.DocMeta",
+        "version": "1.0.0",
+        "doc_items": [
+          {
+            "self_ref": "#/texts/29",
+            "parent": {
+              "$ref": "#/tables/1"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "caption",
+            "prov": [
+              {
+                "page_no": 3,
+                "bbox": {
+                  "l": 40.1417,
+                  "t": 608.6534146484375,
+                  "r": 455.6987,
+                  "b": 599.5362202822404,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  87
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/tables/1",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [
+              {
+                "$ref": "#/texts/29"
+              }
+            ],
+            "content_layer": "body",
+            "label": "table",
+            "prov": [
+              {
+                "page_no": 3,
+                "bbox": {
+                  "l": 35.45488859368488,
+                  "t": 595.0725429426955,
+                  "r": 538.1630336120725,
+                  "b": 453.7457759100192,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  0
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/30",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 3,
+                "bbox": {
+                  "l": 36.1417,
+                  "t": 441.6927146484375,
+                  "r": 265.7443000000001,
+                  "b": 389.29834424224794,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  279
+                ]
+              },
+              {
+                "page_no": 3,
+                "bbox": {
+                  "l": 311.8927,
+                  "t": 441.69271464843746,
+                  "r": 541.5573999999999,
+                  "b": 400.0983442422479,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  280,
+                  453
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/31",
+            "parent": {
+              "$ref": "#/tables/2"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "caption",
+            "prov": [
+              {
+                "page_no": 3,
+                "bbox": {
+                  "l": 40.1418,
+                  "t": 373.6218146484375,
+                  "r": 333.6318,
+                  "b": 364.50462028224035,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  61
+                ]
+              }
+            ]
+          }
+        ],
+        "headings": [
+          "Results"
+        ],
+        "origin": {
+          "mimetype": "application/pdf",
+          "binary_hash": 1062972874060322732,
+          "filename": "paper14"
+        }
+      }
+    }
+  },
+  {
+    "content": "Table 3: Comparison between groups regarding previous surgery\nAcute appendicitis, Conservative (N= 21) = 4 (19%). Acute appendicitis, Oral gastrografin (N= 14) = 1 (7.1%). Acute appendicitis, P-value = 0.219. Complicated Meckel's, Conservative (N= 21) = 1 (4.8%). Complicated Meckel's, Oral gastrografin (N= 14) = 0 (0.0%). Complicated Meckel's, P-value = 0.219. Abdominal wall defects, Conservative (N= 21) = 2 (9.5%). Abdominal wall defects, Oral gastrografin (N= 14) = 2 (14.3%). Abdominal wall defects, P-value = 0.219. Intestinal atresia, Conservative (N= 21) = 1 (4.8%). Intestinal atresia, Oral gastrografin (N= 14) = 2 (14.3%). Intestinal atresia, P-value = 0.219. Intestinal perforation(trauma), Conservative (N= 21) = 0 (0.0%). Intestinal perforation(trauma), Oral gastrografin (N= 14) = 2 (14.3%). Intestinal perforation(trauma), P-value = 0.219. Mesenteric cyst, Conservative (N= 21) = 1 (4.8%). Mesenteric cyst, Oral gastrografin (N= 14) = 0 (0.0%). Mesenteric cyst, P-value = 0.219. Mesenteric injury(trauma), Conservative (N= 21) = 0 (0.0%). Mesenteric injury(trauma), Oral gastrografin (N= 14) = 1 (7.1%). Mesenteric injury(trauma), P-value = 0.219. Midgut volvulus, Conservative (N= 21) = 0 (0.0%). Midgut volvulus, Oral gastrografin (N= 14) = 2 (14.3%). Midgut volvulus, P-value = 0.219. NEC with colostomy,",
+    "metadata": {
+      "document_id": "paper14",
+      "source": "paper14.json",
+      "chunk_index": 6,
+      "total_chunks": 13,
+      "docling": {
+        "schema_name": "docling_core.transforms.chunker.DocMeta",
+        "version": "1.0.0",
+        "doc_items": [
+          {
+            "self_ref": "#/tables/2",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [
+              {
+                "$ref": "#/texts/31"
+              }
+            ],
+            "content_layer": "body",
+            "label": "table",
+            "prov": [
+              {
+                "page_no": 3,
+                "bbox": {
+                  "l": 34.49031478008255,
+                  "t": 362.48587812576665,
+                  "r": 538.3403619244694,
+                  "b": 75.63373485606633,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  0
+                ]
+              }
+            ]
+          }
+        ],
+        "headings": [
+          "Results"
+        ],
+        "origin": {
+          "mimetype": "application/pdf",
+          "binary_hash": 1062972874060322732,
+          "filename": "paper14"
+        }
+      }
+    }
+  },
+  {
+    "content": "Conservative (N= 21) = 1 (4.8%). NEC with colostomy, Oral gastrografin (N= 14) = 0 (0.0%). NEC with colostomy, P-value = 0.219. Intussusception, Conservative (N= 21) = 4 (19%). Intussusception, Oral gastrografin (N= 14) = 1 (7.1%). Intussusception, P-value = 0.219. Neglected obstructed cong hernia with resection, Conservative (N= 21) = 2 (9.5%). Neglected obstructed cong hernia with resection, Oral gastrografin (N= 14) = 1 (7.1%). Neglected obstructed cong hernia with resection, P-value = 0.219. Infected ventriculoperitoneal shunt, Conservative (N= 21) = 1 (4.8%). Infected ventriculoperitoneal shunt, Oral gastrografin (N= 14) = 0 (0.0%). Infected ventriculoperitoneal shunt, P-value = 0.219. Perforated appendix, Conservative (N= 21) = 3 (14.3%). Perforated appendix, Oral gastrografin (N= 14) = 1 (7.1%). Perforated appendix, P-value = 0.219. Splenectomy (trauma), Conservative (N= 21) = 1 (4.8%). Splenectomy (trauma), Oral gastrografin (N= 14) = 1 (7.1%). Splenectomy (trauma), P-value = 0.219",
+    "metadata": {
+      "document_id": "paper14",
+      "source": "paper14.json",
+      "chunk_index": 7,
+      "total_chunks": 13,
+      "docling": {
+        "schema_name": "docling_core.transforms.chunker.DocMeta",
+        "version": "1.0.0",
+        "doc_items": [
+          {
+            "self_ref": "#/tables/2",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [
+              {
+                "$ref": "#/texts/31"
+              }
+            ],
+            "content_layer": "body",
+            "label": "table",
+            "prov": [
+              {
+                "page_no": 3,
+                "bbox": {
+                  "l": 34.49031478008255,
+                  "t": 362.48587812576665,
+                  "r": 538.3403619244694,
+                  "b": 75.63373485606633,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  0
+                ]
+              }
+            ]
+          }
+        ],
+        "headings": [
+          "Results"
+        ],
+        "origin": {
+          "mimetype": "application/pdf",
+          "binary_hash": 1062972874060322732,
+          "filename": "paper14"
+        }
+      }
+    }
+  },
+  {
+    "content": "Table  4:  Comparison  between  the  studied  groups  regarding  recurrence,  complications  and  management related data\n\nShifting to surgery, Conservative (N= 21) = . Shifting to surgery, Oral gastrografin (N= 14) = . Shifting to surgery, P-value = . No, Conservative (N= 21) = 15 (71.4%). No, Oral gastrografin (N= 14) = 10 (71.4%). No, P-value = 1. Ye s, Conservative (N= 21) = 6 (28.6%). Ye s, Oral gastrografin (N= 14) = 4 (28.6%). Ye s, P-value = . Recurrence within 12 months, Conservative (N= 21) = . Recurrence within 12 months, Oral gastrografin (N= 14) = . Recurrence within 12 months, P-value = . No, Conservative (N= 21) = 14 (66.7%). No, Oral gastrografin (N= 14) = 12 (85.7%). No, P-value = 0.262. Yes, Conservative (N= 21) = 7 (33.3%). Yes, Oral gastrografin (N= 14) = 2 (14.3%). Yes, P-value = . Hospital stay (days), Conservative (N= 21) = . Hospital stay (days), Oral gastrografin (N= 14) = . Hospital stay (days), P-value = . Mean± S.D., Conservative (N= 21) = 6.24 ± 0.89. Mean± S.D., Oral gastrografin (N= 14) = 3.36 ± 0.49. Mean± S.D., P-value = <0.001**. Median (Range), Conservative (N= 21) = 6 (4 - 8). Median (Range), Oral gastrografin (N= 14) = 3 (3 - 8). Median (Range), P-value =",
+    "metadata": {
+      "document_id": "paper14",
+      "source": "paper14.json",
+      "chunk_index": 8,
+      "total_chunks": 13,
+      "docling": {
+        "schema_name": "docling_core.transforms.chunker.DocMeta",
+        "version": "1.0.0",
+        "doc_items": [
+          {
+            "self_ref": "#/texts/34",
+            "parent": {
+              "$ref": "#/tables/3"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "caption",
+            "prov": [
+              {
+                "page_no": 4,
+                "bbox": {
+                  "l": 61.6608,
+                  "t": 780.8581146484375,
+                  "r": 556.1882999999998,
+                  "b": 760.9409202822404,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  121
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/tables/3",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [
+              {
+                "$ref": "#/texts/34"
+              }
+            ],
+            "content_layer": "body",
+            "label": "table",
+            "prov": [
+              {
+                "page_no": 4,
+                "bbox": {
+                  "l": 56.57004061704501,
+                  "t": 760.6456770127221,
+                  "r": 557.9080893278121,
+                  "b": 572.2883643391554,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  0
+                ]
+              }
+            ]
+          }
+        ],
+        "headings": [
+          "Results"
+        ],
+        "origin": {
+          "mimetype": "application/pdf",
+          "binary_hash": 1062972874060322732,
+          "filename": "paper14"
+        }
+      }
+    }
+  },
+  {
+    "content": "Adhesive  small  bowel  obstruction  in  pediatrics  is considered  one  of  the  most  important  elements of  postoperative  morbidity  with  increased  risk  of morbidity including intestinal injury with the use of operative adhesiolysis as main line of treatment, and so searching for effective non operative treatment may lead to less morbidity, less hospital stay, and so will be cost saving. 8\nThe  use  of    oral water-soluble  contrast as a diagnostic and therapeutic tool for adhesive small bowel  obstruction  in  the  adult  population  proved to  beneficial  in  many  medical  reports  As  regards diagnosis,  oral  contrast  transit  from  stomach  to large  intestine  is  reported  to  predict  spontaneous resolution of adhesive  small bowel  obstruction with 96% sensitivity and 98% specificity. Moreover many authors reported fewer incidences of surgical intervention,  and  shorter  time  for  conservative treatment  and  hospital  stay  with  the  use  of  oral water soluble contrast. 9\nAs regards the etiology  of  adhesive  bowel  obstruction in different age groups many authors showed that appendectomy  and  colorectal  procedures  are  the most common procedures,, in our study in pediatric patients  acute  appendicitis  was  the  commonest followed by operated intussusception. 10\nThe duration of conservation is controversial between authors but almost all authors recommend surgical intervention if conservation failed after 4872 hours. In our institution we shifted to surgery 72 hours after conservative treatment provided there was no any of the manifestations of strangulation during the close observation period. 11,12\nOne  randomized  controlled study  showed  that gastrografin  significantly  increased  the  incidence of resolution of obstruction, decreased the hospital stay  duration,  and  reduced  the  need  for  surgical intervention  to  10%.  Another  similar  study  concluded that  urografin  is  a  safe  and  reliable  water-soluble contrast medium, that can be used to differentiate partial intestinal obstruction from complete intestinal obstruction, and that early oral intake was found to be a major advantage of urografin use. However, Feigin et al and Fevang et al concluded that there is no change of the operative rate, time of resolution of obstruction, and hospital stay. 11,13-15\nIn this study the duration of hospitalization significantly decreased with the use of gastrografin, the recurrence attacks (during one year period of follow up) decreased with its use but the incidence of shifting to surgery did not change.",
+    "metadata": {
+      "document_id": "paper14",
+      "source": "paper14.json",
+      "chunk_index": 9,
+      "total_chunks": 13,
+      "docling": {
+        "schema_name": "docling_core.transforms.chunker.DocMeta",
+        "version": "1.0.0",
+        "doc_items": [
+          {
+            "self_ref": "#/texts/36",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 4,
+                "bbox": {
+                  "l": 56.6929,
+                  "t": 516.7416146484375,
+                  "r": 286.60189999999994,
+                  "b": 422.5256475304491,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  400
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/37",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 4,
+                "bbox": {
+                  "l": 56.6929,
+                  "t": 408.7416146484375,
+                  "r": 286.6149,
+                  "b": 266.5256475304491,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  610
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/38",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 4,
+                "bbox": {
+                  "l": 56.69289999999995,
+                  "t": 252.74161464843746,
+                  "r": 286.5939000000001,
+                  "b": 182.52564753044908,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  301
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/39",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 4,
+                "bbox": {
+                  "l": 56.6929,
+                  "t": 168.74161464843746,
+                  "r": 286.62390000000005,
+                  "b": 86.52564753044908,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  344
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/40",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 4,
+                "bbox": {
+                  "l": 56.69010000000003,
+                  "t": 72.74161464843746,
+                  "r": 286.5871,
+                  "b": 62.52564753044908,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  47
+                ]
+              },
+              {
+                "page_no": 4,
+                "bbox": {
+                  "l": 332.43010000000004,
+                  "t": 528.7416146484375,
+                  "r": 562.4180999999998,
+                  "b": 386.5256475304491,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  48,
+                  687
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/41",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 4,
+                "bbox": {
+                  "l": 332.4289,
+                  "t": 372.7416146484375,
+                  "r": 562.4268999999997,
+                  "b": 314.5256475304491,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  240
+                ]
+              }
+            ]
+          }
+        ],
+        "headings": [
+          "Discussion"
+        ],
+        "origin": {
+          "mimetype": "application/pdf",
+          "binary_hash": 1062972874060322732,
+          "filename": "paper14"
+        }
+      }
+    }
+  },
+  {
+    "content": "This  study  was  limited  by  the  small  number  of patients, also  due to different causes of adhesive intestinal obstruction, we did not take into account direct correlation of results dependent on primary cause, in the other hand long follow up is needed for evaluation of rate of re-exploration in both groups, we  also  need  assessment    of  cost  and  utilization of hospital resources in both group, lastly we need to evaluate efficacy of giving another dose of oral contrast in cases not improving with first one.",
+    "metadata": {
+      "document_id": "paper14",
+      "source": "paper14.json",
+      "chunk_index": 10,
+      "total_chunks": 13,
+      "docling": {
+        "schema_name": "docling_core.transforms.chunker.DocMeta",
+        "version": "1.0.0",
+        "doc_items": [
+          {
+            "self_ref": "#/texts/42",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 4,
+                "bbox": {
+                  "l": 332.4288999999999,
+                  "t": 300.74161464843746,
+                  "r": 562.4208999999998,
+                  "b": 182.52564753044908,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  525
+                ]
+              }
+            ]
+          }
+        ],
+        "headings": [
+          "Discussion"
+        ],
+        "origin": {
+          "mimetype": "application/pdf",
+          "binary_hash": 1062972874060322732,
+          "filename": "paper14"
+        }
+      }
+    }
+  },
+  {
+    "content": "The  period  of  hospital  admission  is  significantly shorter  with  the  use  of  oral  urografin  with  fewer incidences of recurrent attacks but it doesn't decrease  the  incidence  of  shifting  to  surgery,  the use of gastrografin is safe with no significant harmful side effects observed.",
+    "metadata": {
+      "document_id": "paper14",
+      "source": "paper14.json",
+      "chunk_index": 11,
+      "total_chunks": 13,
+      "docling": {
+        "schema_name": "docling_core.transforms.chunker.DocMeta",
+        "version": "1.0.0",
+        "doc_items": [
+          {
+            "self_ref": "#/texts/44",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 4,
+                "bbox": {
+                  "l": 332.4388999999999,
+                  "t": 156.74161464843758,
+                  "r": 562.4389,
+                  "b": 86.52564753044919,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  297
+                ]
+              }
+            ]
+          }
+        ],
+        "headings": [
+          "Conclusion"
+        ],
+        "origin": {
+          "mimetype": "application/pdf",
+          "binary_hash": 1062972874060322732,
+          "filename": "paper14"
+        }
+      }
+    }
+  },
+  {
+    "content": "1. Eeson GA, Wales P, Murphy JJ: Adhesive small bowel  obstruction  in  children:  Should  we  still operate? J Pediatr Surg. 2010; 45: 969-974.\n2. Gingalewski  CA:  Other  causes  of  intestinal obstruction. In: Grosfeld J, O'Neill J Jr , Fonkalsrud E, Coran AG, Caldamone AA, editors. Pediatric Surgery. 6 th ed.  Philadelphia, PA: Elsevier Science . 2006: 1358-1368.\n3. Van der  Krabben  AA,  Dijkstra  FR,  Nieuwenhuijzen M, et al: Morbidity and mortality of inadvertent enterotomy  during adhesiolysis. Br  J  Surg. 2000; 87: 467-471.\n4. Di  Saverio  S,  Catena  F ,  Ansaloni  L,  Gavioli  M, Valentino M, Pinna AD: Water-soluble contrast medium (gastrografin ) value in adhesive small intestine  obstruction  (ASIO):  A  prospective, randomized,  controlled,  clinical  trial. World  J Surg. 2008; 2304-32;2293.\n5. Kapoor S, Jain G, Sewkani A, Sharma S, Patel K,  Varshney  S:  Prospective  evaluation  of  oral gastrografin in postoperative small bowel obstruction. J Surg Res. 2006; 131: 256-260.\n6. Choi HK, Chu KW, Law WL: Therapeutic value of Gastrografin in adhesive small bowel obstruction after  unsuccessful  conservative  treatment:  A prospective randomized trial. Ann Surg. 2002; 236: 1-6.\n7. Biondo  S,  Pares  D,  Mora  L,  Marti  Rague  J, Kreisler  E,  Jaurrieta  E:  Randomized  clinical study of gastrografin administration in patients with  adhesive  small  bowel  obstruction. Br  J Surg. 2003; 90: 542-546.\n8. Zielinski  M,  Haddad  N,  Choudhry  A,  et  al: Multi-institutional, prospective, observational study  comparing  the  gastrografin  challenge\n9. versus  standard  treatment  in  adhesive  small bowel  obstruction. J  Trauma Acute  Care  Surg. 2017; 83: 47-54.",
+    "metadata": {
+      "document_id": "paper14",
+      "source": "paper14.json",
+      "chunk_index": 12,
+      "total_chunks": 13,
+      "docling": {
+        "schema_name": "docling_core.transforms.chunker.DocMeta",
+        "version": "1.0.0",
+        "doc_items": [
+          {
+            "self_ref": "#/texts/48",
+            "parent": {
+              "$ref": "#/groups/1"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [
+              {
+                "page_no": 5,
+                "bbox": {
+                  "l": 36.0,
+                  "t": 772.8204146484375,
+                  "r": 265.9170000000001,
+                  "b": 738.6044475304491,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  144
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/49",
+            "parent": {
+              "$ref": "#/groups/1"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [
+              {
+                "page_no": 5,
+                "bbox": {
+                  "l": 36.01000000000005,
+                  "t": 724.8204146484375,
+                  "r": 265.92859999999996,
+                  "b": 666.6044475304491,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  224
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/50",
+            "parent": {
+              "$ref": "#/groups/1"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [
+              {
+                "page_no": 5,
+                "bbox": {
+                  "l": 36.008600000000015,
+                  "t": 652.8204146484375,
+                  "r": 265.9135999999999,
+                  "b": 606.6044475304491,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  169
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/51",
+            "parent": {
+              "$ref": "#/groups/1"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [
+              {
+                "page_no": 5,
+                "bbox": {
+                  "l": 36.0086,
+                  "t": 592.8204146484375,
+                  "r": 265.91959999999995,
+                  "b": 522.6044475304491,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  278
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/52",
+            "parent": {
+              "$ref": "#/groups/1"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [
+              {
+                "page_no": 5,
+                "bbox": {
+                  "l": 35.97860000000003,
+                  "t": 508.82041464843746,
+                  "r": 265.8816,
+                  "b": 462.6044475304491,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  186
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/53",
+            "parent": {
+              "$ref": "#/groups/1"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [
+              {
+                "page_no": 5,
+                "bbox": {
+                  "l": 35.96860000000004,
+                  "t": 448.82041464843746,
+                  "r": 265.8686000000001,
+                  "b": 390.6044475304491,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  202
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/54",
+            "parent": {
+              "$ref": "#/groups/1"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [
+              {
+                "page_no": 5,
+                "bbox": {
+                  "l": 35.948600000000056,
+                  "t": 376.82041464843746,
+                  "r": 265.85760000000005,
+                  "b": 318.6044475304491,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  225
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/55",
+            "parent": {
+              "$ref": "#/groups/1"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [
+              {
+                "page_no": 5,
+                "bbox": {
+                  "l": 35.94860000000003,
+                  "t": 304.82041464843746,
+                  "r": 265.8546000000002,
+                  "b": 270.6044475304491,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  146
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/56",
+            "parent": {
+              "$ref": "#/groups/1"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [
+              {
+                "page_no": 5,
+                "bbox": {
+                  "l": 329.6686000000001,
+                  "t": 784.8204146484375,
+                  "r": 541.6515999999998,
+                  "b": 750.6044475304491,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  114
+                ]
+              }
+            ]
+          }
+        ],
+        "headings": [
+          "References"
+        ],
+        "origin": {
+          "mimetype": "application/pdf",
+          "binary_hash": 1062972874060322732,
+          "filename": "paper14"
+        }
+      }
+    }
+  },
+  {
+    "content": "9. Linden AF, Raiji MT, Kohler JE, et al: Evaluation of a water-soluble contrast protocol for nonoperative management of pediatric adhesive small  bowel  obstruction. J Pediatr Surg. 2019; 54(1): 184-188.\n10. Cox  MR,  Gunn  IF,  Eastman  MC,  et  al:  The operative  aetiology  and  types  of  adhesions causing  small  bowel  obstruction. Aust  NZ  J Surg. 1993; 63: 848-852. [PubMed].\n11. Assalia A, Schein M, Kopelman  D, et al: Therapeutic effect of oral gastrografin in adhesive,  partial  small-bowel  obstruction:  A prospective  randomized  trial. Surgery. 1994; 115: 433-437. [PubMed].\n12. Sosa  J,  Gardner  B.  Management  of  patients diagnosed as acute intestinal obstruction secondary  to  adhesions. Am  Surg. 1993;  59: 125-128. [PubMed].\n13. Feigin E, Seror D, Szold A, Carmon M, Allweis TM,  Nissan  A,  Gross  E,  Vromen  A,  Freund R: Water-soluble contrast material has no therapeutic effect on postoperative smallbowel  obstruction:  Results  of  a  prospective, randomized clinical trial. Am J Surg. 1996; 171: 227-229.\n14. Shyr-Chyr C, Jen C, Huang L, et al: Oral urografin in postoperative small bowel obstruction. World Journal of Surgery. 1999; 23(10): 1051-1054.\n15. Fevang BT, Jensen D, Fevang J, et al: Upper  gastrointestinal  contrast  study  in  the management of small bowel obstruction-A prospective randomized study. Eur  J  Surg. 2000; 166: 39-43. [PubMed].",
+    "metadata": {
+      "document_id": "paper14",
+      "source": "paper14.json",
+      "chunk_index": 13,
+      "total_chunks": 13,
+      "docling": {
+        "schema_name": "docling_core.transforms.chunker.DocMeta",
+        "version": "1.0.0",
+        "doc_items": [
+          {
+            "self_ref": "#/texts/57",
+            "parent": {
+              "$ref": "#/groups/1"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [
+              {
+                "page_no": 5,
+                "bbox": {
+                  "l": 311.6686000000001,
+                  "t": 736.8204146484375,
+                  "r": 541.6586000000002,
+                  "b": 678.6044475304491,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  204
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/58",
+            "parent": {
+              "$ref": "#/groups/1"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [
+              {
+                "page_no": 5,
+                "bbox": {
+                  "l": 311.6686000000001,
+                  "t": 664.8204146484375,
+                  "r": 541.6555999999999,
+                  "b": 618.6044475304491,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  182
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/59",
+            "parent": {
+              "$ref": "#/groups/1"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [
+              {
+                "page_no": 5,
+                "bbox": {
+                  "l": 311.6686000000001,
+                  "t": 604.8204146484375,
+                  "r": 541.6586000000001,
+                  "b": 546.6044475304491,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  207
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/60",
+            "parent": {
+              "$ref": "#/groups/1"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [
+              {
+                "page_no": 5,
+                "bbox": {
+                  "l": 311.6586000000001,
+                  "t": 532.8204146484375,
+                  "r": 541.6486000000001,
+                  "b": 486.6044475304491,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  159
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/61",
+            "parent": {
+              "$ref": "#/groups/1"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [
+              {
+                "page_no": 5,
+                "bbox": {
+                  "l": 311.6686000000001,
+                  "t": 472.82041464843746,
+                  "r": 541.6686000000002,
+                  "b": 390.6044475304491,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  287
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/62",
+            "parent": {
+              "$ref": "#/groups/1"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [
+              {
+                "page_no": 5,
+                "bbox": {
+                  "l": 311.6886000000001,
+                  "t": 376.82041464843746,
+                  "r": 541.6496000000002,
+                  "b": 342.6044475304491,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  147
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/63",
+            "parent": {
+              "$ref": "#/groups/1"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [
+              {
+                "page_no": 5,
+                "bbox": {
+                  "l": 311.6686000000001,
+                  "t": 328.82041464843746,
+                  "r": 541.6586000000001,
+                  "b": 270.6044475304491,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  203
+                ]
+              }
+            ]
+          }
+        ],
+        "headings": [
+          "References"
+        ],
+        "origin": {
+          "mimetype": "application/pdf",
+          "binary_hash": 1062972874060322732,
+          "filename": "paper14"
+        }
+      }
+    }
+  }
+]

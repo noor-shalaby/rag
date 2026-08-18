@@ -1,0 +1,2356 @@
+[
+  {
+    "content": "Gad M. Behairy 1 , Abdelrahman M. Elghandour 1  and Islam Khaled 2*\n1 Department of General Surgery, Ain Shams University Hospitals, Cairo, and 2 Department of General Surgery, Suez Canal University Hospitals, Ismailia Egypt",
+    "metadata": {
+      "document_id": "paper31",
+      "source": "paper31.json",
+      "chunk_index": 1,
+      "total_chunks": 22,
+      "docling": {
+        "schema_name": "docling_core.transforms.chunker.DocMeta",
+        "version": "1.0.0",
+        "doc_items": [
+          {
+            "self_ref": "#/texts/3",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 1,
+                "bbox": {
+                  "l": 72.024,
+                  "t": 608.8749780273438,
+                  "r": 463.33299999999997,
+                  "b": 593.4489780273437,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  67
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/4",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 1,
+                "bbox": {
+                  "l": 72.024,
+                  "t": 569.8479780273437,
+                  "r": 525.4717599999999,
+                  "b": 546.8109780273437,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  156
+                ]
+              }
+            ]
+          }
+        ],
+        "headings": [
+          "The Validity of Modified Alvarado Scoring System as a Predictor Tool for Diagnosis of Acute Appendicitis in a Low- Country; a Comparative Prospective Study"
+        ],
+        "origin": {
+          "mimetype": "application/pdf",
+          "binary_hash": 9810307613908242158,
+          "filename": "paper31"
+        }
+      }
+    }
+  },
+  {
+    "content": "Background: Acute appendicitis is a disease with a well-known long history. The final diagnosis of acute appendicitis is only accurate with histopathological findings after appendectomy. However, the choice to carry out surgical treatment is based exclusively on clinical assessment which does not reach the precise diagnosis of appendicitis. Therefore, Different scoring systems have emerged in order to help physicians in decision making and diagnosis of suspicious individuals. Aim: To determine the diagnostic accuracy of the Modified Alvarado Scoring System in a lowincome country in the diagnosis of appendicitis. Patients and Methods: This was a cross-sectional study that included 200 patients with right iliac fossa pain, suggestive of acute appendicitis. The patients were examined clinically and randomly allocated into 2 groups. The Modified Alvarado Scoring System (MASS) was calculated for the case group and listed and compared to another control group for which the operative decision was based on the clinical evaluation without relying on a scoring system. All the studied patients went through appendectomy according to overall clinical judgment and never based on MASS only. Specimens were sent to histopathological examination to verify the diagnosis. Results: The results showed that MASS at the cut-off value of ≥ 7 has a sensitivity of 93.33%, a specificity of 52.94%, and accuracy of 84.42%, and a negative appendectomy rate of 17 out of 95 patients (17.8%). Conclusion: MASS is a safe tool in the diagnosis of acute appendicitis due to its accepted sensitivity and higher specificity. It could be helpful in low-income countries, where resources are limited.\nKeywords:\nAcute appendicitis, Modified Alvarado Score, diagnosis of appendicitis.",
+    "metadata": {
+      "document_id": "paper31",
+      "source": "paper31.json",
+      "chunk_index": 2,
+      "total_chunks": 22,
+      "docling": {
+        "schema_name": "docling_core.transforms.chunker.DocMeta",
+        "version": "1.0.0",
+        "doc_items": [
+          {
+            "self_ref": "#/texts/6",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 1,
+                "bbox": {
+                  "l": 72.024,
+                  "t": 491.1939780273438,
+                  "r": 525.8156799999999,
+                  "b": 251.74397802734381,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  1684
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/7",
+            "parent": {
+              "$ref": "#/groups/0"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 1,
+                "bbox": {
+                  "l": 72.024,
+                  "t": 237.0799780273437,
+                  "r": 124.69200000000002,
+                  "b": 225.0799780273437,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  9
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/8",
+            "parent": {
+              "$ref": "#/groups/0"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 1,
+                "bbox": {
+                  "l": 124.7,
+                  "t": 237.0799780273437,
+                  "r": 456.93568000000005,
+                  "b": 225.0799780273437,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  71
+                ]
+              }
+            ]
+          }
+        ],
+        "headings": [
+          "Abstract"
+        ],
+        "origin": {
+          "mimetype": "application/pdf",
+          "binary_hash": 9810307613908242158,
+          "filename": "paper31"
+        }
+      }
+    }
+  },
+  {
+    "content": "Acute appendicitis (AA) is one of the commonest  surgical  emergencies  worldwide. The gold standard treatment for acute appendicitis is appendicectomy. However, a recent debate now is existing in order to treat AA medically (1) . Delay in diagnosis of AA may lead subsequently to several complications such as perforation, abscess formation,  generalized  peritonitis  and  even death (2) .  Furthermore,  the  higher  rate  of negative appendicectomy with its undesirable consequences such as post-operative adhesions  and  ileus (1) .  These  drawbacks have implemented the use of several diagnostic modalities such as ultrasonography and computed tomography (CT) to reduce the rate of negative appendectomies and improve the diagnostic accuracy. Although this  led  to  further  financial  burden  and health care costs mainly in less developed countries with limited resources (3) . Appendicitis can advance to perforation, which in turn accompanied with greater morbidity and mortality. Consequently, surgeons are willing  to  operate  when  the  diagnosis  is most  likely  in  lieu  of  delay  till  it  is  certainty (4) . An earlier decision to operate contributes  to  removing  a  normal  appendix, which rates are from 15%-30% of patients. However, the number might be increased or  decreased  in  particular  demographic communities. This percentage can easily diminish  by  paying  attention  to  equivocal subdivision for a certain interval followed by re-evaluation (4) . The Alvarado score permits risk stratification in individuals giving history  of  abdominal  pain,  attaching  the possibilities of appendicitis to recommendations concerning discharge, observation or operative decision. Additional investigations,  which  include  ultrasound  and  computed tomography (CT) scanning, are recommended  when  appendicitis  risks  are within the intermediate spectrum (5) . In lowresource  nations,  the  high  expenses  and limitation in imaging modalities, imply that the scoring systems are of useful use in diagnosis  of  appendicitis  as  a  cause  of  an acute abdomen, mainly, where imaging is not a choice (6) . Another tool that could be of value, when combined with scoring system or to achieve a better diagnostic accuracy  of  appendicitis  is  the  computed  tomography (CT) scan. It provides excellent radiological  differential  diagnostic  ability to  determine inflammation and complication of appendicitis in suspicious cases. The advancement in diagnostic modalities and availability of CT add more to the physician in  establishment  of  diagnosis  of  Rt.  Iliac fossa",
+    "metadata": {
+      "document_id": "paper31",
+      "source": "paper31.json",
+      "chunk_index": 3,
+      "total_chunks": 22,
+      "docling": {
+        "schema_name": "docling_core.transforms.chunker.DocMeta",
+        "version": "1.0.0",
+        "doc_items": [
+          {
+            "self_ref": "#/texts/10",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 1,
+                "bbox": {
+                  "l": 72.024,
+                  "t": 181.15997802734375,
+                  "r": 289.454,
+                  "b": 95.93997802734384,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  252
+                ]
+              },
+              {
+                "page_no": 1,
+                "bbox": {
+                  "l": 308.45,
+                  "t": 195.55997802734373,
+                  "r": 525.904,
+                  "b": 95.69997802734383,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  253,
+                  555
+                ]
+              },
+              {
+                "page_no": 2,
+                "bbox": {
+                  "l": 72.024,
+                  "t": 767.3199780273438,
+                  "r": 289.454,
+                  "b": 96.05997802734373,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  556,
+                  2553
+                ]
+              },
+              {
+                "page_no": 2,
+                "bbox": {
+                  "l": 308.45,
+                  "t": 767.3199780273438,
+                  "r": 525.904,
+                  "b": 608.7999780273439,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  2554,
+                  3013
+                ]
+              }
+            ]
+          }
+        ],
+        "headings": [
+          "Introduction"
+        ],
+        "origin": {
+          "mimetype": "application/pdf",
+          "binary_hash": 9810307613908242158,
+          "filename": "paper31"
+        }
+      }
+    }
+  },
+  {
+    "content": "pain.  However,  CT  scan  was  only available in diagnosis of appendicitis in <8% of  a  studied  population  in  low  income countries  due  to  limitation  of  resources and unavailability of CT (7) .  The  aim  of  this research was to determine the diagnostic accuracy of Modified Alvarado Scoring System (MASS) in the diagnosis of acute appendicitis in a low-income country with limited resources.\n*Corresponding Author: dr.islam.ahmed@med.suez.edu.eg",
+    "metadata": {
+      "document_id": "paper31",
+      "source": "paper31.json",
+      "chunk_index": 4,
+      "total_chunks": 22,
+      "docling": {
+        "schema_name": "docling_core.transforms.chunker.DocMeta",
+        "version": "1.0.0",
+        "doc_items": [
+          {
+            "self_ref": "#/texts/10",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 1,
+                "bbox": {
+                  "l": 72.024,
+                  "t": 181.15997802734375,
+                  "r": 289.454,
+                  "b": 95.93997802734384,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  252
+                ]
+              },
+              {
+                "page_no": 1,
+                "bbox": {
+                  "l": 308.45,
+                  "t": 195.55997802734373,
+                  "r": 525.904,
+                  "b": 95.69997802734383,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  253,
+                  555
+                ]
+              },
+              {
+                "page_no": 2,
+                "bbox": {
+                  "l": 72.024,
+                  "t": 767.3199780273438,
+                  "r": 289.454,
+                  "b": 96.05997802734373,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  556,
+                  2553
+                ]
+              },
+              {
+                "page_no": 2,
+                "bbox": {
+                  "l": 308.45,
+                  "t": 767.3199780273438,
+                  "r": 525.904,
+                  "b": 608.7999780273439,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  2554,
+                  3013
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/11",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "footnote",
+            "prov": [
+              {
+                "page_no": 1,
+                "bbox": {
+                  "l": 72.024,
+                  "t": 80.66097802734384,
+                  "r": 314.87948,
+                  "b": 70.70097802734381,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  53
+                ]
+              }
+            ]
+          }
+        ],
+        "headings": [
+          "Introduction"
+        ],
+        "origin": {
+          "mimetype": "application/pdf",
+          "binary_hash": 9810307613908242158,
+          "filename": "paper31"
+        }
+      }
+    }
+  },
+  {
+    "content": "A prospective randomized cross-sectional study was conducted between March 2017 and March 2018 at both Ain-Shams University  Hospitals  and  Suez  Canal  University Hospitals. The study was reviewed by the Research Ethics Committee of the Faculty of Medicine at Ain-Shams University (reference  number:  #7681).  Written  and  verbal informed  consent  was  obtained  from  all the studied participant. The study was carried  out  on  200  patients  presented  with right  iliac  fossa  pain,  suggestive  of  acute appendicitis.  Figure  1  shows  the  distribution of the studied population according to the  inclusion  and  exclusion  criteria.  Patients were included of any ages and genders.  Patients  with  any  of  the  following were excluded: BMI 40 or more, pathologically  diagnosed  inflammatory  bowel  disease or malignancy. Patients were divided randomly into 2 groups, the first group was those patients who were enrolled into the study according to Modified Alvarado Scoring system (Table 1) (8) ,  while the controls  were  patients  who  have  been  operated based on clinical examination and surgeons decision without using any scoring system.  The  sensitivity  and  specificity  of MASS  was  plotted  against  the  control group.  All  patients  were  subjected  to:  1) History taking and clinical examination, 2) Laboratory Investigation: Complete blood picture with differential. Urine analysis and pregnancy test if suspicion pf Urinary tract infection and female in childbearing age respectively. Patients in the patients' group were graded into three subtypes based on six clinical symptoms and two lab parameters  each  assessed  by  a  score  pad  coefficient as follows: (9) 1) Group (A): (score 1-4):\nThese  patients  with  negative  ultrasound after having scored with MASS, were discharged and sent home on antispasmodic medication  with  the  proper  instructions. They  were  operated  when  come  back  to hospital  with  recurring  of  symptoms  or worsening of the condition. 2) Group (B): (score 5-6): Hospital admission.\nThese patients were reexamined and reassessed frequently, Their Modified Alvarado Score  were  recalculated  again,  and  they will  join  those  of  group  (A)  or  those  of group (C) and were be operated regardless of  the  subsequent  scoring  category.  3)",
+    "metadata": {
+      "document_id": "paper31",
+      "source": "paper31.json",
+      "chunk_index": 5,
+      "total_chunks": 22,
+      "docling": {
+        "schema_name": "docling_core.transforms.chunker.DocMeta",
+        "version": "1.0.0",
+        "doc_items": [
+          {
+            "self_ref": "#/texts/15",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 2,
+                "bbox": {
+                  "l": 308.45,
+                  "t": 565.0899780273438,
+                  "r": 525.904,
+                  "b": 98.93997802734384,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  1379
+                ]
+              },
+              {
+                "page_no": 3,
+                "bbox": {
+                  "l": 72.024,
+                  "t": 767.3199780273438,
+                  "r": 289.454,
+                  "b": 652.8399780273438,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  1380,
+                  1734
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/18",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 3,
+                "bbox": {
+                  "l": 308.45,
+                  "t": 767.3199780273438,
+                  "r": 525.904,
+                  "b": 652.8399780273438,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  328
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/48",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 3,
+                "bbox": {
+                  "l": 72.024,
+                  "t": 138.41997802734375,
+                  "r": 289.454,
+                  "b": 97.13997802734377,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  126
+                ]
+              },
+              {
+                "page_no": 3,
+                "bbox": {
+                  "l": 308.45,
+                  "t": 138.41997802734375,
+                  "r": 525.904,
+                  "b": 97.13997802734377,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  127,
+                  261
+                ]
+              }
+            ]
+          }
+        ],
+        "headings": [
+          "Patients and Methods"
+        ],
+        "origin": {
+          "mimetype": "application/pdf",
+          "binary_hash": 9810307613908242158,
+          "filename": "paper31"
+        }
+      }
+    }
+  },
+  {
+    "content": "Group (C): (score 7-9): These patients were prepared  for  urgent  operative  intervention. All the patients were operated based on  the  hospital  protocol.  The  specimen was submitted for histopathological examination  and  the  operative  findings  along with the post-operative complications were documented. Modified Alvarado score correlated with histopathological findings.",
+    "metadata": {
+      "document_id": "paper31",
+      "source": "paper31.json",
+      "chunk_index": 6,
+      "total_chunks": 22,
+      "docling": {
+        "schema_name": "docling_core.transforms.chunker.DocMeta",
+        "version": "1.0.0",
+        "doc_items": [
+          {
+            "self_ref": "#/texts/51",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 4,
+                "bbox": {
+                  "l": 72.024,
+                  "t": 767.3199780273438,
+                  "r": 289.454,
+                  "b": 623.4399780273438,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  381
+                ]
+              }
+            ]
+          }
+        ],
+        "headings": [
+          "Patients and Methods"
+        ],
+        "origin": {
+          "mimetype": "application/pdf",
+          "binary_hash": 9810307613908242158,
+          "filename": "paper31"
+        }
+      }
+    }
+  },
+  {
+    "content": "Data were analyzed using IBM SPSS software  package  version  20.0  (Armonk,  NY: IBM  Corp)  The  Kolmogorov-Smirnov  test was used to verify distribution normality. The mean and SD were used to characterize quantitative results. The importance of the findings obtained was calculated at the level of 5 percent.\nTable 1: Modified Alvarado Scoring System (MASS)\n\nSymptoms • Migratory pain • Anorexia • Nausea / vomiting, Score (yes / no) = 1 1 1. Signs • Rt lower quadrant pain • Rebound tenderness • Elevation of temperature Lab Investigation • Leukocytosis, Score (yes / no) = 2 1 1 2\n(26.6%) while the negative recorded cases in  MASS  group  were  only  17  patients (17.9%) with P value<0.001. The remaining patients were divided as 43.2% in catarrhal group, 26.3% in suppurative group and only 12.6%  were  a  complicated  appendicitis  on the  MASS  group.  One  of  the  most  important finding is the high statistically significant difference between cases and controls in the operative diagnosis, which revealed a high number of negative appendectomies in the control group 26.6% where no scoring system was used, in contrast to 17.9% only in MASS group. This finding  supports  the  hypothesis  of  this  study which asserted application of Modified Alvarado Scoring System is effective and acceptable in diagnosis of acute appendicitis due to further stratification inside the",
+    "metadata": {
+      "document_id": "paper31",
+      "source": "paper31.json",
+      "chunk_index": 7,
+      "total_chunks": 22,
+      "docling": {
+        "schema_name": "docling_core.transforms.chunker.DocMeta",
+        "version": "1.0.0",
+        "doc_items": [
+          {
+            "self_ref": "#/texts/53",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 4,
+                "bbox": {
+                  "l": 308.45,
+                  "t": 740.6799780273439,
+                  "r": 525.904,
+                  "b": 626.0799780273438,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  312
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/54",
+            "parent": {
+              "$ref": "#/tables/0"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "caption",
+            "prov": [
+              {
+                "page_no": 4,
+                "bbox": {
+                  "l": 178.22,
+                  "t": 590.4339780273438,
+                  "r": 412.19655999999986,
+                  "b": 579.3939780273438,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  48
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/tables/0",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [
+              {
+                "$ref": "#/texts/54"
+              }
+            ],
+            "content_layer": "body",
+            "label": "table",
+            "prov": [
+              {
+                "page_no": 4,
+                "bbox": {
+                  "l": 171.7296556331327,
+                  "t": 578.065500575724,
+                  "r": 419.0565272575573,
+                  "b": 389.5957065371845,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  0
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/55",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 4,
+                "bbox": {
+                  "l": 308.45,
+                  "t": 368.26997802734377,
+                  "r": 525.904,
+                  "b": 92.57997802734383,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  801
+                ]
+              }
+            ]
+          }
+        ],
+        "headings": [
+          "Statistical analysis"
+        ],
+        "origin": {
+          "mimetype": "application/pdf",
+          "binary_hash": 9810307613908242158,
+          "filename": "paper31"
+        }
+      }
+    }
+  },
+  {
+    "content": "Two hundred patient were enrolled in the study.  They  were  divided  into  2  groups. Cases included those patients who underwent appendectomy after being subjected to MASS, while controls were limited to patients who were operated base on clinical findings. The study reported that the mean age  of  the  studied  patients  was  24.5+16 and 26.6+81 respectively. About two thirds of the studied patients were of female gender 62.1% in case group and 60% in control one. The current study reported a statistically significant regarding the operative diagnosis of the studied patients. Those patients who were operated based on clinical evaluation showed a negative operative diagnosis of appendicitis in 28 patients I.O:  Intestinal obstruction; U, p: U and p values for Mann Whitney test for comparing between the two groups group that permit subsequent follow-up to avoid  the  increased  number  of  negative appendectomies.  Table  2  demonstrates the  intraoperative  data,  which  revealed that the mean operative time between the first  and  second group were of the same range  (54.32  ±  14.37  versus  48.27  ±  12.81 minutes).  A  similar  observation  was  noticed in the hospital stays with nearly a 3day duration for discharge of the patients. There was no recorded statistically significant difference in the previous 2 variables (P value: 0.15 and 0.329 respectively). The study's principal concern is to focus on the MASS and its validity in accurate diagnosis of appendicitis. It detects that 43 patients (45%)  were  of  MASS  7-9.  However,  these percentage  was  recorded  as  the  large number  of  the  studied  population,  their negative  operative  diagnosis  were  recorded in 2 patients only. Thirteen patients (13.8%)  were  of  1-4  score,  and  the  large number  of  the  negative  appendectomy were  discovered  in  this  group  9.5%.  The middle  group  with  a  score  5-6  showed  a negative  appendicitis  in  6  out  of  42  patients. The findings in (Table 3) shows the relation between MASS and other studied variables. A statistically significant relation was  recorded  when  correlating  MASS  to operative  diagnosis  (P<0.001).  Given  to these  findings,  dependence  on  MASS  for diagnosis of acute appendicitis is of great value due to its ability to detect the positive cases according to the progress in the score. The conclusion of the current study is clearly evident in table 4 which analyze, the sensitivity, specificity,  positive",
+    "metadata": {
+      "document_id": "paper31",
+      "source": "paper31.json",
+      "chunk_index": 8,
+      "total_chunks": 22,
+      "docling": {
+        "schema_name": "docling_core.transforms.chunker.DocMeta",
+        "version": "1.0.0",
+        "doc_items": [
+          {
+            "self_ref": "#/texts/57",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 4,
+                "bbox": {
+                  "l": 72.024,
+                  "t": 339.1099780273438,
+                  "r": 289.454,
+                  "b": 92.69997802734383,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  716
+                ]
+              },
+              {
+                "page_no": 5,
+                "bbox": {
+                  "l": 80.304,
+                  "t": 429.43097802734377,
+                  "r": 517.0717599999999,
+                  "b": 406.9339780273438,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  717,
+                  826
+                ]
+              },
+              {
+                "page_no": 5,
+                "bbox": {
+                  "l": 72.024,
+                  "t": 363.34997802734375,
+                  "r": 289.454,
+                  "b": 87.65997802734375,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  827,
+                  1655
+                ]
+              },
+              {
+                "page_no": 5,
+                "bbox": {
+                  "l": 308.45,
+                  "t": 375.34997802734375,
+                  "r": 525.904,
+                  "b": 85.01997802734377,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  1656,
+                  2539
+                ]
+              }
+            ]
+          }
+        ],
+        "headings": [
+          "Results"
+        ],
+        "origin": {
+          "mimetype": "application/pdf",
+          "binary_hash": 9810307613908242158,
+          "filename": "paper31"
+        }
+      }
+    }
+  },
+  {
+    "content": "predictive value (PPV), negative predictive value",
+    "metadata": {
+      "document_id": "paper31",
+      "source": "paper31.json",
+      "chunk_index": 9,
+      "total_chunks": 22,
+      "docling": {
+        "schema_name": "docling_core.transforms.chunker.DocMeta",
+        "version": "1.0.0",
+        "doc_items": [
+          {
+            "self_ref": "#/texts/57",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 4,
+                "bbox": {
+                  "l": 72.024,
+                  "t": 339.1099780273438,
+                  "r": 289.454,
+                  "b": 92.69997802734383,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  716
+                ]
+              },
+              {
+                "page_no": 5,
+                "bbox": {
+                  "l": 80.304,
+                  "t": 429.43097802734377,
+                  "r": 517.0717599999999,
+                  "b": 406.9339780273438,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  717,
+                  826
+                ]
+              },
+              {
+                "page_no": 5,
+                "bbox": {
+                  "l": 72.024,
+                  "t": 363.34997802734375,
+                  "r": 289.454,
+                  "b": 87.65997802734375,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  827,
+                  1655
+                ]
+              },
+              {
+                "page_no": 5,
+                "bbox": {
+                  "l": 308.45,
+                  "t": 375.34997802734375,
+                  "r": 525.904,
+                  "b": 85.01997802734377,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  1656,
+                  2539
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/60",
+            "parent": {
+              "$ref": "#/tables/1"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "caption",
+            "prov": [
+              {
+                "page_no": 5,
+                "bbox": {
+                  "l": 183.02,
+                  "t": 738.3039780273438,
+                  "r": 412.37319999999994,
+                  "b": 727.2639780273438,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  48
+                ]
+              }
+            ]
+          }
+        ],
+        "headings": [
+          "Results"
+        ],
+        "origin": {
+          "mimetype": "application/pdf",
+          "binary_hash": 9810307613908242158,
+          "filename": "paper31"
+        }
+      }
+    }
+  },
+  {
+    "content": "Table 2: Demographic data of the studied groups.\nAge years (mean + SD), Cases (n=95) = 24.5+16. Age years (mean + SD), Controls (n=105) = 26.6+81. Age years (mean + SD), χ 2 = . Age years (mean + SD), P value = 0.978. Gender (Male / Female), Cases (n=95) = 36 (37.9%) / 59 (62.1%). Gender (Male / Female), Controls (n=105) = 42 (40%) / 63 (60%). Gender (Male / Female), χ 2 = 1731.2. Gender (Male / Female), P value = 0.612. Operative diagnosis • Negative • Catarrhal • Suppurative • Complicated, Cases (n=95) = 17 (17.9%) 41 (43.2%) 25 (26.3%) 12 (12.6%). Operative diagnosis • Negative • Catarrhal • Suppurative • Complicated, Controls (n=105) = 28 (26.6%) 36 (34.3%) 24 (22.9%) 17 (16.2%). Operative diagnosis • Negative • Catarrhal • Suppurative • Complicated, χ 2 = 18.93. Operative diagnosis • Negative • Catarrhal • Suppurative • Complicated, P value = <0.001 *. Operation time- min (mean+SD), Cases (n=95) = 54.32 ± 14.37. Operation time- min (mean+SD), Controls (n=105) = 48.27 ± 12.81. Operation time- min (mean+SD), χ 2 = 1147.0 U. Operation time- min (mean+SD), P value = 0.15. Hospital stay-days (mean+SD), Cases (n=95) = 3.59 ± 6.51. Hospital stay-days (mean+SD), Controls (n=105) = 3.15 ± 6.72. Hospital stay-days (mean+SD), χ 2 = 1406.0. Hospital stay-days (mean+SD), P value = 0.329. Complications • NO • Wound infection • Chest infection • Prolonged ileus • Adhesive I.O •",
+    "metadata": {
+      "document_id": "paper31",
+      "source": "paper31.json",
+      "chunk_index": 10,
+      "total_chunks": 22,
+      "docling": {
+        "schema_name": "docling_core.transforms.chunker.DocMeta",
+        "version": "1.0.0",
+        "doc_items": [
+          {
+            "self_ref": "#/tables/1",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [
+              {
+                "$ref": "#/texts/60"
+              }
+            ],
+            "content_layer": "body",
+            "label": "table",
+            "prov": [
+              {
+                "page_no": 5,
+                "bbox": {
+                  "l": 73.91962507391787,
+                  "t": 725.8727576708009,
+                  "r": 521.0687296701267,
+                  "b": 431.41736375946425,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  0
+                ]
+              }
+            ]
+          }
+        ],
+        "headings": [
+          "Results"
+        ],
+        "origin": {
+          "mimetype": "application/pdf",
+          "binary_hash": 9810307613908242158,
+          "filename": "paper31"
+        }
+      }
+    }
+  },
+  {
+    "content": "Incisional hernia, Cases (n=95) = 84 (88.4%) 4(4.2%) 3(3.1%) 3(3.1%) 1(1.1%) 0. Complications • NO • Wound infection • Chest infection • Prolonged ileus • Adhesive I.O • Incisional hernia, Controls (n=105) = 85(81%) 3(2.9%) 4(3.8%) 7(6.7%) 3(2.9%) 2(1.9%). Complications • NO • Wound infection • Chest infection • Prolonged ileus • Adhesive I.O • Incisional hernia, χ 2 = 4.309. Complications • NO • Wound infection • Chest infection • Prolonged ileus • Adhesive I.O • Incisional hernia, P value = 0.750\n(NPV) and accuracy of MASS; 60%, 91%, 65%, 9% and 21% respectively. In ROC curve analysis  (table  4)  the  sensitivity,  specificity, PPV, NPV and accuracy were 60%, 91%, 65%, 9% and 21% respectively.",
+    "metadata": {
+      "document_id": "paper31",
+      "source": "paper31.json",
+      "chunk_index": 11,
+      "total_chunks": 22,
+      "docling": {
+        "schema_name": "docling_core.transforms.chunker.DocMeta",
+        "version": "1.0.0",
+        "doc_items": [
+          {
+            "self_ref": "#/tables/1",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [
+              {
+                "$ref": "#/texts/60"
+              }
+            ],
+            "content_layer": "body",
+            "label": "table",
+            "prov": [
+              {
+                "page_no": 5,
+                "bbox": {
+                  "l": 73.91962507391787,
+                  "t": 725.8727576708009,
+                  "r": 521.0687296701267,
+                  "b": 431.41736375946425,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  0
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/63",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 6,
+                "bbox": {
+                  "l": 72.024,
+                  "t": 767.3199780273438,
+                  "r": 289.454,
+                  "b": 726.0399780273439,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  134
+                ]
+              },
+              {
+                "page_no": 6,
+                "bbox": {
+                  "l": 308.45,
+                  "t": 767.3199780273438,
+                  "r": 525.904,
+                  "b": 740.6799780273439,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  135,
+                  201
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/64",
+            "parent": {
+              "$ref": "#/tables/2"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "caption",
+            "prov": [
+              {
+                "page_no": 6,
+                "bbox": {
+                  "l": 172.1,
+                  "t": 696.7839780273438,
+                  "r": 425.70568000000003,
+                  "b": 685.7439780273438,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  52
+                ]
+              }
+            ]
+          }
+        ],
+        "headings": [
+          "Results"
+        ],
+        "origin": {
+          "mimetype": "application/pdf",
+          "binary_hash": 9810307613908242158,
+          "filename": "paper31"
+        }
+      }
+    }
+  },
+  {
+    "content": "Table 3: Relation between MASS and studied variables\nFrequency, MASS.1-4 (n=13) = 13(13.8%). Frequency, MASS.5-6 (n=42) = 43(45%). Frequency, MASS.7-9 (n=43) = 39(41.2%). Frequency, U.U = 0.069. Frequency, p value.p value = 1.000. Hospital stay days (mean+SD), MASS.1-4 (n=13) = 2.57 ± 3.36. Hospital stay days (mean+SD), MASS.5-6 (n=42) = 1.95 ± 6.25. Hospital stay days (mean+SD), MASS.7-9 (n=43) = 3.79 ± 7.01. Hospital stay days (mean+SD), U.U = 113.0. Hospital stay days (mean+SD), p value.p value = 0.801. Operative diagnosis (Cases) • Negative • Catarrhal • Suppurative • complicated, MASS.1-4 (n=13) = 8 (61.5%) 5 (38.5%) 0 0. Operative diagnosis (Cases) • Negative • Catarrhal • Suppurative • complicated, MASS.5-6 (n=42) = 10 (25.6%) 19 (48.8%) 8 (20.5%) 2 (5.1%). Operative diagnosis (Cases) • Negative • Catarrhal • Suppurative • complicated, MASS.7-9 (n=43) = 3 (7%) 16 (37.1%) 9 (21%) 15 (34.9%). Operative diagnosis (Cases) • Negative • Catarrhal • Suppurative • complicated, U.U = 71.730 *. Operative diagnosis (Cases) • Negative • Catarrhal • Suppurative • complicated, p value.p value = <0.001 *. Histopathology • Appendicitis • Normal appendix • Granulomatous lesion • Mucinous lesions, MASS.1-4 (n=13) = 4 (30.7%) 9 (69.3%) 0 0. Histopathology • Appendicitis • Normal appendix • Granulomatous lesion •",
+    "metadata": {
+      "document_id": "paper31",
+      "source": "paper31.json",
+      "chunk_index": 12,
+      "total_chunks": 22,
+      "docling": {
+        "schema_name": "docling_core.transforms.chunker.DocMeta",
+        "version": "1.0.0",
+        "doc_items": [
+          {
+            "self_ref": "#/tables/2",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [
+              {
+                "$ref": "#/texts/64"
+              }
+            ],
+            "content_layer": "body",
+            "label": "table",
+            "prov": [
+              {
+                "page_no": 6,
+                "bbox": {
+                  "l": 71.85803868175648,
+                  "t": 686.880084554344,
+                  "r": 523.7322708005853,
+                  "b": 450.45284393416927,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  0
+                ]
+              }
+            ]
+          }
+        ],
+        "headings": [
+          "Results"
+        ],
+        "origin": {
+          "mimetype": "application/pdf",
+          "binary_hash": 9810307613908242158,
+          "filename": "paper31"
+        }
+      }
+    }
+  },
+  {
+    "content": "Mucinous lesions, MASS.5-6 (n=42) = 36 (85.7%) 6 (14.3%) 0 0. Histopathology • Appendicitis • Normal appendix • Granulomatous lesion • Mucinous lesions, MASS.7-9 (n=43) = 39 (90.7%) 2 (4.7%) 1 (2.3%) 1 (2.3%). Histopathology • Appendicitis • Normal appendix • Granulomatous lesion • Mucinous lesions, U.U = 82.974 *. Histopathology • Appendicitis • Normal appendix • Granulomatous lesion • Mucinous lesions, p value.p value = <0.01 *. Overall Negative appendec- tomies (n= 95), MASS.1-4 (n=13) = 9 (9.5%). Overall Negative appendec- tomies (n= 95), MASS.5-6 (n=42) = 6 (6.3%). Overall Negative appendec- tomies (n= 95), MASS.7-9 (n=43) = 2 (2.1%). Overall Negative appendec- tomies (n= 95), U.U = 142.65. Overall Negative appendec- tomies (n= 95), p value.p value = <0.001 *\nU, p: U and p values for Mann Whitney test",
+    "metadata": {
+      "document_id": "paper31",
+      "source": "paper31.json",
+      "chunk_index": 13,
+      "total_chunks": 22,
+      "docling": {
+        "schema_name": "docling_core.transforms.chunker.DocMeta",
+        "version": "1.0.0",
+        "doc_items": [
+          {
+            "self_ref": "#/tables/2",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [
+              {
+                "$ref": "#/texts/64"
+              }
+            ],
+            "content_layer": "body",
+            "label": "table",
+            "prov": [
+              {
+                "page_no": 6,
+                "bbox": {
+                  "l": 71.85803868175648,
+                  "t": 686.880084554344,
+                  "r": 523.7322708005853,
+                  "b": 450.45284393416927,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  0
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/65",
+            "parent": {
+              "$ref": "#/groups/1"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "footnote",
+            "prov": [
+              {
+                "page_no": 6,
+                "bbox": {
+                  "l": 78.144,
+                  "t": 448.2709780273438,
+                  "r": 262.97132,
+                  "b": 438.3109780273438,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  42
+                ]
+              }
+            ]
+          }
+        ],
+        "headings": [
+          "Results"
+        ],
+        "origin": {
+          "mimetype": "application/pdf",
+          "binary_hash": 9810307613908242158,
+          "filename": "paper31"
+        }
+      }
+    }
+  },
+  {
+    "content": "Acute appendicitis is diagnosed clinically. A lot of patients continue to endure negative appendectomies despite the frequent utilization  of  highly  developed  imaging  techniques and a quite few predictive scoring systems. Including the well-developed countries,  there  is  really  no  outlined 'acceptable' Negative  Appendectomy  Rate (NAR) (10) .  A  percentage  of  20-40%  NAR have been described in the literature and surgeons  accept  negative  appendectomy rate  to  refrain  from  15-20%  rate  of  perforated appendicitis. The primary purpose of the physician would be to achieve a precise diagnosis  within  the  quickest  and  many economical possible ways, without submitting the individual to unnecessary surgical procedures  or  investigations.  Therefore, the ultimate goal in treating suspected appendicitis is to try to minimize normal appendix removal without rising perforation rate (11) .  The  present  study  revealed  that there was a statistical difference between different groups in MASS at different score (p<0.001), Similarly, a study done by Özsoy and Yenidoğan, (12)",
+    "metadata": {
+      "document_id": "paper31",
+      "source": "paper31.json",
+      "chunk_index": 14,
+      "total_chunks": 22,
+      "docling": {
+        "schema_name": "docling_core.transforms.chunker.DocMeta",
+        "version": "1.0.0",
+        "doc_items": [
+          {
+            "self_ref": "#/texts/67",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 6,
+                "bbox": {
+                  "l": 72.024,
+                  "t": 391.1899780273438,
+                  "r": 289.454,
+                  "b": 86.09997802734381,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  901
+                ]
+              },
+              {
+                "page_no": 6,
+                "bbox": {
+                  "l": 308.45,
+                  "t": 421.3189780273438,
+                  "r": 525.904,
+                  "b": 85.8599780273438,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  902,
+                  1904
+                ]
+              },
+              {
+                "page_no": 7,
+                "bbox": {
+                  "l": 72.024,
+                  "t": 767.3199780273438,
+                  "r": 289.454,
+                  "b": 96.05997802734373,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  1905,
+                  3889
+                ]
+              },
+              {
+                "page_no": 7,
+                "bbox": {
+                  "l": 308.45,
+                  "t": 767.3199780273438,
+                  "r": 525.904,
+                  "b": 96.05997802734373,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  3890,
+                  5884
+                ]
+              }
+            ]
+          }
+        ],
+        "headings": [
+          "Discussion"
+        ],
+        "origin": {
+          "mimetype": "application/pdf",
+          "binary_hash": 9810307613908242158,
+          "filename": "paper31"
+        }
+      }
+    }
+  },
+  {
+    "content": "that was conducted on 156 patients were divided into three groups based on AS values, (Group 1: Patients with AS of ≤4, appendicitis less likely, Group 2: individuals with AS of 57, moderate likelihood of appendicitis, and Group 3: Patients with AS of 8, high likelihood of appendicitis)  in  which  they  documented  a negative appendectomy rates in the three categories were 78%, 15%, and 0%, respectively.  The  variation  between  the  groupings was statistically significant (p<0.001). Alvarado  score  (AS)  helps  to  categorize the  patients  who  would  be  wise  to  go through additional assessment, follow-up, or surgical intervention (13) . The scientific researches  recommended  that  patients  by having an AS of <4 could go home without being  hospitalized,  for  individuals  having an AS of 5-7, radiological evaluation can be utilised, and patients who have a score of >7  must  be  operated (14) .  Alvarado  score and its various modifications possess low sensitivity,  specificity  and  even  the  negative appendicectomy rate, as stated in literature, reaches up to 20-40% with 10% associated  morbidities (15) .  The  value  of  modified Alvarado scoring system still in existence broadly addressed in several researches. In overview of 233 patients with right lower quadrant pain, Pouget-Baudry et al. (16) revealed that Alvarado scoring was very  helpful.  The  study  revealed  that  a score of 6 is relevant with the history of appendicitis,  and  a  score  of  4  is  associated with the lack of the diagnosis of appendicitis.  They  recommended  that  a  score  between 4 and 6 demands an observation or supporting investigations. Furthermore, the present study revealed that that Mean ± SD of duration of surgery in case group was 54.32 ± 14.37 minute and 48.27 ± 12.81 in control group, and there was no statistically  significant  difference  between  case and control groups as regard duration of surgery.  A  greater  duration  of  operation continues to be lately proven to become connected with elevated complication rates  in  appendectomy.  Furthermore,  an extended operative  time  is  proven  to  relate  to  elevated  complication  rates  and hospital  stays (17) .  The  present  study  revealed that there was no statistical significant difference between the two studied groups  according  to  hospital  stay,",
+    "metadata": {
+      "document_id": "paper31",
+      "source": "paper31.json",
+      "chunk_index": 15,
+      "total_chunks": 22,
+      "docling": {
+        "schema_name": "docling_core.transforms.chunker.DocMeta",
+        "version": "1.0.0",
+        "doc_items": [
+          {
+            "self_ref": "#/texts/67",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 6,
+                "bbox": {
+                  "l": 72.024,
+                  "t": 391.1899780273438,
+                  "r": 289.454,
+                  "b": 86.09997802734381,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  901
+                ]
+              },
+              {
+                "page_no": 6,
+                "bbox": {
+                  "l": 308.45,
+                  "t": 421.3189780273438,
+                  "r": 525.904,
+                  "b": 85.8599780273438,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  902,
+                  1904
+                ]
+              },
+              {
+                "page_no": 7,
+                "bbox": {
+                  "l": 72.024,
+                  "t": 767.3199780273438,
+                  "r": 289.454,
+                  "b": 96.05997802734373,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  1905,
+                  3889
+                ]
+              },
+              {
+                "page_no": 7,
+                "bbox": {
+                  "l": 308.45,
+                  "t": 767.3199780273438,
+                  "r": 525.904,
+                  "b": 96.05997802734373,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  3890,
+                  5884
+                ]
+              }
+            ]
+          }
+        ],
+        "headings": [
+          "Discussion"
+        ],
+        "origin": {
+          "mimetype": "application/pdf",
+          "binary_hash": 9810307613908242158,
+          "filename": "paper31"
+        }
+      }
+    }
+  },
+  {
+    "content": "compared to the study of Abd El Maksoud et al. (18) stated that the mean duration of hospital stay was 2.39±1.67 (range: 1 -12 days) days.  Even  though  appendectomy  is  regarded  as  a  secure  operation,  it  remains connected to complications, for example, local complications including wound infections and dehiscence, and major complications including peritonitis and  intra-abdominal abscess. As a result, an attempt is made to diagnose acute appendicitis accurately  and  appropriately  among surgeons with the fastest and most affordable diagnostic resource (18) . The current study demonstrated that majority of participants 84%  of  cases  and  85%  of  control  had  no complications, and there was no statistical significant difference between the groups regarding post-operative complications, also there was no reported cases of death, only 11 and 18 cases showed complications in both groups respectively and there was no statistical significant difference between  the  studied  groups  as  regard  outcomes,  comparing  to  the  study  of  Abou Merhi et al. (19)  in which Postoperative complications are shown in with peritonitis as the  most  common  sequel  (9.5%).  There was  a  significant  difference  between  occurrence  of  perforation  and  duration  of symptom  (p=0.032).  In  general,  the  present study revealed that there was highly statistically significant difference between MASS  and  both  operative  diagnosis  and histopathology, and in ROC curve analysis, the sensitivity, specificity,  positive  predictive  value,  negative  predictive  value  and accuracy were 60%, 91%, 65%, 98% and 21% respectively. In agreement with our study, the study of Abd El Maksoud et al. (18)  published the MASS demonstrated poor sensitivity, inferior diagnostic accuracy DA, and superior specificity (having a sensitivity of 59.6%, specificity of 87.5%, PPV of 96.9%, NPV of 25%, and DA of 63.3%). Quite similar poor outcomes of the MAS put together in other  studies  that  utilized  the  score  for non-European populations (20) . In contrast to our findings, the study of Kanumba et al. (21) has  proven  that  MASS  offers  great deal of sensitivity, specificity, PPV, NPV and precision in detecting acute appendicitis, in which  the  sensitivity  and  specificity of MASS  within  this  study  was  94.1%",
+    "metadata": {
+      "document_id": "paper31",
+      "source": "paper31.json",
+      "chunk_index": 16,
+      "total_chunks": 22,
+      "docling": {
+        "schema_name": "docling_core.transforms.chunker.DocMeta",
+        "version": "1.0.0",
+        "doc_items": [
+          {
+            "self_ref": "#/texts/67",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 6,
+                "bbox": {
+                  "l": 72.024,
+                  "t": 391.1899780273438,
+                  "r": 289.454,
+                  "b": 86.09997802734381,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  901
+                ]
+              },
+              {
+                "page_no": 6,
+                "bbox": {
+                  "l": 308.45,
+                  "t": 421.3189780273438,
+                  "r": 525.904,
+                  "b": 85.8599780273438,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  902,
+                  1904
+                ]
+              },
+              {
+                "page_no": 7,
+                "bbox": {
+                  "l": 72.024,
+                  "t": 767.3199780273438,
+                  "r": 289.454,
+                  "b": 96.05997802734373,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  1905,
+                  3889
+                ]
+              },
+              {
+                "page_no": 7,
+                "bbox": {
+                  "l": 308.45,
+                  "t": 767.3199780273438,
+                  "r": 525.904,
+                  "b": 96.05997802734373,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  3890,
+                  5884
+                ]
+              }
+            ]
+          }
+        ],
+        "headings": [
+          "Discussion"
+        ],
+        "origin": {
+          "mimetype": "application/pdf",
+          "binary_hash": 9810307613908242158,
+          "filename": "paper31"
+        }
+      }
+    }
+  },
+  {
+    "content": "and 90.4% correspondingly. The PPV was 95.2% and NPV was 88.4%. The accuracy of MASS\nwas 92.9% that is  in  complete  agreement with conclusions as reported by others (22) , however  in  sharp  contrast  as  to  the  was noticed in Kenya (23) .  To become helpful, a scoring  system  should  be  both  sensitive and  specific.  This  research  indicates  that the Modified Alvarado score works well in acute appendicitis detection, and modifications expressed to be better compared to left shift in Alvarado score. However, there are not any signs, symptoms or laboratory tests which are 100% efficient in detecting acute appendicitis. Modified Alvarado score can therefore be used as a preoperative accurate and appropriate score for detecting acute appendicitis. It determines if the patients require surgical procedures or observation; patients with score >7 more than likely have appendicitis based on our research; the surgical treatment is advised. Patients with score <7 can be maintained under  extrapolation  and  reassessment  if score  amplified,  or  the  patient  is  not  responding  to  medication,  surgery  is  preferred. Patients with score <4 are unbelievably and yet appendicitis is not unlikely.",
+    "metadata": {
+      "document_id": "paper31",
+      "source": "paper31.json",
+      "chunk_index": 17,
+      "total_chunks": 22,
+      "docling": {
+        "schema_name": "docling_core.transforms.chunker.DocMeta",
+        "version": "1.0.0",
+        "doc_items": [
+          {
+            "self_ref": "#/texts/67",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 6,
+                "bbox": {
+                  "l": 72.024,
+                  "t": 391.1899780273438,
+                  "r": 289.454,
+                  "b": 86.09997802734381,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  901
+                ]
+              },
+              {
+                "page_no": 6,
+                "bbox": {
+                  "l": 308.45,
+                  "t": 421.3189780273438,
+                  "r": 525.904,
+                  "b": 85.8599780273438,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  902,
+                  1904
+                ]
+              },
+              {
+                "page_no": 7,
+                "bbox": {
+                  "l": 72.024,
+                  "t": 767.3199780273438,
+                  "r": 289.454,
+                  "b": 96.05997802734373,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  1905,
+                  3889
+                ]
+              },
+              {
+                "page_no": 7,
+                "bbox": {
+                  "l": 308.45,
+                  "t": 767.3199780273438,
+                  "r": 525.904,
+                  "b": 96.05997802734373,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  3890,
+                  5884
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/72",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 8,
+                "bbox": {
+                  "l": 72.024,
+                  "t": 767.3199780273438,
+                  "r": 289.454,
+                  "b": 389.02997802734376,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  1131
+                ]
+              }
+            ]
+          }
+        ],
+        "headings": [
+          "Discussion"
+        ],
+        "origin": {
+          "mimetype": "application/pdf",
+          "binary_hash": 9810307613908242158,
+          "filename": "paper31"
+        }
+      }
+    }
+  },
+  {
+    "content": "Clinical common sense and increased clinical doubt are the most significant elements in treating patients with suspicion of acute appendicitis. Diagnosis of acute appendicitis  starts  with  a  detailed  history,  careful clinical  examination,  regular  follow  up  of equivocal cases in association with blood tests and radiological studies. Modified Alvarado score is a simple, accurate and reproducible diagnostic test that can be used by the general practitioner and other physicians  to  assess  anyone  who  has  a  right lower quadrant abdominal pain.",
+    "metadata": {
+      "document_id": "paper31",
+      "source": "paper31.json",
+      "chunk_index": 18,
+      "total_chunks": 22,
+      "docling": {
+        "schema_name": "docling_core.transforms.chunker.DocMeta",
+        "version": "1.0.0",
+        "doc_items": [
+          {
+            "self_ref": "#/texts/74",
+            "parent": {
+              "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [
+              {
+                "page_no": 8,
+                "bbox": {
+                  "l": 72.024,
+                  "t": 345.34997802734375,
+                  "r": 289.454,
+                  "b": 157.51997802734377,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  559
+                ]
+              }
+            ]
+          }
+        ],
+        "headings": [
+          "Conclusion"
+        ],
+        "origin": {
+          "mimetype": "application/pdf",
+          "binary_hash": 9810307613908242158,
+          "filename": "paper31"
+        }
+      }
+    }
+  },
+  {
+    "content": "1. Damburacı N, Sevinç B, Güner M, Kara-\n2. han Ö. Comparison of Raja Isteri Pengiran Anak Saleha Appendicitis and modified Alvarado  scoring  systems  in the  diagnosis  of  acute  appendicitis. ANZ J Surg. 2020 Apr;90(4):521-4.\n2. Drake FT, Mottey NE, Farrokhi ET, Florence MG, Johnson MG, Mock C, Steele SR, Thirlby RC, Flum DR. Time to appendectomy  and  risk  of  perforation  in acute  appendicitis.  JAMA  Surg.  2014 Aug 1;149(8):837-44.\n3. Shuaib A, Shuaib A, Fakhra Z, Marafi B, Alsharaf K, Behbehani A. Evaluation of modified Alvarado scoring system and RIPASA  scoring  system  as  diagnostic tools  of  acute  appendicitis.  World  J. Emerg. Med. 2017;8(4):276.\n4. Talukder  DB,  Siddiq  AZ.  Modified  Alvarado scoring system in the diagnosis of  acute  appendicitis.  JAFMC  Bangladesh. 2009;5(1):18-20.\n5. Nanjundaiah  N,  Mohammed  A,  Shanbhag V, Ashfaque K, Priya SA. A comparative study of RIPASA score and ALVARADO  score  in  the  diagnosis  of acute  appendicitis.  J  Clin  Diagn  Res  : JCDR. 2014 Nov;8(11):NC03.\n6. Terasawa  T,  Blackmore  CC,  Bent  S, Kohlwes  RJ.  Systematic  review:  computed  tomography  and  ultrasonography  to  detect  acute  appendicitis  in adults  and  adolescents.  Ann  Intern. Med. 2004 Oct 5;141(7):537-46.\n7. Gomes  CA,  Abu-Zidan  FM,  Sartelli  M, Coccolini  F,  Ansaloni  L,  Baiocchi  GL, Kluger Y, Di Saverio S, Catena F. Management of appendicitis globally based on income of countries (MAGIC) Study. World J. Surg. 2018 1;42(12):3903-10.",
+    "metadata": {
+      "document_id": "paper31",
+      "source": "paper31.json",
+      "chunk_index": 19,
+      "total_chunks": 22,
+      "docling": {
+        "schema_name": "docling_core.transforms.chunker.DocMeta",
+        "version": "1.0.0",
+        "doc_items": [
+          {
+            "self_ref": "#/texts/76",
+            "parent": {
+              "$ref": "#/groups/2"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [
+              {
+                "page_no": 8,
+                "bbox": {
+                  "l": 90.024,
+                  "t": 114.08397802734385,
+                  "r": 286.99304,
+                  "b": 103.04397802734377,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  40
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/77",
+            "parent": {
+              "$ref": "#/groups/2"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [
+              {
+                "page_no": 8,
+                "bbox": {
+                  "l": 344.47,
+                  "t": 767.5839780273438,
+                  "r": 525.6956799999999,
+                  "b": 702.9039780273439,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  185
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/78",
+            "parent": {
+              "$ref": "#/groups/2"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [
+              {
+                "page_no": 8,
+                "bbox": {
+                  "l": 326.47,
+                  "t": 700.5039780273438,
+                  "r": 525.6956799999999,
+                  "b": 622.2639780273438,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  215
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/79",
+            "parent": {
+              "$ref": "#/groups/2"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [
+              {
+                "page_no": 8,
+                "bbox": {
+                  "l": 326.47,
+                  "t": 619.8639780273438,
+                  "r": 525.6956799999999,
+                  "b": 541.7139780273438,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  228
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/80",
+            "parent": {
+              "$ref": "#/groups/2"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [
+              {
+                "page_no": 8,
+                "bbox": {
+                  "l": 326.47,
+                  "t": 539.3139780273438,
+                  "r": 525.6956799999999,
+                  "b": 487.9539780273438,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  143
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/81",
+            "parent": {
+              "$ref": "#/groups/2"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [
+              {
+                "page_no": 8,
+                "bbox": {
+                  "l": 326.47,
+                  "t": 485.5539780273438,
+                  "r": 525.6956799999999,
+                  "b": 407.4139780273438,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  219
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/82",
+            "parent": {
+              "$ref": "#/groups/2"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [
+              {
+                "page_no": 8,
+                "bbox": {
+                  "l": 326.47,
+                  "t": 405.0139780273438,
+                  "r": 525.6956799999999,
+                  "b": 326.7739780273438,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  227
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/83",
+            "parent": {
+              "$ref": "#/groups/2"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [
+              {
+                "page_no": 8,
+                "bbox": {
+                  "l": 326.47,
+                  "t": 324.3739780273438,
+                  "r": 525.6956799999999,
+                  "b": 246.22397802734372,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  238
+                ]
+              }
+            ]
+          }
+        ],
+        "headings": [
+          "References"
+        ],
+        "origin": {
+          "mimetype": "application/pdf",
+          "binary_hash": 9810307613908242158,
+          "filename": "paper31"
+        }
+      }
+    }
+  },
+  {
+    "content": "8. Singla A, Singla S, Singh M, Singla D. A comparison between modified Alvarado score and RIPASA score in the diagnosis  of  acute  appendicitis.  Updates Surg. 2016 Dec 1;68(4):351-5.\n9. Khan I, and Rehman A. Application of Alvarado  scoring  system  in  diagnosis of acute appendicitis. J Ayub Med Coll Abbottabad. 2005;17(3), 41-4.\n10. Lim J, Pang Q, Alexander R. One-year negative  appendicectomy  rates  at  a",
+    "metadata": {
+      "document_id": "paper31",
+      "source": "paper31.json",
+      "chunk_index": 20,
+      "total_chunks": 22,
+      "docling": {
+        "schema_name": "docling_core.transforms.chunker.DocMeta",
+        "version": "1.0.0",
+        "doc_items": [
+          {
+            "self_ref": "#/texts/84",
+            "parent": {
+              "$ref": "#/groups/2"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [
+              {
+                "page_no": 8,
+                "bbox": {
+                  "l": 326.47,
+                  "t": 243.82397802734374,
+                  "r": 525.6956799999999,
+                  "b": 179.0239780273438,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  185
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/85",
+            "parent": {
+              "$ref": "#/groups/2"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [
+              {
+                "page_no": 8,
+                "bbox": {
+                  "l": 326.47,
+                  "t": 176.74397802734381,
+                  "r": 525.6956799999999,
+                  "b": 125.36397802734382,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  149
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/86",
+            "parent": {
+              "$ref": "#/groups/2"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [
+              {
+                "page_no": 8,
+                "bbox": {
+                  "l": 326.47,
+                  "t": 122.96397802734373,
+                  "r": 525.6956799999999,
+                  "b": 98.48397802734382,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  79
+                ]
+              }
+            ]
+          }
+        ],
+        "headings": [
+          "References"
+        ],
+        "origin": {
+          "mimetype": "application/pdf",
+          "binary_hash": 9810307613908242158,
+          "filename": "paper31"
+        }
+      }
+    }
+  },
+  {
+    "content": "- district general hospital: A Retrospective Cohort Study. Int J Surg. 2016 Jul 1;31:1-4.\n11. Livingston  EH, Woodward WA, Sarosi GA, Haley RW. Disconnect between incidence  of  nonperforated  and  perforated appendicitis: implications for pathophysiology and management. Ann Surg. 2007 Jun;245(6):886.\n12. Özsoy  Z, Yenidoğan E.  Evaluation  of the  Alvarado  scoring  system  in  the management  of  acute  appendicitis. Turk J Surg. 2017;33(3):200.\n13. Alvarado  A.  A  practical  score  for  the early  diagnosis  of  acute  appendicitis. Ann Emerg Med. 1986 May 1;15(5):55764.\n14. Yildirim E, Karagülle E, Kirbas I, Türk E, Hasdogan B, Teksam M, Coskun M. Alvarado  scores  and  pain  onset  in  relation  to  multislice  CT  findings  in  acute appendicitis.  Diag  Interv  Radiol  2008 Mar 1;14(1):14.\n15. Rodrigues W, Sindhu S. Diagnostic importance of Alvarado and RIPASA Score  in  acute  appendicitis.  Int  J  Sci Study. 2017 Feb 1;4(11):57-60.\n16. Pouget-Baudry Y, Mucci S, Eyssartier E, Guesdon-Portes A, Lada P, Casa C, Arnaud  JP,  Hamy  A.  The  use  of  the  Alvarado  score  in  the  management  of right lower quadrant abdominal pain in the adult. J Visc Surg. 2010 Apr 1;147(2):e40-4.\n17. Jackson  TD,  Wannares  JJ,  Lancaster RT,  Rattner  DW,  Hutter  MM.  Does speed matter? The impact of operative time  on  outcome  in  laparoscopic surgery. Surg Endosc. 2011 Jul 1;25(7):2288-95.",
+    "metadata": {
+      "document_id": "paper31",
+      "source": "paper31.json",
+      "chunk_index": 21,
+      "total_chunks": 22,
+      "docling": {
+        "schema_name": "docling_core.transforms.chunker.DocMeta",
+        "version": "1.0.0",
+        "doc_items": [
+          {
+            "self_ref": "#/texts/89",
+            "parent": {
+              "$ref": "#/groups/3"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [
+              {
+                "page_no": 9,
+                "bbox": {
+                  "l": 108.02,
+                  "t": 767.5839780273438,
+                  "r": 289.24568000000005,
+                  "b": 729.6639780273439,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  87
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/90",
+            "parent": {
+              "$ref": "#/groups/3"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [
+              {
+                "page_no": 9,
+                "bbox": {
+                  "l": 90.024,
+                  "t": 727.2639780273438,
+                  "r": 289.24568000000005,
+                  "b": 649.1439780273438,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  212
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/91",
+            "parent": {
+              "$ref": "#/groups/3"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [
+              {
+                "page_no": 9,
+                "bbox": {
+                  "l": 90.024,
+                  "t": 646.7439780273438,
+                  "r": 289.24568000000005,
+                  "b": 595.3539780273438,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  148
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/92",
+            "parent": {
+              "$ref": "#/groups/3"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [
+              {
+                "page_no": 9,
+                "bbox": {
+                  "l": 90.024,
+                  "t": 592.9539780273439,
+                  "r": 289.24568000000005,
+                  "b": 541.7139780273438,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  129
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/93",
+            "parent": {
+              "$ref": "#/groups/3"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [
+              {
+                "page_no": 9,
+                "bbox": {
+                  "l": 90.024,
+                  "t": 539.3139780273438,
+                  "r": 289.24568000000005,
+                  "b": 461.0739780273438,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  226
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/94",
+            "parent": {
+              "$ref": "#/groups/3"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [
+              {
+                "page_no": 9,
+                "bbox": {
+                  "l": 90.024,
+                  "t": 458.6539780273438,
+                  "r": 289.24568000000005,
+                  "b": 407.4139780273438,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  147
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/95",
+            "parent": {
+              "$ref": "#/groups/3"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [
+              {
+                "page_no": 9,
+                "bbox": {
+                  "l": 90.024,
+                  "t": 405.0139780273438,
+                  "r": 289.24568000000005,
+                  "b": 313.33397802734385,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  248
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/96",
+            "parent": {
+              "$ref": "#/groups/3"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [
+              {
+                "page_no": 9,
+                "bbox": {
+                  "l": 90.024,
+                  "t": 311.0539780273439,
+                  "r": 289.24568000000005,
+                  "b": 232.78397802734378,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  201
+                ]
+              }
+            ]
+          }
+        ],
+        "headings": [
+          "References"
+        ],
+        "origin": {
+          "mimetype": "application/pdf",
+          "binary_hash": 9810307613908242158,
+          "filename": "paper31"
+        }
+      }
+    }
+  },
+  {
+    "content": "18. Abd El Maksoud WM, Bawahab MA, Al Shehri  DM,  Mostafa  O,  Ali  HF,  Alwail AA, Alnashri HM. Comparison between the validity of the 'Modified Alvarado'and 'Raja Isteri  Pengiran  Anak Saleha'scores for the diagnosis of acute appendicitis. Egypt J Surg. 2017 Jan 1;36(1):52.\n19. Merhi BA, Khalil M, Daoud N. Comparison of Alvarado score evaluation and\n- clinical judgment in acute appendicitis. Med Arch. 2014 Feb;68(1):10.\n20. Chong  CF,  Adi  MI,  Thien  A,  Suyoi  A, Mackie  AJ,  Tin  AS,  Tripathi  S,  Jaman NH, Tan KK, Kok KY, Mathew VV. Development of the RIPASA score: a new appendicitis scoring system for the diagnosis  of  acute  appendicitis.  Singapore Med J. 2010 Mar 1;51(3):220.\n21. Kanumba  ES,  Mabula  JB,  Rambau  P, Chalya  PL.  Modified  Alvarado  scoring system  as  a  diagnostic  tool  for  acute appendicitis at Bugando Medical Centre, Mwanza, Tanzania. BMC Surg. 2011 Dec;11(1):4.\n22. Patel V, Kela M, Prasad S, Gautam AS, Gupta M. Evaluation of modified Alvarado  scoring  system  in  diagnosis of acute appendicitis-a prospective study. Int J Surg. 2016 Dec 8;3(2):621-5.\n23. Saidi HS, Chavda SK. Use of a modified Alvorado  score  in  the  diagnosis  of acute  appendicitis.  East  Afr  Med  J. 2003;80(8):411-4.",
+    "metadata": {
+      "document_id": "paper31",
+      "source": "paper31.json",
+      "chunk_index": 22,
+      "total_chunks": 22,
+      "docling": {
+        "schema_name": "docling_core.transforms.chunker.DocMeta",
+        "version": "1.0.0",
+        "doc_items": [
+          {
+            "self_ref": "#/texts/97",
+            "parent": {
+              "$ref": "#/groups/3"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [
+              {
+                "page_no": 9,
+                "bbox": {
+                  "l": 90.024,
+                  "t": 230.3839780273438,
+                  "r": 289.24568000000005,
+                  "b": 125.36397802734382,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  278
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/98",
+            "parent": {
+              "$ref": "#/groups/3"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [
+              {
+                "page_no": 9,
+                "bbox": {
+                  "l": 90.024,
+                  "t": 122.96397802734373,
+                  "r": 289.24568000000005,
+                  "b": 98.48397802734382,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  76
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/99",
+            "parent": {
+              "$ref": "#/groups/3"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [
+              {
+                "page_no": 9,
+                "bbox": {
+                  "l": 344.47,
+                  "t": 767.5839780273438,
+                  "r": 525.6956799999999,
+                  "b": 743.1039780273438,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  69
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/100",
+            "parent": {
+              "$ref": "#/groups/3"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [
+              {
+                "page_no": 9,
+                "bbox": {
+                  "l": 326.47,
+                  "t": 740.7039780273439,
+                  "r": 525.6956799999999,
+                  "b": 649.1439780273438,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  271
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/101",
+            "parent": {
+              "$ref": "#/groups/3"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [
+              {
+                "page_no": 9,
+                "bbox": {
+                  "l": 326.47,
+                  "t": 646.7439780273438,
+                  "r": 525.6956799999999,
+                  "b": 568.5939780273438,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  212
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/102",
+            "parent": {
+              "$ref": "#/groups/3"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [
+              {
+                "page_no": 9,
+                "bbox": {
+                  "l": 326.47,
+                  "t": 566.1939780273439,
+                  "r": 525.6956799999999,
+                  "b": 501.3939780273438,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  192
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/103",
+            "parent": {
+              "$ref": "#/groups/3"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [
+              {
+                "page_no": 9,
+                "bbox": {
+                  "l": 326.47,
+                  "t": 498.9939780273438,
+                  "r": 525.6956799999999,
+                  "b": 447.61397802734376,
+                  "coord_origin": "BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  141
+                ]
+              }
+            ]
+          }
+        ],
+        "headings": [
+          "References"
+        ],
+        "origin": {
+          "mimetype": "application/pdf",
+          "binary_hash": 9810307613908242158,
+          "filename": "paper31"
+        }
+      }
+    }
+  }
+]

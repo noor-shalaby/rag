@@ -1,11 +1,19 @@
+import json
 import os
+import time
+from typing import TypedDict, Any
 
 from dotenv import load_dotenv
 from google import genai
 from supabase import Client, create_client
 
-# Load environment variables cleanly
-load_dotenv()  # pyright: ignore[reportUnusedCallResult]
+# Define the structure of your raw chunk data
+class ChunkData(TypedDict):
+    content: str
+    metadata: dict[str, Any]
+
+# Load environment variables
+_ = load_dotenv()
 
 # Initialize Clients
 client = genai.Client()
@@ -15,83 +23,76 @@ ANON_KEY = os.environ.get("SUPABASE_ANON_KEY")
 
 assert SUPABASE_URL is not None, "SUPABASE_URL is missing in .env"
 
-# Choose service role key if available, otherwise fall back to anon key
 if SERVICE_ROLE_KEY:
-    print("Using Supabase Service Role Key (Bypassing RLS)...")
     selected_key = SERVICE_ROLE_KEY
 elif ANON_KEY:
-    print("Service role key not found. Falling back to Supabase Anon Key...")
     selected_key = ANON_KEY
 else:
-    raise ValueError(
-        "Neither SUPABASE_SERVICE_ROLE_KEY nor SUPABASE_ANON_KEY is set in .env!"
-    )
+    raise ValueError("No Supabase key found in .env")
 
 supabase: Client = create_client(SUPABASE_URL, selected_key)
 
-
-def store_chunks_to_supabase(chunks_data: list[dict[str, str | int]]) -> None:
-    """Takes pre-chunked data, generates embeddings via gemini-embedding-2,
-
-    and saves both the text chunk and vector in the same Supabase table row.
-    """
-    print(f"Processing {len(chunks_data)} chunks for embedding and storage...")
+def store_chunks_to_supabase(chunks_data: list[ChunkData]) -> None:
+    """Embeds and stores chunks, skipping duplicates to save API quota."""
+    print(f"Processing {len(chunks_data)} chunks...")
 
     for i, item in enumerate(chunks_data):
-        chunk_text = str(item["content"])
+        chunk_text = item["content"]
+        metadata = item["metadata"]
+        chunk_id = metadata.get("chunk_id")
 
-        metadata: dict[str, str | int] = {
-            "source": str(item.get("source", "unknown")),
-            "page": int(str(item.get("page", 1))),
-        }
+        # 1. Check if chunk already exists to save quota
+        if chunk_id:
+            existing = (
+                supabase.table("medical_documents")
+                .select("id")
+                .eq("metadata->>chunk_id", str(chunk_id))
+                .execute()
+            )
+            if existing.data:
+                print(f"[{i+1}/{len(chunks_data)}] Skipping {chunk_id}: Already exists.")
+                continue
 
+        # 2. Proceed with embedding if not found
         try:
-            # Generate embedding using gemini-embedding-2
             response = client.models.embed_content(  # pyright: ignore[reportUnknownMemberType]
                 model="gemini-embedding-2", contents=chunk_text
             )
 
-            assert (
-                response.embeddings is not None
-            ), "No embeddings returned from Gemini API"
-            first_embedding = response.embeddings[0]
-            assert first_embedding is not None, "First embedding object is None"
-            assert (
-                first_embedding.values is not None
-            ), "Embedding values are None"
+            assert response.embeddings is not None, "No embeddings returned"
+            values = response.embeddings[0].values
+            assert values is not None
 
-            embedding_vector: list[float] = [
-                float(val) for val in first_embedding.values
-            ]
+            embedding_vector: list[float] = [float(val) for val in values]
 
-            row_data: dict[str, str | int | dict[str, str | int] | list[float]] = {
+            row_data: dict[str, Any] = {
                 "content": chunk_text,
                 "metadata": metadata,
                 "embedding": embedding_vector,
             }
 
             _ = supabase.table("medical_documents").insert(row_data).execute()
-            print(f"Stored chunk {i + 1}/{len(chunks_data)} successfully.")
+            print(f"[{i+1}/{len(chunks_data)}] Stored {chunk_id} successfully.")
+
+            # 3. Pause to respect rate limits
+            time.sleep(1.5)
 
         except Exception as e:  # noqa: BLE001
             print(f"Error processing chunk {i + 1}: {e}")
 
-    print("All chunks successfully embedded and stored in Supabase!")
-
-
-# --- Example Execution ---
 if __name__ == "__main__":
-    my_preprocessed_chunks: list[dict[str, str | int]] = [
-        {
-            "content": "Patients should avoid heavy lifting for 2-4 weeks after laparoscopic appendectomy.",
-            "source": "recovery_guide.pdf",
-            "page": 2,
-        },
-        {
-            "content": "Encourage early ambulation post-surgery to reduce the risk of thromboembolism.",
-            "source": "recovery_guide.pdf",
-            "page": 3,
-        },
-    ]
+    data_folder = "chunks"
 
-    store_chunks_to_supabase(my_preprocessed_chunks)
+    # Process files in alphabetical order
+    files = sorted(os.listdir(data_folder))
+
+    for filename in files:
+        if filename.endswith(".json"):
+            file_path = os.path.join(data_folder, filename)
+            print(f"\n--- Processing file: {filename} ---")
+
+            with open(file_path, "r", encoding="utf-8") as f:
+                file_data: list[ChunkData] = json.load(f)  # type: ignore[reportAny]
+                store_chunks_to_supabase(file_data)
+
+    print("\nAll tasks complete!")
