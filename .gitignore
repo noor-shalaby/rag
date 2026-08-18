@@ -65,3 +65,5 @@ yarn-debug.log*
 yarn-error.log*
 celerybeat-schedule
 *.sqlite3
+
+data/

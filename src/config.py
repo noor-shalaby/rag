@@ -4,7 +4,7 @@ from dotenv import load_dotenv
 from langchain_google_genai import ChatGoogleGenerativeAI, GoogleGenerativeAIEmbeddings
 
 # Load environment variables from .env
-load_dotenv()
+_ = load_dotenv()
 
 # Verify API key is present
 if not os.getenv("GOOGLE_API_KEY"):
