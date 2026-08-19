@@ -1,0 +1,1722 @@
+[
+  {
+    "content": "Mohamed M. Elzoghby 1* , Mohamed S. Ibrahim 1 , Ahmed M. Mobarak 1 , Tarek A. Gobran 2 , Karam E. Ahmed 1\n1 Department of Pediatric Surgery, Faculty of Medicine, Suez Canal University, Egypt 2 Department of Pediatric Surgery, Faculty of Medicine, Zagazig University, Egypt\n\n[Next context]\nBackground: Acute appendicitis is the most common abdominal surgical emergency in the pediatric age group. The conventional management was to perform appendectomy at the time of diagnosis. Although appendectomy is a relatively safe procedure it requires anesthesia and is associated with risks related to surgery. The non-operative management approach was adopted to avoid potential risks and to give patients and parents alternative safe options",
+    "metadata": {
+      "document_id": "paper32",
+      "source": "paper32.pdf",
+      "topic": "Evaluation of Non-Operative Management of Pediatric Acute Non-Complicated Appendicitis",
+      "headings": [
+        "Evaluation of Non-Operative Management of Pediatric Acute Non-Complicated Appendicitis"
+      ],
+      "chunk_index": 1,
+      "total_chunks": 16,
+      "pages": [
+        1
+      ],
+      "docling": {
+        "doc_items": [
+          {
+            "self_ref": "#/texts/3",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 1,
+                "bbox": {
+                  "l": 72.024,
+                  "t": 636.4219829101563,
+                  "r": 489.48064,
+                  "b": 605.4619829101563,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  105
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/4",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 1,
+                "bbox": {
+                  "l": 72.024,
+                  "t": 587.1079829101562,
+                  "r": 411.44648,
+                  "b": 563.7979829101563,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  166
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "overlap": {
+        "enabled": true,
+        "ratio": 0.25,
+        "previous_context": false,
+        "next_context": true
+      }
+    }
+  },
+  {
+    "content": "[Previous context]\n2 Department of Pediatric Surgery, Faculty of Medicine, Zagazig University, Egypt\n\nBackground: Acute appendicitis is the most common abdominal surgical emergency in the pediatric age group. The conventional management was to perform appendectomy at the time of diagnosis. Although appendectomy is a relatively safe procedure it requires anesthesia and is associated with risks related to surgery. The non-operative management approach was adopted to avoid potential risks and to give patients and parents alternative safe options rather than surgery. Aim: To evaluate non-operative management safety and feasibility for treatment of pediatric acute non-complicated appendicitis. Patients and Methods: Prospective observational study was conducted in Suez Canal University Hospital on patients presenting with acute noncomplicated appendicitis confirmed by radiological modality. The study included 124 children with ages ranging from 4 to 12 years. Non-operative management was initiated for 48 hours after applying strict inclusion criteria with continuous assessment and patients who failed to respond proceeded to appendectomy. Follow-up of patients was done for 1 year after presentation. Results: Initial response to non-operative treatment had a statistically significant success rate of (88.8%) of cases having complete resolution (p-value = 0.001). After one year of follow up about (79%) of children had complete resolution of symptoms with no appendectomies. The recurrence rate was about (29%) of cases. Recurrence of symptoms and failure of treatment was correlated to higher degrees of fever, Abdominal rigidity, higher Alvarado scores and increased appendiceal diameter. Conclusion: Non-operative treatment in cases of pediatric non-complicated acute appendicitis is safe and feasible option of management but with strict selection criteria of patients to avoid complications.\nKeywords\n: Appendicitis, Non-operative, Non-complicated, Pediatric\n\n[Next context]\nAcute appendicitis is considered the most common surgical emergency in the pediatric age group that requires emergent surgical intervention with an estimated lifetime risk of 7%-8%. Although appendicitis can happen at any age during childhood and adulthood, its incidence is highest between the ages of ten to nineteen years (1,2) . Although acute appendicitis is common, its pathogenesis is not distinct. The most accepted explanation concluded is that luminal obstruction by appendicolith, stool, lymphoid hyperplasia, or neoplasm causes ischemia and favors bacterial invasion of appendiceal tissue leading to intraluminal inflammation of the mucosal and submucosal layers,",
+    "metadata": {
+      "document_id": "paper32",
+      "source": "paper32.pdf",
+      "topic": "Abstract",
+      "headings": [
+        "Abstract"
+      ],
+      "chunk_index": 2,
+      "total_chunks": 16,
+      "pages": [
+        1
+      ],
+      "docling": {
+        "doc_items": [
+          {
+            "self_ref": "#/texts/6",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 1,
+                "bbox": {
+                  "l": 72.024,
+                  "t": 509.9839829101563,
+                  "r": 525.8156799999999,
+                  "b": 243.7539829101563,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  1819
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/7",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 1,
+                "bbox": {
+                  "l": 72.024,
+                  "t": 231.2299829101563,
+                  "r": 121.88400000000003,
+                  "b": 219.2299829101563,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  8
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/8",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 1,
+                "bbox": {
+                  "l": 121.73,
+                  "t": 231.2299829101563,
+                  "r": 389.68568000000005,
+                  "b": 219.2299829101563,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  57
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "overlap": {
+        "enabled": true,
+        "ratio": 0.25,
+        "previous_context": true,
+        "next_context": true
+      }
+    }
+  },
+  {
+    "content": "[Previous context]\nThe recurrence rate was about (29%) of cases. Recurrence of symptoms and failure of treatment was correlated to higher degrees of fever, Abdominal rigidity, higher Alvarado scores and increased appendiceal diameter. Conclusion: Non-operative treatment in cases of pediatric non-complicated acute appendicitis is safe and feasible option of management but with strict selection criteria of patients to avoid complications.\nKeywords\n: Appendicitis, Non-operative, Non-complicated, Pediatric\n\nAcute appendicitis is considered the most common surgical emergency in the pediatric age group that requires emergent surgical intervention with an estimated lifetime risk of 7%-8%. Although appendicitis can happen at any age during childhood and adulthood, its incidence is highest between the ages of ten to nineteen years (1,2) . Although acute appendicitis is common, its pathogenesis is not distinct. The most accepted explanation concluded is that luminal obstruction by appendicolith, stool, lymphoid hyperplasia, or neoplasm causes ischemia and favors bacterial invasion of appendiceal tissue leading to intraluminal inflammation of the mucosal and submucosal layers, followed by complications like suppuration, gangrenous appendicitis, and perforation (3,4) . Appendectomy is the most frequent surgical emergency procedure done on pediatric patients and has been the treatment of choice for acute appendicitis but being an abdominal operation, it is associated with risks and complications like bleeding, surgical site infection and wound complications including incisional or port hernia, adhesions and small bowel obstruction (0.3% of cases), injury of surrounding structures and anesthesia complication (3,5) . Those risks lead to exploring the option of nonsurgical management with antibiotics as an alternative safe and effective option for surgery (6) . Although The non-operative treatment approach to manage acute appendicitis in pediatric age remains controversial at the current time due to a shortage of randomized controlled trials done on this age group (2) , Several studies were conducted on the safety and success rate of the non-operative approach with variable success rates ranging from (58%) up to (93.7%) (7-9) . Treatment with antibiotics is thought to cause regression in acute appendicitis due to decreasing lymphoid hyperplasia and thus relief obstruction due to suppression of bacterial infection causing prevention of ischemia and reducing bacterial invasion in the early stage of appendicitis (10) . While appendicectomy is still considered the best treatment line for appendicitis by many surgeons (11) , the need for a safe effective alternative to surgery is a concern to many parents and patients alike. Reducing the stress of the operation is the only option and avoiding operative and anesthesia complications is the main benefit of the non-operative approach. In the present study evaluation of non-operative management of pediatric non-complicated acute appendicitis considering safety, efficacy, and feasibility to implement this approach was done to decrease the need for and rate of negative appendectomies.\n\n[Next context]\nfever not responding to treatment for 24 hours, abdominal",
+    "metadata": {
+      "document_id": "paper32",
+      "source": "paper32.pdf",
+      "topic": "Introduction",
+      "headings": [
+        "Introduction"
+      ],
+      "chunk_index": 3,
+      "total_chunks": 16,
+      "pages": [
+        1,
+        2
+      ],
+      "docling": {
+        "doc_items": [
+          {
+            "self_ref": "#/texts/10",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 1,
+                "bbox": {
+                  "l": 72.024,
+                  "t": 175.06998291015634,
+                  "r": 289.33400000000006,
+                  "b": 75.17998291015624,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  292
+                ]
+              },
+              {
+                "page_no": 1,
+                "bbox": {
+                  "l": 308.52,
+                  "t": 204.3499829101563,
+                  "r": 526.0000000000002,
+                  "b": 74.93998291015623,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  293,
+                  687
+                ]
+              },
+              {
+                "page_no": 2,
+                "bbox": {
+                  "l": 72.024,
+                  "t": 746.4399829101563,
+                  "r": 289.524,
+                  "b": 74.93998291015623,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  688,
+                  2663
+                ]
+              },
+              {
+                "page_no": 2,
+                "bbox": {
+                  "l": 308.52,
+                  "t": 746.4399829101563,
+                  "r": 526.024,
+                  "b": 705.1299829101563,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  2664,
+                  2764
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "overlap": {
+        "enabled": true,
+        "ratio": 0.25,
+        "previous_context": true,
+        "next_context": true
+      }
+    }
+  },
+  {
+    "content": "[Previous context]\nof appendicitis (10) . While appendicectomy is still considered the best treatment line for appendicitis by many surgeons (11) , the need for a safe effective alternative to surgery is a concern to many parents and patients alike. Reducing the stress of the operation is the only option and avoiding operative and anesthesia complications is the main benefit of the non-operative approach. In the present study evaluation of non-operative management of pediatric non-complicated acute appendicitis considering safety, efficacy, and feasibility to implement this approach was done to decrease the need for and rate of negative appendectomies.\n\nfever not responding to treatment for 24 hours, abdominal pain and tenderness which was increasing for 48 hours or getting worse, developing abdominal rigidity and peritonism, no tolerance to oral intake and Radiological signs of complication.\n\n[Next context]\nThe study included 124 patients presented with acute non-complicated appendicitis who were subjected to non-operative management after initial assessment. Sixtyeight patients were males (54.8%) and fiftysix were females (45.2 %). Ages ranged from 4 to 12 years and the mean patient age was (7.13 ± 3.74) years. The mean of the total leucocytic count of patients was improved from (14.2 ± 7.1) before treatment to a mean of (7.2",
+    "metadata": {
+      "document_id": "paper32",
+      "source": "paper32.pdf",
+      "topic": "Patients and Methods",
+      "headings": [
+        "Patients and Methods"
+      ],
+      "chunk_index": 4,
+      "total_chunks": 16,
+      "pages": [
+        2,
+        3
+      ],
+      "docling": {
+        "doc_items": [
+          {
+            "self_ref": "#/texts/15",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 2,
+                "bbox": {
+                  "l": 308.52,
+                  "t": 657.3699829101563,
+                  "r": 526.024,
+                  "b": 73.97998291015631,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  1706
+                ]
+              },
+              {
+                "page_no": 3,
+                "bbox": {
+                  "l": 72.024,
+                  "t": 746.4399829101563,
+                  "r": 289.524,
+                  "b": 74.93998291015623,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  1707,
+                  3660
+                ]
+              },
+              {
+                "page_no": 3,
+                "bbox": {
+                  "l": 308.52,
+                  "t": 746.4399829101563,
+                  "r": 526.0120000000003,
+                  "b": 558.6799829101564,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  3661,
+                  4206
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "overlap": {
+        "enabled": true,
+        "ratio": 0.25,
+        "previous_context": true,
+        "next_context": true
+      }
+    }
+  },
+  {
+    "content": "[Previous context]\ntolerance to oral intake and Radiological signs of complication.\n\nThe study included 124 patients presented with acute non-complicated appendicitis who were subjected to non-operative management after initial assessment. Sixtyeight patients were males (54.8%) and fiftysix were females (45.2 %). Ages ranged from 4 to 12 years and the mean patient age was (7.13 ± 3.74) years. The mean of the total leucocytic count of patients was improved from (14.2 ± 7.1) before treatment to a mean of (7.2 ± 1.4) after treatment (p=0.001). C-reactive protein was also improved from a mean of (32.7 ± 18.8) to (11.5 ± 6.2) after treatment (p=0.002). The initial success rate of non-operative treatment protocol was about (88.7%) of cases (p =0.001) while failed cases were about (11.3%) of patients who needed immediate appendectomy (p = 0.022) as shown in Figure (1). The length of hospital stay mean was (3.1 ± 2.7) days. After one year of patient follow-up up There was a statistically significant difference among the study population according to recurrence of symptoms and need for readmission which was 36 children (29%) (p = 0.024) and among those children, only 12 children (9.7%) needed appendectomy (p = 0.002). In that regard, the success rate of non-operative treatment of pediatric acute non-complicated appendicitis is (79%) after one year of follow up as shown in Figure (1). There was a correlation between failure of non-operative management which resulted in appendectomy and different characteristic and symptomatic factors of the study population. High-grade Fever\n(p=0.032), migrating pain (p=0.021), abdominal rigidity at the time of initial assessment (p=0.041), and higher Modified Alvarado Scores (p=0.03) showed a statistically significant positive correlation with failure of management and the need of appendectomy as shown in Table (1).\n\n[Next context]\nTable 1: The correlation between failure of non-operative treatment and different characteristic and symptomatic factors of the study population, 1 = Table 1: The correlation between failure of non-operative treatment and different characteristic and symptomatic factors of the study population. Table 1: The correlation between failure of non-operative treatment and different characteristic and symptomatic factors of the study population, 2 = Table 1: The correlation between failure of non-operative treatment and different characteristic and symptomatic factors of the study population. Variable,",
+    "metadata": {
+      "document_id": "paper32",
+      "source": "paper32.pdf",
+      "topic": "Results",
+      "headings": [
+        "Results"
+      ],
+      "chunk_index": 5,
+      "total_chunks": 16,
+      "pages": [
+        3,
+        4
+      ],
+      "docling": {
+        "doc_items": [
+          {
+            "self_ref": "#/texts/19",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 3,
+                "bbox": {
+                  "l": 308.52,
+                  "t": 512.8399829101563,
+                  "r": 526.024,
+                  "b": 75.89998291015627,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  1298
+                ]
+              },
+              {
+                "page_no": 4,
+                "bbox": {
+                  "l": 72.024,
+                  "t": 746.4399829101563,
+                  "r": 289.524,
+                  "b": 646.5699829101563,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  1299,
+                  1596
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/22",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 4,
+                "bbox": {
+                  "l": 308.52,
+                  "t": 746.4399829101563,
+                  "r": 525.7880000000001,
+                  "b": 646.5699829101563,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  293
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "overlap": {
+        "enabled": true,
+        "ratio": 0.25,
+        "previous_context": true,
+        "next_context": true
+      }
+    }
+  },
+  {
+    "content": "[Previous context]\nas shown in Figure (1). There was a correlation between failure of non-operative management which resulted in appendectomy and different characteristic and symptomatic factors of the study population. High-grade Fever\n(p=0.032), migrating pain (p=0.021), abdominal rigidity at the time of initial assessment (p=0.041), and higher Modified Alvarado Scores (p=0.03) showed a statistically significant positive correlation with failure of management and the need of appendectomy as shown in Table (1).\n\nTable 1: The correlation between failure of non-operative treatment and different characteristic and symptomatic factors of the study population, 1 = Table 1: The correlation between failure of non-operative treatment and different characteristic and symptomatic factors of the study population. Table 1: The correlation between failure of non-operative treatment and different characteristic and symptomatic factors of the study population, 2 = Table 1: The correlation between failure of non-operative treatment and different characteristic and symptomatic factors of the study population. Variable, 1 = R. Variable, 2 = P value. Age, 1 = -0.021. Age, 2 = 0.74. Gender, 1 = 0.011. Gender, 2 = 0.82. Duration of pain, 1 = 0.124. Duration of pain, 2 = 0.41. Nausea and vomiting, 1 = 0.117. Nausea and vomiting, 2 = 0.33. Anorexia, 1 = 0.077. Anorexia, 2 = 0.72. Fever, 1 = 0.398. Fever, 2 = 0.032*. Migrating pain, 1 = 0.412. Migrating pain, 2 = 0.021*. Lax, 1 = -0.104. Lax, 2 = 0.40. Distention, 1 = -0.147. Distention, 2 = 0.512. Rigidity, 1 = 0.285. Rigidity, 2 = 0.041*. Rebound tenderness, 1 = 0.204. Rebound tenderness, 2 = 0.098. Heart Rate, 1 = 0.124. Heart Rate, 2 = 0.41. Respiratory Rate, 1 = -0.017. Respiratory Rate, 2 = 0.74. Temperature, 1 = 0.401. Temperature, 2 = 0.032*. Modified Alvarado Scoring, 1 = 0.388. Modified Alvarado Scoring, 2 = 0.03*\nFailure of management was also correlated to higher appendiceal diameter by ultrasonography (p= 0.021) and Tenderness elicited during ultrasound examination (p value= 0.041) as shown in Table (2). While there is a statically significant relation between higher modified Alvarado scores and failure of treatment and need for appendectomy, the higher modified Alvarado scores were also related to higher readmission rates and upon reaching the high score of 8 and 9, readmission rates were declining due to most patients being already failed non-operative treatment and proceeded to appendectomy (p-value = 0.002) as shown in Table (3).\n\n[Next context]\nTable 2: The correlation between failure of non-operative treatment and ultrasonography findings of the study population, 1 = Table 2: The correlation between failure of non-operative treatment and ultrasonography findings of the study population. Table 2: The correlation",
+    "metadata": {
+      "document_id": "paper32",
+      "source": "paper32.pdf",
+      "topic": "Results",
+      "headings": [
+        "Results"
+      ],
+      "chunk_index": 6,
+      "total_chunks": 16,
+      "pages": [
+        4,
+        5
+      ],
+      "docling": {
+        "doc_items": [
+          {
+            "self_ref": "#/tables/0",
+            "label": "table",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 4,
+                "bbox": {
+                  "l": 130.61583759872195,
+                  "t": 385.5410859820249,
+                  "r": 465.1676684162321,
+                  "b": 119.96668660042985,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  0
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/34",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 5,
+                "bbox": {
+                  "l": 72.024,
+                  "t": 746.4399829101563,
+                  "r": 289.524,
+                  "b": 631.9099829101564,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  338
+                ]
+              },
+              {
+                "page_no": 5,
+                "bbox": {
+                  "l": 308.52,
+                  "t": 746.4399829101563,
+                  "r": 526.024,
+                  "b": 631.9099829101564,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  339,
+                  660
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "overlap": {
+        "enabled": true,
+        "ratio": 0.25,
+        "previous_context": true,
+        "next_context": true
+      }
+    }
+  },
+  {
+    "content": "[Previous context]\nand Tenderness elicited during ultrasound examination (p value= 0.041) as shown in Table (2). While there is a statically significant relation between higher modified Alvarado scores and failure of treatment and need for appendectomy, the higher modified Alvarado scores were also related to higher readmission rates and upon reaching the high score of 8 and 9, readmission rates were declining due to most patients being already failed non-operative treatment and proceeded to appendectomy (p-value = 0.002) as shown in Table (3).\n\nTable 2: The correlation between failure of non-operative treatment and ultrasonography findings of the study population, 1 = Table 2: The correlation between failure of non-operative treatment and ultrasonography findings of the study population. Table 2: The correlation between failure of non-operative treatment and ultrasonography findings of the study population, 2 = Table 2: The correlation between failure of non-operative treatment and ultrasonography findings of the study population. Variable, 1 = R. Variable, 2 = P value. Appendix visible, 1 = -0.021. Appendix visible, 2 = 0.74. Non-compressible, 1 = 0.011. Non-compressible, 2 = 0.41. Tenderness, 1 = 0.324. Tenderness, 2 = 0.041*. Diameter (mm), 1 = 0.417. Diameter (mm), 2 = 0.021*. Free fluid, 1 = 0.077. Free fluid, 2 = 0.72. Abscess, 1 = 0.112. Abscess, 2 = 0.74. Mesenteric Lymphadenopathy, 1 = 0.104. Mesenteric Lymphadenopathy, 2 = 0.51. Mesenteric fat infiltration, 1 = -0.147. Mesenteric fat infiltration, 2 = 0.74\n\n[Next context]\n3, Table 3: The distribution of the study population according to Modified Alvarado Score and success rate of treatment, rate of appendectomy, and readmission..Total number (%total population) = 15 (12.1%). 3, Table 3: The distribution of the study population according to Modified Alvarado Score and success rate of treatment, rate of appendectomy, and readmission..Success rate = 15 (100%). 3, Table 3: The distribution of the study population according to Modified Alvarado Score and success rate of treatment, rate of appendectomy, and readmission..Appendectomy P value (0.001) = 0 (0%). 3, Table 3: The distribution of the study population according to Modified Alvarado Score and success rate of treatment, rate of appendectomy, and readmission..Readmission rate P value",
+    "metadata": {
+      "document_id": "paper32",
+      "source": "paper32.pdf",
+      "topic": "Results",
+      "headings": [
+        "Results"
+      ],
+      "chunk_index": 7,
+      "total_chunks": 16,
+      "pages": [
+        5
+      ],
+      "docling": {
+        "doc_items": [
+          {
+            "self_ref": "#/tables/1",
+            "label": "table",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 5,
+                "bbox": {
+                  "l": 131.2503281579533,
+                  "t": 609.0532446063539,
+                  "r": 463.6755898667233,
+                  "b": 454.51933245244265,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  0
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "overlap": {
+        "enabled": true,
+        "ratio": 0.25,
+        "previous_context": true,
+        "next_context": true
+      }
+    }
+  },
+  {
+    "content": "[Previous context]\n1 = 0.077. Free fluid, 2 = 0.72. Abscess, 1 = 0.112. Abscess, 2 = 0.74. Mesenteric Lymphadenopathy, 1 = 0.104. Mesenteric Lymphadenopathy, 2 = 0.51. Mesenteric fat infiltration, 1 = -0.147. Mesenteric fat infiltration, 2 = 0.74\n\n3, Table 3: The distribution of the study population according to Modified Alvarado Score and success rate of treatment, rate of appendectomy, and readmission..Total number (%total population) = 15 (12.1%). 3, Table 3: The distribution of the study population according to Modified Alvarado Score and success rate of treatment, rate of appendectomy, and readmission..Success rate = 15 (100%). 3, Table 3: The distribution of the study population according to Modified Alvarado Score and success rate of treatment, rate of appendectomy, and readmission..Appendectomy P value (0.001) = 0 (0%). 3, Table 3: The distribution of the study population according to Modified Alvarado Score and success rate of treatment, rate of appendectomy, and readmission..Readmission rate P value (0.002) = 0 (0%). 4, Table 3: The distribution of the study population according to Modified Alvarado Score and success rate of treatment, rate of appendectomy, and readmission..Total number (%total population) = 18 (14.5%). 4, Table 3: The distribution of the study population according to Modified Alvarado Score and success rate of treatment, rate of appendectomy, and readmission..Success rate = 18 (100%). 4, Table 3: The distribution of the study population according to Modified Alvarado Score and success rate of treatment, rate of appendectomy, and readmission..Appendectomy P value (0.001) = 0 (0%). 4, Table 3: The distribution of the study population according to Modified Alvarado Score and success rate of treatment, rate of appendectomy, and readmission..Readmission rate P value (0.002) = 3 (16.7%). 5, Table 3: The distribution of the study population according to Modified Alvarado Score and success rate of treatment, rate of appendectomy, and readmission..Total number (%total population) = 27 (21.8%). 5, Table 3: The distribution of the study population according to Modified Alvarado Score and success rate of treatment, rate of appendectomy, and readmission..Success rate = 26 (96.3%). 5, Table 3: The distribution of the study population according to Modified Alvarado Score and success rate of treatment, rate of appendectomy, and readmission..Appendectomy P value (0.001) = 1 (3.7%). 5, Table 3: The distribution of the study population according to Modified Alvarado Score and success rate of treatment, rate of appendectomy, and readmission..Readmission rate P value (0.002) = 6 (22.2%). 6, Table 3: The distribution of the study population according to Modified Alvarado Score and success rate of treatment, rate of appendectomy, and readmission..Total number (%total population) = 21 (16.9%). 6, Table 3: The distribution of the study population according to Modified Alvarado Score and success rate of treatment, rate of appendectomy, and readmission..Success rate = 19 (90.5%). 6, Table 3: The distribution of the study population according to Modified Alvarado Score and success rate of treatment, rate of appendectomy, and readmission..Appendectomy P value (0.001) = 2 (9.5%). 6, Table 3: The distribution of the study population according to Modified Alvarado Score and success rate of\n\n[Next context]\ntreatment, rate of appendectomy, and readmission..Readmission rate P value (0.002) = 10 (47.6%). 7, Table 3: The distribution of the study population according to Modified Alvarado Score and success rate of treatment, rate of appendectomy, and readmission..Total number (%total population) = 22 (17.7%). 7, Table 3: The distribution of the study population according to Modified Alvarado Score and success rate of treatment, rate of appendectomy, and readmission..Success rate = 17 (77.3%). 7, Table 3: The distribution of the study population according to Modified Alvarado Score and success rate of treatment, rate of",
+    "metadata": {
+      "document_id": "paper32",
+      "source": "paper32.pdf",
+      "topic": "Results",
+      "headings": [
+        "Results"
+      ],
+      "chunk_index": 8,
+      "total_chunks": 16,
+      "pages": [
+        5
+      ],
+      "docling": {
+        "doc_items": [
+          {
+            "self_ref": "#/tables/2",
+            "label": "table",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 5,
+                "bbox": {
+                  "l": 71.40646474901665,
+                  "t": 431.85980391243777,
+                  "r": 523.4429276208605,
+                  "b": 268.45886034637044,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  0
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "overlap": {
+        "enabled": true,
+        "ratio": 0.25,
+        "previous_context": true,
+        "next_context": true
+      }
+    }
+  },
+  {
+    "content": "[Previous context]\nand readmission..Readmission rate P value (0.002) = 6 (22.2%). 6, Table 3: The distribution of the study population according to Modified Alvarado Score and success rate of treatment, rate of appendectomy, and readmission..Total number (%total population) = 21 (16.9%). 6, Table 3: The distribution of the study population according to Modified Alvarado Score and success rate of treatment, rate of appendectomy, and readmission..Success rate = 19 (90.5%). 6, Table 3: The distribution of the study population according to Modified Alvarado Score and success rate of treatment, rate of appendectomy, and readmission..Appendectomy P value (0.001) = 2 (9.5%). 6, Table 3: The distribution of the study population according to Modified Alvarado Score and success rate of\n\ntreatment, rate of appendectomy, and readmission..Readmission rate P value (0.002) = 10 (47.6%). 7, Table 3: The distribution of the study population according to Modified Alvarado Score and success rate of treatment, rate of appendectomy, and readmission..Total number (%total population) = 22 (17.7%). 7, Table 3: The distribution of the study population according to Modified Alvarado Score and success rate of treatment, rate of appendectomy, and readmission..Success rate = 17 (77.3%). 7, Table 3: The distribution of the study population according to Modified Alvarado Score and success rate of treatment, rate of appendectomy, and readmission..Appendectomy P value (0.001) = 5 (22.7%). 7, Table 3: The distribution of the study population according to Modified Alvarado Score and success rate of treatment, rate of appendectomy, and readmission..Readmission rate P value (0.002) = 14 (63.6%). 8, Table 3: The distribution of the study population according to Modified Alvarado Score and success rate of treatment, rate of appendectomy, and readmission..Total number (%total population) = 13 (10.5%). 8, Table 3: The distribution of the study population according to Modified Alvarado Score and success rate of treatment, rate of appendectomy, and readmission..Success rate = 3 (23.1%). 8, Table 3: The distribution of the study population according to Modified Alvarado Score and success rate of treatment, rate of appendectomy, and readmission..Appendectomy P value (0.001) = 10 (76.9%). 8, Table 3: The distribution of the study population according to Modified Alvarado Score and success rate of treatment, rate of appendectomy, and readmission..Readmission rate P value (0.002) = 3 (23.1%). 9, Table 3: The distribution of the study population according to Modified Alvarado Score and success rate of treatment, rate of appendectomy, and readmission..Total number (%total population) = 8 (6.5%). 9, Table 3: The distribution of the study population according to Modified Alvarado Score and success rate of treatment, rate of appendectomy, and readmission..Success rate = 0 (0%). 9, Table 3: The distribution of the study population according to Modified Alvarado Score and success rate of treatment, rate of appendectomy, and readmission..Appendectomy P value (0.001) = 8 (100%). 9, Table 3: The distribution of the study population according to Modified Alvarado Score and success rate of treatment, rate of appendectomy, and readmission..Readmission rate P value (0.002) = 0 (0%)\n\n[Next context]\nIn this study of non-operative treatment of pediatric non-complicated acute appendicitis, 124 patients were enrolled as eligible participants according to inclusion and exclusion criteria like that used in most published trials with age ranges between four and twelve years old. Initially,110 children responded to non-operative treatment and were discharged with a success rate of about (88.7%) of cases and 14 patients failed to respond to treatment and underwent appendectomy (11.3%). After 1 year of follow-up, 36 of those patients had",
+    "metadata": {
+      "document_id": "paper32",
+      "source": "paper32.pdf",
+      "topic": "Results",
+      "headings": [
+        "Results"
+      ],
+      "chunk_index": 9,
+      "total_chunks": 16,
+      "pages": [
+        5
+      ],
+      "docling": {
+        "doc_items": [
+          {
+            "self_ref": "#/tables/2",
+            "label": "table",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 5,
+                "bbox": {
+                  "l": 71.40646474901665,
+                  "t": 431.85980391243777,
+                  "r": 523.4429276208605,
+                  "b": 268.45886034637044,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  0
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "overlap": {
+        "enabled": true,
+        "ratio": 0.25,
+        "previous_context": true,
+        "next_context": true
+      }
+    }
+  },
+  {
+    "content": "[Previous context]\n= 8 (6.5%). 9, Table 3: The distribution of the study population according to Modified Alvarado Score and success rate of treatment, rate of appendectomy, and readmission..Success rate = 0 (0%). 9, Table 3: The distribution of the study population according to Modified Alvarado Score and success rate of treatment, rate of appendectomy, and readmission..Appendectomy P value (0.001) = 8 (100%). 9, Table 3: The distribution of the study population according to Modified Alvarado Score and success rate of treatment, rate of appendectomy, and readmission..Readmission rate P value (0.002) = 0 (0%)\n\nIn this study of non-operative treatment of pediatric non-complicated acute appendicitis, 124 patients were enrolled as eligible participants according to inclusion and exclusion criteria like that used in most published trials with age ranges between four and twelve years old. Initially,110 children responded to non-operative treatment and were discharged with a success rate of about (88.7%) of cases and 14 patients failed to respond to treatment and underwent appendectomy (11.3%). After 1 year of follow-up, 36 of those patients had recurrent appendicitis that required readmission (29%), and 12 patients needed appendectomy (9.7%) while the others responded to a second trial of non-operative treatment. This brings the success rate of non-operative treatment after one year of follow-up to (79%). These findings prove the feasibility of treating uncomplicated appendicitis with antibiotics as the first line. Nearly 4/5 of all patients who initially presented with uncomplicated appendicitis were successfully treated with antibiotics. This study was aimed at assessing the safety and efficacy of non-operative management of uncomplicated appendicitis in a pediatric group. The results support this approach and build on the existing evidence of using non-operative management as a safe and effective alternative to appendectomy, thus it should always be considered in selected patients. Comparing our result with a study conducted in 2020 describing the association of non-operative management using antibiotic therapy vs laparoscopic appendectomy with treatment success and disability days in children with uncomplicated appendicitis, among 1068 patients who were enrolled, 370 (35%) chose non-operative management. The success rate of non-operative management at 1 year was (67.1%) Nonoperative management was associated with significantly fewer patient disability days at 1 year than surgery (12) . Our study shared similar characteristics with this study, but the success rate was higher at 1 year (79%) with the main differences being that we included patients within 24 hours of presentation compared to the 48-hour time limit in the other study and different choice of antibiotic regimen.\n\n[Next context]\nConsistent with our findings a pilot randomized controlled trial was conducted in 2015 assessing non-operative treatment with antibiotics versus surgery for acute non-perforated appendicitis in children. Fifty patients were enrolled; 26 were randomized to surgery and 24 to nonoperative treatment with antibiotics. Twenty-two of 24 patients (92%) treated with antibiotics had initial resolution of symptoms which is very close to our initial success rate (88.7%) (8) . However, 5 fiveyear follow-up study on the same population was published in 2020 indicating that non-operative treatment was successful in (54%) of cases as (46%) of children treated with antibiotics for acute non-perforated appendicitis had undergone an appendectomy cementing that treatment with antibiotics seems to be safe in the intermediate-term (13) . Further research should be conducted on that matter, and it may conclude a more strict",
+    "metadata": {
+      "document_id": "paper32",
+      "source": "paper32.pdf",
+      "topic": "Discussion",
+      "headings": [
+        "Discussion"
+      ],
+      "chunk_index": 10,
+      "total_chunks": 16,
+      "pages": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "docling": {
+        "doc_items": [
+          {
+            "self_ref": "#/texts/36",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 5,
+                "bbox": {
+                  "l": 72.024,
+                  "t": 202.66998291015625,
+                  "r": 289.524,
+                  "b": 73.25998291015628,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  383
+                ]
+              },
+              {
+                "page_no": 5,
+                "bbox": {
+                  "l": 308.52,
+                  "t": 239.6299829101563,
+                  "r": 526.024,
+                  "b": 81.20398291015636,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  384,
+                  843
+                ]
+              },
+              {
+                "page_no": 6,
+                "bbox": {
+                  "l": 72.024,
+                  "t": 746.4399829101563,
+                  "r": 289.5119999999999,
+                  "b": 74.93998291015623,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  844,
+                  2820
+                ]
+              },
+              {
+                "page_no": 6,
+                "bbox": {
+                  "l": 308.52,
+                  "t": 746.4399829101563,
+                  "r": 526.0240000000001,
+                  "b": 74.93998291015623,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  2821,
+                  4744
+                ]
+              },
+              {
+                "page_no": 7,
+                "bbox": {
+                  "l": 72.024,
+                  "t": 746.4399829101563,
+                  "r": 289.524,
+                  "b": 74.93998291015623,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  4745,
+                  6691
+                ]
+              },
+              {
+                "page_no": 7,
+                "bbox": {
+                  "l": 308.52,
+                  "t": 746.4399829101563,
+                  "r": 526.024,
+                  "b": 74.93998291015623,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  6692,
+                  8700
+                ]
+              },
+              {
+                "page_no": 8,
+                "bbox": {
+                  "l": 72.024,
+                  "t": 746.4399829101563,
+                  "r": 289.524,
+                  "b": 177.7099829101562,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  8701,
+                  10392
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "overlap": {
+        "enabled": true,
+        "ratio": 0.25,
+        "previous_context": true,
+        "next_context": true
+      }
+    }
+  },
+  {
+    "content": "[Previous context]\n(35%) chose non-operative management. The success rate of non-operative management at 1 year was (67.1%) Nonoperative management was associated with significantly fewer patient disability days at 1 year than surgery (12) . Our study shared similar characteristics with this study, but the success rate was higher at 1 year (79%) with the main differences being that we included patients within 24 hours of presentation compared to the 48-hour time limit in the other study and different choice of antibiotic regimen.\n\nConsistent with our findings a pilot randomized controlled trial was conducted in 2015 assessing non-operative treatment with antibiotics versus surgery for acute non-perforated appendicitis in children. Fifty patients were enrolled; 26 were randomized to surgery and 24 to nonoperative treatment with antibiotics. Twenty-two of 24 patients (92%) treated with antibiotics had initial resolution of symptoms which is very close to our initial success rate (88.7%) (8) . However, 5 fiveyear follow-up study on the same population was published in 2020 indicating that non-operative treatment was successful in (54%) of cases as (46%) of children treated with antibiotics for acute non-perforated appendicitis had undergone an appendectomy cementing that treatment with antibiotics seems to be safe in the intermediate-term (13) . Further research should be conducted on that matter, and it may conclude a more strict system for assessment and follow-up of patients to avoid negative appendectomy. The radiological diagnosis modalities play a role in detecting complicated cases and thus increasing success rates as evident from the study in 2017 where children with acute appendicitis were investigated by clinical, laboratory variables, and abdominal ultrasound and divided into two groups: complicated and uncomplicated. Conservative treatment for uncomplicated appendicitis had about (58%) success rate which is much lower than our study. The main reason that patients with non-visualized appendix (non-diagnostic ultrasound) were included in this study with no further Computed tomography scan to confirm the diagnosis, unlike our study which used equivocal ultrasound findings in (4%) of total patients (14) . This indicates that while ultrasound is incredibly useful in the diagnosis and detection of complicated appendicitis, Further imaging may be needed and should be done to minimize risks in case of non-conclusive findings of ultrasonography. The studies on the effect of non-operative treatment on biomarker parameters and appendiceal diameter are limited. In a study conducted in Turkey in the year 2007 studying non-operative treatment of acute appendicitis in children, The mean WBC count before treatment was 15,156 and after treatment7989. Ultrasound examination at the time of admission revealed an enlarged noncompressible appendix without appendicolith or free fluid. The mean anteroposterior diameter was (7.11±1.01) mm (range, 6-9.5 mm). Ultrasound examination was repeated, and the median diameter of the appendix was measured after 48 hours of treatment in all the patients. The mean diameter of the appendix was (4.64 ±0.82 mm) range (3.6-6.8 mm) (10) . Another cohort study published in 2018 assessed clinical recovery in children with uncomplicated appendicitis undergoing non-operative treatment White blood cell count declined from a median (12.9) on admission to (7.0) after one day of treatment. Median C-reactive protein levels declined from (27.5) on admission to (21.5) after two days of treatment (15) . This data is comparable and consistent with our finding that there is a significant improvement in both biomarkers and appendiceal diameter after treatment. In our study, the white blood cell count went down from a mean of (14.2 ± 7.1) before treatment to a significant mean of (7.2 ± 1.4) after treatment. The mean of C-reactive protein showed a significant decline from (32.7 ± 18.8) to (11.5 ± 6.2) after treatment. The anteroposterior diameter of the appendix went down from a mean of (8.3 ± 2.9 mm) before treatment to a mean of (3.7±\n\n[Next context]\n1.3 mm). That concludes that clinical biomarkers and ultrasonography findings play a role in predictive value for the success of non-operative treatment and should be assessed properly in future trials. In our study assessment of length of hospital stay was done and found to be of mean of (3.1 ± 2.7) days. While it was not comparable to the",
+    "metadata": {
+      "document_id": "paper32",
+      "source": "paper32.pdf",
+      "topic": "Discussion",
+      "headings": [
+        "Discussion"
+      ],
+      "chunk_index": 11,
+      "total_chunks": 16,
+      "pages": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "docling": {
+        "doc_items": [
+          {
+            "self_ref": "#/texts/36",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 5,
+                "bbox": {
+                  "l": 72.024,
+                  "t": 202.66998291015625,
+                  "r": 289.524,
+                  "b": 73.25998291015628,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  383
+                ]
+              },
+              {
+                "page_no": 5,
+                "bbox": {
+                  "l": 308.52,
+                  "t": 239.6299829101563,
+                  "r": 526.024,
+                  "b": 81.20398291015636,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  384,
+                  843
+                ]
+              },
+              {
+                "page_no": 6,
+                "bbox": {
+                  "l": 72.024,
+                  "t": 746.4399829101563,
+                  "r": 289.5119999999999,
+                  "b": 74.93998291015623,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  844,
+                  2820
+                ]
+              },
+              {
+                "page_no": 6,
+                "bbox": {
+                  "l": 308.52,
+                  "t": 746.4399829101563,
+                  "r": 526.0240000000001,
+                  "b": 74.93998291015623,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  2821,
+                  4744
+                ]
+              },
+              {
+                "page_no": 7,
+                "bbox": {
+                  "l": 72.024,
+                  "t": 746.4399829101563,
+                  "r": 289.524,
+                  "b": 74.93998291015623,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  4745,
+                  6691
+                ]
+              },
+              {
+                "page_no": 7,
+                "bbox": {
+                  "l": 308.52,
+                  "t": 746.4399829101563,
+                  "r": 526.024,
+                  "b": 74.93998291015623,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  6692,
+                  8700
+                ]
+              },
+              {
+                "page_no": 8,
+                "bbox": {
+                  "l": 72.024,
+                  "t": 746.4399829101563,
+                  "r": 289.524,
+                  "b": 177.7099829101562,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  8701,
+                  10392
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "overlap": {
+        "enabled": true,
+        "ratio": 0.25,
+        "previous_context": true,
+        "next_context": true
+      }
+    }
+  },
+  {
+    "content": "[Previous context]\nappendicitis undergoing non-operative treatment White blood cell count declined from a median (12.9) on admission to (7.0) after one day of treatment. Median C-reactive protein levels declined from (27.5) on admission to (21.5) after two days of treatment (15) . This data is comparable and consistent with our finding that there is a significant improvement in both biomarkers and appendiceal diameter after treatment. In our study, the white blood cell count went down from a mean of (14.2 ± 7.1) before treatment to a significant mean of (7.2 ± 1.4) after treatment. The mean of C-reactive protein showed a significant decline from (32.7 ± 18.8) to (11.5 ± 6.2) after treatment. The anteroposterior diameter of the appendix went down from a mean of (8.3 ± 2.9 mm) before treatment to a mean of (3.7±\n\n1.3 mm). That concludes that clinical biomarkers and ultrasonography findings play a role in predictive value for the success of non-operative treatment and should be assessed properly in future trials. In our study assessment of length of hospital stay was done and found to be of mean of (3.1 ± 2.7) days. While it was not comparable to the length of hospital stay of patients who had urgent appendectomy due to the lack of a comparison group, it is significant for further research to compare the total length of stay in case of appendectomy in our study setting and the costeffectiveness of the non-operative approach. In a meta-analysis of the efficacy and safety of non-operative treatment for acute appendicitis, the total length of hospital stay during follow-up was similar for the non-operative approach and appendectomy (16) . Another meta-analysis of variable studies of non-operative treatment published in 2017 found that the lengths of hospital stay in antibiotic groups varied among different studies depending on the regimen and type of antibiotic prescribed and that there is significantly longer hospital stay in the antibiotic group than in the patients who had appendectomy. This may be partially explained by the strict criteria of giving in-patient intravenous antibiotics for at least 48 hours and discharging the patient when tolerating oral intake. But overall, the number of disability days was fewer for patients treated with antibiotics than for patients who underwent surgery (17) .\n\n[Next context]\nAvailable pediatric data suggests that an appendicolith identified in imaging studies is a risk factor for failure of non-operative management in children with acute appendicitis, so it is excluded as an exclusion criterion in most studies (18) . In a study published in 2016, patients were prospectively studied to assess nonoperative treatment in patients with an appendicolith and the reported failure rate was (60%). The study was stopped due to patient safety concerns (19) . Our study investigated other factors that predict failure of non-operative treatment. This study found a significant correlation between higher grades of fever, abdominal rigidity, higher modified Alvarado scores, and higher appendiceal diameter measurements",
+    "metadata": {
+      "document_id": "paper32",
+      "source": "paper32.pdf",
+      "topic": "Discussion",
+      "headings": [
+        "Discussion"
+      ],
+      "chunk_index": 12,
+      "total_chunks": 16,
+      "pages": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "docling": {
+        "doc_items": [
+          {
+            "self_ref": "#/texts/36",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 5,
+                "bbox": {
+                  "l": 72.024,
+                  "t": 202.66998291015625,
+                  "r": 289.524,
+                  "b": 73.25998291015628,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  383
+                ]
+              },
+              {
+                "page_no": 5,
+                "bbox": {
+                  "l": 308.52,
+                  "t": 239.6299829101563,
+                  "r": 526.024,
+                  "b": 81.20398291015636,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  384,
+                  843
+                ]
+              },
+              {
+                "page_no": 6,
+                "bbox": {
+                  "l": 72.024,
+                  "t": 746.4399829101563,
+                  "r": 289.5119999999999,
+                  "b": 74.93998291015623,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  844,
+                  2820
+                ]
+              },
+              {
+                "page_no": 6,
+                "bbox": {
+                  "l": 308.52,
+                  "t": 746.4399829101563,
+                  "r": 526.0240000000001,
+                  "b": 74.93998291015623,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  2821,
+                  4744
+                ]
+              },
+              {
+                "page_no": 7,
+                "bbox": {
+                  "l": 72.024,
+                  "t": 746.4399829101563,
+                  "r": 289.524,
+                  "b": 74.93998291015623,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  4745,
+                  6691
+                ]
+              },
+              {
+                "page_no": 7,
+                "bbox": {
+                  "l": 308.52,
+                  "t": 746.4399829101563,
+                  "r": 526.024,
+                  "b": 74.93998291015623,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  6692,
+                  8700
+                ]
+              },
+              {
+                "page_no": 8,
+                "bbox": {
+                  "l": 72.024,
+                  "t": 746.4399829101563,
+                  "r": 289.524,
+                  "b": 177.7099829101562,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  8701,
+                  10392
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "overlap": {
+        "enabled": true,
+        "ratio": 0.25,
+        "previous_context": true,
+        "next_context": true
+      }
+    }
+  },
+  {
+    "content": "[Previous context]\nthe antibiotic group than in the patients who had appendectomy. This may be partially explained by the strict criteria of giving in-patient intravenous antibiotics for at least 48 hours and discharging the patient when tolerating oral intake. But overall, the number of disability days was fewer for patients treated with antibiotics than for patients who underwent surgery (17) .\n\nAvailable pediatric data suggests that an appendicolith identified in imaging studies is a risk factor for failure of non-operative management in children with acute appendicitis, so it is excluded as an exclusion criterion in most studies (18) . In a study published in 2016, patients were prospectively studied to assess nonoperative treatment in patients with an appendicolith and the reported failure rate was (60%). The study was stopped due to patient safety concerns (19) . Our study investigated other factors that predict failure of non-operative treatment. This study found a significant correlation between higher grades of fever, abdominal rigidity, higher modified Alvarado scores, and higher appendiceal diameter measurements at the time of admission with failure of non-operative treatment and urgent appendectomy. The same factors were significantly correlated to the recurrence of appendicitis and the need of readmission. In the year 2021 cohort study was conducted to assess of predictive value of the Alvarado score in the success of non-operative management and concluded that an Alvarado score of 7 or higher, older age, and the presence of an appendicolith by imaging modalities are predictors factors of failure of non-operative approach (20) . In our study, we found a statistically significant relation between variable-modified Alvarado scores of the study population and the success rate of non-operative management and rate of readmission. Scores of (3-4) of modified Alvarado scores were related to (100%) success rate. A score of (5) was related to about (96.3%) success rate of the population with the same score. While scores of (6-7) were related to (90.5%) and (77.3%) success rates respectively of the population of the same score. Finally, the scores of (8) were related to the lowest rate of success in the population (23.1%) and a score of (9) was related to total failure of the non-operative management approach in children with that score. The rate of readmission was none in patients with a score of (3) of modified Alvarado score. The rate of readmission was increasing steadily as the score increased as a score of (4) readmission rate was about (16.7%), a score of (5) readmission rate was about (22.2%), a score of (6) readmission rate was (47.6%) and a score of (7) was related to the highest rate of readmission reaching about (63.6%) of the population with the same score. However, the rate of readmission drops to (23.1%) with a score of (8) and to none with a score of (9). This decline in readmission rates in the highest modified Alvarado score can be explained by most patients with these scores having already performed appendectomy and failed nonoperative treatment.\n\n[Next context]\nThis study concludes that the non-operative treatment protocol used to manage non-complicated pediatric acute appendicitis is safe and feasible",
+    "metadata": {
+      "document_id": "paper32",
+      "source": "paper32.pdf",
+      "topic": "Discussion",
+      "headings": [
+        "Discussion"
+      ],
+      "chunk_index": 13,
+      "total_chunks": 16,
+      "pages": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "docling": {
+        "doc_items": [
+          {
+            "self_ref": "#/texts/36",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 5,
+                "bbox": {
+                  "l": 72.024,
+                  "t": 202.66998291015625,
+                  "r": 289.524,
+                  "b": 73.25998291015628,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  383
+                ]
+              },
+              {
+                "page_no": 5,
+                "bbox": {
+                  "l": 308.52,
+                  "t": 239.6299829101563,
+                  "r": 526.024,
+                  "b": 81.20398291015636,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  384,
+                  843
+                ]
+              },
+              {
+                "page_no": 6,
+                "bbox": {
+                  "l": 72.024,
+                  "t": 746.4399829101563,
+                  "r": 289.5119999999999,
+                  "b": 74.93998291015623,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  844,
+                  2820
+                ]
+              },
+              {
+                "page_no": 6,
+                "bbox": {
+                  "l": 308.52,
+                  "t": 746.4399829101563,
+                  "r": 526.0240000000001,
+                  "b": 74.93998291015623,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  2821,
+                  4744
+                ]
+              },
+              {
+                "page_no": 7,
+                "bbox": {
+                  "l": 72.024,
+                  "t": 746.4399829101563,
+                  "r": 289.524,
+                  "b": 74.93998291015623,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  4745,
+                  6691
+                ]
+              },
+              {
+                "page_no": 7,
+                "bbox": {
+                  "l": 308.52,
+                  "t": 746.4399829101563,
+                  "r": 526.024,
+                  "b": 74.93998291015623,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  6692,
+                  8700
+                ]
+              },
+              {
+                "page_no": 8,
+                "bbox": {
+                  "l": 72.024,
+                  "t": 746.4399829101563,
+                  "r": 289.524,
+                  "b": 177.7099829101562,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  8701,
+                  10392
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "overlap": {
+        "enabled": true,
+        "ratio": 0.25,
+        "previous_context": true,
+        "next_context": true
+      }
+    }
+  },
+  {
+    "content": "[Previous context]\nof readmission was increasing steadily as the score increased as a score of (4) readmission rate was about (16.7%), a score of (5) readmission rate was about (22.2%), a score of (6) readmission rate was (47.6%) and a score of (7) was related to the highest rate of readmission reaching about (63.6%) of the population with the same score. However, the rate of readmission drops to (23.1%) with a score of (8) and to none with a score of (9). This decline in readmission rates in the highest modified Alvarado score can be explained by most patients with these scores having already performed appendectomy and failed nonoperative treatment.\n\nThis study concludes that the non-operative treatment protocol used to manage non-complicated pediatric acute appendicitis is safe and feasible and should be considered as an alternative to surgery in selected cases. However, strict criteria should be placed when applying non-operative treatment to early diagnose complications and avoid potential risks. Patients with a modified Alvarado score of (8) or higher should be excluded from the nonoperative approach as patients with this score showed total failure of this approach.\n\n[Next context]\n1. Yamanaka S, Skarsgard ED, Goldman RD. Conservative therapy for appendicitis in children. Can Fam Physician. 2018;64(8):574 -6.\n2. Georgiou R, Eaton S, Stanton MP, et al. Efficacy and Safety of Nonoperative Treatment for Acute Appendicitis: A Meta-analysis. Pediatrics. 2017 Mar 1;139(3):e20163003.\n3. López JJ, Deans",
+    "metadata": {
+      "document_id": "paper32",
+      "source": "paper32.pdf",
+      "topic": "Conclusion",
+      "headings": [
+        "Conclusion"
+      ],
+      "chunk_index": 14,
+      "total_chunks": 16,
+      "pages": [
+        8
+      ],
+      "docling": {
+        "doc_items": [
+          {
+            "self_ref": "#/texts/44",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 8,
+                "bbox": {
+                  "l": 72.024,
+                  "t": 137.83998291015632,
+                  "r": 289.18800000000005,
+                  "b": 81.92398291015627,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  173
+                ]
+              },
+              {
+                "page_no": 8,
+                "bbox": {
+                  "l": 308.52,
+                  "t": 746.4399829101563,
+                  "r": 525.8300000000002,
+                  "b": 602.6299829101563,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  174,
+                  563
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "overlap": {
+        "enabled": true,
+        "ratio": 0.25,
+        "previous_context": true,
+        "next_context": true
+      }
+    }
+  },
+  {
+    "content": "[Previous context]\nhigher should be excluded from the nonoperative approach as patients with this score showed total failure of this approach.\n\n1. Yamanaka S, Skarsgard ED, Goldman RD. Conservative therapy for appendicitis in children. Can Fam Physician. 2018;64(8):574 -6.\n2. Georgiou R, Eaton S, Stanton MP, et al. Efficacy and Safety of Nonoperative Treatment for Acute Appendicitis: A Meta-analysis. Pediatrics. 2017 Mar 1;139(3):e20163003.\n3. López JJ, Deans KJ, Minneci PC. Nonoperative management of appendicitis in children. Curr Opin Pediatr. 2017;29(3):358 -62.\n4. Carr NJ. The pathology of acute appendicitis. Vol. 4, Ann Diagnos Pathol. W.B. Saunders; 2000. p. 46 -58.\n5. Grant HW, Parker MC, Wilson MS, et al. Adhesions after abdominal surgery in children. J Pediatr Surg. 2008 Jan;43 (1):152-6.\n6. Armstrong J, Merritt N, Jones S, et al. Non-operative management of early, acute appendicitis in children: Is it safe and effective? In: J Ped Surg. W.B. Saunders; 2014 [cited 2020 Dec 26]. p. 782 -5.\n7. Huang L, Yin Y, Yang L, et al. Comparison of antibiotic therapy and appendectomy for acute uncomplicated appendicitis in children a metaanalysis. JAMA Pediatr. 2017;171(5):426 -34.\n8. Svensson JF, Patkova B, Almström M, et al. Nonoperative treatment with antibiotics versus surgery for acute nonperforated appendicitis in children.\n\n[Next context]\n- Ann Surg. 2015;261(1):67 -71.\n9. Steiner Z, Buklan G, Gutermacher M, et al. Conservative antibiotic treatment for acute uncomplicated appendicitis is feasible. Pediatr Surg Int. 2018;34 (3):283 -8.\n10. Abeş M, Petik B, Kazil S. Nonoperative treatment of acute appendicitis in children. J Pediatr Surg. 2007;42 (8):1439 -42.\n11. Falih Noori Alsubsiee I, Falih Noori Alsubsiee A. Appendicectomy for Uncomplicated Simple Appendicitis: Is It Always Required? Surg Res Pract. 2021;2021:8848162.\n12. Minneci PC, Hade EM, Lawrence AE, et al. Association of nonoperative management",
+    "metadata": {
+      "document_id": "paper32",
+      "source": "paper32.pdf",
+      "topic": "References",
+      "headings": [
+        "References"
+      ],
+      "chunk_index": 15,
+      "total_chunks": 16,
+      "pages": [
+        8
+      ],
+      "docling": {
+        "doc_items": [
+          {
+            "self_ref": "#/texts/46",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 8,
+                "bbox": {
+                  "l": 321.98,
+                  "t": 561.1039829101563,
+                  "r": 525.6008000000002,
+                  "b": 509.74398291015626,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  133
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/47",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 8,
+                "bbox": {
+                  "l": 321.98,
+                  "t": 507.3439829101563,
+                  "r": 525.8157599999998,
+                  "b": 442.5239829101563,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  178
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/48",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 8,
+                "bbox": {
+                  "l": 321.98,
+                  "t": 440.1239829101563,
+                  "r": 525.5897600000002,
+                  "b": 388.74398291015626,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  126
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/49",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 8,
+                "bbox": {
+                  "l": 321.98,
+                  "t": 386.3439829101563,
+                  "r": 525.5566400000002,
+                  "b": 348.6639829101563,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  108
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/50",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 8,
+                "bbox": {
+                  "l": 321.98,
+                  "t": 346.2639829101563,
+                  "r": 525.8157599999998,
+                  "b": 294.8739829101563,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  136
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/51",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 8,
+                "bbox": {
+                  "l": 321.98,
+                  "t": 292.47398291015634,
+                  "r": 525.8157599999998,
+                  "b": 214.21398291015635,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  212
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/52",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 8,
+                "bbox": {
+                  "l": 321.98,
+                  "t": 211.81398291015626,
+                  "r": 525.8157599999998,
+                  "b": 133.54398291015627,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  192
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/53",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 8,
+                "bbox": {
+                  "l": 321.98,
+                  "t": 131.1439829101563,
+                  "r": 525.6007999999999,
+                  "b": 80.00398291015631,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  150
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "overlap": {
+        "enabled": true,
+        "ratio": 0.25,
+        "previous_context": true,
+        "next_context": true
+      }
+    }
+  },
+  {
+    "content": "[Previous context]\nL, Yin Y, Yang L, et al. Comparison of antibiotic therapy and appendectomy for acute uncomplicated appendicitis in children a metaanalysis. JAMA Pediatr. 2017;171(5):426 -34.\n8. Svensson JF, Patkova B, Almström M, et al. Nonoperative treatment with antibiotics versus surgery for acute nonperforated appendicitis in children.\n\n- Ann Surg. 2015;261(1):67 -71.\n9. Steiner Z, Buklan G, Gutermacher M, et al. Conservative antibiotic treatment for acute uncomplicated appendicitis is feasible. Pediatr Surg Int. 2018;34 (3):283 -8.\n10. Abeş M, Petik B, Kazil S. Nonoperative treatment of acute appendicitis in children. J Pediatr Surg. 2007;42 (8):1439 -42.\n11. Falih Noori Alsubsiee I, Falih Noori Alsubsiee A. Appendicectomy for Uncomplicated Simple Appendicitis: Is It Always Required? Surg Res Pract. 2021;2021:8848162.\n12. Minneci PC, Hade EM, Lawrence AE, et al. Association of nonoperative management using antibiotic therapy vs laparoscopic appendectomy with treatment success and disability days in children with uncomplicated appendicitis. JAMA - J Am Med Assoc. 2020; 324(6):581 -93.\n13. Patkova B, Svenningsson A, Almström M, et al. Nonoperative treatment versus appendectomy for acute nonperforated appendicitis in children: Five-year follow up of a randomized controlled pilot trial. Ann Surg. 2020;271(6):1030 -5.\n14. Caruso AM, Pane A, Garau R, et al. Acute appendicitis in children: not only surgical treatment. J Pediatr Surg. 2017;52(3):444 -8.\n15. Knaapen M, van der Lee JH, Heij HA, et al. Clinical recovery in children with uncomplicated appendicitis undergoing non-operative treatment: secondary analysis of a prospective cohort study. Eur J Pediatr. 2018;235 -42.\n16. Georgiou R, Eaton S, Stanton MP, et al. Efficacy and safety of nonoperative treatment for acute appendicitis: A meta-analysis. Pediatrics. 2017;139(3).\n17. Huang L, Yin Y, Yang L, et al. Comparison of Antibiotic Therapy and Appendectomy for Acute Uncomplicated Appendicitis in Children: A Metaanalysis. JAMA Pediatr. 2017;171(5) :426 -434.\n18. Tanaka Y, Uchida H, Kawashima H, et al. Long-term outcomes of operative versus nonoperative treatment for uncomplicated appendicitis. J Pediatr Surg. 2015;50(11):1893 -7.\n19. Mahida JB, Lodwick DL, Nacion KM, et al. High failure rate of nonoperative management of acute appendicitis with an appendicolith in children. J Pediatr Surg. 2016;51(6):908 -11.\n20. Fuhrer AE, Sukhotnik I, Ben-Shahar Y, et al. Predictive Value of Alvarado Score and Pediatric Appendicitis Score in the Success of Nonoperative Management for Simple Acute Appendicitis in Children. Eur J Pediatr Surg. 2021;31 (1):95 -101.",
+    "metadata": {
+      "document_id": "paper32",
+      "source": "paper32.pdf",
+      "topic": "References",
+      "headings": [
+        "References"
+      ],
+      "chunk_index": 16,
+      "total_chunks": 16,
+      "pages": [
+        9
+      ],
+      "docling": {
+        "doc_items": [
+          {
+            "self_ref": "#/texts/56",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 9,
+                "bbox": {
+                  "l": 103.97,
+                  "t": 746.7039829101564,
+                  "r": 237.45568,
+                  "b": 735.6639829101564,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  29
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/57",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 9,
+                "bbox": {
+                  "l": 85.488,
+                  "t": 733.2639829101563,
+                  "r": 289.31568000000004,
+                  "b": 668.4339829101564,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  170
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/58",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 9,
+                "bbox": {
+                  "l": 85.488,
+                  "t": 666.0339829101563,
+                  "r": 289.31568000000004,
+                  "b": 614.6539829101564,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  125
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/59",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 9,
+                "bbox": {
+                  "l": 85.488,
+                  "t": 612.4939829101563,
+                  "r": 289.0997600000001,
+                  "b": 547.6639829101564,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  175
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/60",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 9,
+                "bbox": {
+                  "l": 85.488,
+                  "t": 545.2639829101563,
+                  "r": 289.31568000000004,
+                  "b": 440.1239829101563,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  282
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/61",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 9,
+                "bbox": {
+                  "l": 85.488,
+                  "t": 437.72398291015634,
+                  "r": 291.47568,
+                  "b": 359.4639829101563,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  251
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/62",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 9,
+                "bbox": {
+                  "l": 85.488,
+                  "t": 357.0639829101563,
+                  "r": 289.0997600000001,
+                  "b": 305.9139829101563,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  136
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/63",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 9,
+                "bbox": {
+                  "l": 321.98,
+                  "t": 746.7039829101564,
+                  "r": 525.8094399999999,
+                  "b": 668.4339829101564,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  230
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/64",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 9,
+                "bbox": {
+                  "l": 321.98,
+                  "t": 666.0339829101563,
+                  "r": 525.8157599999998,
+                  "b": 614.6539829101564,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  160
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/65",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 9,
+                "bbox": {
+                  "l": 321.98,
+                  "t": 612.4939829101563,
+                  "r": 525.8157599999998,
+                  "b": 534.2239829101563,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  195
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/66",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 9,
+                "bbox": {
+                  "l": 321.98,
+                  "t": 531.8239829101564,
+                  "r": 525.6041600000002,
+                  "b": 467.0039829101563,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  178
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/67",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 9,
+                "bbox": {
+                  "l": 321.98,
+                  "t": 464.60398291015633,
+                  "r": 525.5676800000001,
+                  "b": 399.7839829101563,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  193
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/68",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 9,
+                "bbox": {
+                  "l": 321.98,
+                  "t": 397.3839829101563,
+                  "r": 525.8156799999999,
+                  "b": 305.9139829101563,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  253
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "overlap": {
+        "enabled": true,
+        "ratio": 0.25,
+        "previous_context": true,
+        "next_context": false
+      }
+    }
+  }
+]

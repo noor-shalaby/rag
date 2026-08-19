@@ -1,0 +1,5939 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "paper2",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 10269669458078799163,
+    "filename": "paper2"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/texts/27"
+      },
+      {
+        "$ref": "#/texts/28"
+      },
+      {
+        "$ref": "#/texts/29"
+      },
+      {
+        "$ref": "#/texts/30"
+      },
+      {
+        "$ref": "#/texts/31"
+      },
+      {
+        "$ref": "#/texts/32"
+      },
+      {
+        "$ref": "#/texts/33"
+      },
+      {
+        "$ref": "#/texts/34"
+      },
+      {
+        "$ref": "#/texts/35"
+      },
+      {
+        "$ref": "#/texts/36"
+      },
+      {
+        "$ref": "#/tables/0"
+      },
+      {
+        "$ref": "#/texts/38"
+      },
+      {
+        "$ref": "#/tables/1"
+      },
+      {
+        "$ref": "#/texts/40"
+      },
+      {
+        "$ref": "#/texts/41"
+      },
+      {
+        "$ref": "#/texts/42"
+      },
+      {
+        "$ref": "#/texts/43"
+      },
+      {
+        "$ref": "#/texts/44"
+      },
+      {
+        "$ref": "#/texts/45"
+      },
+      {
+        "$ref": "#/texts/46"
+      },
+      {
+        "$ref": "#/texts/47"
+      },
+      {
+        "$ref": "#/texts/48"
+      },
+      {
+        "$ref": "#/texts/49"
+      },
+      {
+        "$ref": "#/texts/50"
+      },
+      {
+        "$ref": "#/texts/51"
+      },
+      {
+        "$ref": "#/texts/52"
+      },
+      {
+        "$ref": "#/texts/53"
+      },
+      {
+        "$ref": "#/texts/54"
+      },
+      {
+        "$ref": "#/texts/55"
+      },
+      {
+        "$ref": "#/texts/56"
+      },
+      {
+        "$ref": "#/tables/2"
+      },
+      {
+        "$ref": "#/texts/59"
+      },
+      {
+        "$ref": "#/texts/60"
+      },
+      {
+        "$ref": "#/tables/3"
+      },
+      {
+        "$ref": "#/texts/62"
+      },
+      {
+        "$ref": "#/texts/63"
+      },
+      {
+        "$ref": "#/texts/64"
+      },
+      {
+        "$ref": "#/texts/65"
+      },
+      {
+        "$ref": "#/texts/66"
+      },
+      {
+        "$ref": "#/texts/67"
+      },
+      {
+        "$ref": "#/texts/68"
+      },
+      {
+        "$ref": "#/texts/69"
+      },
+      {
+        "$ref": "#/texts/70"
+      },
+      {
+        "$ref": "#/texts/71"
+      },
+      {
+        "$ref": "#/texts/72"
+      },
+      {
+        "$ref": "#/texts/73"
+      },
+      {
+        "$ref": "#/texts/74"
+      },
+      {
+        "$ref": "#/texts/75"
+      },
+      {
+        "$ref": "#/texts/76"
+      },
+      {
+        "$ref": "#/texts/77"
+      },
+      {
+        "$ref": "#/texts/78"
+      },
+      {
+        "$ref": "#/texts/79"
+      },
+      {
+        "$ref": "#/texts/80"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/91"
+      },
+      {
+        "$ref": "#/texts/92"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/texts/99"
+      },
+      {
+        "$ref": "#/texts/100"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/5"
+        },
+        {
+          "$ref": "#/texts/6"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/81"
+        },
+        {
+          "$ref": "#/texts/82"
+        },
+        {
+          "$ref": "#/texts/83"
+        },
+        {
+          "$ref": "#/texts/84"
+        },
+        {
+          "$ref": "#/texts/85"
+        },
+        {
+          "$ref": "#/texts/86"
+        },
+        {
+          "$ref": "#/texts/87"
+        },
+        {
+          "$ref": "#/texts/88"
+        },
+        {
+          "$ref": "#/texts/89"
+        },
+        {
+          "$ref": "#/texts/90"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/93"
+        },
+        {
+          "$ref": "#/texts/94"
+        },
+        {
+          "$ref": "#/texts/95"
+        },
+        {
+          "$ref": "#/texts/96"
+        },
+        {
+          "$ref": "#/texts/97"
+        },
+        {
+          "$ref": "#/texts/98"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 70.86610400000006,
+            "t": 780.6886750000012,
+            "r": 524.2555039999988,
+            "b": 754.3957060559014,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            97
+          ]
+        }
+      ],
+      "orig": "Laparoscopic versus open appendicectomy for the treatment of acute appendicitis in young patients",
+      "text": "Laparoscopic versus open appendicectomy for the treatment of acute appendicitis in young patients",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 93.79240400000003,
+            "t": 729.3206750000008,
+            "r": 474.88640399999963,
+            "b": 706.0643271739136,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            72
+          ]
+        }
+      ],
+      "orig": "Mohamed Aamer, MD; MRCS; Saeed Kamel, MD; Gamal Fawzy, Ahmed Hussein, MD",
+      "text": "Mohamed Aamer, MD; MRCS; Saeed Kamel, MD; Gamal Fawzy, Ahmed Hussein, MD"
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 474.88640399999963,
+            "t": 729.3206750000008,
+            "r": 501.31840399999965,
+            "b": 722.0643271739136,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "MD;",
+      "text": "MD;"
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 102.76230399999997,
+            "t": 681.3206750000008,
+            "r": 492.39630399999896,
+            "b": 674.0643271739136,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            66
+          ]
+        }
+      ],
+      "orig": "Department of General Surgery, Ain Shams University, Cairo, Egypt.",
+      "text": "Department of General Surgery, Ain Shams University, Cairo, Egypt."
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 70.86620399999993,
+            "t": 649.9526750000005,
+            "r": 155.5262039999999,
+            "b": 643.7329482919267,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "Correspondence:",
+      "text": "Correspondence:",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 70.86620399999993,
+            "t": 635.9526750000005,
+            "r": 257.8382039999999,
+            "b": 629.7329482919267,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            32
+          ]
+        }
+      ],
+      "orig": "Mohamed Aamer: Mobile 0106522025",
+      "text": "Mohamed Aamer: Mobile 0106522025"
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 142.86620399999993,
+            "t": 621.9526750000005,
+            "r": 306.21020399999975,
+            "b": 615.7329482919267,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            26
+          ]
+        }
+      ],
+      "orig": "e-mail: dr.aamer@yahoo.com",
+      "text": "e-mail: dr.aamer@yahoo.com"
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 275.3004310000001,
+            "t": 591.2495500000005,
+            "r": 319.95243100000016,
+            "b": 585.0298232919267,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Abstract",
+      "text": "Abstract",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 70.86613100000022,
+            "t": 577.2495500000005,
+            "r": 524.4476310000039,
+            "b": 543.0298232919267,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            247
+          ]
+        }
+      ],
+      "orig": "Background: Debate exists about the benefits of laparoscopic appendicectomy in acute appendicitis. In this study, we compare the safety and efficacy of laparoscopic appendicectomy with open appendicectomy in young patients with acute appendicitis.",
+      "text": "Background: Debate exists about the benefits of laparoscopic appendicectomy in acute appendicitis. In this study, we compare the safety and efficacy of laparoscopic appendicectomy with open appendicectomy in young patients with acute appendicitis."
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 70.86613100000022,
+            "t": 535.2495500000005,
+            "r": 524.3845310000027,
+            "b": 473.02982329192673,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            423
+          ]
+        }
+      ],
+      "orig": "Methods: This study is a prospective randomized clinical trial conducted in Ain Shams University Hospitals during the period from January 2007 till January 2010. One hundred forty young patients who were diagnosed as having acute appendicitis were randomized into 2 groups: group I included 70 patients who underwent laparoscopic appendicectomy (LA) and group II included 70 patients who underwent open appendicectomy (OA).",
+      "text": "Methods: This study is a prospective randomized clinical trial conducted in Ain Shams University Hospitals during the period from January 2007 till January 2010. One hundred forty young patients who were diagnosed as having acute appendicitis were randomized into 2 groups: group I included 70 patients who underwent laparoscopic appendicectomy (LA) and group II included 70 patients who underwent open appendicectomy (OA)."
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 70.86613100000022,
+            "t": 465.24955000000045,
+            "r": 524.5453309999987,
+            "b": 319.02982329192673,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            927
+          ]
+        }
+      ],
+      "orig": "Results: The mean operative time was significantly longer in the LA group (60±25 mins) than the OA group (45±15 mins) (P<0.01). There was a need for conversion to OA in 3 patients of the LA group (4.29%) due to extensive adhesions. There was no significant difference in the incidence of intraoperative complications between both groups. There was a statistically significant lower incidence of wound infection and wound seroma in the LA group (2.86% and 1.43% respectively) than the OA group (14.29% and 10% respectively) (P<0.05). There was a statistically insignificant higher incidence of intraabdominal collection in the LA group (4 patients, 5.71%) than OA group (2 patients, 2,86%) (P>0.1). The hospital stay was significantly shorter in the LA group (1.5±0.5 days) than the OA group (2±1 days) (P<0.001). The average cost was significantly higher in the LA group (3300±400 LE) than the OA group (1500+200 LE) (P<0.001).",
+      "text": "Results: The mean operative time was significantly longer in the LA group (60±25 mins) than the OA group (45±15 mins) (P<0.01). There was a need for conversion to OA in 3 patients of the LA group (4.29%) due to extensive adhesions. There was no significant difference in the incidence of intraoperative complications between both groups. There was a statistically significant lower incidence of wound infection and wound seroma in the LA group (2.86% and 1.43% respectively) than the OA group (14.29% and 10% respectively) (P<0.05). There was a statistically insignificant higher incidence of intraabdominal collection in the LA group (4 patients, 5.71%) than OA group (2 patients, 2,86%) (P>0.1). The hospital stay was significantly shorter in the LA group (1.5±0.5 days) than the OA group (2±1 days) (P<0.001). The average cost was significantly higher in the LA group (3300±400 LE) than the OA group (1500+200 LE) (P<0.001)."
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 70.86613100000022,
+            "t": 311.24955000000045,
+            "r": 524.5105310000049,
+            "b": 221.02982329192673,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            599
+          ]
+        }
+      ],
+      "orig": "Conclusion: LA is safe and effective for the treatment of acute appendicitis as there is no significant incidence of major intraabdominal complications, there is lower incidence of postoperative complications especially wound infection than OA, and there is significantly shorter hospital stay. However, the mean operative time is significantly longer in the LA group, and the cost of LA is significantly higher than OA. Also the incidence of postoperative intraabdominal  collection  is  higher  in  LA  than  OA,  yet  non  significant. Key words: Laparoscopic, appendicectomy, acute appendicitis.",
+      "text": "Conclusion: LA is safe and effective for the treatment of acute appendicitis as there is no significant incidence of major intraabdominal complications, there is lower incidence of postoperative complications especially wound infection than OA, and there is significantly shorter hospital stay. However, the mean operative time is significantly longer in the LA group, and the cost of LA is significantly higher than OA. Also the incidence of postoperative intraabdominal  collection  is  higher  in  LA  than  OA,  yet  non  significant. Key words: Laparoscopic, appendicectomy, acute appendicitis."
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 70.86608899999999,
+            "t": 169.77515399999993,
+            "r": 140.202089,
+            "b": 163.5554272919262,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "Introduction:",
+      "text": "Introduction:",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 70.86608899999999,
+            "t": 155.77515399999993,
+            "r": 287.7622889999989,
+            "b": 65.55542729192621,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            278
+          ]
+        }
+      ],
+      "orig": "Appendectomy remains the most frequently performed emergency abdominal surgical procedure. 1   The  lifetime  risk  of  acute appendicitis for men and women is 8.6% and 6.7% respectively. However, the lifetime risk of having an appendectomy is 12% for men and 25% for women. 2-4",
+      "text": "Appendectomy remains the most frequently performed emergency abdominal surgical procedure. 1   The  lifetime  risk  of  acute appendicitis for men and women is 8.6% and 6.7% respectively. However, the lifetime risk of having an appendectomy is 12% for men and 25% for women. 2-4"
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 307.5589890000001,
+            "t": 169.77515399999993,
+            "r": 524.4340890000028,
+            "b": 149.5554272919262,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            66
+          ]
+        }
+      ],
+      "orig": "Laparoscopic appendicectomy was first described by Semm in 1983. 5",
+      "text": "Laparoscopic appendicectomy was first described by Semm in 1983. 5"
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 307.5589890000001,
+            "t": 141.77515399999993,
+            "r": 524.5098889999988,
+            "b": 65.55542729192621,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            264
+          ]
+        },
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 70.86610399999995,
+            "t": 780.6081459999996,
+            "r": 287.7083040000032,
+            "b": 746.3884192919259,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            265,
+            370
+          ]
+        }
+      ],
+      "orig": "Combining  clinical  history,  physical examination and laboratory studies has led to the  development  of  scoring  systems  and computer-aided algorithms to help clinicians with decision making in acute appendicitis. 6 Overall, the actual gain of scoring systems appears small and the performance of these scores  outside  study  conditions  is  often disappointing. 7",
+      "text": "Combining  clinical  history,  physical examination and laboratory studies has led to the  development  of  scoring  systems  and computer-aided algorithms to help clinicians with decision making in acute appendicitis. 6 Overall, the actual gain of scoring systems appears small and the performance of these scores  outside  study  conditions  is  often disappointing. 7"
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 70.94339000000002,
+            "t": 40.33969900000011,
+            "r": 213.14361899999994,
+            "b": 35.1928496849323,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            33
+          ]
+        }
+      ],
+      "orig": "Ain-Shams J Surg 2011; 4(1):39-46",
+      "text": "Ain-Shams J Surg 2011; 4(1):39-46"
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 527.90596,
+            "t": 41.187754000000496,
+            "r": 539.90596,
+            "b": 34.84657520838482,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "39",
+      "text": "39"
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 70.86610399999995,
+            "t": 738.6081459999996,
+            "r": 287.8103040000037,
+            "b": 620.3884192919259,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            388
+          ]
+        }
+      ],
+      "orig": "Laparoscopic inspection of the abdominal cavity enables the surgeon to diagnose acute appendicitis  accurately.  Criteria  for  the diagnosis of appendicitis during laparoscopic inspection are the presence of unequivocal inflammatory changes, such as pus, fibrin, or vascular injection of the serosa. Rigidity and lack of mobility at manipulation are less certain signs of inflammation. 7",
+      "text": "Laparoscopic inspection of the abdominal cavity enables the surgeon to diagnose acute appendicitis  accurately.  Criteria  for  the diagnosis of appendicitis during laparoscopic inspection are the presence of unequivocal inflammatory changes, such as pus, fibrin, or vascular injection of the serosa. Rigidity and lack of mobility at manipulation are less certain signs of inflammation. 7"
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 70.86610399999995,
+            "t": 612.6081459999996,
+            "r": 287.83810399999743,
+            "b": 452.38841929192586,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            498
+          ]
+        }
+      ],
+      "orig": "Even  after t h e   extended  use  of ultrasonography in all patients suspected of having acute appendicitis, around 20% of female patients and 8-10% of male patients will  have  a  negative  appendix  during laparoscopic intervention. Therefore, in all patients planned to undergo a laparoscopic appendicectomy, the initial diagnostic character of this intervention should be stressed. If the appendix is normal, the whole abdominal cavity should be examined starting with the internal genitals. 7",
+      "text": "Even  after t h e   extended  use  of ultrasonography in all patients suspected of having acute appendicitis, around 20% of female patients and 8-10% of male patients will  have  a  negative  appendix  during laparoscopic intervention. Therefore, in all patients planned to undergo a laparoscopic appendicectomy, the initial diagnostic character of this intervention should be stressed. If the appendix is normal, the whole abdominal cavity should be examined starting with the internal genitals. 7"
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 70.86610399999995,
+            "t": 444.6081459999996,
+            "r": 287.6993039999966,
+            "b": 368.38841929192586,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            241
+          ]
+        }
+      ],
+      "orig": "The fate of a normal appendix has also been defined, it is safe to remove it just as in open surgery, but it is also safe to leave. 8  In one study,  there  was  only  a  1%  incidence  of subsequent appendicitis after 4 years of followup. 9",
+      "text": "The fate of a normal appendix has also been defined, it is safe to remove it just as in open surgery, but it is also safe to leave. 8  In one study,  there  was  only  a  1%  incidence  of subsequent appendicitis after 4 years of followup. 9"
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 70.86610399999995,
+            "t": 360.6081459999996,
+            "r": 287.7966040000017,
+            "b": 242.38841929192586,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            391
+          ]
+        }
+      ],
+      "orig": "Removing  a  normal  appendix  at  open surgery is associated with a 7-13% risk of early complications and 4% of late complications such as incisional hernia and chronic pain in the  first  year  after  operation.  If  a  normal appendix is  left  in  situ  during  diagnostic laparoscopy,  the  number  of  unnecessary appendectomies will decrease, particularly in fertile women (17-45%). 7",
+      "text": "Removing  a  normal  appendix  at  open surgery is associated with a 7-13% risk of early complications and 4% of late complications such as incisional hernia and chronic pain in the  first  year  after  operation.  If  a  normal appendix is  left  in  situ  during  diagnostic laparoscopy,  the  number  of  unnecessary appendectomies will decrease, particularly in fertile women (17-45%). 7"
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 70.86610399999995,
+            "t": 234.60814599999958,
+            "r": 287.75050399999964,
+            "b": 172.38841929192586,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            223
+          ]
+        }
+      ],
+      "orig": "Laparoscopy in suspected appendicitis is found to be a particularly useful procedure in women of childbearing age, where there is a high incidence of other pelvic pathology and visualization of the pelvis is far superior. 8",
+      "text": "Laparoscopy in suspected appendicitis is found to be a particularly useful procedure in women of childbearing age, where there is a high incidence of other pelvic pathology and visualization of the pelvis is far superior. 8"
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 70.86610399999995,
+            "t": 164.60814599999958,
+            "r": 287.79000399999836,
+            "b": 88.38841929192586,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            256
+          ]
+        }
+      ],
+      "orig": "The  idea  of  minimal  surgical  trauma, resulting in significantly shorter hospital stay, less postoperative pain, faster return to daily activities, and better cosmetic outcome has made  laparoscopic  surgery  for  acute appendicitis very attractive. 10",
+      "text": "The  idea  of  minimal  surgical  trauma, resulting in significantly shorter hospital stay, less postoperative pain, faster return to daily activities, and better cosmetic outcome has made  laparoscopic  surgery  for  acute appendicitis very attractive. 10"
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 307.55900399999996,
+            "t": 780.6081459999996,
+            "r": 524.4699039999969,
+            "b": 718.3884192919259,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            173
+          ]
+        }
+      ],
+      "orig": "However, several retrospective studies, several randomized trials and meta-analyses comparing  laparoscopic  with  open appendectomy  have  provided  conflicting results. 10",
+      "text": "However, several retrospective studies, several randomized trials and meta-analyses comparing  laparoscopic  with  open appendectomy  have  provided  conflicting results. 10"
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 307.55900399999996,
+            "t": 710.6081459999996,
+            "r": 524.4590040000016,
+            "b": 648.3884192919259,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            197
+          ]
+        }
+      ],
+      "orig": "Although there is no consensus regarding the superiority of the laparoscopic approach over the conventional technique, there is trend towards greater utilization of laparoscopic appendectomy. 11,12",
+      "text": "Although there is no consensus regarding the superiority of the laparoscopic approach over the conventional technique, there is trend towards greater utilization of laparoscopic appendectomy. 11,12"
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 307.55900399999996,
+            "t": 640.6081459999996,
+            "r": 524.5438040000022,
+            "b": 564.3884192919259,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            241
+          ]
+        }
+      ],
+      "orig": "The  present  study  is  a  prospective randomized controlled clinical trial comparing laparoscopic versus open appendicectomy regarding  operative  time,  operative  and postoperative complications, hospital stay, and cost of the procedure.",
+      "text": "The  present  study  is  a  prospective randomized controlled clinical trial comparing laparoscopic versus open appendicectomy regarding  operative  time,  operative  and postoperative complications, hospital stay, and cost of the procedure."
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 307.55900399999996,
+            "t": 542.6081459999996,
+            "r": 421.5590040000004,
+            "b": 536.3884192919259,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            21
+          ]
+        }
+      ],
+      "orig": "Patients and methods:",
+      "text": "Patients and methods:",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 307.55900399999996,
+            "t": 528.6081459999996,
+            "r": 524.4680040000021,
+            "b": 368.38841929192586,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            505
+          ]
+        }
+      ],
+      "orig": "During the period from January 2007 till January 2010, one hundred forty young patients who attended the Surgical Casualty Clinics in Ain Shams University Hospitals and were diagnosed as having acute appendicitis were randomly categorized into 2 groups: Group I: included 70 patients who were planned to be operated upon by laparoscopic appendicectomy & Group II: included 70 patients who were planned  to  be  operated  upon  by  open appendicectomy. The study is a prospective randomized clinical trial.",
+      "text": "During the period from January 2007 till January 2010, one hundred forty young patients who attended the Surgical Casualty Clinics in Ain Shams University Hospitals and were diagnosed as having acute appendicitis were randomly categorized into 2 groups: Group I: included 70 patients who were planned to be operated upon by laparoscopic appendicectomy & Group II: included 70 patients who were planned  to  be  operated  upon  by  open appendicectomy. The study is a prospective randomized clinical trial."
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 307.55900399999996,
+            "t": 360.6081459999996,
+            "r": 524.4934039999998,
+            "b": 326.38841929192586,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            132
+          ]
+        }
+      ],
+      "orig": "Exclusion criteria included patients with previous midline abdominal incisions, pregnant female patients, and patients with ascites.",
+      "text": "Exclusion criteria included patients with previous midline abdominal incisions, pregnant female patients, and patients with ascites."
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 307.55900399999996,
+            "t": 318.6081459999996,
+            "r": 524.4059040000034,
+            "b": 284.38841929192586,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            109
+          ]
+        }
+      ],
+      "orig": "Preoperative  work-up  included  CBC, coagulation profile, S.creatinine, F.Bl. Sugar, ALT, and abdominal U/S.",
+      "text": "Preoperative  work-up  included  CBC, coagulation profile, S.creatinine, F.Bl. Sugar, ALT, and abdominal U/S."
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 307.55900399999996,
+            "t": 276.6081459999996,
+            "r": 524.4914040000003,
+            "b": 214.38841929192586,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            228
+          ]
+        }
+      ],
+      "orig": "Before the operation, all patients signed a preoperative consent including their agreement to participate in the study and to attend the postoperative visits and included their right to withdraw  from  the  study  at  any  time.",
+      "text": "Before the operation, all patients signed a preoperative consent including their agreement to participate in the study and to attend the postoperative visits and included their right to withdraw  from  the  study  at  any  time."
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 307.55900399999996,
+            "t": 206.60814599999958,
+            "r": 524.4785040000024,
+            "b": 74.38841929192586,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            441
+          ]
+        },
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 70.86610400000018,
+            "t": 780.6081459999996,
+            "r": 287.758104000005,
+            "b": 592.3884192919259,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            442,
+            1055
+          ]
+        }
+      ],
+      "orig": "Group I patients underwent laparoscopic appendicectomy, where a zero degree camera was introduced through a 10-mm laparoscope in an infraumbilical incision in order to inspect the abdominal cavity. Another 5-mm cannula was introduced cranial to the pubic bone in the midline. A third cannula was introduced just medial to the  left anterior superior spine. The appendix was retracted by means of a grasper, the meso-appendix was skeletonized using monopolar diathermy to expose the appendicular artery which was ligated using intracorporeal  suture.  The  appendix  was completely dissected till the base. The base of the appendix was ligated by 3 intracorporeal ties, 2 left in the base and one in the removed side. Transection of the appendix between the loops was done by means of a scissor. The appendix was removed through the suprapubic cannula. Suction was performed routinely to remove any blood or purulent material. If there was any purulent collection, the peritoneal cavity was irrigated by means of lavage and a suction drain was left behind.",
+      "text": "Group I patients underwent laparoscopic appendicectomy, where a zero degree camera was introduced through a 10-mm laparoscope in an infraumbilical incision in order to inspect the abdominal cavity. Another 5-mm cannula was introduced cranial to the pubic bone in the midline. A third cannula was introduced just medial to the  left anterior superior spine. The appendix was retracted by means of a grasper, the meso-appendix was skeletonized using monopolar diathermy to expose the appendicular artery which was ligated using intracorporeal  suture.  The  appendix  was completely dissected till the base. The base of the appendix was ligated by 3 intracorporeal ties, 2 left in the base and one in the removed side. Transection of the appendix between the loops was done by means of a scissor. The appendix was removed through the suprapubic cannula. Suction was performed routinely to remove any blood or purulent material. If there was any purulent collection, the peritoneal cavity was irrigated by means of lavage and a suction drain was left behind."
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 55.88867099999993,
+            "t": 41.18776900000012,
+            "r": 67.88867099999993,
+            "b": 34.84659020838444,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "40",
+      "text": "40"
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 382.24592499999994,
+            "t": 40.33971399999973,
+            "r": 524.4461539999993,
+            "b": 35.19286468493192,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            33
+          ]
+        }
+      ],
+      "orig": "Ain-Shams J Surg 2011; 4(1):39-46",
+      "text": "Ain-Shams J Surg 2011; 4(1):39-46"
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 70.86610400000018,
+            "t": 584.6081459999996,
+            "r": 287.7552040000037,
+            "b": 438.38841929192586,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            455
+          ]
+        }
+      ],
+      "orig": "Open  appendicectomy  was  performed through Grid-iron incision at the McBurney's point in the Rt iliac fossa. The mesoappendix was ligated by absorbable suture, the base of the appendix was double ligated by absorbable suture.  Peritoneal  toilet  was  performed following removal of the appendix. Peritoneal irrigation by warm saline followed by suction and insertion of a portovac was performed in the presence of pus collection or perforated appendix.",
+      "text": "Open  appendicectomy  was  performed through Grid-iron incision at the McBurney's point in the Rt iliac fossa. The mesoappendix was ligated by absorbable suture, the base of the appendix was double ligated by absorbable suture.  Peritoneal  toilet  was  performed following removal of the appendix. Peritoneal irrigation by warm saline followed by suction and insertion of a portovac was performed in the presence of pus collection or perforated appendix."
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 70.86610400000018,
+            "t": 431.5561459999999,
+            "r": 287.780504000003,
+            "b": 312.38841929192586,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            370
+          ]
+        }
+      ],
+      "orig": "Postoperatively, patients were given 3 rd generation cephalosporin antibiotics every 12 hours  and  parenteral  nonsteroidal  antiinflammatory drugs every 8 hours. They were kept on nothing per mouth and I.V. fluids until intestinal sounds were audible then   oral fluids followed by soft diet were given. Patients were discharged when they were open bowel and afebrile.",
+      "text": "Postoperatively, patients were given 3 rd generation cephalosporin antibiotics every 12 hours  and  parenteral  nonsteroidal  antiinflammatory drugs every 8 hours. They were kept on nothing per mouth and I.V. fluids until intestinal sounds were audible then   oral fluids followed by soft diet were given. Patients were discharged when they were open bowel and afebrile."
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/tables/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 70.86610400000018,
+            "t": 296.58693700000003,
+            "r": 284.090603999995,
+            "b": 290.3672102919263,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            42
+          ]
+        }
+      ],
+      "orig": "Table (1): Age and gender of the 2 groups.",
+      "text": "Table (1): Age and gender of the 2 groups."
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 70.86619199999996,
+            "t": 182.16919700000017,
+            "r": 287.7867919999908,
+            "b": 147.94947029192645,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            128
+          ]
+        },
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 307.55909199999996,
+            "t": 182.16919700000017,
+            "r": 524.4037919999951,
+            "b": 161.94947029192645,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            129,
+            187
+          ]
+        }
+      ],
+      "orig": "The mean operative time was significantly longer in the laparoscopic appendicectomy group (60 ± 25 minutes) compared to the open appendicectomy group (45 ± 15 minutes) (P<0.01) Table(2) .",
+      "text": "The mean operative time was significantly longer in the laparoscopic appendicectomy group (60 ± 25 minutes) compared to the open appendicectomy group (45 ± 15 minutes) (P<0.01) Table(2) ."
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/tables/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 70.86610400000018,
+            "t": 129.33171800000036,
+            "r": 227.20110400000203,
+            "b": 123.11199129192664,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            31
+          ]
+        }
+      ],
+      "orig": "Table (2): Mean operative time.",
+      "text": "Table (2): Mean operative time."
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 307.5590040000002,
+            "t": 780.6081459999996,
+            "r": 524.4848039999924,
+            "b": 718.3884192919259,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            190
+          ]
+        }
+      ],
+      "orig": "The wound was dressed every day after discharge of the patients in the outpatient clinic. Stitches were removed after 7-10 days. Patients were followed up afterwards every week for 2 months.",
+      "text": "The wound was dressed every day after discharge of the patients in the outpatient clinic. Stitches were removed after 7-10 days. Patients were followed up afterwards every week for 2 months."
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 307.5590040000002,
+            "t": 710.6081459999996,
+            "r": 524.4710040000064,
+            "b": 648.3884192919259,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            194
+          ]
+        }
+      ],
+      "orig": "Both groups of patients were compared regarding patient characteristics (age & sex), mean  operative  time,  operative  and postoperative complications, hospital stay, and cost of the procedure.",
+      "text": "Both groups of patients were compared regarding patient characteristics (age & sex), mean  operative  time,  operative  and postoperative complications, hospital stay, and cost of the procedure."
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 307.5590040000002,
+            "t": 640.6081459999996,
+            "r": 524.4346040000005,
+            "b": 606.3884192919259,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            122
+          ]
+        }
+      ],
+      "orig": "Statistical analysis was performed using Chi-squared test, and unpaired  t-test. P-value <0.05 was considered significant.",
+      "text": "Statistical analysis was performed using Chi-squared test, and unpaired  t-test. P-value <0.05 was considered significant."
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 307.5590040000002,
+            "t": 584.6081459999996,
+            "r": 348.8870040000006,
+            "b": 578.3884192919259,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Results:",
+      "text": "Results:",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 307.5590040000002,
+            "t": 570.6081459999996,
+            "r": 524.4334040000012,
+            "b": 522.3884192919259,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            169
+          ]
+        }
+      ],
+      "orig": "During the period from January 2007 till January 2010, 140 consecutive young patients who  were  diagnosed  as  having  acute appendicitis were randomized into 2 groups:",
+      "text": "During the period from January 2007 till January 2010, 140 consecutive young patients who  were  diagnosed  as  having  acute appendicitis were randomized into 2 groups:"
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 307.5590040000002,
+            "t": 514.6081459999996,
+            "r": 524.4135039999992,
+            "b": 480.38841929192586,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            95
+          ]
+        }
+      ],
+      "orig": "Group I: included 70 patients who were operated upon by l a p a r o s c o p i c appendicectomy.",
+      "text": "Group I: included 70 patients who were operated upon by l a p a r o s c o p i c appendicectomy."
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 307.5590040000002,
+            "t": 472.6081459999996,
+            "r": 524.4146039999987,
+            "b": 452.38841929192586,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            81
+          ]
+        }
+      ],
+      "orig": "Group II: included 70 patients who were operated  upon  by  open  appendicectomy.",
+      "text": "Group II: included 70 patients who were operated  upon  by  open  appendicectomy."
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 307.5590040000002,
+            "t": 444.6081459999996,
+            "r": 524.4684039999929,
+            "b": 382.38841929192586,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            206
+          ]
+        }
+      ],
+      "orig": "There was no statistically significant difference between both groups regarding their age and sex. The mean age for group I & II was 25.5 ± 2.5 years  and  26  ±  1.5  years respectively (P>0.1), Table(1) .",
+      "text": "There was no statistically significant difference between both groups regarding their age and sex. The mean age for group I & II was 25.5 ± 2.5 years  and  26  ±  1.5  years respectively (P>0.1), Table(1) ."
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 307.5590040000002,
+            "t": 374.6081459999996,
+            "r": 524.4030039999952,
+            "b": 340.38841929192586,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            98
+          ]
+        }
+      ],
+      "orig": "Group I included 46 females & 24 males while group II included 40 females and 30 males, Table(1) .",
+      "text": "Group I included 46 females & 24 males while group II included 40 females and 30 males, Table(1) ."
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 70.94339000000036,
+            "t": 40.33969900000011,
+            "r": 213.14361899999994,
+            "b": 35.1928496849323,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            33
+          ]
+        }
+      ],
+      "orig": "Ain-Shams J Surg 2011; 4(1):39-46",
+      "text": "Ain-Shams J Surg 2011; 4(1):39-46"
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 527.90596,
+            "t": 41.187754000000496,
+            "r": 539.90596,
+            "b": 34.84657520838482,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "41",
+      "text": "41"
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 70.86620700000003,
+            "t": 780.6081459999996,
+            "r": 287.82840699999815,
+            "b": 732.3884192919259,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            173
+          ]
+        }
+      ],
+      "orig": "There was a need for conversion to the open approach in 3 patients of the laparoscopic group (4.29%) due to extensive adhesions rendering appendiceal mobilization difficult.",
+      "text": "There was a need for conversion to the open approach in 3 patients of the laparoscopic group (4.29%) due to extensive adhesions rendering appendiceal mobilization difficult."
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 70.86620700000003,
+            "t": 724.6081459999996,
+            "r": 287.73980699999356,
+            "b": 704.3884192919259,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            70
+          ]
+        }
+      ],
+      "orig": "There  was  no  mortality  in  either  the laparoscopic or open group.",
+      "text": "There  was  no  mortality  in  either  the laparoscopic or open group."
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 70.86620700000003,
+            "t": 696.6081459999996,
+            "r": 287.8210070000064,
+            "b": 494.38841929192586,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            662
+          ]
+        }
+      ],
+      "orig": "Regarding the complications Table(3) , there was no statistically significant difference in the incidence of intraoperative complications as one patient of the LA group suffered from intraoperative injury of the small intestine by electrocautery (1.428%) which was repaired in 2 layers by 2-0 absorbable sutures, while no patients in the other group suffered from the same complication (0%) (P=NS). In the OA group, injury to the inferior epigastric artery occurred during insertion of the redivac in 1 patient which required underrunning of the ends of the artery (1.428%) while no patient in  the  LA  group  suffered  from  the  same complication (0%) (P=NS).",
+      "text": "Regarding the complications Table(3) , there was no statistically significant difference in the incidence of intraoperative complications as one patient of the LA group suffered from intraoperative injury of the small intestine by electrocautery (1.428%) which was repaired in 2 layers by 2-0 absorbable sutures, while no patients in the other group suffered from the same complication (0%) (P=NS). In the OA group, injury to the inferior epigastric artery occurred during insertion of the redivac in 1 patient which required underrunning of the ends of the artery (1.428%) while no patient in  the  LA  group  suffered  from  the  same complication (0%) (P=NS)."
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 307.55900699999984,
+            "t": 780.6081459999996,
+            "r": 524.458506999998,
+            "b": 690.3884192919259,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            291
+          ]
+        }
+      ],
+      "orig": "There was a statistically significant lower incidence of wound infection in the LA group (2 patients = 2.86%) than in the OA group (10 patients = 14.29%) (P<0.05). There was also lower incidence of wound seroma in the LA group (1 patients = 1.428%) than OA group (7 patients = 10%) (P<0.05).",
+      "text": "There was a statistically significant lower incidence of wound infection in the LA group (2 patients = 2.86%) than in the OA group (10 patients = 14.29%) (P<0.05). There was also lower incidence of wound seroma in the LA group (1 patients = 1.428%) than OA group (7 patients = 10%) (P<0.05)."
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 307.55900699999984,
+            "t": 682.6081459999996,
+            "r": 524.5300070000008,
+            "b": 578.3884192919259,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            356
+          ]
+        }
+      ],
+      "orig": "Postoperative intraabdominal collection occurred in 4 patients in the LA group (5.71%) and in 2 patients in the  OA group (2.86%) (Odds ratio = 2.06). However the difference was statistically insignificant (P>0.1). The collection was aspirated by U/S guided pig tail insertion with broad spectrum antibiotics and resolved without  the need for exploration.",
+      "text": "Postoperative intraabdominal collection occurred in 4 patients in the LA group (5.71%) and in 2 patients in the  OA group (2.86%) (Odds ratio = 2.06). However the difference was statistically insignificant (P>0.1). The collection was aspirated by U/S guided pig tail insertion with broad spectrum antibiotics and resolved without  the need for exploration."
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 307.55900699999984,
+            "t": 570.6081459999996,
+            "r": 524.4603069999939,
+            "b": 522.3884192919259,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            153
+          ]
+        }
+      ],
+      "orig": "The overall incidence of complications was higher in the OA group than LA group (20 patients = 28.57% versus 8 patients = 11.43% respectively) (P <0.05).",
+      "text": "The overall incidence of complications was higher in the OA group than LA group (20 patients = 28.57% versus 8 patients = 11.43% respectively) (P <0.05)."
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/tables/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 70.86610400000018,
+            "t": 478.79083999999966,
+            "r": 326.2276040000006,
+            "b": 472.57111329192594,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            51
+          ]
+        }
+      ],
+      "orig": "Table (3): Operative & postoperative complications.",
+      "text": "Table (3): Operative & postoperative complications."
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/tables/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 135.47509800000034,
+            "t": 271.04204500000014,
+            "r": 246.29239799999914,
+            "b": 264.8223182919264,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "* NS = Non significant",
+      "text": "* NS = Non significant"
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 70.86620700000003,
+            "t": 243.10814599999958,
+            "r": 287.77050699999336,
+            "b": 180.88841929192586,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            200
+          ]
+        }
+      ],
+      "orig": "There was a statistically significant shorter hospital stay i n t h e l a p a r o s c o p i c appendicectomy group (1.5±0.5 days) than the open  appendicectomy  group  (2±1  days) (P<0.001) Table(4) .",
+      "text": "There was a statistically significant shorter hospital stay i n t h e l a p a r o s c o p i c appendicectomy group (1.5±0.5 days) than the open  appendicectomy  group  (2±1  days) (P<0.001) Table(4) ."
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 70.86620700000003,
+            "t": 173.10814599999958,
+            "r": 287.74320699999953,
+            "b": 152.88841929192586,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            86
+          ]
+        }
+      ],
+      "orig": "For the patients who where operated upon in Ain Shams University Specialized  Hospital",
+      "text": "For the patients who where operated upon in Ain Shams University Specialized  Hospital"
+    },
+    {
+      "self_ref": "#/texts/61",
+      "parent": {
+        "$ref": "#/tables/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 70.86610400000018,
+            "t": 131.29505100000006,
+            "r": 234.2049040000038,
+            "b": 125.07532429192634,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            34
+          ]
+        }
+      ],
+      "orig": "Table (4): Hospital stay and cost.",
+      "text": "Table (4): Hospital stay and cost."
+    },
+    {
+      "self_ref": "#/texts/62",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 307.55900699999984,
+            "t": 243.10814599999958,
+            "r": 524.4528070000015,
+            "b": 166.88841929192586,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            222
+          ]
+        }
+      ],
+      "orig": "(36 patients in LA and 50 patients in OA group): The average cost for the patients in the LA group was 3300±400 LE, which was significantly higher than the average cost in the  OA  group  (1500±200  LE)  (P<0.001) Table(4)",
+      "text": "(36 patients in LA and 50 patients in OA group): The average cost for the patients in the LA group was 3300±400 LE, which was significantly higher than the average cost in the  OA  group  (1500±200  LE)  (P<0.001) Table(4)"
+    },
+    {
+      "self_ref": "#/texts/63",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 55.90866099999994,
+            "t": 41.18776900000012,
+            "r": 67.90866099999994,
+            "b": 34.84659020838444,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "42",
+      "text": "42"
+    },
+    {
+      "self_ref": "#/texts/64",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 382.24592600000005,
+            "t": 40.33971399999973,
+            "r": 524.4461549999996,
+            "b": 35.19286468493192,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            33
+          ]
+        }
+      ],
+      "orig": "Ain-Shams J Surg 2011; 4(1):39-46",
+      "text": "Ain-Shams J Surg 2011; 4(1):39-46"
+    },
+    {
+      "self_ref": "#/texts/65",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 70.86610400000018,
+            "t": 780.6081459999996,
+            "r": 128.87410400000044,
+            "b": 774.3884192919259,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "Discussion:",
+      "text": "Discussion:",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/66",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 70.86610400000018,
+            "t": 766.6081459999996,
+            "r": 287.75450400000454,
+            "b": 704.3884192919259,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            197
+          ]
+        }
+      ],
+      "orig": "Although more than 20 years had elapsed since  the  introduction  of  laparoscopic appendectomy, there is no consensus on its advantages and disadvantages compared to the conventional technique. 10",
+      "text": "Although more than 20 years had elapsed since  the  introduction  of  laparoscopic appendectomy, there is no consensus on its advantages and disadvantages compared to the conventional technique. 10"
+    },
+    {
+      "self_ref": "#/texts/67",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 70.86610400000018,
+            "t": 696.6081459999996,
+            "r": 287.80930400000307,
+            "b": 382.38841929192586,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1027
+          ]
+        }
+      ],
+      "orig": "In our study, the mean operative time was significantly  longer  in  the  laparoscopic appendicectomy  group  (60±25  minutes) compared to the open appendicectomy group (45±15 minutes) (P<0.01). In a prospective randomized clinical study, the operative time was significantly longer in the LA group (80 min. \"60-105\") than the OA group (60 minutes \"45-75\") (P=0.000). The study attributed that to the inclusion of additional steps for setup, insufflation, trocar entery under direct vision, and diagnostic laparoscopy 13 . By contrast, in another study, the operation times were nearly similar in the two techniques (47±19.6 min in the  open  group  vs  44.3±24  min.  in  the laparoscopic  group;  P=0.31). 10   In  a retrospective study of patients undergoing laparoscopic appendicectomy over a 54-month period, the median  operative time was 30 min. (range, 14-75 min.). This operative time is quicker  than  that  reported  in  most  of  the prospective studies comparing laparoscopic approaches  with  open  procedures. 14",
+      "text": "In our study, the mean operative time was significantly  longer  in  the  laparoscopic appendicectomy  group  (60±25  minutes) compared to the open appendicectomy group (45±15 minutes) (P<0.01). In a prospective randomized clinical study, the operative time was significantly longer in the LA group (80 min. \"60-105\") than the OA group (60 minutes \"45-75\") (P=0.000). The study attributed that to the inclusion of additional steps for setup, insufflation, trocar entery under direct vision, and diagnostic laparoscopy 13 . By contrast, in another study, the operation times were nearly similar in the two techniques (47±19.6 min in the  open  group  vs  44.3±24  min.  in  the laparoscopic  group;  P=0.31). 10   In  a retrospective study of patients undergoing laparoscopic appendicectomy over a 54-month period, the median  operative time was 30 min. (range, 14-75 min.). This operative time is quicker  than  that  reported  in  most  of  the prospective studies comparing laparoscopic approaches  with  open  procedures. 14"
+    },
+    {
+      "self_ref": "#/texts/68",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 70.86610400000018,
+            "t": 374.6081459999996,
+            "r": 287.7476039999933,
+            "b": 298.38841929192586,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            269
+          ]
+        }
+      ],
+      "orig": "In the laparoscopic group in our study there was a need for conversion to the open approach in 3 patients (4.29%). In a study, conversion to an open procedure was required in two patients  (1.5%)  due  to  extensive  caecal adhesion secondary to severe inflammation. 10",
+      "text": "In the laparoscopic group in our study there was a need for conversion to the open approach in 3 patients (4.29%). In a study, conversion to an open procedure was required in two patients  (1.5%)  due  to  extensive  caecal adhesion secondary to severe inflammation. 10"
+    },
+    {
+      "self_ref": "#/texts/69",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 70.86610400000018,
+            "t": 290.6081459999996,
+            "r": 287.7340040000063,
+            "b": 200.38841929192586,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            289
+          ]
+        }
+      ],
+      "orig": "In our study, there was no mortality in either group (0%). This is consistent with the majority of  past  publications.  The  overall  reported mortality of appendectomy is very low and was  estimated  in  a  review  of  a  large administrative database at 0.05% for LA and 0.3% for OA. 15",
+      "text": "In our study, there was no mortality in either group (0%). This is consistent with the majority of  past  publications.  The  overall  reported mortality of appendectomy is very low and was  estimated  in  a  review  of  a  large administrative database at 0.05% for LA and 0.3% for OA. 15"
+    },
+    {
+      "self_ref": "#/texts/70",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 70.86610400000018,
+            "t": 192.60814599999958,
+            "r": 287.7794039999908,
+            "b": 74.38841929192586,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            390
+          ]
+        }
+      ],
+      "orig": "Regarding  the  incidence  of  overall complications, it was significantly higher in the OA group (20 patients = 28.57%) than the LA group (8 patients = 11.43%) (P <0.05). This result was consistent with the results of a study based on a large administrative data base, where the overall complications were significantly lower in the LA group (8.7%) than the OA group (11.1%) (P<0.0001). 15",
+      "text": "Regarding  the  incidence  of  overall complications, it was significantly higher in the OA group (20 patients = 28.57%) than the LA group (8 patients = 11.43%) (P <0.05). This result was consistent with the results of a study based on a large administrative data base, where the overall complications were significantly lower in the LA group (8.7%) than the OA group (11.1%) (P<0.0001). 15"
+    },
+    {
+      "self_ref": "#/texts/71",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 307.558904,
+            "t": 780.6081459999996,
+            "r": 524.4574039999948,
+            "b": 676.3884192919259,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            327
+          ]
+        }
+      ],
+      "orig": "However in 2 other studies the difference was insignificant; as in the first study the overall complication rates were 10.6% and 8.1% for open  and  laparoscopic  appendectomy respectively (P=0.43), 10   and in the other study, the overall complication rates were 18.5% in the LA group versus 17.1% in the OA group (P=1.00). 13",
+      "text": "However in 2 other studies the difference was insignificant; as in the first study the overall complication rates were 10.6% and 8.1% for open  and  laparoscopic  appendectomy respectively (P=0.43), 10   and in the other study, the overall complication rates were 18.5% in the LA group versus 17.1% in the OA group (P=1.00). 13"
+    },
+    {
+      "self_ref": "#/texts/72",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 307.558904,
+            "t": 668.6081459999996,
+            "r": 524.5193039999945,
+            "b": 410.38841929192586,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            825
+          ]
+        }
+      ],
+      "orig": "Regarding the intraoperative complications in  our  study,  there  was  no  statistically significant difference in both groups; as one patient  in  the  LA  group  suffered  from intraoperative injury of the small intestine (1.428%),  while  one  patient  in  the  open appendicectomy group suffered from injury to the inferior epigastric artery during redivac insertion (1.428%) (P=NS). This result was consistent with other studies. In a study based on a large database, complications during the procedure occurred in 126 patients (0.4%) in OA group and 21 patients (0.3%) in LA group (P=0.7)15. In another study, one patient in the LA group suffered from intestinal injury that occurred during insertion of the visiport, the lesion was recognized intra-operatively and was successfully managed with endoscopic sutures. 10",
+      "text": "Regarding the intraoperative complications in  our  study,  there  was  no  statistically significant difference in both groups; as one patient  in  the  LA  group  suffered  from intraoperative injury of the small intestine (1.428%),  while  one  patient  in  the  open appendicectomy group suffered from injury to the inferior epigastric artery during redivac insertion (1.428%) (P=NS). This result was consistent with other studies. In a study based on a large database, complications during the procedure occurred in 126 patients (0.4%) in OA group and 21 patients (0.3%) in LA group (P=0.7)15. In another study, one patient in the LA group suffered from intestinal injury that occurred during insertion of the visiport, the lesion was recognized intra-operatively and was successfully managed with endoscopic sutures. 10"
+    },
+    {
+      "self_ref": "#/texts/73",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 307.558904,
+            "t": 402.6081459999996,
+            "r": 524.449403999989,
+            "b": 144.38841929192586,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            860
+          ]
+        }
+      ],
+      "orig": "In  our  study,  there  was  a  statistically significant lower incidence of wound infection in the LA group (2 patients = 2.86%) than in the OA group (10 patients = 14.29%)  (P <0.05). There was also a statistically significant lower incidence of wound seroma in the LA group (1 patient = 1.43%) than in the OA group (7 patients = 10%) (P <0.05). These results are consistent with other studies. In a study, open appendectomy  was  associated  with  a significantly  higher  incidence  of  wound infection compared with the laparoscopic group (12.8% vs 5.3%, P = 0.03). 10  In another study, the rate of infections was significantly lower in patients undergoing LA (LA: 0.8%, OA: 1.9%, P<0.0001). 15  However, in a 3rd study, there  was  no  significant  difference  in  the incidence of wound infection in both groups (LA  =  6.2%,  OA  =  6.7%;  P=1.00). 13",
+      "text": "In  our  study,  there  was  a  statistically significant lower incidence of wound infection in the LA group (2 patients = 2.86%) than in the OA group (10 patients = 14.29%)  (P <0.05). There was also a statistically significant lower incidence of wound seroma in the LA group (1 patient = 1.43%) than in the OA group (7 patients = 10%) (P <0.05). These results are consistent with other studies. In a study, open appendectomy  was  associated  with  a significantly  higher  incidence  of  wound infection compared with the laparoscopic group (12.8% vs 5.3%, P = 0.03). 10  In another study, the rate of infections was significantly lower in patients undergoing LA (LA: 0.8%, OA: 1.9%, P<0.0001). 15  However, in a 3rd study, there  was  no  significant  difference  in  the incidence of wound infection in both groups (LA  =  6.2%,  OA  =  6.7%;  P=1.00). 13"
+    },
+    {
+      "self_ref": "#/texts/74",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 307.558904,
+            "t": 136.60814599999958,
+            "r": 524.4849040000031,
+            "b": 74.38841929192586,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            219
+          ]
+        },
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 70.86611900000025,
+            "t": 780.6081459999996,
+            "r": 287.7999190000028,
+            "b": 536.3884192919259,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            220,
+            1021
+          ]
+        }
+      ],
+      "orig": "In our study, the incidence of postoperative intraabdominal collection was higher in the LA group (4 patients, 5.71%) than the OA group  (2  patients,  2.86%)  (OR  =  2.06). However  the  difference  was  statistically insignificant  (P>0.1).  The  collection  was aspirated with U/S guided pig tail insertion with broad spectrum antibiotics and resolved without the need for exploration. This result was consistent with other studies. In a study, there  was  no  significant  difference  in  the incidence of intraabdominal abscess rates between  LA  and  OA  (5.3%  versus  3% respectively; P=0.51). 13  However in another study, the incidence of intraabdominal abscess formation was significantly higher in patients with complicated appendicectomy with severe peritonitis who were treated laparoscopically (5.3%  vs  2.1  for  OA;  P=0.002). 10   In  the Cochrane Central Register of Controlled Trials, the incidence of intraabdominal abscesses was increased after LA than after OA (OR = 2.48, 95% CI=1.45 - 4.21). 16",
+      "text": "In our study, the incidence of postoperative intraabdominal collection was higher in the LA group (4 patients, 5.71%) than the OA group  (2  patients,  2.86%)  (OR  =  2.06). However  the  difference  was  statistically insignificant  (P>0.1).  The  collection  was aspirated with U/S guided pig tail insertion with broad spectrum antibiotics and resolved without the need for exploration. This result was consistent with other studies. In a study, there  was  no  significant  difference  in  the incidence of intraabdominal abscess rates between  LA  and  OA  (5.3%  versus  3% respectively; P=0.51). 13  However in another study, the incidence of intraabdominal abscess formation was significantly higher in patients with complicated appendicectomy with severe peritonitis who were treated laparoscopically (5.3%  vs  2.1  for  OA;  P=0.002). 10   In  the Cochrane Central Register of Controlled Trials, the incidence of intraabdominal abscesses was increased after LA than after OA (OR = 2.48, 95% CI=1.45 - 4.21). 16"
+    },
+    {
+      "self_ref": "#/texts/75",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 70.94338900000002,
+            "t": 40.33969900000011,
+            "r": 213.1436179999996,
+            "b": 35.1928496849323,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            33
+          ]
+        }
+      ],
+      "orig": "Ain-Shams J Surg 2011; 4(1):39-46",
+      "text": "Ain-Shams J Surg 2011; 4(1):39-46"
+    },
+    {
+      "self_ref": "#/texts/76",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 527.90596,
+            "t": 41.187754000000496,
+            "r": 539.90596,
+            "b": 34.84657520838482,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "43",
+      "text": "43"
+    },
+    {
+      "self_ref": "#/texts/77",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 70.86611900000025,
+            "t": 528.6081459999996,
+            "r": 287.7291190000051,
+            "b": 326.38841929192586,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            667
+          ]
+        }
+      ],
+      "orig": "In  our  study,  there  was  a  statistically significant shorter hospital stay in the LA group (1.5 ± 0.5 days) than the OA group (2 ± 1 days) (P<0.001). This result was consistent with other studies. In a study, the mean postoperative hospital stay was 2.2 d (range 1-17 d) after LA and 3.1 d (range 1-18 d) after OA (P=0.04). 10 In another study, the unadjusted length of stay was significantly shorter after LA (2.6 days) than after OA (3.8 days) (P<0.0001). 15  In a 3 rd  study, hospital stay was shortened by 1.1 days  (95%  CI  =  0.6  to  1.5)  after  LA. 16 However,  in  a  study  the  length  of hospitalization was the same for both groups (P = 0.66). 13",
+      "text": "In  our  study,  there  was  a  statistically significant shorter hospital stay in the LA group (1.5 ± 0.5 days) than the OA group (2 ± 1 days) (P<0.001). This result was consistent with other studies. In a study, the mean postoperative hospital stay was 2.2 d (range 1-17 d) after LA and 3.1 d (range 1-18 d) after OA (P=0.04). 10 In another study, the unadjusted length of stay was significantly shorter after LA (2.6 days) than after OA (3.8 days) (P<0.0001). 15  In a 3 rd  study, hospital stay was shortened by 1.1 days  (95%  CI  =  0.6  to  1.5)  after  LA. 16 However,  in  a  study  the  length  of hospitalization was the same for both groups (P = 0.66). 13"
+    },
+    {
+      "self_ref": "#/texts/78",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 70.86611900000025,
+            "t": 318.6081459999996,
+            "r": 287.7686189999904,
+            "b": 158.38841929192586,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            510
+          ]
+        }
+      ],
+      "orig": "In our study, for patients who were operated upon in Ain Shams University Specialized Hospital: The average cost for patients in the LA group was 3300 ± 400 LE, which was significantly higher than the average cost in the OA group (1500 ± 200 LE) (P<0.001). In a study, the operative costs were higher by 370 Euros in the laparoscopic group. 10   In  the Cochrane Central Register of Controlled Trials, while  the  operation  costs  of  LA  were significantly higher, the costs outside hospital were reduced. 16",
+      "text": "In our study, for patients who were operated upon in Ain Shams University Specialized Hospital: The average cost for patients in the LA group was 3300 ± 400 LE, which was significantly higher than the average cost in the OA group (1500 ± 200 LE) (P<0.001). In a study, the operative costs were higher by 370 Euros in the laparoscopic group. 10   In  the Cochrane Central Register of Controlled Trials, while  the  operation  costs  of  LA  were significantly higher, the costs outside hospital were reduced. 16"
+    },
+    {
+      "self_ref": "#/texts/79",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 70.86611900000025,
+            "t": 150.60814599999958,
+            "r": 287.81681900002513,
+            "b": 74.38841929192586,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            265
+          ]
+        },
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 307.55891900000006,
+            "t": 780.6081459999996,
+            "r": 524.4719190000123,
+            "b": 634.3884192919259,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            266,
+            727
+          ]
+        }
+      ],
+      "orig": "In  conclusion,  our  study  results demonstrated that laparoscopic appendicectomy is safe as there is no significant incidence of major intraoperative complications than OA. LA is also associated with significantly lower incidence  of  postoperative  complications especially wound infection than OA. LA also significantly reduces the hospital stay than OA. However, the mean operative time is significantly higher in LA group, there is a need for conversion to OA in 4.29% of the patients in the presence of extensive adhesions, and the cost of LA is significantly higher than OA.  The  incidence  of  postoperative intraabdominal collection is higher in LA group than  in  OA,  however  it  was  statistically insignificant.",
+      "text": "In  conclusion,  our  study  results demonstrated that laparoscopic appendicectomy is safe as there is no significant incidence of major intraoperative complications than OA. LA is also associated with significantly lower incidence  of  postoperative  complications especially wound infection than OA. LA also significantly reduces the hospital stay than OA. However, the mean operative time is significantly higher in LA group, there is a need for conversion to OA in 4.29% of the patients in the presence of extensive adhesions, and the cost of LA is significantly higher than OA.  The  incidence  of  postoperative intraabdominal collection is higher in LA group than  in  OA,  however  it  was  statistically insignificant."
+    },
+    {
+      "self_ref": "#/texts/80",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 307.55891900000006,
+            "t": 612.6081459999996,
+            "r": 367.5229190000018,
+            "b": 606.3884192919259,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "References:",
+      "text": "References:",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/81",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 307.55891900000006,
+            "t": 598.6081459999996,
+            "r": 524.4688190000106,
+            "b": 550.3884192919259,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            132
+          ]
+        }
+      ],
+      "orig": "1-  David  RF,  Thomas  DK:  Evaluating diagnostic accuracy in appendicitis using administrative data. J Sur Res 2005; 123: 257-261.",
+      "text": "1-  David  RF,  Thomas  DK:  Evaluating diagnostic accuracy in appendicitis using administrative data. J Sur Res 2005; 123: 257-261.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/82",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 307.55891900000006,
+            "t": 542.6081459999996,
+            "r": 524.4460189999891,
+            "b": 494.38841929192586,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            122
+          ]
+        }
+      ],
+      "orig": "2- Flum DR, Koepsell T: The clinical and economic  correlates  of  misdiagnosed appendicitis. Arch Surg 2002; 137: 799804.",
+      "text": "2- Flum DR, Koepsell T: The clinical and economic  correlates  of  misdiagnosed appendicitis. Arch Surg 2002; 137: 799804.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/83",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 307.55891900000006,
+            "t": 486.6081459999996,
+            "r": 524.4837189999989,
+            "b": 438.38841929192586,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            137
+          ]
+        }
+      ],
+      "orig": "3- Rothrock SG, Pagane J: Acute appendicitis in  children:  Emergency  department diagnosis and management. Ann Emerg Med 2000; 6: 39-51.",
+      "text": "3- Rothrock SG, Pagane J: Acute appendicitis in  children:  Emergency  department diagnosis and management. Ann Emerg Med 2000; 6: 39-51.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/84",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 307.55891900000006,
+            "t": 430.6081459999996,
+            "r": 524.4532190000018,
+            "b": 396.38841929192586,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            120
+          ]
+        }
+      ],
+      "orig": "4- Shelton T, McKinlay R, Schawrtz RW: Acute appendicitis: Current diagnosis and treatment. Curr Surg 2003; 60: 502-505.",
+      "text": "4- Shelton T, McKinlay R, Schawrtz RW: Acute appendicitis: Current diagnosis and treatment. Curr Surg 2003; 60: 502-505.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/85",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 307.55891900000006,
+            "t": 388.6081459999996,
+            "r": 524.4179189999932,
+            "b": 368.38841929192586,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            66
+          ]
+        }
+      ],
+      "orig": "5-  Semm  K:  Endoscopic  appendectomy. Endoscopy 1983; 15: 59-64.",
+      "text": "5-  Semm  K:  Endoscopic  appendectomy. Endoscopy 1983; 15: 59-64.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/86",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 307.55891900000006,
+            "t": 360.6081459999996,
+            "r": 524.4965190000066,
+            "b": 298.38841929192586,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            159
+          ]
+        }
+      ],
+      "orig": "6- DeDombal FT, Dallos V, McAdam WA: Can computer aided teaching packages improve clinical care in patients with acute abdominal pain? BMJ 1991; 302: 14951497.",
+      "text": "6- DeDombal FT, Dallos V, McAdam WA: Can computer aided teaching packages improve clinical care in patients with acute abdominal pain? BMJ 1991; 302: 14951497.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/87",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 307.55891900000006,
+            "t": 290.6081459999996,
+            "r": 524.4562190000024,
+            "b": 242.38841929192586,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            119
+          ]
+        }
+      ],
+      "orig": "7- Cuesta MA, van deer Peet D, Veenhof A: Laparoscopic management of the acute abdomen. Recent Adv Surg 2008; 31: 2745.",
+      "text": "7- Cuesta MA, van deer Peet D, Veenhof A: Laparoscopic management of the acute abdomen. Recent Adv Surg 2008; 31: 2745.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/88",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 307.55891900000006,
+            "t": 234.60814599999958,
+            "r": 524.4377190000168,
+            "b": 200.38841929192586,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            104
+          ]
+        }
+      ],
+      "orig": "8- Gandy CP, Kipling RM, Kennedy RH: Laparoscopic colorectal surgery. Recent Adv Surg 2004; 27: 123-136.",
+      "text": "8- Gandy CP, Kipling RM, Kennedy RH: Laparoscopic colorectal surgery. Recent Adv Surg 2004; 27: 123-136.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/89",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 307.55891900000006,
+            "t": 192.60814599999958,
+            "r": 524.3853190000045,
+            "b": 144.38841929192586,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            149
+          ]
+        }
+      ],
+      "orig": "9- Van den Broek WT, Bijnen AB, de Ruiter P, Gouma DJ: A normal appendix found during laparoscopy should not be removed. Br J Surg 2001; 88: 251-254.",
+      "text": "9- Van den Broek WT, Bijnen AB, de Ruiter P, Gouma DJ: A normal appendix found during laparoscopy should not be removed. Br J Surg 2001; 88: 251-254.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/90",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 307.55891900000006,
+            "t": 136.60814599999958,
+            "r": 524.417318999991,
+            "b": 74.38841929192586,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            191
+          ]
+        }
+      ],
+      "orig": "10-Kehagias I ,   Karamanakos  SN, Panagiotopoulos  S,  Panagopoulos  K, Kalfarentzos F: Laparoscopic versus open appendectomy: Which way to go? World J Gastroenterol 2008; 14(31): 4909-4914.",
+      "text": "10-Kehagias I ,   Karamanakos  SN, Panagiotopoulos  S,  Panagopoulos  K, Kalfarentzos F: Laparoscopic versus open appendectomy: Which way to go? World J Gastroenterol 2008; 14(31): 4909-4914.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/91",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 55.888670999999704,
+            "t": 41.18776900000012,
+            "r": 67.8886709999997,
+            "b": 34.84659020838444,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "44",
+      "text": "44"
+    },
+    {
+      "self_ref": "#/texts/92",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 382.24592500000017,
+            "t": 40.33971399999973,
+            "r": 524.4461540000002,
+            "b": 35.19286468493192,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            33
+          ]
+        }
+      ],
+      "orig": "Ain-Shams J Surg 2011; 4(1):39-46",
+      "text": "Ain-Shams J Surg 2011; 4(1):39-46"
+    },
+    {
+      "self_ref": "#/texts/93",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 70.86610399999972,
+            "t": 780.6081459999996,
+            "r": 287.71400399999857,
+            "b": 746.3884192919259,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            112
+          ]
+        }
+      ],
+      "orig": "11-Merhoff AM, Merhoff GC, Franklin ME: Laparoscopic versus open appendectomy. Am  J  Surg 2000;  179:  375-378.",
+      "text": "11-Merhoff AM, Merhoff GC, Franklin ME: Laparoscopic versus open appendectomy. Am  J  Surg 2000;  179:  375-378.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/94",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 70.86610399999972,
+            "t": 738.6081459999996,
+            "r": 287.7235040000123,
+            "b": 690.3884192919259,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            150
+          ]
+        }
+      ],
+      "orig": "12-Sauerland S, Lefering R, Neugebauer EA: Laparoscopic  versus  open  surgery  for suspected appendicitis. Cochrane Database Syst Rev 2004; CD001546.",
+      "text": "12-Sauerland S, Lefering R, Neugebauer EA: Laparoscopic  versus  open  surgery  for suspected appendicitis. Cochrane Database Syst Rev 2004; CD001546.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/95",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 70.86610399999972,
+            "t": 682.6081459999996,
+            "r": 287.745204000018,
+            "b": 620.3884192919259,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            190
+          ]
+        }
+      ],
+      "orig": "13-Kathouda  N,  Mason  RJ,  Towfigh  S, Gevorgyan A, Essani R: Laparoscopic versus open appendectomy: A prospective randomized double-blind study. Annals of Surgery 2005;  242(3):  439-450.",
+      "text": "13-Kathouda  N,  Mason  RJ,  Towfigh  S, Gevorgyan A, Essani R: Laparoscopic versus open appendectomy: A prospective randomized double-blind study. Annals of Surgery 2005;  242(3):  439-450.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/96",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 307.55890399999953,
+            "t": 780.6081459999996,
+            "r": 524.4178040000006,
+            "b": 732.3884192919259,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            128
+          ]
+        }
+      ],
+      "orig": "14-Duff  SE,  Dixon  AR:  Laparoscopic appendicectomy:  Safe  and  useful  for training. Ann R Coll Surg Engl 2000; 82: 388-391.",
+      "text": "14-Duff  SE,  Dixon  AR:  Laparoscopic appendicectomy:  Safe  and  useful  for training. Ann R Coll Surg Engl 2000; 82: 388-391.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/97",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 307.55890399999953,
+            "t": 724.6081459999996,
+            "r": 524.449904000011,
+            "b": 676.3884192919259,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            162
+          ]
+        }
+      ],
+      "orig": "15-Guller U, Hervey S, Purves H: Laparoscopic versus open appendectomy: Outcomes comparison based on a large administrative database. Ann Surg 2004;  239:  43-52.",
+      "text": "15-Guller U, Hervey S, Purves H: Laparoscopic versus open appendectomy: Outcomes comparison based on a large administrative database. Ann Surg 2004;  239:  43-52.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/98",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 307.55890399999953,
+            "t": 668.6081459999996,
+            "r": 524.4163040000121,
+            "b": 620.3884192919259,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            154
+          ]
+        }
+      ],
+      "orig": "16-Sauerland S, Lefering R, Neugebauer EAM: Laparoscopic  versus  open  surgery  for suspected appendicitis. Cochrane Database Syst Rev 2007; (4)CD001546.",
+      "text": "16-Sauerland S, Lefering R, Neugebauer EAM: Laparoscopic  versus  open  surgery  for suspected appendicitis. Cochrane Database Syst Rev 2007; (4)CD001546.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/99",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 70.94338900000002,
+            "t": 40.33969900000011,
+            "r": 213.14361800000006,
+            "b": 35.1928496849323,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            33
+          ]
+        }
+      ],
+      "orig": "Ain-Shams J Surg 2011; 4(1):39-46",
+      "text": "Ain-Shams J Surg 2011; 4(1):39-46"
+    },
+    {
+      "self_ref": "#/texts/100",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 527.90596,
+            "t": 41.187754000000496,
+            "r": 539.90596,
+            "b": 34.84657520838482,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "45",
+      "text": "45"
+    }
+  ],
+  "pictures": [],
+  "tables": [
+    {
+      "self_ref": "#/tables/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/37"
+        }
+      ],
+      "content_layer": "body",
+      "label": "table",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 111.64616394042969,
+            "t": 282.6175537109375,
+            "r": 483.31787109375,
+            "b": 193.7005615234375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/37"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "data": {
+        "table_cells": [
+          {
+            "bbox": {
+              "l": 121.18290700000034,
+              "t": 590.8010640000002,
+              "r": 235.34170700000368,
+              "b": 597.020790708074,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Mean age (years ± SD)",
+            "column_header": false,
+            "row_header": true,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 121.18290700000034,
+              "t": 607.8010640000002,
+              "r": 181.8429070000002,
+              "b": 631.020790708074,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Gender Male",
+            "column_header": false,
+            "row_header": true,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 157.18290700000034,
+              "t": 641.8010640000002,
+              "r": 192.51090699999986,
+              "b": 648.020790708074,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Female",
+            "column_header": false,
+            "row_header": true,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 270.97769199999993,
+              "t": 573.8010640000002,
+              "r": 312.65369199999986,
+              "b": 580.020790708074,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Group I",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 267.49739199999976,
+              "t": 590.8010640000002,
+              "r": 316.08539199999996,
+              "b": 597.020790708074,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "25.5 ± 2.5",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 261.80899199999976,
+              "t": 624.8010640000002,
+              "r": 321.79699200000005,
+              "b": 631.020790708074,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "46 (65.71%)",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 261.80899199999976,
+              "t": 641.8010640000002,
+              "r": 321.79699200000005,
+              "b": 648.020790708074,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "24 (54.29%)",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 354.8203590000003,
+              "t": 573.8010640000002,
+              "r": 401.16435900000033,
+              "b": 580.020790708074,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "Group II",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 358.1839590000004,
+              "t": 590.8010640000002,
+              "r": 397.7719590000006,
+              "b": 597.020790708074,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "26 ± 1.5",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 347.9891590000002,
+              "t": 624.8010640000002,
+              "r": 407.9771590000005,
+              "b": 631.020790708074,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "40 (57.14%)",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 347.9891590000002,
+              "t": 641.8010640000002,
+              "r": 407.9771590000005,
+              "b": 648.020790708074,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "30 (42.86%)",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 433.2016450000001,
+              "t": 573.8010640000002,
+              "r": 471.86564499999986,
+              "b": 580.020790708074,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "P-value",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 441.6301450000001,
+              "t": 590.8010640000002,
+              "r": 463.3981450000001,
+              "b": 597.020790708074,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": ">0.1",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 441.6301450000001,
+              "t": 630.1395640000001,
+              "r": 463.3981450000001,
+              "b": 636.3592907080738,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": ">0.1",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          }
+        ],
+        "num_rows": 4,
+        "num_cols": 4,
+        "orientation": "rot_0",
+        "grid": [
+          [
+            {
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 270.97769199999993,
+                "t": 573.8010640000002,
+                "r": 312.65369199999986,
+                "b": 580.020790708074,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Group I",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 354.8203590000003,
+                "t": 573.8010640000002,
+                "r": 401.16435900000033,
+                "b": 580.020790708074,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "Group II",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 433.2016450000001,
+                "t": 573.8010640000002,
+                "r": 471.86564499999986,
+                "b": 580.020790708074,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "P-value",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 121.18290700000034,
+                "t": 590.8010640000002,
+                "r": 235.34170700000368,
+                "b": 597.020790708074,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Mean age (years ± SD)",
+              "column_header": false,
+              "row_header": true,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 267.49739199999976,
+                "t": 590.8010640000002,
+                "r": 316.08539199999996,
+                "b": 597.020790708074,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "25.5 ± 2.5",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 358.1839590000004,
+                "t": 590.8010640000002,
+                "r": 397.7719590000006,
+                "b": 597.020790708074,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "26 ± 1.5",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 441.6301450000001,
+                "t": 590.8010640000002,
+                "r": 463.3981450000001,
+                "b": 597.020790708074,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": ">0.1",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 121.18290700000034,
+                "t": 607.8010640000002,
+                "r": 181.8429070000002,
+                "b": 631.020790708074,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Gender Male",
+              "column_header": false,
+              "row_header": true,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 261.80899199999976,
+                "t": 624.8010640000002,
+                "r": 321.79699200000005,
+                "b": 631.020790708074,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "46 (65.71%)",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 347.9891590000002,
+                "t": 624.8010640000002,
+                "r": 407.9771590000005,
+                "b": 631.020790708074,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "40 (57.14%)",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 441.6301450000001,
+                "t": 630.1395640000001,
+                "r": 463.3981450000001,
+                "b": 636.3592907080738,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": ">0.1",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 157.18290700000034,
+                "t": 641.8010640000002,
+                "r": 192.51090699999986,
+                "b": 648.020790708074,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Female",
+              "column_header": false,
+              "row_header": true,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 261.80899199999976,
+                "t": 641.8010640000002,
+                "r": 321.79699200000005,
+                "b": 648.020790708074,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "24 (54.29%)",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 347.9891590000002,
+                "t": 641.8010640000002,
+                "r": 407.9771590000005,
+                "b": 648.020790708074,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "30 (42.86%)",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ]
+        ]
+      },
+      "annotations": []
+    },
+    {
+      "self_ref": "#/tables/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/39"
+        }
+      ],
+      "content_layer": "body",
+      "label": "table",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 112.4264907836914,
+            "t": 114.43902587890625,
+            "r": 483.2498779296875,
+            "b": 56.14727783203125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/39"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "data": {
+        "table_cells": [
+          {
+            "bbox": {
+              "l": 129.03254700000025,
+              "t": 759.0177389999999,
+              "r": 228.34454699999924,
+              "b": 782.2374657080736,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Mean operative time (min ± SD)",
+            "column_header": false,
+            "row_header": true,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 271.0076750000003,
+              "t": 742.0177389999999,
+              "r": 312.6836750000002,
+              "b": 748.2374657080736,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Group I",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 273.54007500000034,
+              "t": 759.0177389999999,
+              "r": 310.12807500000054,
+              "b": 765.2374657080736,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "60 ± 25",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 354.8603370000001,
+              "t": 742.0177389999999,
+              "r": 401.2043370000001,
+              "b": 748.2374657080736,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "Group II",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 359.73033699999996,
+              "t": 759.0177389999999,
+              "r": 396.31833700000016,
+              "b": 765.2374657080736,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "45 ± 15",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 433.23162900000034,
+              "t": 742.0177389999999,
+              "r": 471.8956290000001,
+              "b": 748.2374657080736,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "P-value",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 438.6601290000003,
+              "t": 759.0177389999999,
+              "r": 466.42812900000035,
+              "b": 765.2374657080736,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "<0.01",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          }
+        ],
+        "num_rows": 2,
+        "num_cols": 4,
+        "orientation": "rot_0",
+        "grid": [
+          [
+            {
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 271.0076750000003,
+                "t": 742.0177389999999,
+                "r": 312.6836750000002,
+                "b": 748.2374657080736,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Group I",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 354.8603370000001,
+                "t": 742.0177389999999,
+                "r": 401.2043370000001,
+                "b": 748.2374657080736,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "Group II",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 433.23162900000034,
+                "t": 742.0177389999999,
+                "r": 471.8956290000001,
+                "b": 748.2374657080736,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "P-value",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 129.03254700000025,
+                "t": 759.0177389999999,
+                "r": 228.34454699999924,
+                "b": 782.2374657080736,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Mean operative time (min ± SD)",
+              "column_header": false,
+              "row_header": true,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 273.54007500000034,
+                "t": 759.0177389999999,
+                "r": 310.12807500000054,
+                "b": 765.2374657080736,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "60 ± 25",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 359.73033699999996,
+                "t": 759.0177389999999,
+                "r": 396.31833700000016,
+                "b": 765.2374657080736,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "45 ± 15",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 438.6601290000003,
+                "t": 759.0177389999999,
+                "r": 466.42812900000035,
+                "b": 765.2374657080736,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "<0.01",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ]
+        ]
+      },
+      "annotations": []
+    },
+    {
+      "self_ref": "#/tables/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/57"
+        },
+        {
+          "$ref": "#/texts/58"
+        }
+      ],
+      "content_layer": "body",
+      "label": "table",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 133.9369659423828,
+            "t": 459.51678466796875,
+            "r": 460.9278869628906,
+            "b": 276.71051025390625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/57"
+        }
+      ],
+      "references": [],
+      "footnotes": [
+        {
+          "$ref": "#/texts/58"
+        }
+      ],
+      "data": {
+        "table_cells": [
+          {
+            "bbox": {
+              "l": 150.85598800000025,
+              "t": 399.7068559999998,
+              "r": 286.4819879999977,
+              "b": 428.26508270807335,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Group Complication",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 150.85598800000025,
+              "t": 444.38385599999947,
+              "r": 227.18798799999922,
+              "b": 450.6035827080732,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Intestinal injury",
+            "column_header": false,
+            "row_header": true,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 150.85598800000025,
+              "t": 466.7223559999993,
+              "r": 280.1559879999995,
+              "b": 472.94208270807303,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Inf. epigastric artery injury",
+            "column_header": false,
+            "row_header": true,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 150.85598800000025,
+              "t": 489.06085599999915,
+              "r": 231.84398799999963,
+              "b": 495.28058270807287,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Wound infection",
+            "column_header": false,
+            "row_header": true,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 150.85598800000025,
+              "t": 511.399355999999,
+              "r": 223.83998800000018,
+              "b": 517.6190827080727,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Wound seroma",
+            "column_header": false,
+            "row_header": true,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 150.85598800000025,
+              "t": 533.7378559999988,
+              "r": 274.50398799999857,
+              "b": 539.9575827080726,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 5,
+            "end_row_offset_idx": 6,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Intraabdominal collection",
+            "column_header": false,
+            "row_header": true,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 150.85598800000025,
+              "t": 556.0763559999987,
+              "r": 257.17598799999905,
+              "b": 562.2960827080724,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 6,
+            "end_row_offset_idx": 7,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Overall complications",
+            "column_header": false,
+            "row_header": true,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 321.20935099999997,
+              "t": 399.7068559999998,
+              "r": 337.8773510000001,
+              "b": 405.9265827080735,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "LA",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 326.54685100000006,
+              "t": 444.38395599999967,
+              "r": 332.54685100000006,
+              "b": 450.6036827080734,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "1",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 326.54685100000006,
+              "t": 466.7224559999995,
+              "r": 332.54685100000006,
+              "b": 472.94218270807323,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "0",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 326.54685100000006,
+              "t": 489.06095599999935,
+              "r": 332.54685100000006,
+              "b": 495.2806827080731,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "2",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 326.54685100000006,
+              "t": 511.3994559999992,
+              "r": 332.54685100000006,
+              "b": 517.6191827080729,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "1",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 326.54685100000006,
+              "t": 533.737955999999,
+              "r": 332.54685100000006,
+              "b": 539.9576827080728,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 5,
+            "end_row_offset_idx": 6,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "4",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 326.54685100000006,
+              "t": 556.0764559999989,
+              "r": 332.54685100000006,
+              "b": 562.2961827080726,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 6,
+            "end_row_offset_idx": 7,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "8",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 368.5144660000001,
+              "t": 399.7068559999998,
+              "r": 386.5144660000001,
+              "b": 405.9265827080735,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "OA",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 374.5143659999999,
+              "t": 444.38395599999967,
+              "r": 380.5143659999999,
+              "b": 450.6036827080734,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "0",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 374.5143659999999,
+              "t": 466.7224559999995,
+              "r": 380.5143659999999,
+              "b": 472.94218270807323,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "1",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 371.5143659999999,
+              "t": 489.06095599999935,
+              "r": 383.5143659999999,
+              "b": 495.2806827080731,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "10",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 374.5143659999999,
+              "t": 511.3994559999992,
+              "r": 380.5143659999999,
+              "b": 517.6191827080729,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "7",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 374.5143659999999,
+              "t": 533.737955999999,
+              "r": 380.5143659999999,
+              "b": 539.9576827080728,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 5,
+            "end_row_offset_idx": 6,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "2",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 371.5143659999999,
+              "t": 556.0764559999989,
+              "r": 383.5143659999999,
+              "b": 562.2961827080726,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 6,
+            "end_row_offset_idx": 7,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "20",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 412.0636450000002,
+              "t": 399.7068559999998,
+              "r": 450.72764499999994,
+              "b": 405.9265827080735,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "P-value",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 420.712845,
+              "t": 444.38395599999967,
+              "r": 442.04884500000026,
+              "b": 450.6036827080734,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "NS*",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 420.712845,
+              "t": 466.7224559999995,
+              "r": 442.04884500000026,
+              "b": 472.94218270807323,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "NS*",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 414.15454499999987,
+              "t": 489.06095599999935,
+              "r": 448.5945449999999,
+              "b": 495.2806827080731,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "P<0.05",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 412.64814499999966,
+              "t": 511.3994559999992,
+              "r": 450.0881449999997,
+              "b": 517.6191827080729,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "P <0.05",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 417.15454499999987,
+              "t": 533.737955999999,
+              "r": 445.5945449999999,
+              "b": 539.9576827080728,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 5,
+            "end_row_offset_idx": 6,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "P>0.1",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 414.15454499999987,
+              "t": 556.0764559999989,
+              "r": 448.5945449999999,
+              "b": 562.2961827080726,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 6,
+            "end_row_offset_idx": 7,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "P<0.05",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          }
+        ],
+        "num_rows": 7,
+        "num_cols": 4,
+        "orientation": "rot_0",
+        "grid": [
+          [
+            {
+              "bbox": {
+                "l": 150.85598800000025,
+                "t": 399.7068559999998,
+                "r": 286.4819879999977,
+                "b": 428.26508270807335,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Group Complication",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 321.20935099999997,
+                "t": 399.7068559999998,
+                "r": 337.8773510000001,
+                "b": 405.9265827080735,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "LA",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 368.5144660000001,
+                "t": 399.7068559999998,
+                "r": 386.5144660000001,
+                "b": 405.9265827080735,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "OA",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 412.0636450000002,
+                "t": 399.7068559999998,
+                "r": 450.72764499999994,
+                "b": 405.9265827080735,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "P-value",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 150.85598800000025,
+                "t": 444.38385599999947,
+                "r": 227.18798799999922,
+                "b": 450.6035827080732,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Intestinal injury",
+              "column_header": false,
+              "row_header": true,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 326.54685100000006,
+                "t": 444.38395599999967,
+                "r": 332.54685100000006,
+                "b": 450.6036827080734,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "1",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 374.5143659999999,
+                "t": 444.38395599999967,
+                "r": 380.5143659999999,
+                "b": 450.6036827080734,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "0",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 420.712845,
+                "t": 444.38395599999967,
+                "r": 442.04884500000026,
+                "b": 450.6036827080734,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "NS*",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 150.85598800000025,
+                "t": 466.7223559999993,
+                "r": 280.1559879999995,
+                "b": 472.94208270807303,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Inf. epigastric artery injury",
+              "column_header": false,
+              "row_header": true,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 326.54685100000006,
+                "t": 466.7224559999995,
+                "r": 332.54685100000006,
+                "b": 472.94218270807323,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "0",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 374.5143659999999,
+                "t": 466.7224559999995,
+                "r": 380.5143659999999,
+                "b": 472.94218270807323,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "1",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 420.712845,
+                "t": 466.7224559999995,
+                "r": 442.04884500000026,
+                "b": 472.94218270807323,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "NS*",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 150.85598800000025,
+                "t": 489.06085599999915,
+                "r": 231.84398799999963,
+                "b": 495.28058270807287,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Wound infection",
+              "column_header": false,
+              "row_header": true,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 326.54685100000006,
+                "t": 489.06095599999935,
+                "r": 332.54685100000006,
+                "b": 495.2806827080731,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "2",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 371.5143659999999,
+                "t": 489.06095599999935,
+                "r": 383.5143659999999,
+                "b": 495.2806827080731,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "10",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 414.15454499999987,
+                "t": 489.06095599999935,
+                "r": 448.5945449999999,
+                "b": 495.2806827080731,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "P<0.05",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 150.85598800000025,
+                "t": 511.399355999999,
+                "r": 223.83998800000018,
+                "b": 517.6190827080727,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Wound seroma",
+              "column_header": false,
+              "row_header": true,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 326.54685100000006,
+                "t": 511.3994559999992,
+                "r": 332.54685100000006,
+                "b": 517.6191827080729,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "1",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 374.5143659999999,
+                "t": 511.3994559999992,
+                "r": 380.5143659999999,
+                "b": 517.6191827080729,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "7",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 412.64814499999966,
+                "t": 511.3994559999992,
+                "r": 450.0881449999997,
+                "b": 517.6191827080729,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "P <0.05",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 150.85598800000025,
+                "t": 533.7378559999988,
+                "r": 274.50398799999857,
+                "b": 539.9575827080726,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 5,
+              "end_row_offset_idx": 6,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Intraabdominal collection",
+              "column_header": false,
+              "row_header": true,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 326.54685100000006,
+                "t": 533.737955999999,
+                "r": 332.54685100000006,
+                "b": 539.9576827080728,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 5,
+              "end_row_offset_idx": 6,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "4",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 374.5143659999999,
+                "t": 533.737955999999,
+                "r": 380.5143659999999,
+                "b": 539.9576827080728,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 5,
+              "end_row_offset_idx": 6,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "2",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 417.15454499999987,
+                "t": 533.737955999999,
+                "r": 445.5945449999999,
+                "b": 539.9576827080728,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 5,
+              "end_row_offset_idx": 6,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "P>0.1",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 150.85598800000025,
+                "t": 556.0763559999987,
+                "r": 257.17598799999905,
+                "b": 562.2960827080724,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 6,
+              "end_row_offset_idx": 7,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Overall complications",
+              "column_header": false,
+              "row_header": true,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 326.54685100000006,
+                "t": 556.0764559999989,
+                "r": 332.54685100000006,
+                "b": 562.2961827080726,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 6,
+              "end_row_offset_idx": 7,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "8",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 371.5143659999999,
+                "t": 556.0764559999989,
+                "r": 383.5143659999999,
+                "b": 562.2961827080726,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 6,
+              "end_row_offset_idx": 7,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "20",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 414.15454499999987,
+                "t": 556.0764559999989,
+                "r": 448.5945449999999,
+                "b": 562.2961827080726,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 6,
+              "end_row_offset_idx": 7,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "P<0.05",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ]
+        ]
+      },
+      "annotations": []
+    },
+    {
+      "self_ref": "#/tables/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/61"
+        }
+      ],
+      "content_layer": "body",
+      "label": "table",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 112.3469467163086,
+            "t": 114.45489501953125,
+            "r": 483.0474853515625,
+            "b": 55.91412353515625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/61"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "data": {
+        "table_cells": [
+          {
+            "bbox": {
+              "l": 119.58607500000016,
+              "t": 759.0177389999999,
+              "r": 243.47567500000423,
+              "b": 765.2374657080736,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Hospital stay (days ± SD)",
+            "column_header": false,
+            "row_header": true,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 119.58607500000016,
+              "t": 776.0177389999999,
+              "r": 195.17407500000036,
+              "b": 782.2374657080736,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Cost (LE ± SD)",
+            "column_header": false,
+            "row_header": true,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 266.5312350000004,
+              "t": 742.0177389999999,
+              "r": 316.8712350000005,
+              "b": 748.2374657080736,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "LA group",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 270.3884350000003,
+              "t": 759.0177389999999,
+              "r": 312.9764350000005,
+              "b": 765.2374657080736,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "1.5 ± 0.5",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 264.4013350000005,
+              "t": 776.0177389999999,
+              "r": 318.98933500000066,
+              "b": 782.2374657080736,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "3300 ± 400",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 352.0591280000003,
+              "t": 742.0177389999999,
+              "r": 403.73112800000035,
+              "b": 748.2374657080736,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "OA group",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 365.5915280000004,
+              "t": 759.0177389999999,
+              "r": 390.1795280000006,
+              "b": 765.2374657080736,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "2 ± 1",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 350.5915280000004,
+              "t": 776.0177389999999,
+              "r": 405.1795280000006,
+              "b": 782.2374657080736,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "1500 ± 200",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 432.0927740000002,
+              "t": 742.0177389999999,
+              "r": 470.75677399999995,
+              "b": 748.2374657080736,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "P-value",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 434.5212740000002,
+              "t": 759.0177389999999,
+              "r": 468.2892740000002,
+              "b": 765.2374657080736,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "<0.001",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 434.5212740000002,
+              "t": 776.0177389999999,
+              "r": 468.2892740000002,
+              "b": 782.2374657080736,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "<0.001",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          }
+        ],
+        "num_rows": 3,
+        "num_cols": 4,
+        "orientation": "rot_0",
+        "grid": [
+          [
+            {
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 266.5312350000004,
+                "t": 742.0177389999999,
+                "r": 316.8712350000005,
+                "b": 748.2374657080736,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "LA group",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 352.0591280000003,
+                "t": 742.0177389999999,
+                "r": 403.73112800000035,
+                "b": 748.2374657080736,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "OA group",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 432.0927740000002,
+                "t": 742.0177389999999,
+                "r": 470.75677399999995,
+                "b": 748.2374657080736,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "P-value",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 119.58607500000016,
+                "t": 759.0177389999999,
+                "r": 243.47567500000423,
+                "b": 765.2374657080736,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Hospital stay (days ± SD)",
+              "column_header": false,
+              "row_header": true,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 270.3884350000003,
+                "t": 759.0177389999999,
+                "r": 312.9764350000005,
+                "b": 765.2374657080736,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "1.5 ± 0.5",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 365.5915280000004,
+                "t": 759.0177389999999,
+                "r": 390.1795280000006,
+                "b": 765.2374657080736,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "2 ± 1",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 434.5212740000002,
+                "t": 759.0177389999999,
+                "r": 468.2892740000002,
+                "b": 765.2374657080736,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "<0.001",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 119.58607500000016,
+                "t": 776.0177389999999,
+                "r": 195.17407500000036,
+                "b": 782.2374657080736,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Cost (LE ± SD)",
+              "column_header": false,
+              "row_header": true,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 264.4013350000005,
+                "t": 776.0177389999999,
+                "r": 318.98933500000066,
+                "b": 782.2374657080736,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "3300 ± 400",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 350.5915280000004,
+                "t": 776.0177389999999,
+                "r": 405.1795280000006,
+                "b": 782.2374657080736,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "1500 ± 200",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 434.5212740000002,
+                "t": 776.0177389999999,
+                "r": 468.2892740000002,
+                "b": 782.2374657080736,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "<0.001",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ]
+        ]
+      },
+      "annotations": []
+    }
+  ],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 595.0,
+        "height": 850.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 595.0,
+        "height": 850.0
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 595.0,
+        "height": 850.0
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 595.0,
+        "height": 850.0
+      },
+      "page_no": 4
+    },
+    "5": {
+      "size": {
+        "width": 595.0,
+        "height": 850.0
+      },
+      "page_no": 5
+    },
+    "6": {
+      "size": {
+        "width": 595.0,
+        "height": 850.0
+      },
+      "page_no": 6
+    },
+    "7": {
+      "size": {
+        "width": 595.0,
+        "height": 850.0
+      },
+      "page_no": 7
+    }
+  }
+}

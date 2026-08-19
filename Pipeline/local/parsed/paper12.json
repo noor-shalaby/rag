@@ -1,0 +1,3549 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "paper12",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 13529041566727884741,
+    "filename": "paper12"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/tables/0"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/texts/27"
+      },
+      {
+        "$ref": "#/texts/28"
+      },
+      {
+        "$ref": "#/tables/1"
+      },
+      {
+        "$ref": "#/texts/30"
+      },
+      {
+        "$ref": "#/texts/31"
+      },
+      {
+        "$ref": "#/texts/32"
+      },
+      {
+        "$ref": "#/texts/33"
+      },
+      {
+        "$ref": "#/texts/34"
+      },
+      {
+        "$ref": "#/texts/35"
+      },
+      {
+        "$ref": "#/texts/36"
+      },
+      {
+        "$ref": "#/texts/37"
+      },
+      {
+        "$ref": "#/texts/38"
+      },
+      {
+        "$ref": "#/texts/39"
+      },
+      {
+        "$ref": "#/texts/40"
+      },
+      {
+        "$ref": "#/texts/41"
+      },
+      {
+        "$ref": "#/texts/42"
+      },
+      {
+        "$ref": "#/texts/43"
+      },
+      {
+        "$ref": "#/texts/44"
+      },
+      {
+        "$ref": "#/texts/45"
+      },
+      {
+        "$ref": "#/texts/46"
+      },
+      {
+        "$ref": "#/texts/47"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/57"
+      },
+      {
+        "$ref": "#/texts/58"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/69"
+      },
+      {
+        "$ref": "#/texts/70"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/48"
+        },
+        {
+          "$ref": "#/texts/49"
+        },
+        {
+          "$ref": "#/texts/50"
+        },
+        {
+          "$ref": "#/texts/51"
+        },
+        {
+          "$ref": "#/texts/52"
+        },
+        {
+          "$ref": "#/texts/53"
+        },
+        {
+          "$ref": "#/texts/54"
+        },
+        {
+          "$ref": "#/texts/55"
+        },
+        {
+          "$ref": "#/texts/56"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/59"
+        },
+        {
+          "$ref": "#/texts/60"
+        },
+        {
+          "$ref": "#/texts/61"
+        },
+        {
+          "$ref": "#/texts/62"
+        },
+        {
+          "$ref": "#/texts/63"
+        },
+        {
+          "$ref": "#/texts/64"
+        },
+        {
+          "$ref": "#/texts/65"
+        },
+        {
+          "$ref": "#/texts/66"
+        },
+        {
+          "$ref": "#/texts/67"
+        },
+        {
+          "$ref": "#/texts/68"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.6929,
+            "t": 784.6698146484375,
+            "r": 529.3384999999998,
+            "b": 753.6875123010198,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            120
+          ]
+        }
+      ],
+      "orig": "Hyperbilirubinemia  as  a  Significant  Indicator  in  Diagnosis  of Complicated Acute Appendicitis: A Prospective Study",
+      "text": "Hyperbilirubinemia  as  a  Significant  Indicator  in  Diagnosis  of Complicated Acute Appendicitis: A Prospective Study",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.6929,
+            "t": 740.4888146484375,
+            "r": 494.0088999999999,
+            "b": 717.5458475304491,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            135
+          ]
+        }
+      ],
+      "orig": "Fady Makram, MD, FACS; Ahmed Shoka, MD, MRCS; Mohamed Matar, MD, FACS Department of General Surgery, Ain Shams University, Cairo, Egypt",
+      "text": "Fady Makram, MD, FACS; Ahmed Shoka, MD, MRCS; Mohamed Matar, MD, FACS Department of General Surgery, Ain Shams University, Cairo, Egypt"
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.692899999999995,
+            "t": 687.6218146484375,
+            "r": 528.3578999999997,
+            "b": 641.4058475304491,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            394
+          ]
+        }
+      ],
+      "orig": "Background: Acute appendicitis is the most common cause of acute abdomen in young adults. In recent years,  studies  emerged  showing  that  elevated  serum  total  bilirubin  levels  could  indicate  a  complicated case of acute appendicitis. An elevated serum total bilirubin that is not explained by liver disease or biliary obstruction can be present in many patients of acute appendicitis.",
+      "text": "Background: Acute appendicitis is the most common cause of acute abdomen in young adults. In recent years,  studies  emerged  showing  that  elevated  serum  total  bilirubin  levels  could  indicate  a  complicated case of acute appendicitis. An elevated serum total bilirubin that is not explained by liver disease or biliary obstruction can be present in many patients of acute appendicitis."
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.692899999999995,
+            "t": 627.6218146484375,
+            "r": 528.3828999999997,
+            "b": 557.4058475304491,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            590
+          ]
+        }
+      ],
+      "orig": "Patients  and  methods: This  is  a  prospective  interventional  non-randomized  non-controlled  study conducted on 175 consecutive cases of acute appendicitis admitted to the emergency unit in the Department of General Surgery at Ain Shams University hospitals, Cairo, Egypt in the period from July 2014 to August 2016. Liver function tests were done as a part of the preoperative investigations. Clinical diagnosis was confirmed  postoperatively  by  histopathological  examination.  Their  clinical  and  investigative  data  were analyzed, The level of significance was set at P< 0.05.",
+      "text": "Patients  and  methods: This  is  a  prospective  interventional  non-randomized  non-controlled  study conducted on 175 consecutive cases of acute appendicitis admitted to the emergency unit in the Department of General Surgery at Ain Shams University hospitals, Cairo, Egypt in the period from July 2014 to August 2016. Liver function tests were done as a part of the preoperative investigations. Clinical diagnosis was confirmed  postoperatively  by  histopathological  examination.  Their  clinical  and  investigative  data  were analyzed, The level of significance was set at P< 0.05."
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.69290000000001,
+            "t": 543.6218146484375,
+            "r": 528.3488999999998,
+            "b": 521.4058475304491,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            126
+          ]
+        }
+      ],
+      "orig": "Results: Serum  total  bilirubin  was  found  to  be  significantly  elevated  in  cases  of  complicated  acute appendicitis.",
+      "text": "Results: Serum  total  bilirubin  was  found  to  be  significantly  elevated  in  cases  of  complicated  acute appendicitis."
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.69290000000001,
+            "t": 507.6218146484375,
+            "r": 528.3638999999996,
+            "b": 485.40584753044914,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            125
+          ]
+        }
+      ],
+      "orig": "Conclusion: Serum  total  bilirubin  is  a  new  important  adjunct  in  the  diagnosis  of  complicated  acute appendicitis.",
+      "text": "Conclusion: Serum  total  bilirubin  is  a  new  important  adjunct  in  the  diagnosis  of  complicated  acute appendicitis."
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.69290000000001,
+            "t": 471.6218146484375,
+            "r": 360.6028999999998,
+            "b": 461.40584753044914,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            65
+          ]
+        }
+      ],
+      "orig": "Key words: Hyperbilirubinemia, acute appendicitis, acute abdomen.",
+      "text": "Key words: Hyperbilirubinemia, acute appendicitis, acute abdomen."
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.692900000000016,
+            "t": 429.0718146484375,
+            "r": 120.30290000000002,
+            "b": 418.9415986859962,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "Introduction",
+      "text": "Introduction",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.692900000000016,
+            "t": 417.0718146484375,
+            "r": 280.93790000000007,
+            "b": 334.8558475304491,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            357
+          ]
+        }
+      ],
+      "orig": "Appendectomy  is  one  of  the  most  commonly performed abdominal surgeries in the emergency settings,  delay  in  diagnosis  and  surgery  for  this condition  may  lead  to  various  complications  like perforation, intraabdominal abscesses, small bowel obstruction and peritonitis causing an increase in morbidity and even mortality of these patients. 1",
+      "text": "Appendectomy  is  one  of  the  most  commonly performed abdominal surgeries in the emergency settings,  delay  in  diagnosis  and  surgery  for  this condition  may  lead  to  various  complications  like perforation, intraabdominal abscesses, small bowel obstruction and peritonitis causing an increase in morbidity and even mortality of these patients. 1"
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.6929,
+            "t": 321.0724146484374,
+            "r": 280.92890000000006,
+            "b": 262.85644753044903,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            215
+          ]
+        }
+      ],
+      "orig": "On the other hand, too aggressive surgical approach may lead to an increased rate of negative appendectomies. The incidence of perforated acute  appendicitis  in  adults  has  been  reported from 13-37% or higher. 2",
+      "text": "On the other hand, too aggressive surgical approach may lead to an increased rate of negative appendectomies. The incidence of perforated acute  appendicitis  in  adults  has  been  reported from 13-37% or higher. 2"
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.6929,
+            "t": 249.07241464843753,
+            "r": 280.9349,
+            "b": 190.85644753044915,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            222
+          ]
+        }
+      ],
+      "orig": "Hyperbilirubinemia is the result of imbalance between production and excretion of bilirubin by the liver .  Elevated serum bilirubin level and jaundice are commonly observed in patients suffering from a septic condition. 3",
+      "text": "Hyperbilirubinemia is the result of imbalance between production and excretion of bilirubin by the liver .  Elevated serum bilirubin level and jaundice are commonly observed in patients suffering from a septic condition. 3"
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.6929,
+            "t": 177.07241464843753,
+            "r": 280.93090000000007,
+            "b": 94.85644753044915,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            328
+          ]
+        }
+      ],
+      "orig": "Acute  appendicitis  is  the  most  common  intraabdominal  infectious  focus  in  a  surgical  patient, Escherichia  coli  and  Bacteroides  fragilis  are  the most frequent bacterial isolates in this condition. 4 Bacteraemia is known  to cause endotoxemia leading to impaired excretion of bilirubin from the bile canaliculi. 5",
+      "text": "Acute  appendicitis  is  the  most  common  intraabdominal  infectious  focus  in  a  surgical  patient, Escherichia  coli  and  Bacteroides  fragilis  are  the most frequent bacterial isolates in this condition. 4 Bacteraemia is known  to cause endotoxemia leading to impaired excretion of bilirubin from the bile canaliculi. 5"
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.6929,
+            "t": 81.07241464843753,
+            "r": 280.9338999999999,
+            "b": 70.85644753044915,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            50
+          ]
+        },
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 304.1429,
+            "t": 429.07241464843753,
+            "r": 528.3749,
+            "b": 394.85644753044915,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            51,
+            167
+          ]
+        }
+      ],
+      "orig": "Few case reports have described hyperbilirubinemia in  patients  with  severe  postoperative  infection after  appendectomy  or  with  complicated  acute appendicitis.",
+      "text": "Few case reports have described hyperbilirubinemia in  patients  with  severe  postoperative  infection after  appendectomy  or  with  complicated  acute appendicitis."
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 304.1429,
+            "t": 381.07241464843753,
+            "r": 528.3848999999996,
+            "b": 238.85644753044915,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            579
+          ]
+        }
+      ],
+      "orig": "The aim of this study was to establish the role of serum total bilirubin level as an additive diagnostic tool to diagnose complicated acute appendicitis and to accelerate early intervention, the establishment of  a  possible  role  of  hyperbilirubinemia  as  a predictor  of  complicated  acute  appendicitis  has been stressed so that level of serum total bilirubin on  admission  can  be  used  in  combination  with leucocytic  count,  pelviabdominal  ultrasonography and  computed  tomography  to  help  determine the presence of complication and to aid suitable management.",
+      "text": "The aim of this study was to establish the role of serum total bilirubin level as an additive diagnostic tool to diagnose complicated acute appendicitis and to accelerate early intervention, the establishment of  a  possible  role  of  hyperbilirubinemia  as  a predictor  of  complicated  acute  appendicitis  has been stressed so that level of serum total bilirubin on  admission  can  be  used  in  combination  with leucocytic  count,  pelviabdominal  ultrasonography and  computed  tomography  to  help  determine the presence of complication and to aid suitable management."
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 304.1429,
+            "t": 213.07241464843753,
+            "r": 416.65290000000005,
+            "b": 202.94219868599623,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            21
+          ]
+        }
+      ],
+      "orig": "Patients  and methods",
+      "text": "Patients  and methods",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 304.14289999999994,
+            "t": 201.07241464843753,
+            "r": 528.4078999999999,
+            "b": 82.85644753044915,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            460
+          ]
+        }
+      ],
+      "orig": "This  prospective  interventional  non-randomized non-controlled study was conducted in the Emergency  Unit  in  the  Department  of  General Surgery at Ain Shams University hospitals, Cairo, Egypt in the period from July 2014 to August 2016. All  patients  were  admitted  with  the  diagnosis  of acute appendicitis. Serum total bilirubin was done in addition to the routine investigations including total leukocytic count and pelviabdominal ultrasonography.",
+      "text": "This  prospective  interventional  non-randomized non-controlled study was conducted in the Emergency  Unit  in  the  Department  of  General Surgery at Ain Shams University hospitals, Cairo, Egypt in the period from July 2014 to August 2016. All  patients  were  admitted  with  the  diagnosis  of acute appendicitis. Serum total bilirubin was done in addition to the routine investigations including total leukocytic count and pelviabdominal ultrasonography."
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 61.4948,
+            "t": 47.73681464843753,
+            "r": 201.25580000000008,
+            "b": 40.006425113553746,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            35
+          ]
+        }
+      ],
+      "orig": "Ain-Shams J Surg 2017; 10 (1):25-28",
+      "text": "Ain-Shams J Surg 2017; 10 (1):25-28"
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 524.4095,
+            "t": 47.77711464843753,
+            "r": 535.9295,
+            "b": 37.12151505288648,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "25",
+      "text": "25"
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 70.86609999999999,
+            "t": 784.8204146484375,
+            "r": 295.1010999999999,
+            "b": 714.6044475304491,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            276
+          ]
+        }
+      ],
+      "orig": "Patients  with  elevated  serum  total  bilirubin  were investigated by hepatitis viral markers. After the operation, all specimens were sent for histopathological examination and only cases with acute appendicitis or complicated acute appendicitis were included in our study.",
+      "text": "Patients  with  elevated  serum  total  bilirubin  were investigated by hepatitis viral markers. After the operation, all specimens were sent for histopathological examination and only cases with acute appendicitis or complicated acute appendicitis were included in our study."
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 70.86609999999999,
+            "t": 700.8204146484375,
+            "r": 295.1050999999998,
+            "b": 642.6044475304491,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            239
+          ]
+        }
+      ],
+      "orig": "Exclusion criteria: All patients documented to  have  a  history  of  jaundice  or  liver  disease, chronic  alcoholism,  hemolytic  disease,  acquired or  congenital  biliary  disease,  viral  hepatitis,  and patients with cholelithiasis.",
+      "text": "Exclusion criteria: All patients documented to  have  a  history  of  jaundice  or  liver  disease, chronic  alcoholism,  hemolytic  disease,  acquired or  congenital  biliary  disease,  viral  hepatitis,  and patients with cholelithiasis."
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 70.86609999999999,
+            "t": 628.8204146484375,
+            "r": 295.1241,
+            "b": 594.6044475304491,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            133
+          ]
+        }
+      ],
+      "orig": "Also, patients with normal appendix which was  proved  by  postoperative  histopathological examination were excluded from the study.",
+      "text": "Also, patients with normal appendix which was  proved  by  postoperative  histopathological examination were excluded from the study."
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 70.86609999999999,
+            "t": 580.8204146484375,
+            "r": 295.10709999999983,
+            "b": 498.6044475304491,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            321
+          ]
+        }
+      ],
+      "orig": "Statistical  methodology: Data were coded and  entered  using  the  statistical  package  SPSS (Statistical Package for the Social Science) version  23.  Data  was  summarized  using  mean, minimum and maximum in quantitative data and using  frequency  (count)  and  relative  frequency (percentage) for categorical data.",
+      "text": "Statistical  methodology: Data were coded and  entered  using  the  statistical  package  SPSS (Statistical Package for the Social Science) version  23.  Data  was  summarized  using  mean, minimum and maximum in quantitative data and using  frequency  (count)  and  relative  frequency (percentage) for categorical data."
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 70.86609999999999,
+            "t": 484.82041464843746,
+            "r": 107.9461,
+            "b": 474.69019868599617,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "Results",
+      "text": "Results",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 70.86609999999999,
+            "t": 472.82041464843746,
+            "r": 295.0981,
+            "b": 414.6044475304491,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            208
+          ]
+        }
+      ],
+      "orig": "Patients' demographics: (Table 1) Our  study  consisted  of  175  patients:  84  males (48%) and 91 females (52%) with acute appendicitis  that  was  proved  postoperatively  by histopathological examination.",
+      "text": "Patients' demographics: (Table 1) Our  study  consisted  of  175  patients:  84  males (48%) and 91 females (52%) with acute appendicitis  that  was  proved  postoperatively  by histopathological examination."
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 70.86609999999999,
+            "t": 400.82041464843746,
+            "r": 295.0890999999999,
+            "b": 378.6044475304491,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            78
+          ]
+        }
+      ],
+      "orig": "The  age  varied  between  14  years  and  62  years with mean age 28.3 years.",
+      "text": "The  age  varied  between  14  years  and  62  years with mean age 28.3 years."
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/tables/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 74.8661,
+            "t": 361.2492146484375,
+            "r": 203.67410000000007,
+            "b": 353.14504187848445,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            31
+          ]
+        }
+      ],
+      "orig": "Table 1: Patients' demographics",
+      "text": "Table 1: Patients' demographics"
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 70.8661,
+            "t": 267.8338146484375,
+            "r": 295.11210000000005,
+            "b": 185.61784753044913,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            339
+          ]
+        }
+      ],
+      "orig": "Duration  of  symptoms  ranged  from  6  hours  to maximum 7 days. Among the 175 cases, according to the intraoperative findings and the postoperative histopathological results, 115 cases (65.71%) were non-complicated acute appendicitis while 60 cases (34.28%)  were  complicated  either  by  abscess formation or appendicular perforation.",
+      "text": "Duration  of  symptoms  ranged  from  6  hours  to maximum 7 days. Among the 175 cases, according to the intraoperative findings and the postoperative histopathological results, 115 cases (65.71%) were non-complicated acute appendicitis while 60 cases (34.28%)  were  complicated  either  by  abscess formation or appendicular perforation."
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 70.8661,
+            "t": 171.8338146484375,
+            "r": 295.10409999999996,
+            "b": 89.61784753044913,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            359
+          ]
+        }
+      ],
+      "orig": "Among  the  60  complicated  cases,  hyperbilirubinemia was found in 51 patients (sensitivity=85%), while normal bilirubin was found in 9 patients (15%), on the  other  hand,  out  of  the  115  non-complicated cases,  normal  bilirubin  was  found  in  98  patients (specificity=85.21%) while it  was  elevated  in  17 patients (14.78%) with accuracy 85.14%.",
+      "text": "Among  the  60  complicated  cases,  hyperbilirubinemia was found in 51 patients (sensitivity=85%), while normal bilirubin was found in 9 patients (15%), on the  other  hand,  out  of  the  115  non-complicated cases,  normal  bilirubin  was  found  in  98  patients (specificity=85.21%) while it  was  elevated  in  17 patients (14.78%) with accuracy 85.14%."
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 70.8661,
+            "t": 75.83381464843751,
+            "r": 291.9621,
+            "b": 65.61784753044913,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            54
+          ]
+        },
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 317.3161,
+            "t": 784.8238146484375,
+            "r": 541.7150999999999,
+            "b": 726.6078475304491,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            55,
+            266
+          ]
+        }
+      ],
+      "orig": "The  mean  total  bilirubin  for  patients  with  noncomplicated acute appendicitis was 0.77 and that for complicated cases was 1.62 (p=0.001) which was  a  significant  rise  in  serum  total  bilirubin  in patients with complicated acute appendicitis (Table 2) .",
+      "text": "The  mean  total  bilirubin  for  patients  with  noncomplicated acute appendicitis was 0.77 and that for complicated cases was 1.62 (p=0.001) which was  a  significant  rise  in  serum  total  bilirubin  in patients with complicated acute appendicitis (Table 2) ."
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/tables/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 321.3149,
+            "t": 709.2492146484376,
+            "r": 536.9332999999999,
+            "b": 691.5450418784845,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            78
+          ]
+        }
+      ],
+      "orig": "Table  2:  Serum  total  bilirubin  in  complicated  and non-complicated cases",
+      "text": "Table  2:  Serum  total  bilirubin  in  complicated  and non-complicated cases"
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 317.3149,
+            "t": 603.2682146484375,
+            "r": 370.61489999999986,
+            "b": 593.1379986859962,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "Discussion",
+      "text": "Discussion",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 317.3149,
+            "t": 591.2682146484375,
+            "r": 541.7269000000001,
+            "b": 557.0522475304491,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            117
+          ]
+        }
+      ],
+      "orig": "The incidence of acute appendicitis differs, but it is highly prevalent, occurring in 7 to 22 out of 10,000 people. 6",
+      "text": "The incidence of acute appendicitis differs, but it is highly prevalent, occurring in 7 to 22 out of 10,000 people. 6"
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 317.3149,
+            "t": 543.2682146484375,
+            "r": 541.7168999999999,
+            "b": 485.0522475304491,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            224
+          ]
+        }
+      ],
+      "orig": "Non-complicated acute appendicitis can be treated by  an  appendectomy  without  a  long  recovery period, whereas,  complicated  appendicitis  can cause different complications that can lead to lifethreatening conditions. 7",
+      "text": "Non-complicated acute appendicitis can be treated by  an  appendectomy  without  a  long  recovery period, whereas,  complicated  appendicitis  can cause different complications that can lead to lifethreatening conditions. 7"
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 317.3149,
+            "t": 471.2682146484375,
+            "r": 541.7248999999997,
+            "b": 365.0522475304491,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            439
+          ]
+        }
+      ],
+      "orig": "Recent  developments  in  the  diagnosis  of  acute appendicitis with the assistance of different radiological  tools  such  as  ultrasonography  and computed tomography have reduced the rate of negative  appendectomies.  Although  the  known diagnostic accuracy of ultrasonography varies depending  on  the  patient  population  studied,  a meta-analysis reported an overall ultrasonographic specificity of 92% and a sensitivity of 85%. 8",
+      "text": "Recent  developments  in  the  diagnosis  of  acute appendicitis with the assistance of different radiological  tools  such  as  ultrasonography  and computed tomography have reduced the rate of negative  appendectomies.  Although  the  known diagnostic accuracy of ultrasonography varies depending  on  the  patient  population  studied,  a meta-analysis reported an overall ultrasonographic specificity of 92% and a sensitivity of 85%. 8"
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 317.3149,
+            "t": 351.2682146484375,
+            "r": 541.7318999999998,
+            "b": 293.0522475304491,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            238
+          ]
+        }
+      ],
+      "orig": "Because  of  the  development  of  helical  CT,  the accuracy and  the effectiveness of diagnosing appendicitis have already defeat the limitation of ultrasonography,  with  sensitivities  of  90  to  99% and specificities of 91 to 99%. 9",
+      "text": "Because  of  the  development  of  helical  CT,  the accuracy and  the effectiveness of diagnosing appendicitis have already defeat the limitation of ultrasonography,  with  sensitivities  of  90  to  99% and specificities of 91 to 99%. 9"
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 317.3115,
+            "t": 279.5666246484375,
+            "r": 541.7146,
+            "b": 161.0522475304491,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            507
+          ]
+        }
+      ],
+      "orig": "However, a recent study by Pritchett et al., 2010 10 reported  that  the  widespread  use  of  computed tomography scanning in acute appendicitis increases the care cost and the hospital stay and delays the time to surgical intervention. Because clinical examinations and laboratory investigations are  still  acknowledged  as  being  of  the  utmost importance in the diagnostic process, 11 we tried to find  key  laboratory  tests  that  would  allow  us  to anticipate the severity of acute appendicitis.",
+      "text": "However, a recent study by Pritchett et al., 2010 10 reported  that  the  widespread  use  of  computed tomography scanning in acute appendicitis increases the care cost and the hospital stay and delays the time to surgical intervention. Because clinical examinations and laboratory investigations are  still  acknowledged  as  being  of  the  utmost importance in the diagnostic process, 11 we tried to find  key  laboratory  tests  that  would  allow  us  to anticipate the severity of acute appendicitis."
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 317.3115,
+            "t": 147.56662464843748,
+            "r": 541.7200999999998,
+            "b": 65.05224753044911,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            337
+          ]
+        }
+      ],
+      "orig": "Miller and Irvine, 1969 12 first reported that jaundice was common in patients with severe appendicitis, Recently Sand et al., 2009 13 reported  a  relatively  high  incidence  of hyperbilirubinemia  (24.9%)  from  an  analysis  of 538  acute  appendicitis  patients  of  whom  50.7% were  verified  as  having  perforated  appendicitis.",
+      "text": "Miller and Irvine, 1969 12 first reported that jaundice was common in patients with severe appendicitis, Recently Sand et al., 2009 13 reported  a  relatively  high  incidence  of hyperbilirubinemia  (24.9%)  from  an  analysis  of 538  acute  appendicitis  patients  of  whom  50.7% were  verified  as  having  perforated  appendicitis."
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 54.3462,
+            "t": 47.77711464843753,
+            "r": 65.8662,
+            "b": 37.12151505288648,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "26",
+      "text": "26"
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 394.0127,
+            "t": 47.73681464843753,
+            "r": 533.7737000000001,
+            "b": 40.006425113553746,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            35
+          ]
+        }
+      ],
+      "orig": "Ain-Shams J Surg 2017; 10 (1):25-28",
+      "text": "Ain-Shams J Surg 2017; 10 (1):25-28"
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 56.69289999999998,
+            "t": 784.8204146484375,
+            "r": 280.93290000000013,
+            "b": 678.6044475304491,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            425
+          ]
+        }
+      ],
+      "orig": "He derived hypothesis that elevated serum total bilirubin levels can be associated with appendicular perforation. They explained the raised  serum  bilirubin  levels  by  the  invasion  of gram negative bacteria through muscularis propria of the appendix leading to the direct invasion or translocation of germs through portal system and liver  interfering  with  bilirubin  excretion  through bile ducts by endotoxin action.",
+      "text": "He derived hypothesis that elevated serum total bilirubin levels can be associated with appendicular perforation. They explained the raised  serum  bilirubin  levels  by  the  invasion  of gram negative bacteria through muscularis propria of the appendix leading to the direct invasion or translocation of germs through portal system and liver  interfering  with  bilirubin  excretion  through bile ducts by endotoxin action."
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 56.69289999999998,
+            "t": 664.8204146484375,
+            "r": 280.9469,
+            "b": 546.6044475304491,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            456
+          ]
+        }
+      ],
+      "orig": "Recently, few studies have investigated the role of serum  total bilirubin in diagnosis of perforated  appendicitis,    one    study  has  found hyperbilirubinemia  to  be  an  important  predictive marker for perforated and necrotizing appendicitis. In this series of 157  patients, the odds of gangrenous and perforated appendicitis were found  to  be  3  times  higher  for  patients  having hyperbilirubinemia than those with normal bilirubin level. 14",
+      "text": "Recently, few studies have investigated the role of serum  total bilirubin in diagnosis of perforated  appendicitis,    one    study  has  found hyperbilirubinemia  to  be  an  important  predictive marker for perforated and necrotizing appendicitis. In this series of 157  patients, the odds of gangrenous and perforated appendicitis were found  to  be  3  times  higher  for  patients  having hyperbilirubinemia than those with normal bilirubin level. 14"
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 56.6929,
+            "t": 532.8204146484375,
+            "r": 280.9419,
+            "b": 414.6044475304491,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            499
+          ]
+        }
+      ],
+      "orig": "A retrospective Cohort study performed in two  centers  involving  155  cases  of  perforated appendicitis  and  570  cases  of  non-perforated appendicitis compared hyperbilirubinemia, C-reactive protein, leucocytic count and age as a marker of perforated appendicitis, they concluded that hyperbilirubinemia is a statistically significant marker  of  perforated  appendicitis,  but  they  also found  that  C-reactive  protein  to  be  a  superior marker of perforation than hyperbilirubinemia. 15",
+      "text": "A retrospective Cohort study performed in two  centers  involving  155  cases  of  perforated appendicitis  and  570  cases  of  non-perforated appendicitis compared hyperbilirubinemia, C-reactive protein, leucocytic count and age as a marker of perforated appendicitis, they concluded that hyperbilirubinemia is a statistically significant marker  of  perforated  appendicitis,  but  they  also found  that  C-reactive  protein  to  be  a  superior marker of perforation than hyperbilirubinemia. 15"
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 56.69199999999999,
+            "t": 401.1187246484375,
+            "r": 280.93500000000006,
+            "b": 354.60444753044914,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            166
+          ]
+        }
+      ],
+      "orig": "Emmanuel  A  et  al.,  2011 16 concluded  that  the positive  predictive  value  of  hyperbilirubinemia  in appendicular perforation was found to be 91% in his study.",
+      "text": "Emmanuel  A  et  al.,  2011 16 concluded  that  the positive  predictive  value  of  hyperbilirubinemia  in appendicular perforation was found to be 91% in his study."
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 56.69199999999999,
+            "t": 340.8204146484375,
+            "r": 280.9384,
+            "b": 186.60444753044908,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            625
+          ]
+        }
+      ],
+      "orig": "Multivariate analysis done by Young Ran Hong  et  al.,  2012 17 stated  that  the  Systemic Inflammatory  Response  Syndrome  (SIRS)  score and hyperbilirubinemia are significant predictors of appendicular  perforation,  whereas  the  leucocytic count and segmented neutrophils, which are used as markers  of acute inflammation frequently, were not statistically significant. However, as the SIRS  score  itself  is  a  sum  of  four  figures  with four criteria,  using  it  as  an  independent  variable would  be inappropriate. They  confirmed that hyperbilirubinemia has a predictive value in acute appendicitis patients.",
+      "text": "Multivariate analysis done by Young Ran Hong  et  al.,  2012 17 stated  that  the  Systemic Inflammatory  Response  Syndrome  (SIRS)  score and hyperbilirubinemia are significant predictors of appendicular  perforation,  whereas  the  leucocytic count and segmented neutrophils, which are used as markers  of acute inflammation frequently, were not statistically significant. However, as the SIRS  score  itself  is  a  sum  of  four  figures  with four criteria,  using  it  as  an  independent  variable would  be inappropriate. They  confirmed that hyperbilirubinemia has a predictive value in acute appendicitis patients."
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 56.68810000000002,
+            "t": 172.82041464843758,
+            "r": 280.9381,
+            "b": 66.60444753044908,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            443
+          ]
+        },
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 304.1381,
+            "t": 784.8204146484375,
+            "r": 528.3720999999999,
+            "b": 738.6044475304491,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            444,
+            643
+          ]
+        }
+      ],
+      "orig": "Diagnostic  meta-analysis  of  4974  patients  was done by Salvatore G et al., 2013, 18 eight  studies were used for this pooled analysis: seven of them were retrospective and only one prospective cohort  with  clear  heterogeneity  in  settings  and methods (e.g. country, time since diagnosis, operative indications). They concluded that alone, hyperbilirubinemia is not a strong enough predictor,  but  it  might  be  useful  when  combined in  a  scoring  system,  so,  it  is  considered  that further  studies  would  be  useful  especially  when there  are  poor  resource  settings  with  limited availability of other imaging studies.",
+      "text": "Diagnostic  meta-analysis  of  4974  patients  was done by Salvatore G et al., 2013, 18 eight  studies were used for this pooled analysis: seven of them were retrospective and only one prospective cohort  with  clear  heterogeneity  in  settings  and methods (e.g. country, time since diagnosis, operative indications). They concluded that alone, hyperbilirubinemia is not a strong enough predictor,  but  it  might  be  useful  when  combined in  a  scoring  system,  so,  it  is  considered  that further  studies  would  be  useful  especially  when there  are  poor  resource  settings  with  limited availability of other imaging studies."
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 304.1381,
+            "t": 724.8204146484375,
+            "r": 358.8080999999999,
+            "b": 714.6901986859962,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "Conclusion",
+      "text": "Conclusion",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 304.1381,
+            "t": 712.8204146484375,
+            "r": 528.3690999999995,
+            "b": 654.6044475304491,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            217
+          ]
+        }
+      ],
+      "orig": "Serum total bilirubin should be routinely performed as a part of the preoperative assessment in cases of  suspected  acute  appendicitis.  It  can  serve as  an  important  marker  of  complicated  acute appendicitis.",
+      "text": "Serum total bilirubin should be routinely performed as a part of the preoperative assessment in cases of  suspected  acute  appendicitis.  It  can  serve as  an  important  marker  of  complicated  acute appendicitis."
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 304.1381,
+            "t": 640.8204146484375,
+            "r": 360.1380999999999,
+            "b": 630.6901986859962,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "References",
+      "text": "References",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 304.1381,
+            "t": 628.8204146484375,
+            "r": 528.3730999999998,
+            "b": 570.6044475304491,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            213
+          ]
+        }
+      ],
+      "orig": "1. Korner H, Sondenaa K, Soreide JA, Andersen E, Nysted A, Lende TH, et al: Incidence of acute non-perforated  and  perforated  appendicitis: Age-specific and sex-specific analysis. World J Surg 1997; 21: 313-317.",
+      "text": "Korner H, Sondenaa K, Soreide JA, Andersen E, Nysted A, Lende TH, et al: Incidence of acute non-perforated  and  perforated  appendicitis: Age-specific and sex-specific analysis. World J Surg 1997; 21: 313-317.",
+      "enumerated": true,
+      "marker": "1."
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 304.1381,
+            "t": 556.8204146484375,
+            "r": 528.3690999999999,
+            "b": 510.6044475304491,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            148
+          ]
+        }
+      ],
+      "orig": "2. Temple  CL,  Huchcroft  SA,  Temple  WJ:  The natural  history  of  appendicitis  in  adults  -  A prospective study. Ann Surg 1995; 221: 278281.",
+      "text": "Temple  CL,  Huchcroft  SA,  Temple  WJ:  The natural  history  of  appendicitis  in  adults  -  A prospective study. Ann Surg 1995; 221: 278281.",
+      "enumerated": true,
+      "marker": "2."
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 304.1381,
+            "t": 496.82041464843746,
+            "r": 528.3880999999999,
+            "b": 450.6044475304491,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            153
+          ]
+        }
+      ],
+      "orig": "3. Whitehead  MW,  Hainsworth  I,  Kingham  JG: The causes of obvious jaundice in South West Wales:  Perceptions  versus  reality. Gut 2001; 48: 409-413.",
+      "text": "Whitehead  MW,  Hainsworth  I,  Kingham  JG: The causes of obvious jaundice in South West Wales:  Perceptions  versus  reality. Gut 2001; 48: 409-413.",
+      "enumerated": true,
+      "marker": "3."
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 304.1481,
+            "t": 436.82041464843746,
+            "r": 528.4010999999997,
+            "b": 390.6044475304491,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            190
+          ]
+        }
+      ],
+      "orig": "4. Cheng  CW,  Lin  HS,  Ye  JJ,  Yang  CC,  Chiang PC, Wu TS, et al: Clinical significance of and outcomes for Bacteroides fragilis bacteremia. J Microbiol Immunol Infect 2009; 42: 243-250.",
+      "text": "Cheng  CW,  Lin  HS,  Ye  JJ,  Yang  CC,  Chiang PC, Wu TS, et al: Clinical significance of and outcomes for Bacteroides fragilis bacteremia. J Microbiol Immunol Infect 2009; 42: 243-250.",
+      "enumerated": true,
+      "marker": "4."
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 304.1481,
+            "t": 376.82041464843746,
+            "r": 528.3820999999998,
+            "b": 330.6044475304491,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            152
+          ]
+        }
+      ],
+      "orig": "5. Franson TR, Hierholzer WJ, LaBrecque DR: Frequency and characteristics of hyperbilirubinemia associated with bacteremia. Rev Infect Dis 1985; 7: 1-9.",
+      "text": "Franson TR, Hierholzer WJ, LaBrecque DR: Frequency and characteristics of hyperbilirubinemia associated with bacteremia. Rev Infect Dis 1985; 7: 1-9.",
+      "enumerated": true,
+      "marker": "5."
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 304.1481,
+            "t": 316.82041464843746,
+            "r": 528.3900999999996,
+            "b": 270.6044475304491,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            185
+          ]
+        }
+      ],
+      "orig": "6. Buckius MT, McGrath B, Monk J, Grim R, Bell T,  Ahuja  V:  Changing  epidemiology  of  acute appendicitis in the United States: study period 1993-2008. J Surg Res 2012; 175: 185-190.",
+      "text": "Buckius MT, McGrath B, Monk J, Grim R, Bell T,  Ahuja  V:  Changing  epidemiology  of  acute appendicitis in the United States: study period 1993-2008. J Surg Res 2012; 175: 185-190.",
+      "enumerated": true,
+      "marker": "6."
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 304.1481,
+            "t": 256.82041464843746,
+            "r": 528.3920999999999,
+            "b": 210.60444753044908,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            180
+          ]
+        }
+      ],
+      "orig": "7. Fike FB, Mortellaro VE, Juang D, Sharp SW,  Ostlie  DJ,  St  Peter  SD:  The  impact  of postoperative abscess formation in perforated appendicitis. J Surg Res 2011; 170: 24-26.",
+      "text": "Fike FB, Mortellaro VE, Juang D, Sharp SW,  Ostlie  DJ,  St  Peter  SD:  The  impact  of postoperative abscess formation in perforated appendicitis. J Surg Res 2011; 170: 24-26.",
+      "enumerated": true,
+      "marker": "7."
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 304.1481,
+            "t": 196.82041464843746,
+            "r": 528.3910999999998,
+            "b": 138.60444753044908,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            190
+          ]
+        }
+      ],
+      "orig": "8. Orr RK, Porter D, Hartman D: Ultrasonography to  evaluate  adults  for  appendicitis:  Decision making based on meta-analysis and probabilistic reasoning. Acad Emerg Med 1995; 2: 644-650.",
+      "text": "Orr RK, Porter D, Hartman D: Ultrasonography to  evaluate  adults  for  appendicitis:  Decision making based on meta-analysis and probabilistic reasoning. Acad Emerg Med 1995; 2: 644-650.",
+      "enumerated": true,
+      "marker": "8."
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 304.1481,
+            "t": 124.82041464843746,
+            "r": 528.3810999999996,
+            "b": 66.60444753044908,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            194
+          ]
+        }
+      ],
+      "orig": "9. Lane  MJ,  Liu  DM,  Huynh  MD,  Jeffrey  RB  Jr, Mindelzun RE, Katz DS: Suspected acute appendicitis:  Nonenhanced  helical  CT  in  300 consecutive  patients. Radiology 1999;  213: 341-346.",
+      "text": "Lane  MJ,  Liu  DM,  Huynh  MD,  Jeffrey  RB  Jr, Mindelzun RE, Katz DS: Suspected acute appendicitis:  Nonenhanced  helical  CT  in  300 consecutive  patients. Radiology 1999;  213: 341-346.",
+      "enumerated": true,
+      "marker": "9."
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 61.4948,
+            "t": 47.73681464843753,
+            "r": 201.25580000000008,
+            "b": 40.006425113553746,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            35
+          ]
+        }
+      ],
+      "orig": "Ain-Shams J Surg 2017; 10 (1):25-28",
+      "text": "Ain-Shams J Surg 2017; 10 (1):25-28"
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 524.4095,
+            "t": 47.77711464843753,
+            "r": 535.9295,
+            "b": 37.12151505288648,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "27",
+      "text": "27"
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 70.8661,
+            "t": 784.8204146484375,
+            "r": 295.1050999999998,
+            "b": 726.6044475304491,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            186
+          ]
+        }
+      ],
+      "orig": "10.\tPritchett CV, Levinsky NC, Ha YP, Dembe AE, Steinberg SM: Management of acute appendicitis:  The  impact  of  CT  scanning  on the  bottom  line. J Am Coll  Surg 2010;  210: 699-705.",
+      "text": "Pritchett CV, Levinsky NC, Ha YP, Dembe AE, Steinberg SM: Management of acute appendicitis:  The  impact  of  CT  scanning  on the  bottom  line. J Am Coll  Surg 2010;  210: 699-705.",
+      "enumerated": true,
+      "marker": "10."
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 70.86609999999999,
+            "t": 712.8204146484375,
+            "r": 295.1230999999999,
+            "b": 654.6044475304491,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            218
+          ]
+        }
+      ],
+      "orig": "11. Kalliakmanis  V,  Pikoulis  E,  Karavokyros  IG, Felekouras  E,  Morfaki  P,  Haralambopoulou G, et al: Acute appendicitis: The reliability of diagnosis by clinical assessment alone. Scand J Surg 2005; 94: 201-206.",
+      "text": "Kalliakmanis  V,  Pikoulis  E,  Karavokyros  IG, Felekouras  E,  Morfaki  P,  Haralambopoulou G, et al: Acute appendicitis: The reliability of diagnosis by clinical assessment alone. Scand J Surg 2005; 94: 201-206.",
+      "enumerated": true,
+      "marker": "11."
+    },
+    {
+      "self_ref": "#/texts/61",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 70.86610000000002,
+            "t": 640.8204146484375,
+            "r": 295.08609999999993,
+            "b": 618.6044475304491,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            82
+          ]
+        }
+      ],
+      "orig": "12.\tMiller DF, Irvine RW: Jaundice in acute appendicitis. Lancet 1969; 1: 321-323.",
+      "text": "Miller DF, Irvine RW: Jaundice in acute appendicitis. Lancet 1969; 1: 321-323.",
+      "enumerated": true,
+      "marker": "12."
+    },
+    {
+      "self_ref": "#/texts/62",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 70.86610000000003,
+            "t": 604.8204146484375,
+            "r": 295.1020999999999,
+            "b": 546.6044475304491,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            227
+          ]
+        }
+      ],
+      "orig": "13. Sand  M,  Bechara  GF,  Holland-Letz  T,  Sand D,  Mehnert  G,  Mann  B:  Diagnostic  value  of hyperbilirubinemia  as  a  predictive  factor  for appendiceal perforation in acute appendicitis. Am J Surg 2009; 198: 193-198.",
+      "text": "Sand  M,  Bechara  GF,  Holland-Letz  T,  Sand D,  Mehnert  G,  Mann  B:  Diagnostic  value  of hyperbilirubinemia  as  a  predictive  factor  for appendiceal perforation in acute appendicitis. Am J Surg 2009; 198: 193-198.",
+      "enumerated": true,
+      "marker": "13."
+    },
+    {
+      "self_ref": "#/texts/63",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 70.86610000000003,
+            "t": 532.8204146484375,
+            "r": 295.1021,
+            "b": 498.6044475304491,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            156
+          ]
+        }
+      ],
+      "orig": "14.\tKäser SA, Fankhauser G, Willi N, Maurer CA: Creactive  protein  is  superior  to  bilirubin  for anticipation  of  perforation  in  acute  appendicitis.",
+      "text": "Käser SA, Fankhauser G, Willi N, Maurer CA: Creactive  protein  is  superior  to  bilirubin  for anticipation  of  perforation  in  acute  appendicitis.",
+      "enumerated": true,
+      "marker": "14."
+    },
+    {
+      "self_ref": "#/texts/64",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 335.3161,
+            "t": 784.8204146484375,
+            "r": 516.1960999999997,
+            "b": 774.6044475304491,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            40
+          ]
+        }
+      ],
+      "orig": "Scand J Gastroenterol 2010; 45: 885-892.",
+      "text": "Scand J Gastroenterol 2010; 45: 885-892.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/65",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 317.3161,
+            "t": 760.8204146484375,
+            "r": 541.6951000000003,
+            "b": 726.6044475304491,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            127
+          ]
+        }
+      ],
+      "orig": "15. Khan  S:  Elevated  serum  bilirubin  in  acute appendicitis: a new diagnostic tool. Kathmandu Univ Med J 2008; 6: 161-165.",
+      "text": "Khan  S:  Elevated  serum  bilirubin  in  acute appendicitis: a new diagnostic tool. Kathmandu Univ Med J 2008; 6: 161-165.",
+      "enumerated": true,
+      "marker": "15."
+    },
+    {
+      "self_ref": "#/texts/66",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 317.3161,
+            "t": 712.8204146484375,
+            "r": 541.7171000000001,
+            "b": 666.6044475304491,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            157
+          ]
+        }
+      ],
+      "orig": "16.\tEmmanuel A, Murchan P, Wilson I, Balfe P: The value of hyperbilirubinemia in the diagnosis of acute appendicitis. Ann R Coll Surg Engl 2011; 93: 213-217.",
+      "text": "Emmanuel A, Murchan P, Wilson I, Balfe P: The value of hyperbilirubinemia in the diagnosis of acute appendicitis. Ann R Coll Surg Engl 2011; 93: 213-217.",
+      "enumerated": true,
+      "marker": "16."
+    },
+    {
+      "self_ref": "#/texts/67",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 317.3161,
+            "t": 652.8204146484375,
+            "r": 541.7261000000001,
+            "b": 594.6044475304491,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            210
+          ]
+        }
+      ],
+      "orig": "17.\t Hong  YR,  Chung  CW,  Kim  JW,  Kwon  C,  Ahn DO, Kwon SW, et al: Hyperbilirubinemia is a significant  indicator  for  the  severity  of  acute appendicitis. J  Korean  Soc  Coloproctol 2012; 28: 247-252.",
+      "text": " Hong  YR,  Chung  CW,  Kim  JW,  Kwon  C,  Ahn DO, Kwon SW, et al: Hyperbilirubinemia is a significant  indicator  for  the  severity  of  acute appendicitis. J  Korean  Soc  Coloproctol 2012; 28: 247-252.",
+      "enumerated": true,
+      "marker": "17."
+    },
+    {
+      "self_ref": "#/texts/68",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 317.3161,
+            "t": 580.8204146484375,
+            "r": 541.7361,
+            "b": 510.6044475304491,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            224
+          ]
+        }
+      ],
+      "orig": "18. Giordano S, Pääkkönen M, Salminen P, Grönroos JM: Elevated serum bilirubin in assessing the likelihood of perforation in acute appendicitis: A diagnostic meta-analysis. International Journal of Surgery 2013; 11: 795-800.",
+      "text": "Giordano S, Pääkkönen M, Salminen P, Grönroos JM: Elevated serum bilirubin in assessing the likelihood of perforation in acute appendicitis: A diagnostic meta-analysis. International Journal of Surgery 2013; 11: 795-800.",
+      "enumerated": true,
+      "marker": "18."
+    },
+    {
+      "self_ref": "#/texts/69",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 54.3462,
+            "t": 47.77711464843753,
+            "r": 65.8662,
+            "b": 37.12151505288648,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "28",
+      "text": "28"
+    },
+    {
+      "self_ref": "#/texts/70",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 394.0127,
+            "t": 47.73681464843753,
+            "r": 533.7737000000001,
+            "b": 40.006425113553746,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            35
+          ]
+        }
+      ],
+      "orig": "Ain-Shams J Surg 2017; 10 (1):25-28",
+      "text": "Ain-Shams J Surg 2017; 10 (1):25-28"
+    }
+  ],
+  "pictures": [],
+  "tables": [
+    {
+      "self_ref": "#/tables/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/25"
+        }
+      ],
+      "content_layer": "body",
+      "label": "table",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 69.77007334623485,
+            "t": 353.0443320377529,
+            "r": 292.4790533557534,
+            "b": 280.3463708758443,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/25"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "data": {
+        "table_cells": [
+          {
+            "bbox": {
+              "l": 185.37810000000002,
+              "t": 494.7608,
+              "r": 217.57810000000006,
+              "b": 502.86497276995306,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "Number",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 239.4181,
+              "t": 494.7608,
+              "r": 284.89009999999996,
+              "b": 502.86497276995306,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "Percentage",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 91.3141,
+              "t": 515.9368,
+              "r": 103.9549,
+              "b": 524.1095736943907,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 2,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Sex",
+            "column_header": false,
+            "row_header": true,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 144.6901,
+              "t": 508.8808,
+              "r": 161.0981,
+              "b": 517.0535736943907,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Male",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 204.02609999999999,
+              "t": 508.8808,
+              "r": 212.76209999999998,
+              "b": 517.0535736943907,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "84",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 255.4101,
+              "t": 508.8808,
+              "r": 271.96209999999996,
+              "b": 517.0535736943907,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "48%",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 140.30610000000001,
+              "t": 523.0008,
+              "r": 165.4621,
+              "b": 531.1735736943907,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Female",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 204.0181,
+              "t": 523.0008,
+              "r": 212.7541,
+              "b": 531.1735736943907,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "91",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 255.40210000000002,
+              "t": 523.0008,
+              "r": 271.9541,
+              "b": 531.1735736943907,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "52%",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 90.90610000000001,
+              "t": 544.1768,
+              "r": 104.33810000000001,
+              "b": 552.3495736943908,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 2,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Age",
+            "column_header": false,
+            "row_header": true,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 143.3621,
+              "t": 537.1208,
+              "r": 162.4021,
+              "b": 545.2935736943907,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Mean",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 192.2901,
+              "t": 537.1208,
+              "r": 224.49009999999998,
+              "b": 545.2935736943907,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "Minimum",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 246.6501,
+              "t": 537.1208,
+              "r": 280.71410000000003,
+              "b": 545.2935736943907,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "Maximum",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 148.5141,
+              "t": 551.2408,
+              "r": 157.2501,
+              "b": 559.4135736943907,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "84",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 198.47410000000002,
+              "t": 551.2408,
+              "r": 218.2901,
+              "b": 559.4135736943907,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "14.00",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 253.73010000000002,
+              "t": 551.2408,
+              "r": 273.6261,
+              "b": 559.4135736943907,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "62.00",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          }
+        ],
+        "num_rows": 5,
+        "num_cols": 4,
+        "orientation": "rot_0",
+        "grid": [
+          [
+            {
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 185.37810000000002,
+                "t": 494.7608,
+                "r": 217.57810000000006,
+                "b": 502.86497276995306,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "Number",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 239.4181,
+                "t": 494.7608,
+                "r": 284.89009999999996,
+                "b": 502.86497276995306,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "Percentage",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 91.3141,
+                "t": 515.9368,
+                "r": 103.9549,
+                "b": 524.1095736943907,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 2,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Sex",
+              "column_header": false,
+              "row_header": true,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 144.6901,
+                "t": 508.8808,
+                "r": 161.0981,
+                "b": 517.0535736943907,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Male",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 204.02609999999999,
+                "t": 508.8808,
+                "r": 212.76209999999998,
+                "b": 517.0535736943907,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "84",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 255.4101,
+                "t": 508.8808,
+                "r": 271.96209999999996,
+                "b": 517.0535736943907,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "48%",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 91.3141,
+                "t": 515.9368,
+                "r": 103.9549,
+                "b": 524.1095736943907,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 2,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Sex",
+              "column_header": false,
+              "row_header": true,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 140.30610000000001,
+                "t": 523.0008,
+                "r": 165.4621,
+                "b": 531.1735736943907,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Female",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 204.0181,
+                "t": 523.0008,
+                "r": 212.7541,
+                "b": 531.1735736943907,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "91",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 255.40210000000002,
+                "t": 523.0008,
+                "r": 271.9541,
+                "b": 531.1735736943907,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "52%",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 90.90610000000001,
+                "t": 544.1768,
+                "r": 104.33810000000001,
+                "b": 552.3495736943908,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 2,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Age",
+              "column_header": false,
+              "row_header": true,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 143.3621,
+                "t": 537.1208,
+                "r": 162.4021,
+                "b": 545.2935736943907,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Mean",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 192.2901,
+                "t": 537.1208,
+                "r": 224.49009999999998,
+                "b": 545.2935736943907,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "Minimum",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 246.6501,
+                "t": 537.1208,
+                "r": 280.71410000000003,
+                "b": 545.2935736943907,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "Maximum",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 90.90610000000001,
+                "t": 544.1768,
+                "r": 104.33810000000001,
+                "b": 552.3495736943908,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 2,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Age",
+              "column_header": false,
+              "row_header": true,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 148.5141,
+                "t": 551.2408,
+                "r": 157.2501,
+                "b": 559.4135736943907,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "84",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 198.47410000000002,
+                "t": 551.2408,
+                "r": 218.2901,
+                "b": 559.4135736943907,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "14.00",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 253.73010000000002,
+                "t": 551.2408,
+                "r": 273.6261,
+                "b": 559.4135736943907,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "62.00",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ]
+        ]
+      },
+      "annotations": []
+    },
+    {
+      "self_ref": "#/tables/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/29"
+        }
+      ],
+      "content_layer": "body",
+      "label": "table",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 316.6853144817054,
+            "t": 691.8769281815667,
+            "r": 539.3259873688221,
+            "b": 627.8973409820375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/29"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "data": {
+        "table_cells": [
+          {
+            "bbox": {
+              "l": 416.2749,
+              "t": 156.36079999999993,
+              "r": 438.0829,
+              "b": 164.46497276995296,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Mean",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 468.1469,
+              "t": 156.36079999999993,
+              "r": 479.2669,
+              "b": 164.46497276995296,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "SD",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 502.0509,
+              "t": 156.36079999999993,
+              "r": 532.4669,
+              "b": 164.46497276995296,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "P-value",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 321.30690000000004,
+              "t": 170.48079999999993,
+              "r": 386.1949000000001,
+              "b": 188.25357369439075,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Complicated acute appendicitis",
+            "column_header": false,
+            "row_header": true,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 419.4109,
+              "t": 175.2808,
+              "r": 434.9389,
+              "b": 183.4535736943908,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "1.62",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 465.9469,
+              "t": 175.2808,
+              "r": 481.4749,
+              "b": 183.4535736943908,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "0.27",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 509.5869,
+              "t": 187.1368,
+              "r": 524.9205000000002,
+              "b": 195.3095736943908,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "0.77",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 321.30690000000004,
+              "t": 194.19280000000003,
+              "r": 388.6013,
+              "b": 211.96557369439086,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Non-complicated acute appendicitisv",
+            "column_header": false,
+            "row_header": true,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 419.50690000000003,
+              "t": 198.9928000000001,
+              "r": 434.8405,
+              "b": 207.1655736943909,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "0.77",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 465.9469,
+              "t": 198.9928000000001,
+              "r": 481.4749,
+              "b": 207.1655736943909,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "0.15",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          }
+        ],
+        "num_rows": 3,
+        "num_cols": 4,
+        "orientation": "rot_0",
+        "grid": [
+          [
+            {
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 416.2749,
+                "t": 156.36079999999993,
+                "r": 438.0829,
+                "b": 164.46497276995296,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Mean",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 468.1469,
+                "t": 156.36079999999993,
+                "r": 479.2669,
+                "b": 164.46497276995296,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "SD",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 502.0509,
+                "t": 156.36079999999993,
+                "r": 532.4669,
+                "b": 164.46497276995296,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "P-value",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 321.30690000000004,
+                "t": 170.48079999999993,
+                "r": 386.1949000000001,
+                "b": 188.25357369439075,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Complicated acute appendicitis",
+              "column_header": false,
+              "row_header": true,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 419.4109,
+                "t": 175.2808,
+                "r": 434.9389,
+                "b": 183.4535736943908,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "1.62",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 465.9469,
+                "t": 175.2808,
+                "r": 481.4749,
+                "b": 183.4535736943908,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "0.27",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 509.5869,
+                "t": 187.1368,
+                "r": 524.9205000000002,
+                "b": 195.3095736943908,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "0.77",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 321.30690000000004,
+                "t": 194.19280000000003,
+                "r": 388.6013,
+                "b": 211.96557369439086,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Non-complicated acute appendicitisv",
+              "column_header": false,
+              "row_header": true,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 419.50690000000003,
+                "t": 198.9928000000001,
+                "r": 434.8405,
+                "b": 207.1655736943909,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "0.77",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 465.9469,
+                "t": 198.9928000000001,
+                "r": 481.4749,
+                "b": 207.1655736943909,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "0.15",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ]
+        ]
+      },
+      "annotations": []
+    }
+  ],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 595.2760009765625,
+        "height": 841.8900146484375
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 595.2760009765625,
+        "height": 841.8900146484375
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 595.2760009765625,
+        "height": 841.8900146484375
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 595.2760009765625,
+        "height": 841.8900146484375
+      },
+      "page_no": 4
+    }
+  }
+}

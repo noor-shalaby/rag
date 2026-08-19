@@ -1,0 +1,6199 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "paper3",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 16155002568856138466,
+    "filename": "paper3"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/28"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/30"
+      },
+      {
+        "$ref": "#/texts/31"
+      },
+      {
+        "$ref": "#/texts/32"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/texts/34"
+      },
+      {
+        "$ref": "#/pictures/3"
+      },
+      {
+        "$ref": "#/texts/36"
+      },
+      {
+        "$ref": "#/pictures/4"
+      },
+      {
+        "$ref": "#/texts/38"
+      },
+      {
+        "$ref": "#/texts/39"
+      },
+      {
+        "$ref": "#/texts/40"
+      },
+      {
+        "$ref": "#/texts/41"
+      },
+      {
+        "$ref": "#/texts/42"
+      },
+      {
+        "$ref": "#/texts/43"
+      },
+      {
+        "$ref": "#/texts/44"
+      },
+      {
+        "$ref": "#/texts/45"
+      },
+      {
+        "$ref": "#/texts/46"
+      },
+      {
+        "$ref": "#/tables/0"
+      },
+      {
+        "$ref": "#/texts/48"
+      },
+      {
+        "$ref": "#/texts/49"
+      },
+      {
+        "$ref": "#/texts/50"
+      },
+      {
+        "$ref": "#/texts/51"
+      },
+      {
+        "$ref": "#/texts/52"
+      },
+      {
+        "$ref": "#/texts/53"
+      },
+      {
+        "$ref": "#/texts/54"
+      },
+      {
+        "$ref": "#/texts/55"
+      },
+      {
+        "$ref": "#/texts/56"
+      },
+      {
+        "$ref": "#/tables/1"
+      },
+      {
+        "$ref": "#/texts/58"
+      },
+      {
+        "$ref": "#/tables/2"
+      },
+      {
+        "$ref": "#/texts/60"
+      },
+      {
+        "$ref": "#/tables/3"
+      },
+      {
+        "$ref": "#/texts/62"
+      },
+      {
+        "$ref": "#/texts/63"
+      },
+      {
+        "$ref": "#/texts/64"
+      },
+      {
+        "$ref": "#/texts/65"
+      },
+      {
+        "$ref": "#/texts/66"
+      },
+      {
+        "$ref": "#/texts/67"
+      },
+      {
+        "$ref": "#/texts/68"
+      },
+      {
+        "$ref": "#/texts/69"
+      },
+      {
+        "$ref": "#/texts/70"
+      },
+      {
+        "$ref": "#/texts/71"
+      },
+      {
+        "$ref": "#/texts/72"
+      },
+      {
+        "$ref": "#/texts/73"
+      },
+      {
+        "$ref": "#/texts/74"
+      },
+      {
+        "$ref": "#/texts/75"
+      },
+      {
+        "$ref": "#/texts/76"
+      },
+      {
+        "$ref": "#/texts/77"
+      },
+      {
+        "$ref": "#/texts/78"
+      },
+      {
+        "$ref": "#/texts/79"
+      },
+      {
+        "$ref": "#/texts/80"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/85"
+      },
+      {
+        "$ref": "#/texts/86"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/texts/93"
+      },
+      {
+        "$ref": "#/texts/94"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/1"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/81"
+        },
+        {
+          "$ref": "#/texts/82"
+        },
+        {
+          "$ref": "#/texts/83"
+        },
+        {
+          "$ref": "#/texts/84"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/87"
+        },
+        {
+          "$ref": "#/texts/88"
+        },
+        {
+          "$ref": "#/texts/89"
+        },
+        {
+          "$ref": "#/texts/90"
+        },
+        {
+          "$ref": "#/texts/91"
+        },
+        {
+          "$ref": "#/texts/92"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 69.33333333333333,
+            "t": 782.0,
+            "r": 525.6666666666667,
+            "b": 747.6666666666666,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            96
+          ]
+        }
+      ],
+      "orig": "Laparoscopic management of perforated peptic ulcer using combined suturing and fibrin glue patch",
+      "text": "Laparoscopic management of perforated peptic ulcer using combined suturing and fibrin glue patch",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 83.0,
+            "t": 730.3333333333334,
+            "r": 511.3333333333333,
+            "b": 700.3333333333333,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            117
+          ]
+        }
+      ],
+      "orig": "Magdy Bassiouny, MD; Ahmed H Abdelhafez, MD; Salah M Raslan, MD; Ashraf Hegab, MD; Mohammed Saif, MD; Gamal Fawzy, MD",
+      "text": "Magdy Bassiouny, MD; Ahmed H Abdelhafez, MD; Salah M Raslan, MD; Ashraf Hegab, MD; Mohammed Saif, MD; Gamal Fawzy, MD"
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 193.66666666666666,
+            "t": 683.0,
+            "r": 399.3333333333333,
+            "b": 667.6666666666667,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            35
+          ]
+        }
+      ],
+      "orig": "Ain Shams University, Cairo, Egypt.",
+      "text": "Ain Shams University, Cairo, Egypt."
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 274.0,
+            "t": 651.3333333333334,
+            "r": 322.0,
+            "b": 639.3333333333334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Abstract",
+      "text": "Abstract",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 68.0,
+            "t": 637.6666666666666,
+            "r": 526.0,
+            "b": 596.3333333333334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            273
+          ]
+        }
+      ],
+      "orig": "Background: Duodenal perforation is a common complication of duodenal ulcer. Treatment for perforated peptic ulcer can be performed by laparoscopy in 85% of cases, making it possible to avoid a median laparotomy which can lead to wound infection and late incisional hernia.",
+      "text": "Background: Duodenal perforation is a common complication of duodenal ulcer. Treatment for perforated peptic ulcer can be performed by laparoscopy in 85% of cases, making it possible to avoid a median laparotomy which can lead to wound infection and late incisional hernia."
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 69.33333333333333,
+            "t": 595.6666666666666,
+            "r": 526.3333333333333,
+            "b": 456.3333333333333,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            811
+          ]
+        }
+      ],
+      "orig": "Methods: Twenty-four patients with perforated peptic ulcer were planned to be treated laproscopically, three of whom were excluded from the study (one patient with previous upper abdominal operations, one with bleeding peptic ulcer and the third one had evidence of gastric outlet obstruction).The study started from January 2009 till December 2010. Five patients were operated in Ain Shams University hospitals (Egypt) and sixteen patients were operated upon in Kingdom of Saudi Arabia. Mean age was (38.1±10.3), diagnosis of perforated peptic ulcer was reached usual by clinical examination, laboratory investigations, plain X-ray chest, abdomen and abdominal U/S. One case was misdiagnosed originally as acute appendicitis. All operations we swers u-e  uofrd  u :e  fd wuena application of fibrin glue patch.",
+      "text": "Methods: Twenty-four patients with perforated peptic ulcer were planned to be treated laproscopically, three of whom were excluded from the study (one patient with previous upper abdominal operations, one with bleeding peptic ulcer and the third one had evidence of gastric outlet obstruction).The study started from January 2009 till December 2010. Five patients were operated in Ain Shams University hospitals (Egypt) and sixteen patients were operated upon in Kingdom of Saudi Arabia. Mean age was (38.1±10.3), diagnosis of perforated peptic ulcer was reached usual by clinical examination, laboratory investigations, plain X-ray chest, abdomen and abdominal U/S. One case was misdiagnosed originally as acute appendicitis. All operations we swers u-e  uofrd  u :e  fd wuena application of fibrin glue patch."
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 69.0,
+            "t": 455.3333333333333,
+            "r": 525.6666666666667,
+            "b": 386.6666666666667,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            391
+          ]
+        }
+      ],
+      "orig": "Results: Mean operating time was 65 minutes. All procedures included suturing of the perforation with application of fibrin glue patch with peritoneal toilet and suction drain. Mean hospital stay was 3.5days. All patients had no serious postoperative complications apart from three patients, two of them developed chest infection and the third patient had postoperative leak and peritonitis.",
+      "text": "Results: Mean operating time was 65 minutes. All procedures included suturing of the perforation with application of fibrin glue patch with peritoneal toilet and suction drain. Mean hospital stay was 3.5days. All patients had no serious postoperative complications apart from three patients, two of them developed chest infection and the third patient had postoperative leak and peritonitis."
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 70.0,
+            "t": 385.3333333333333,
+            "r": 525.3333333333333,
+            "b": 359.6666666666667,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            107
+          ]
+        }
+      ],
+      "orig": "Conclusion: Laparoscopic closure of peptic ulcer is safe with short hospital stay and early return to work.",
+      "text": "Conclusion: Laparoscopic closure of peptic ulcer is safe with short hospital stay and early return to work."
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 83.33333333333333,
+            "t": 358.3333333333333,
+            "r": 434.3333333333333,
+            "b": 343.3333333333333,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            72
+          ]
+        }
+      ],
+      "orig": "Key words: Peptic ulcer, perforation, fibrin glue patch and laparoscopy.",
+      "text": "Key words: Peptic ulcer, perforation, fibrin glue patch and laparoscopy."
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 70.0,
+            "t": 291.0,
+            "r": 140.66666666666669,
+            "b": 279.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "Introduction:",
+      "text": "Introduction:",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 69.0,
+            "t": 277.0,
+            "r": 289.66666666666663,
+            "b": 194.33333333333337,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            257
+          ]
+        }
+      ],
+      "orig": "Perforated peptic ulcer is mainly a disease of young men but because of increasing smoking in women and use of NSAID in all age groups, nowadays it is common in all adult population. Up to 80% of perforated duodenal ulcers are Helicobacter pylori positive.1",
+      "text": "Perforated peptic ulcer is mainly a disease of young men but because of increasing smoking in women and use of NSAID in all age groups, nowadays it is common in all adult population. Up to 80% of perforated duodenal ulcers are Helicobacter pylori positive.1"
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 69.33333333333333,
+            "t": 193.0,
+            "r": 290.0,
+            "b": 68.33333333333337,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            407
+          ]
+        },
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 305.66666666666663,
+            "t": 291.33333333333337,
+            "r": 527.0,
+            "b": 166.33333333333337,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            408,
+            807
+          ]
+        }
+      ],
+      "orig": "The treatment of peptic ulcer disease (PUD) that involves duodenal bulb and prepyloric ulcers continue to evolve because of recent advances in pharmacology, bacteriology, and operative techniques. The first major change occurred after the introduction of H2-receptor antagonists for gastric acid suppression in the 1970s, followed by proton pump inhibitors in the late 1980s. In addition, the discovery that Helicobacter pylori is present in 75-85% of these patients revolutionized the pathophysiologic understanding of peptic ulcer disease.2 Since the first description of surgery for acute perforated peptic ulcer disease, many techniques have been recommended like hand suturing the edges of the wound, stapling, omental patch and closing the perforations with fibrin sealant and gelatine plug products.3",
+      "text": "The treatment of peptic ulcer disease (PUD) that involves duodenal bulb and prepyloric ulcers continue to evolve because of recent advances in pharmacology, bacteriology, and operative techniques. The first major change occurred after the introduction of H2-receptor antagonists for gastric acid suppression in the 1970s, followed by proton pump inhibitors in the late 1980s. In addition, the discovery that Helicobacter pylori is present in 75-85% of these patients revolutionized the pathophysiologic understanding of peptic ulcer disease.2 Since the first description of surgery for acute perforated peptic ulcer disease, many techniques have been recommended like hand suturing the edges of the wound, stapling, omental patch and closing the perforations with fibrin sealant and gelatine plug products.3"
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 305.0,
+            "t": 165.33333333333337,
+            "r": 527.0,
+            "b": 67.66666666666663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            270
+          ]
+        }
+      ],
+      "orig": "Laparoscopic surgery has revolutionized the practice of cholecystectomy and has led to the development of a wide range of laparoscopic surgical procedures. Progress currently can be said to include this minimally invasive surgical procedure for perforated peptic ulcer.4",
+      "text": "Laparoscopic surgery has revolutionized the practice of cholecystectomy and has led to the development of a wide range of laparoscopic surgical procedures. Progress currently can be said to include this minimally invasive surgical procedure for perforated peptic ulcer.4"
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 67.66666666666667,
+            "t": 44.0,
+            "r": 221.33333333333334,
+            "b": 29.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            36
+          ]
+        }
+      ],
+      "orig": "Ain-Shams J Surg 2 2012; 5(1):99-106",
+      "text": "Ain-Shams J Surg 2 2012; 5(1):99-106"
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 524.3333333333334,
+            "t": 44.33333333333337,
+            "r": 542.6666666666666,
+            "b": 31.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "99",
+      "text": "99"
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 68.66666666666667,
+            "t": 782.0,
+            "r": 289.33333333333337,
+            "b": 657.6666666666666,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            367
+          ]
+        }
+      ],
+      "orig": "Treatment for perforated ulcer can be performed laparoscopically in 85% of cases, making it possible to avoid a median laparotomy which can lead to wound infection and late incisional hernia. Laparoscopic repair of duodenal perforation with combined suturing and fibrin glue is a useful method for reducing hospital stay, complications and return to normal activity.1",
+      "text": "Treatment for perforated ulcer can be performed laparoscopically in 85% of cases, making it possible to avoid a median laparotomy which can lead to wound infection and late incisional hernia. Laparoscopic repair of duodenal perforation with combined suturing and fibrin glue is a useful method for reducing hospital stay, complications and return to normal activity.1"
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 69.66666666666667,
+            "t": 641.6666666666666,
+            "r": 185.66666666666669,
+            "b": 630.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            21
+          ]
+        }
+      ],
+      "orig": "Patients and methods:",
+      "text": "Patients and methods:",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 68.66666666666667,
+            "t": 628.3333333333334,
+            "r": 290.0,
+            "b": 517.6666666666667,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            309
+          ]
+        }
+      ],
+      "orig": "Twenty-one patients treated with laparoscopic suturing of perforated peptic ulcer with fibrin glue patch over it . The study started from January 2009 till December 2010. Five patients were operated on in Ain Shams University hospitals (Egypt) and sixteen patients were operated on in Kingdom of Saudi Arabia.",
+      "text": "Twenty-one patients treated with laparoscopic suturing of perforated peptic ulcer with fibrin glue patch over it . The study started from January 2009 till December 2010. Five patients were operated on in Ain Shams University hospitals (Egypt) and sixteen patients were operated on in Kingdom of Saudi Arabia."
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 70.0,
+            "t": 501.3333333333333,
+            "r": 180.33333333333331,
+            "b": 489.3333333333333,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "Operative technique:",
+      "text": "Operative technique:",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 69.0,
+            "t": 488.0,
+            "r": 289.33333333333337,
+            "b": 405.3333333333333,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            264
+          ]
+        }
+      ],
+      "orig": "The patient is placed in supine position with legs straight. The patient position is changed several times during the procedure: in steep anti-Trendelenburg position during suturing and in the right lateral position and head down position during peritoneal lavage.",
+      "text": "The patient is placed in supine position with legs straight. The patient position is changed several times during the procedure: in steep anti-Trendelenburg position during suturing and in the right lateral position and head down position during peritoneal lavage."
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 69.0,
+            "t": 404.3333333333333,
+            "r": 289.33333333333337,
+            "b": 321.66666666666674,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            223
+          ]
+        }
+      ],
+      "orig": "Endotracheal anaesthesia is generally used. Close anaesthetic monitoring must be done for such a patient and intravenous antibiotic therapy should be given before induction. An H2 recn unr oot  o nt ntor injection was used.",
+      "text": "Endotracheal anaesthesia is generally used. Close anaesthetic monitoring must be done for such a patient and intravenous antibiotic therapy should be given before induction. An H2 recn unr oot  o nt ntor injection was used."
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 68.66666666666667,
+            "t": 320.66666666666674,
+            "r": 289.33333333333337,
+            "b": 251.33333333333337,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            192
+          ]
+        }
+      ],
+      "orig": "The surgical team stands as for laparoscopic cholecystectomy. The surgeon stands on the patient's left side and the assistant to the patient's right. The camera man on the surgeon's left side.",
+      "text": "The surgical team stands as for laparoscopic cholecystectomy. The surgeon stands on the patient's left side and the assistant to the patient's right. The camera man on the surgeon's left side."
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 68.66666666666667,
+            "t": 249.33333333333337,
+            "r": 289.66666666666663,
+            "b": 194.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            143
+          ]
+        }
+      ],
+      "orig": "The laparoscopic unit is placed on the patient's right side toward the shoulder. The instrument table is placed beside the patient's right leg.",
+      "text": "The laparoscopic unit is placed on the patient's right side toward the shoulder. The instrument table is placed beside the patient's right leg."
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 305.33333333333337,
+            "t": 782.3333333333334,
+            "r": 526.3333333333333,
+            "b": 516.6666666666667,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            837
+          ]
+        }
+      ],
+      "orig": "Four trocars have been used. An optical trocar of 10 mm is introduced in the periumbilical region. One trocar of 5 mm is placed in the inferior aspect of the right hypochondrium on the anterior axillary line for liver retraction with a traumatic grasper. A 10 mm trocar is placed in the epigastrium for the needle holder. A fourth trocar of 5 mm is placed at the level of the umbilicus in the midclavicular line. The instruments are similar to those used in most laparoscopic procedures. A 0° laparoscope is commonly used, but a 30° laparoscope may be useful to see better a perforated ulcer placed on the superior surface of the duodenum. The other instruments necessary for this operation are: 2 atraumatic graspers, needle holder, suction-irrigation device, and scissors. A liver retractor was used in some cases instead of a grasper.",
+      "text": "Four trocars have been used. An optical trocar of 10 mm is introduced in the periumbilical region. One trocar of 5 mm is placed in the inferior aspect of the right hypochondrium on the anterior axillary line for liver retraction with a traumatic grasper. A 10 mm trocar is placed in the epigastrium for the needle holder. A fourth trocar of 5 mm is placed at the level of the umbilicus in the midclavicular line. The instruments are similar to those used in most laparoscopic procedures. A 0° laparoscope is commonly used, but a 30° laparoscope may be useful to see better a perforated ulcer placed on the superior surface of the duodenum. The other instruments necessary for this operation are: 2 atraumatic graspers, needle holder, suction-irrigation device, and scissors. A liver retractor was used in some cases instead of a grasper."
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 304.33333333333337,
+            "t": 516.3333333333333,
+            "r": 526.6666666666667,
+            "b": 195.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1006
+          ]
+        }
+      ],
+      "orig": "The Veress needle technique was used. The abdomen was entered through a small incision just above the umbilicus. A CO2 intraabdominal pressure between 12 and 14 mmHg was used. The scope was inserted through the 10 mm trocar placed in the supra-umbilical position. Once the diagnosis was confirmed the other three ports were placed as mentioned above. Bacteriological samples were taken and sent immediately to the laboratory. The abdomen was explored to identify the perforation and to assess the magnitude of peritonitis. The gallbladder, which usually adheres to the perforation was retracted by the surgeon's left instrument and moved upwards. The gallbladder was passed to the assistant using the instrument placed in the inferior aspect of the right hypochondrium on the anterior axillary line. Once the liver was retracted, the exposed area was carefully checked and the perforation was usually clearly identified as a small hole on the anterior aspect of the first portion of the duodenum Figure(1).",
+      "text": "The Veress needle technique was used. The abdomen was entered through a small incision just above the umbilicus. A CO2 intraabdominal pressure between 12 and 14 mmHg was used. The scope was inserted through the 10 mm trocar placed in the supra-umbilical position. Once the diagnosis was confirmed the other three ports were placed as mentioned above. Bacteriological samples were taken and sent immediately to the laboratory. The abdomen was explored to identify the perforation and to assess the magnitude of peritonitis. The gallbladder, which usually adheres to the perforation was retracted by the surgeon's left instrument and moved upwards. The gallbladder was passed to the assistant using the instrument placed in the inferior aspect of the right hypochondrium on the anterior axillary line. Once the liver was retracted, the exposed area was carefully checked and the perforation was usually clearly identified as a small hole on the anterior aspect of the first portion of the duodenum Figure(1)."
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 48.0,
+            "t": 44.33333333333337,
+            "r": 70.33333333333333,
+            "b": 30.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "100",
+      "text": "100"
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 374.0,
+            "t": 45.33333333333337,
+            "r": 527.3333333333334,
+            "b": 28.66666666666663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            36
+          ]
+        }
+      ],
+      "orig": "Ain-Shams J Surg 2 2012; 5(1):99-106",
+      "text": "Ain-Shams J Surg 2 2012; 5(1):99-106"
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 101.66666666666666,
+            "t": 571.0,
+            "r": 473.6666666666667,
+            "b": 556.6666666666666,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            75
+          ]
+        }
+      ],
+      "orig": "Figure (1): Perforated duodenal peptic ulcer identified through laparoscopy",
+      "text": "Figure (1): Perforated duodenal peptic ulcer identified through laparoscopy"
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 68.66666666666667,
+            "t": 546.6666666666666,
+            "r": 289.66666666666663,
+            "b": 449.6666666666667,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            293
+          ]
+        },
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 305.0,
+            "t": 546.3333333333334,
+            "r": 526.3333333333333,
+            "b": 478.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            294,
+            504
+          ]
+        },
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 305.66666666666663,
+            "t": 476.3333333333333,
+            "r": 359.6666666666667,
+            "b": 463.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            505,
+            515
+          ]
+        }
+      ],
+      "orig": "Next step was peritoneal toilet. The subhepatic and subphrenic spaces were irrigated and aspirated with warm saline solution. Fibrinous membranes were removed as much as possible. Once the abdominal cavity was clean the attention was returned to the perforation. Biopsy of a duodenal ulcer was not necessary. However, for a prepyloric ulcer, samples of the gastric wall at the level of the perforation were taken and sent for histological examination. Suturing was done with 2/0 or 3/0 absorbable sutures Figure(2).",
+      "text": "Next step was peritoneal toilet. The subhepatic and subphrenic spaces were irrigated and aspirated with warm saline solution. Fibrinous membranes were removed as much as possible. Once the abdominal cavity was clean the attention was returned to the perforation. Biopsy of a duodenal ulcer was not necessary. However, for a prepyloric ulcer, samples of the gastric wall at the level of the perforation were taken and sent for histological examination. Suturing was done with 2/0 or 3/0 absorbable sutures Figure(2)."
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 150.0,
+            "t": 225.66666666666663,
+            "r": 442.3333333333333,
+            "b": 211.66666666666663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            61
+          ]
+        }
+      ],
+      "orig": "Figure (2): Suture of the perforation using standard stitches",
+      "text": "Figure (2): Suture of the perforation using standard stitches"
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 68.66666666666667,
+            "t": 201.0,
+            "r": 289.66666666666663,
+            "b": 146.33333333333337,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            178
+          ]
+        },
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 305.66666666666663,
+            "t": 201.33333333333337,
+            "r": 526.0,
+            "b": 160.33333333333337,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            179,
+            298
+          ]
+        }
+      ],
+      "orig": "Interrupted sutures were used and usually two or three stitches were placed in a transversal manner over the perforation, focused on the pyloroduodenal axis in case of a duodenal ulcer. Once the perforation was sealed, a small sheet of fibrin glue patch was fixed over the suture line. Figure(3)A,B",
+      "text": "Interrupted sutures were used and usually two or three stitches were placed in a transversal manner over the perforation, focused on the pyloroduodenal axis in case of a duodenal ulcer. Once the perforation was sealed, a small sheet of fibrin glue patch was fixed over the suture line. Figure(3)A,B"
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 67.66666666666667,
+            "t": 44.0,
+            "r": 221.33333333333334,
+            "b": 29.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            36
+          ]
+        }
+      ],
+      "orig": "Ain-Shams J Surg 2 2012; 5(1):99-106",
+      "text": "Ain-Shams J Surg 2 2012; 5(1):99-106"
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 525.3333333333334,
+            "t": 44.33333333333337,
+            "r": 547.6666666666666,
+            "b": 30.33333333333337,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "101",
+      "text": "101"
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 69.33333333333333,
+            "t": 597.0,
+            "r": 294.0,
+            "b": 570.6666666666666,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            85
+          ]
+        }
+      ],
+      "orig": "Figure (3)A: Fixation of the fibrin glue over the site of perforation after suturing.",
+      "text": "Figure (3)A: Fixation of the fibrin glue over the site of perforation after suturing."
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 69.0,
+            "t": 552.3333333333334,
+            "r": 289.33333333333337,
+            "b": 497.3333333333333,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            166
+          ]
+        }
+      ],
+      "orig": "The peritoneal lavage was continued after suturing. Warm saline solution was used until the returned liquid was clear. About four litres of saline are generally used.",
+      "text": "The peritoneal lavage was continued after suturing. Warm saline solution was used until the returned liquid was clear. About four litres of saline are generally used."
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 312.66666666666663,
+            "t": 596.6666666666666,
+            "r": 500.6666666666667,
+            "b": 583.6666666666666,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            40
+          ]
+        }
+      ],
+      "orig": "Figure (3)B: Fibrin glue after fixation.",
+      "text": "Figure (3)B: Fibrin glue after fixation."
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 305.33333333333337,
+            "t": 552.3333333333334,
+            "r": 526.0,
+            "b": 497.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            182
+          ]
+        }
+      ],
+      "orig": "Routine drainage of the peritoneal cavity was performed using suction drain (18 French) in the subhepatic region coming out via the trocar site situated on the right flank Figure(4).",
+      "text": "Routine drainage of the peritoneal cavity was performed using suction drain (18 French) in the subhepatic region coming out via the trocar site situated on the right flank Figure(4)."
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 141.66666666666666,
+            "t": 264.66666666666663,
+            "r": 452.3333333333333,
+            "b": 249.33333333333337,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            63
+          ]
+        }
+      ],
+      "orig": "Figure (4): 18 French suction drain placed in subhepatic space.",
+      "text": "Figure (4): 18 French suction drain placed in subhepatic space."
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 69.33333333333333,
+            "t": 231.33333333333337,
+            "r": 290.0,
+            "b": 133.33333333333337,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            315
+          ]
+        }
+      ],
+      "orig": "Finally the trocars were removed one after the other and haemostasis of the trocar sites was checked. The scope was removed leaving the gas valve of umbilical port open to let out all the gas. The anterior rectus sheath was closed at the site of the 10 mm trocar sites. The skin was closed using staples or sutures.",
+      "text": "Finally the trocars were removed one after the other and haemostasis of the trocar sites was checked. The scope was removed leaving the gas valve of umbilical port open to let out all the gas. The anterior rectus sheath was closed at the site of the 10 mm trocar sites. The skin was closed using staples or sutures."
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 70.33333333333333,
+            "t": 117.66666666666663,
+            "r": 153.0,
+            "b": 106.66666666666663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "Product details:",
+      "text": "Product details:",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 69.0,
+            "t": 104.0,
+            "r": 289.0,
+            "b": 63.33333333333337,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            142
+          ]
+        },
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 305.66666666666663,
+            "t": 230.33333333333337,
+            "r": 526.0,
+            "b": 147.66666666666663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            143,
+            387
+          ]
+        }
+      ],
+      "orig": "Fibrin glue patch is a ready-to-use surgical patch that allows haemostasis and tissue sealing to be achieved quickly and easily. It is a fixed combination of a patch sponge coated with a dry layer of the human coagulation factors fibrinogen and thrombin. It achieves haemostasis and sealing in 3-5 minutes and has several distinct advantages compared with current supportive techniques.5",
+      "text": "Fibrin glue patch is a ready-to-use surgical patch that allows haemostasis and tissue sealing to be achieved quickly and easily. It is a fixed combination of a patch sponge coated with a dry layer of the human coagulation factors fibrinogen and thrombin. It achieves haemostasis and sealing in 3-5 minutes and has several distinct advantages compared with current supportive techniques.5"
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 305.66666666666663,
+            "t": 146.66666666666663,
+            "r": 525.6666666666667,
+            "b": 77.33333333333337,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            214
+          ]
+        }
+      ],
+      "orig": "Fibrin glue patch has strong adhesive properties in all body fluids, creating an airand liquid-tight seal. It is truly ready-to-use as it needs no preparation, no reconditioning and no thawing prior to application.",
+      "text": "Fibrin glue patch has strong adhesive properties in all body fluids, creating an airand liquid-tight seal. It is truly ready-to-use as it needs no preparation, no reconditioning and no thawing prior to application."
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 320.3333333333333,
+            "t": 76.0,
+            "r": 525.3333333333333,
+            "b": 63.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            45
+          ]
+        },
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 69.0,
+            "t": 782.3333333333334,
+            "r": 290.0,
+            "b": 700.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            46,
+            326
+          ]
+        }
+      ],
+      "orig": "It is physiologically extensible and pliable, allowing it to follow the movement of organs freely and easily.5 It is enzymatically degraded and safely absorbed by the body within twelve weeks of application. It can be applied in surgical areas that are difficult to access.6 It allows compression to be applied to the tissue.6",
+      "text": "It is physiologically extensible and pliable, allowing it to follow the movement of organs freely and easily.5 It is enzymatically degraded and safely absorbed by the body within twelve weeks of application. It can be applied in surgical areas that are difficult to access.6 It allows compression to be applied to the tissue.6"
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 47.333333333333336,
+            "t": 44.33333333333337,
+            "r": 71.33333333333333,
+            "b": 29.66666666666663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "102",
+      "text": "102"
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 373.6666666666667,
+            "t": 44.0,
+            "r": 527.3333333333334,
+            "b": 29.33333333333337,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            36
+          ]
+        }
+      ],
+      "orig": "Ain-Shams J Surg 2 2012; 5(1):99-106",
+      "text": "Ain-Shams J Surg 2 2012; 5(1):99-106"
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 69.66666666666667,
+            "t": 684.0,
+            "r": 214.33333333333334,
+            "b": 672.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            25
+          ]
+        }
+      ],
+      "orig": "Postoperative management:",
+      "text": "Postoperative management:",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 68.66666666666667,
+            "t": 670.0,
+            "r": 290.33333333333337,
+            "b": 490.6666666666667,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            580
+          ]
+        },
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 305.33333333333337,
+            "t": 782.6666666666666,
+            "r": 525.6666666666667,
+            "b": 755.6666666666666,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            581,
+            647
+          ]
+        }
+      ],
+      "orig": "Intravenous H2 receptor antagonists or proton pump inhibitors (PPIs) are given intravenously and then orally once oral feeding is started after assurance of bowel movement. Intravenous antibiotic therapy is maintained depending on the severity of the peritonitis and at least until a culture of the peritoneal fluid taken during the procedure is obtained. The aims of antibiotic therapy are to combat peritonitis and Helicobacter pylori. The nasogastric tube is removed once peristalsis resumes. Food intake is then restored. Drains are removed once the effluent is less than 50ml per day. Patients are usually discharged 3-4 days after operation.",
+      "text": "Intravenous H2 receptor antagonists or proton pump inhibitors (PPIs) are given intravenously and then orally once oral feeding is started after assurance of bowel movement. Intravenous antibiotic therapy is maintained depending on the severity of the peritonitis and at least until a culture of the peritoneal fluid taken during the procedure is obtained. The aims of antibiotic therapy are to combat peritonitis and Helicobacter pylori. The nasogastric tube is removed once peristalsis resumes. Food intake is then restored. Drains are removed once the effluent is less than 50ml per day. Patients are usually discharged 3-4 days after operation."
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/tables/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 70.33333333333333,
+            "t": 449.6666666666667,
+            "r": 228.0,
+            "b": 437.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            33
+          ]
+        }
+      ],
+      "orig": "Table (1):Perioperative criteria.",
+      "text": "Table (1):Perioperative criteria."
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 306.0,
+            "t": 754.6666666666666,
+            "r": 526.0,
+            "b": 728.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            79
+          ]
+        }
+      ],
+      "orig": "Upper gastroduodenoscopy is performed usually 4 to 6 weeks after the operation.",
+      "text": "Upper gastroduodenoscopy is performed usually 4 to 6 weeks after the operation."
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 306.0,
+            "t": 712.6666666666667,
+            "r": 408.6666666666667,
+            "b": 700.3333333333333,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            21
+          ]
+        }
+      ],
+      "orig": "Statistical Analysis:",
+      "text": "Statistical Analysis:",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 305.0,
+            "t": 698.3333333333333,
+            "r": 526.3333333333333,
+            "b": 588.3333333333334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            326
+          ]
+        }
+      ],
+      "orig": "Data were collected on standard forms and were prospectively entered into a computer database. Preoperative data comprised characteristics of the patients, history, physical examination findings, laboratory and imaging tests and intra-operative criteria and postoperative period data and return to full activity were included.",
+      "text": "Data were collected on standard forms and were prospectively entered into a computer database. Preoperative data comprised characteristics of the patients, history, physical examination findings, laboratory and imaging tests and intra-operative criteria and postoperative period data and return to full activity were included."
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 305.33333333333337,
+            "t": 573.0,
+            "r": 349.6666666666667,
+            "b": 560.6666666666666,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Results:",
+      "text": "Results:",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 306.0,
+            "t": 558.6666666666666,
+            "r": 526.3333333333333,
+            "b": 503.6666666666667,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            166
+          ]
+        }
+      ],
+      "orig": "From January2009 till December 2010, twenty-one patients with a preoperative diagnosis of perforated peptic ulcer treated laproscopically were entered final analysis.",
+      "text": "From January2009 till December 2010, twenty-one patients with a preoperative diagnosis of perforated peptic ulcer treated laproscopically were entered final analysis."
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 67.66666666666667,
+            "t": 44.0,
+            "r": 221.33333333333334,
+            "b": 29.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            36
+          ]
+        }
+      ],
+      "orig": "Ain-Shams J Surg 2 2012; 5(1):99-106",
+      "text": "Ain-Shams J Surg 2 2012; 5(1):99-106"
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 524.6666666666666,
+            "t": 44.66666666666663,
+            "r": 549.0,
+            "b": 30.66666666666663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "103",
+      "text": "103"
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 69.51718711853027,
+            "t": 783.2308470408121,
+            "r": 289.4828084309896,
+            "b": 755.8538309733073,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            80
+          ]
+        }
+      ],
+      "orig": "The preoperative characteristics including the demographic data of the patients:",
+      "text": "The preoperative characteristics including the demographic data of the patients:"
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 68.40625,
+            "t": 754.7439524332682,
+            "r": 289.4828084309896,
+            "b": 643.0161336263021,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            338
+          ]
+        }
+      ],
+      "orig": "Mean age was (38.1±10.3) and sex distribution was eighteen males (85.7%) & three females (14.3%). Data of patient's presentation such as shock on admission was one case (0.48%), and two cases presented with epigastric pain duration longer than 24 hours(0.95%), and five patients were admitted with previous history of peptic ulcer disease",
+      "text": "Mean age was (38.1±10.3) and sex distribution was eighteen males (85.7%) & three females (14.3%). Data of patient's presentation such as shock on admission was one case (0.48%), and two cases presented with epigastric pain duration longer than 24 hours(0.95%), and five patients were admitted with previous history of peptic ulcer disease"
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/tables/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 69.8874994913737,
+            "t": 630.8074645996094,
+            "r": 252.8218790690104,
+            "b": 616.3790283203125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            39
+          ]
+        }
+      ],
+      "orig": "Table (2):Statistics of operative data.",
+      "text": "Table (2):Statistics of operative data."
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 68.77656237284343,
+            "t": 477.27419026692706,
+            "r": 289.4828084309896,
+            "b": 421.0403238932292,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            175
+          ]
+        }
+      ],
+      "orig": "The mean operative time of laproscopic repair of perforated peptic ulcer ranged from 35 to 60 minutes (45±15.4). According to the sites and sizes of ulcer perforations were as",
+      "text": "The mean operative time of laproscopic repair of perforated peptic ulcer ranged from 35 to 60 minutes (45±15.4). According to the sites and sizes of ulcer perforations were as"
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/tables/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 70.2578125,
+            "t": 406.9818522135417,
+            "r": 216.90156046549478,
+            "b": 393.663330078125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            30
+          ]
+        }
+      ],
+      "orig": "Table (3): Postoperative data.",
+      "text": "Table (3): Postoperative data."
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 68.40625,
+            "t": 235.320556640625,
+            "r": 290.59375,
+            "b": 151.70967610677087,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            275
+          ]
+        },
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 305.03592936197913,
+            "t": 234.58064778645837,
+            "r": 525.7421875,
+            "b": 165.76814778645837,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            276,
+            488
+          ]
+        }
+      ],
+      "orig": "The characteristics of patient's postoperative data showed that patients required significantly less parenteral analgesics, lower visual analogue pain score on postoperative days 1 (3.5) and day 3(1.6). And the timing of removal of nasogastric tube was in the second or third postoperative day and four (3-5) days are the timing of full diet resumption and the hospital stay ranged from three to four days and the patient could return back to work about ten days after discharge Table(3).",
+      "text": "The characteristics of patient's postoperative data showed that patients required significantly less parenteral analgesics, lower visual analogue pain score on postoperative days 1 (3.5) and day 3(1.6). And the timing of removal of nasogastric tube was in the second or third postoperative day and four (3-5) days are the timing of full diet resumption and the hospital stay ranged from three to four days and the patient could return back to work about ten days after discharge Table(3)."
+    },
+    {
+      "self_ref": "#/texts/61",
+      "parent": {
+        "$ref": "#/tables/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 69.51718711853027,
+            "t": 144.31050618489587,
+            "r": 267.2640584309896,
+            "b": 130.25203450520837,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            40
+          ]
+        }
+      ],
+      "orig": "Table (4): Post operative complications.",
+      "text": "Table (4): Post operative complications."
+    },
+    {
+      "self_ref": "#/texts/62",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 305.03592936197913,
+            "t": 477.27419026692706,
+            "r": 526.1125081380208,
+            "b": 420.6703694661458,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            139
+          ]
+        }
+      ],
+      "orig": "follows: Duodenal ulcer in eighteen cases (85.7%) & prepyloric in three cases (14.3%). Mean size of ulcer perforations was 5.1 mm Table(2).",
+      "text": "follows: Duodenal ulcer in eighteen cases (85.7%) & prepyloric in three cases (14.3%). Mean size of ulcer perforations was 5.1 mm Table(2)."
+    },
+    {
+      "self_ref": "#/texts/63",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 304.6656290690104,
+            "t": 783.6008065541586,
+            "r": 526.8531087239583,
+            "b": 657.0745951334635,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            379
+          ]
+        }
+      ],
+      "orig": "(23.8%), and six patients with recent consumption of nonsteroidal anti-inflammatory drugs (28.57%) and ten patients gave a history of smoking (47.62%). According to American Society of Anaesthesiology (ASA) classification status was: Class I were ten cases (47.62%) & Class II were six cases (28.57%) & Class III were four cases (19%) and Class IV were one case (0.48%) Table(1).",
+      "text": "(23.8%), and six patients with recent consumption of nonsteroidal anti-inflammatory drugs (28.57%) and ten patients gave a history of smoking (47.62%). According to American Society of Anaesthesiology (ASA) classification status was: Class I were ten cases (47.62%) & Class II were six cases (28.57%) & Class III were four cases (19%) and Class IV were one case (0.48%) Table(1)."
+    },
+    {
+      "self_ref": "#/texts/64",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 48.0,
+            "t": 44.33333333333337,
+            "r": 70.33333333333333,
+            "b": 30.33333333333337,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "104",
+      "text": "104"
+    },
+    {
+      "self_ref": "#/texts/65",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 373.6666666666667,
+            "t": 44.0,
+            "r": 527.3333333333334,
+            "b": 29.33333333333337,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            36
+          ]
+        }
+      ],
+      "orig": "Ain-Shams J Surg 2 2012; 5(1):99-106",
+      "text": "Ain-Shams J Surg 2 2012; 5(1):99-106"
+    },
+    {
+      "self_ref": "#/texts/66",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 68.68902397155762,
+            "t": 783.1451619466146,
+            "r": 289.17301432291663,
+            "b": 658.070566813151,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            358
+          ]
+        }
+      ],
+      "orig": "Post operative complications included 2 cases (0.95%) of chest infection one of them was known to have COPD and was managed by antibiotics and improved. The other one was heavy smoker and was treated with expectorants and third patient had postoperative leak and was reoperated laproscopically with deudenostomy tube and feeding jejunostomy (0.48%) Table(4).",
+      "text": "Post operative complications included 2 cases (0.95%) of chest infection one of them was known to have COPD and was managed by antibiotics and improved. The other one was heavy smoker and was treated with expectorants and third patient had postoperative leak and was reoperated laproscopically with deudenostomy tube and feeding jejunostomy (0.48%) Table(4)."
+    },
+    {
+      "self_ref": "#/texts/67",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 69.05106671651204,
+            "t": 643.312510172526,
+            "r": 129.51219177246094,
+            "b": 630.7681477864584,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "Discussion:",
+      "text": "Discussion:",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/68",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 68.3269812266032,
+            "t": 629.2923482259115,
+            "r": 288.81097412109375,
+            "b": 545.9092814127604,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            267
+          ]
+        }
+      ],
+      "orig": "Advances in the medical treatment of peptic ulcer disease have led to a dramatic decrease in the number of elective ulcer surgeries performed. Nonetheless, the number of patients treated surgically for complications such as perforations remains relatively unchanged.7",
+      "text": "Advances in the medical treatment of peptic ulcer disease have led to a dramatic decrease in the number of elective ulcer surgeries performed. Nonetheless, the number of patients treated surgically for complications such as perforations remains relatively unchanged.7"
+    },
+    {
+      "self_ref": "#/texts/69",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 68.3269812266032,
+            "t": 544.8024291992188,
+            "r": 288.81097412109375,
+            "b": 435.2237955729167,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            332
+          ]
+        }
+      ],
+      "orig": "Laparoscopy has assumed an everexpanding role in gastrointestinal surgery since the introduction of laparoscopic cholecystectomy. Laparoscopic cholecystectomy has rapidly become a standard practice in most parts of the world for elective cholecystectomy, but the role of laparoscopy in perforated peptic ulcer was not well defined.8",
+      "text": "Laparoscopy has assumed an everexpanding role in gastrointestinal surgery since the introduction of laparoscopic cholecystectomy. Laparoscopic cholecystectomy has rapidly become a standard practice in most parts of the world for elective cholecystectomy, but the role of laparoscopy in perforated peptic ulcer was not well defined.8"
+    },
+    {
+      "self_ref": "#/texts/70",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 68.68902397155762,
+            "t": 432.6411539713542,
+            "r": 289.17301432291663,
+            "b": 294.65323893229174,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            431
+          ]
+        }
+      ],
+      "orig": "Actually, using laparoscopy for treatment of perforated peptic ulcer includes; GrahamSteele patch repair, suture closure with an omental patch and simple closure without omental patch. The procedure is relatively simple but requires the ability to perform an intra-corporeal knot. The application of fibrin glue patch reinforces the sutures and avoid the need to applicate an omental patch and make the procedure faster and easier.",
+      "text": "Actually, using laparoscopy for treatment of perforated peptic ulcer includes; GrahamSteele patch repair, suture closure with an omental patch and simple closure without omental patch. The procedure is relatively simple but requires the ability to perform an intra-corporeal knot. The application of fibrin glue patch reinforces the sutures and avoid the need to applicate an omental patch and make the procedure faster and easier."
+    },
+    {
+      "self_ref": "#/texts/71",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 67.96493848164876,
+            "t": 293.17744954427076,
+            "r": 289.17301432291663,
+            "b": 196.51212565104163,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            291
+          ]
+        }
+      ],
+      "orig": "Boey et, al. reported that major medical illness, preoperative shock, and longstanding perforation (more than 24 hours) were considered poor prognostic factors. In this study, we found that hypotension could not reliably predict outcome, and all patients admitted with hypotension survived.9",
+      "text": "Boey et, al. reported that major medical illness, preoperative shock, and longstanding perforation (more than 24 hours) were considered poor prognostic factors. In this study, we found that hypotension could not reliably predict outcome, and all patients admitted with hypotension survived.9"
+    },
+    {
+      "self_ref": "#/texts/72",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 68.68902397155762,
+            "t": 195.4052734375,
+            "r": 288.81097412109375,
+            "b": 98.73990885416663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            290
+          ]
+        }
+      ],
+      "orig": "G.Piero et al. reported that published data comparing laparoscopic and open repair for perforated peptic ulcers report lower post operative analgesic use, lower wound infection and mortality, fewer incisional hernias with laparoscopy but longer operating time and higher reoperation rate.10",
+      "text": "G.Piero et al. reported that published data comparing laparoscopic and open repair for perforated peptic ulcers report lower post operative analgesic use, lower wound infection and mortality, fewer incisional hernias with laparoscopy but longer operating time and higher reoperation rate.10"
+    },
+    {
+      "self_ref": "#/texts/73",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 69.05106671651204,
+            "t": 97.26416015625,
+            "r": 288.44891357421875,
+            "b": 69.96175130208337,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            81
+          ]
+        },
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 304.7408447265625,
+            "t": 782.7762101491293,
+            "r": 526.3109537760417,
+            "b": 699.3931477864583,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            82,
+            316
+          ]
+        }
+      ],
+      "orig": "In our experience laparoscopic repair using fibrin glue patch was performed under supervision of expert surgeons and the results in terms of duration of surgical procedure was short (45±15.4 min.) and clinical outcome was satisfactory. We have single case of postoperative leak which was re-operated laproscopically.",
+      "text": "In our experience laparoscopic repair using fibrin glue patch was performed under supervision of expert surgeons and the results in terms of duration of surgical procedure was short (45±15.4 min.) and clinical outcome was satisfactory. We have single case of postoperative leak which was re-operated laproscopically."
+    },
+    {
+      "self_ref": "#/texts/74",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 306.18900553385413,
+            "t": 685.3729858398438,
+            "r": 369.54648844401044,
+            "b": 672.828633626302,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "Conclusion:",
+      "text": "Conclusion:",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/75",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 305.1028849283854,
+            "t": 671.3528238932292,
+            "r": 526.3109537760417,
+            "b": 630.3992004394531,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            132
+          ]
+        }
+      ],
+      "orig": "The medical treatment of peptic ulcer is highly successful. In addition eradication of Helicobacter pylori reduces ulcer recurrence.",
+      "text": "The medical treatment of peptic ulcer is highly successful. In addition eradication of Helicobacter pylori reduces ulcer recurrence."
+    },
+    {
+      "self_ref": "#/texts/76",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 304.3788045247396,
+            "t": 628.9233907063802,
+            "r": 525.5868733723958,
+            "b": 532.258076985677,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            304
+          ]
+        }
+      ],
+      "orig": "The non-operative treatment of perforated peptic ulcer was first described by Tylor in 1945. However this kind of treatment modality is suitable for younger patients, heamodynamically stable and the disease history less than twelve hours, therefore most surgeons treat perforated peptic ulcer surgically.",
+      "text": "The non-operative treatment of perforated peptic ulcer was first described by Tylor in 1945. However this kind of treatment modality is suitable for younger patients, heamodynamically stable and the disease history less than twelve hours, therefore most surgeons treat perforated peptic ulcer surgically."
+    },
+    {
+      "self_ref": "#/texts/77",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 306.18900553385413,
+            "t": 531.1512247721355,
+            "r": 525.2248128255208,
+            "b": 490.56654866536456,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            134
+          ]
+        }
+      ],
+      "orig": "Laparoscopy provides good visualization of the peritoneal cavity without necessity to do laparotomy for a relatively simple procedure.",
+      "text": "Laparoscopy provides good visualization of the peritoneal cavity without necessity to do laparotomy for a relatively simple procedure."
+    },
+    {
+      "self_ref": "#/texts/78",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 305.46492513020837,
+            "t": 488.72178141276044,
+            "r": 525.2248128255208,
+            "b": 447.7681477864583,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            130
+          ]
+        }
+      ],
+      "orig": "Accordingly we have switched our treatment to laparoscopic simple closure of the perforation site combined with fibrin glue patch.",
+      "text": "Accordingly we have switched our treatment to laparoscopic simple closure of the perforation site combined with fibrin glue patch."
+    },
+    {
+      "self_ref": "#/texts/79",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 304.7408447265625,
+            "t": 446.6612955729167,
+            "r": 525.5868733723958,
+            "b": 349.2580973307292,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            271
+          ]
+        }
+      ],
+      "orig": "Laparoscopic suturing of perforated peptic ulcer combined with fibrin glue patch is associated with minimal postoperative pain, short duration of postoperative ileus, early resumption of normal diet, early discharge from hospital and early back to work and full activity.",
+      "text": "Laparoscopic suturing of perforated peptic ulcer combined with fibrin glue patch is associated with minimal postoperative pain, short duration of postoperative ileus, early resumption of normal diet, early discharge from hospital and early back to work and full activity."
+    },
+    {
+      "self_ref": "#/texts/80",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 305.1028849283854,
+            "t": 335.60685221354174,
+            "r": 367.3742268880208,
+            "b": 323.43147786458326,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "References:",
+      "text": "References:",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/81",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 305.46492513020837,
+            "t": 321.2177734375,
+            "r": 524.86279296875,
+            "b": 266.6129150390625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            150
+          ]
+        }
+      ],
+      "orig": "1- S Lunca, N S Romedea, C Morosanu: Laparoscopic repair of perforated peptic ulcer. Jurnal ul de Chirurgie Iasi 2007, Vo1. 3, Nr. 2 [ISSN 1584-9341].",
+      "text": "1- S Lunca, N S Romedea, C Morosanu: Laparoscopic repair of perforated peptic ulcer. Jurnal ul de Chirurgie Iasi 2007, Vo1. 3, Nr. 2 [ISSN 1584-9341].",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/82",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 304.7408447265625,
+            "t": 265.875,
+            "r": 525.2248128255208,
+            "b": 224.92138671875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            93
+          ]
+        }
+      ],
+      "orig": "2- Faisal A, John G, Jay A Y: Perforated peptic ulcer. e-Medicine General Surgery 2010; 1-19.",
+      "text": "2- Faisal A, John G, Jay A Y: Perforated peptic ulcer. e-Medicine General Surgery 2010; 1-19.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/83",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 305.1028849283854,
+            "t": 222.70768229166663,
+            "r": 525.5868733723958,
+            "b": 154.82059733072913,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            172
+          ]
+        }
+      ],
+      "orig": "3- Atta-ur-Rehman K, Muhammad Y, Qutbe A J, Wagma N, Muhammad I: Grahm's omentopexy in closure of perforated duodenal ulcer. J Med Sci (Peshawar, Print) 2010; 18(2): 87-90.",
+      "text": "3- Atta-ur-Rehman K, Muhammad Y, Qutbe A J, Wagma N, Muhammad I: Grahm's omentopexy in closure of perforated duodenal ulcer. J Med Sci (Peshawar, Print) 2010; 18(2): 87-90.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/84",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 305.1028849283854,
+            "t": 152.975830078125,
+            "r": 525.2248128255208,
+            "b": 85.08870442708337,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            162
+          ]
+        }
+      ],
+      "orig": "4- Masao M, Motoharu N, Tsunekazu H, Satomi S, Toshiaki W: Laparoscopic omental patch repair for perforated peptic ulcer. Annals Of Surgery 1995; 221(3): 236-240.",
+      "text": "4- Masao M, Motoharu N, Tsunekazu H, Satomi S, Toshiaki W: Laparoscopic omental patch repair for perforated peptic ulcer. Annals Of Surgery 1995; 221(3): 236-240.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/85",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 67.66666666666667,
+            "t": 44.0,
+            "r": 221.33333333333334,
+            "b": 29.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            36
+          ]
+        }
+      ],
+      "orig": "Ain-Shams J Surg 2 2012; 5(1):99-106",
+      "text": "Ain-Shams J Surg 2 2012; 5(1):99-106"
+    },
+    {
+      "self_ref": "#/texts/86",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 524.0,
+            "t": 44.66666666666663,
+            "r": 549.6666666666666,
+            "b": 30.33333333333337,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "105",
+      "text": "105"
+    },
+    {
+      "self_ref": "#/texts/87",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 69.0,
+            "t": 783.0,
+            "r": 288.66666666666663,
+            "b": 699.6666666666667,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            241
+          ]
+        }
+      ],
+      "orig": "5- Carbon RT: Evaluation of biodegradable fleece-bound sealing: History, material science, and clinical application. In: Scientific and clinical applications. Lewandrowski K-U, et al (Editors). Marcel Dekker Inc (Publisher); 2002; p.587-650.",
+      "text": "5- Carbon RT: Evaluation of biodegradable fleece-bound sealing: History, material science, and clinical application. In: Scientific and clinical applications. Lewandrowski K-U, et al (Editors). Marcel Dekker Inc (Publisher); 2002; p.587-650.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/88",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 69.0,
+            "t": 699.6666666666667,
+            "r": 289.0,
+            "b": 644.3333333333334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            148
+          ]
+        }
+      ],
+      "orig": "6- Schiele U, et al: Haemostatic preparations on the basis of collagen alone and as fixed combination with fibrin glue. Clin Mater 1992; 9: 169-177.",
+      "text": "6- Schiele U, et al: Haemostatic preparations on the basis of collagen alone and as fixed combination with fibrin glue. Clin Mater 1992; 9: 169-177.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/89",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 69.33333333333333,
+            "t": 642.6666666666666,
+            "r": 289.33333333333337,
+            "b": 588.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            147
+          ]
+        }
+      ],
+      "orig": "7- Kulber DA, Hartunian S, Schiller D, Morgenstern L: The current spectrum of peptic ulcer disease in the older age groups. Ann Surg 1990; 56: 737.",
+      "text": "7- Kulber DA, Hartunian S, Schiller D, Morgenstern L: The current spectrum of peptic ulcer disease in the older age groups. Ann Surg 1990; 56: 737.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/90",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 305.0,
+            "t": 783.0,
+            "r": 526.0,
+            "b": 728.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            143
+          ]
+        }
+      ],
+      "orig": "8- Wing T S, Heng T L: Laparoscopic repair for perforated peptic ulcer a randomized controlled trial. Annals of Surgery 2002; 235 (3): 313-319.",
+      "text": "8- Wing T S, Heng T L: Laparoscopic repair for perforated peptic ulcer a randomized controlled trial. Annals of Surgery 2002; 235 (3): 313-319.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/91",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 305.0,
+            "t": 726.6666666666666,
+            "r": 526.0,
+            "b": 672.3333333333333,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            131
+          ]
+        }
+      ],
+      "orig": "9- Boey J, Wong J, Ong GB: A prospective study of operative risk factors in perforated duodenal ulcers. Ann Surg 1982; 195: 265269.",
+      "text": "9- Boey J, Wong J, Ong GB: A prospective study of operative risk factors in perforated duodenal ulcers. Ann Surg 1982; 195: 265269.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/92",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 306.33333333333337,
+            "t": 670.3333333333333,
+            "r": 527.3333333333333,
+            "b": 602.3333333333334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            160
+          ]
+        }
+      ],
+      "orig": "10- Piero G, Roberto B, Diego F, Renzo L: Laparoscopic repair for perforated peptic ulcers with U-CLIP. World Journal of Emergency Surgery 2009; 1186: 17491792.",
+      "text": "10- Piero G, Roberto B, Diego F, Renzo L: Laparoscopic repair for perforated peptic ulcers with U-CLIP. World Journal of Emergency Surgery 2009; 1186: 17491792.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/93",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 48.333333333333336,
+            "t": 44.0,
+            "r": 70.33333333333333,
+            "b": 30.33333333333337,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "106",
+      "text": "106"
+    },
+    {
+      "self_ref": "#/texts/94",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 373.6666666666667,
+            "t": 45.0,
+            "r": 527.3333333333334,
+            "b": 29.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            34
+          ]
+        }
+      ],
+      "orig": "Ain-Shams J Surg 2012; 5(1):99-106",
+      "text": "Ain-Shams J Surg 2012; 5(1):99-106"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/27"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 159.48065185546875,
+            "t": 783.7691955566406,
+            "r": 431.0182800292969,
+            "b": 579.0641784667969,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/27"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/29"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 158.966552734375,
+            "t": 440.65338134765625,
+            "r": 433.0677185058594,
+            "b": 234.5684814453125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/29"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/33"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 98.19953155517578,
+            "t": 783.672233581543,
+            "r": 294.8217468261719,
+            "b": 609.8720855712891,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/33"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/35"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 317.5796203613281,
+            "t": 782.9225387573242,
+            "r": 498.5549621582031,
+            "b": 609.7095794677734,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/35"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/37"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 164.2189178466797,
+            "t": 470.60772705078125,
+            "r": 432.32861328125,
+            "b": 269.64483642578125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/37"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [
+    {
+      "self_ref": "#/tables/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/47"
+        }
+      ],
+      "content_layer": "body",
+      "label": "table",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 104.08984375,
+            "t": 420.9800109863281,
+            "r": 492.31781005859375,
+            "b": 120.65911865234375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/47"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "data": {
+        "table_cells": [
+          {
+            "bbox": {
+              "l": 176.0,
+              "t": 435.6666666666667,
+              "r": 290.66666666666663,
+              "b": 450.6666666666667,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Patient demographics",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 402.6666666666667,
+              "t": 436.3333333333333,
+              "r": 460.6666666666667,
+              "b": 450.6666666666667,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Patient no.",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 110.33333333333334,
+              "t": 453.3333333333333,
+              "r": 163.66666666666669,
+              "b": 469.6666666666667,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Mean age",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 405.3333333333333,
+              "t": 454.6666666666667,
+              "r": 456.6666666666667,
+              "b": 468.3333333333333,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "38.1±10.3",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 109.33333333333334,
+              "t": 471.3333333333333,
+              "r": 136.66666666666669,
+              "b": 487.3333333333333,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Sex:",
+            "column_header": false,
+            "row_header": false,
+            "row_section": true,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 109.66666666666666,
+              "t": 489.6666666666667,
+              "r": 140.33333333333331,
+              "b": 504.0,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Male",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 405.3333333333333,
+              "t": 490.6666666666667,
+              "r": 457.6666666666667,
+              "b": 504.0,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "18(85.7%)",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 110.0,
+              "t": 508.0,
+              "r": 151.66666666666669,
+              "b": 521.6666666666666,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Female",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 406.6666666666667,
+              "t": 508.0,
+              "r": 455.3333333333333,
+              "b": 522.6666666666666,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "3(14.3%)",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 176.66666666666669,
+              "t": 526.0,
+              "r": 290.33333333333337,
+              "b": 540.3333333333334,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 5,
+            "end_row_offset_idx": 6,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Perioperative criteria",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 402.3333333333333,
+              "t": 526.3333333333334,
+              "r": 460.6666666666667,
+              "b": 540.6666666666666,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 5,
+            "end_row_offset_idx": 6,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Patient no.",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 110.66666666666666,
+              "t": 544.0,
+              "r": 308.33333333333337,
+              "b": 558.0,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 6,
+            "end_row_offset_idx": 7,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Duration of pain longer than 24 hours",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 406.6666666666667,
+              "t": 544.0,
+              "r": 456.0,
+              "b": 560.0,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 6,
+            "end_row_offset_idx": 7,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "2(0.95%)",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 110.0,
+              "t": 561.6666666666666,
+              "r": 146.66666666666669,
+              "b": 576.6666666666666,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 7,
+            "end_row_offset_idx": 8,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Shock",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 408.0,
+              "t": 562.3333333333334,
+              "r": 456.0,
+              "b": 578.3333333333334,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 7,
+            "end_row_offset_idx": 8,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "1(0.48%)",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 186.33333333333331,
+              "t": 581.0,
+              "r": 280.33333333333337,
+              "b": 593.0,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 8,
+            "end_row_offset_idx": 9,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "ASA classification",
+            "column_header": false,
+            "row_header": false,
+            "row_section": true,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 229.33333333333334,
+              "t": 599.0,
+              "r": 237.33333333333334,
+              "b": 611.0,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 9,
+            "end_row_offset_idx": 10,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "I",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 401.0,
+              "t": 598.0,
+              "r": 462.3333333333333,
+              "b": 612.3333333333334,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 9,
+            "end_row_offset_idx": 10,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "10 (47.62%)",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 226.66666666666666,
+              "t": 616.0,
+              "r": 240.0,
+              "b": 630.3333333333334,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 10,
+            "end_row_offset_idx": 11,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "II",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 402.6666666666667,
+              "t": 616.0,
+              "r": 459.6666666666667,
+              "b": 631.6666666666666,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 10,
+            "end_row_offset_idx": 11,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "6 (28.57%)",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 224.33333333333334,
+              "t": 634.0,
+              "r": 242.33333333333334,
+              "b": 648.6666666666667,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 11,
+            "end_row_offset_idx": 12,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "III",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 409.0,
+              "t": 633.0,
+              "r": 453.0,
+              "b": 650.3333333333333,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 11,
+            "end_row_offset_idx": 12,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "4 (19%)",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 223.66666666666666,
+              "t": 651.3333333333333,
+              "r": 243.0,
+              "b": 667.3333333333333,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 12,
+            "end_row_offset_idx": 13,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "IV",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 406.0,
+              "t": 652.3333333333333,
+              "r": 456.6666666666667,
+              "b": 668.0,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 12,
+            "end_row_offset_idx": 13,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "1 (0.48%)",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 110.66666666666666,
+              "t": 670.0,
+              "r": 180.33333333333331,
+              "b": 684.0,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 13,
+            "end_row_offset_idx": 14,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Ulcer history",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 405.3333333333333,
+              "t": 670.6666666666667,
+              "r": 455.6666666666667,
+              "b": 684.0,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 13,
+            "end_row_offset_idx": 14,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "5 (23.8%)",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 109.33333333333334,
+              "t": 686.6666666666667,
+              "r": 160.0,
+              "b": 703.3333333333333,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 14,
+            "end_row_offset_idx": 15,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Smoking",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 401.3333333333333,
+              "t": 688.0,
+              "r": 462.0,
+              "b": 702.6666666666667,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 14,
+            "end_row_offset_idx": 15,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "10 (47.62%)",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 110.0,
+              "t": 705.0,
+              "r": 328.3333333333333,
+              "b": 721.0,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 15,
+            "end_row_offset_idx": 16,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Nonsteroidal anti-inflammatory drug use",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 403.0,
+              "t": 706.6666666666667,
+              "r": 459.6666666666667,
+              "b": 721.6666666666667,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 15,
+            "end_row_offset_idx": 16,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "6 (28.57%)",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          }
+        ],
+        "num_rows": 16,
+        "num_cols": 2,
+        "orientation": "rot_0",
+        "grid": [
+          [
+            {
+              "bbox": {
+                "l": 176.0,
+                "t": 435.6666666666667,
+                "r": 290.66666666666663,
+                "b": 450.6666666666667,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Patient demographics",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 402.6666666666667,
+                "t": 436.3333333333333,
+                "r": 460.6666666666667,
+                "b": 450.6666666666667,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Patient no.",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 110.33333333333334,
+                "t": 453.3333333333333,
+                "r": 163.66666666666669,
+                "b": 469.6666666666667,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Mean age",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 405.3333333333333,
+                "t": 454.6666666666667,
+                "r": 456.6666666666667,
+                "b": 468.3333333333333,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "38.1±10.3",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 109.33333333333334,
+                "t": 471.3333333333333,
+                "r": 136.66666666666669,
+                "b": 487.3333333333333,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Sex:",
+              "column_header": false,
+              "row_header": false,
+              "row_section": true,
+              "fillable": false
+            },
+            {
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 109.66666666666666,
+                "t": 489.6666666666667,
+                "r": 140.33333333333331,
+                "b": 504.0,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Male",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 405.3333333333333,
+                "t": 490.6666666666667,
+                "r": 457.6666666666667,
+                "b": 504.0,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "18(85.7%)",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 110.0,
+                "t": 508.0,
+                "r": 151.66666666666669,
+                "b": 521.6666666666666,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Female",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 406.6666666666667,
+                "t": 508.0,
+                "r": 455.3333333333333,
+                "b": 522.6666666666666,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "3(14.3%)",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 176.66666666666669,
+                "t": 526.0,
+                "r": 290.33333333333337,
+                "b": 540.3333333333334,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 5,
+              "end_row_offset_idx": 6,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Perioperative criteria",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 402.3333333333333,
+                "t": 526.3333333333334,
+                "r": 460.6666666666667,
+                "b": 540.6666666666666,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 5,
+              "end_row_offset_idx": 6,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Patient no.",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 110.66666666666666,
+                "t": 544.0,
+                "r": 308.33333333333337,
+                "b": 558.0,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 6,
+              "end_row_offset_idx": 7,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Duration of pain longer than 24 hours",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 406.6666666666667,
+                "t": 544.0,
+                "r": 456.0,
+                "b": 560.0,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 6,
+              "end_row_offset_idx": 7,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "2(0.95%)",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 110.0,
+                "t": 561.6666666666666,
+                "r": 146.66666666666669,
+                "b": 576.6666666666666,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 7,
+              "end_row_offset_idx": 8,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Shock",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 408.0,
+                "t": 562.3333333333334,
+                "r": 456.0,
+                "b": 578.3333333333334,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 7,
+              "end_row_offset_idx": 8,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "1(0.48%)",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 186.33333333333331,
+                "t": 581.0,
+                "r": 280.33333333333337,
+                "b": 593.0,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 8,
+              "end_row_offset_idx": 9,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "ASA classification",
+              "column_header": false,
+              "row_header": false,
+              "row_section": true,
+              "fillable": false
+            },
+            {
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 8,
+              "end_row_offset_idx": 9,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 229.33333333333334,
+                "t": 599.0,
+                "r": 237.33333333333334,
+                "b": 611.0,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 9,
+              "end_row_offset_idx": 10,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "I",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 401.0,
+                "t": 598.0,
+                "r": 462.3333333333333,
+                "b": 612.3333333333334,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 9,
+              "end_row_offset_idx": 10,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "10 (47.62%)",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 226.66666666666666,
+                "t": 616.0,
+                "r": 240.0,
+                "b": 630.3333333333334,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 10,
+              "end_row_offset_idx": 11,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "II",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 402.6666666666667,
+                "t": 616.0,
+                "r": 459.6666666666667,
+                "b": 631.6666666666666,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 10,
+              "end_row_offset_idx": 11,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "6 (28.57%)",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 224.33333333333334,
+                "t": 634.0,
+                "r": 242.33333333333334,
+                "b": 648.6666666666667,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 11,
+              "end_row_offset_idx": 12,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "III",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 409.0,
+                "t": 633.0,
+                "r": 453.0,
+                "b": 650.3333333333333,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 11,
+              "end_row_offset_idx": 12,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "4 (19%)",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 223.66666666666666,
+                "t": 651.3333333333333,
+                "r": 243.0,
+                "b": 667.3333333333333,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 12,
+              "end_row_offset_idx": 13,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "IV",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 406.0,
+                "t": 652.3333333333333,
+                "r": 456.6666666666667,
+                "b": 668.0,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 12,
+              "end_row_offset_idx": 13,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "1 (0.48%)",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 110.66666666666666,
+                "t": 670.0,
+                "r": 180.33333333333331,
+                "b": 684.0,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 13,
+              "end_row_offset_idx": 14,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Ulcer history",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 405.3333333333333,
+                "t": 670.6666666666667,
+                "r": 455.6666666666667,
+                "b": 684.0,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 13,
+              "end_row_offset_idx": 14,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "5 (23.8%)",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 109.33333333333334,
+                "t": 686.6666666666667,
+                "r": 160.0,
+                "b": 703.3333333333333,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 14,
+              "end_row_offset_idx": 15,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Smoking",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 401.3333333333333,
+                "t": 688.0,
+                "r": 462.0,
+                "b": 702.6666666666667,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 14,
+              "end_row_offset_idx": 15,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "10 (47.62%)",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 110.0,
+                "t": 705.0,
+                "r": 328.3333333333333,
+                "b": 721.0,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 15,
+              "end_row_offset_idx": 16,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Nonsteroidal anti-inflammatory drug use",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 403.0,
+                "t": 706.6666666666667,
+                "r": 459.6666666666667,
+                "b": 721.6666666666667,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 15,
+              "end_row_offset_idx": 16,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "6 (28.57%)",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ]
+        ]
+      },
+      "annotations": []
+    },
+    {
+      "self_ref": "#/tables/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/57"
+        }
+      ],
+      "content_layer": "body",
+      "label": "table",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 130.75668334960938,
+            "t": 611.7187652587891,
+            "r": 458.088134765625,
+            "b": 492.5005798339844,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/57"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "data": {
+        "table_cells": [
+          {
+            "bbox": {
+              "l": 193.94218953450522,
+              "t": 244.34979248046875,
+              "r": 292.07499186197913,
+              "b": 258.7782185872396,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 2,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 2,
+            "text": "Operative findings",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 394.28125,
+              "t": 243.23990885416666,
+              "r": 432.7937418619792,
+              "b": 259.51814778645837,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Range",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 136.17343648274738,
+              "t": 262.10786946614587,
+              "r": 349.4734293619792,
+              "b": 276.90625,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 2,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 2,
+            "text": "Mean operative duration (minutes)",
+            "column_header": false,
+            "row_header": true,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 392.0593668619792,
+              "t": 261.3679402669271,
+              "r": 436.1265462239583,
+              "b": 275.4264119466146,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "45±15.4",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 136.5437469482422,
+              "t": 279.86592610677087,
+              "r": 238.37967936197916,
+              "b": 294.29435221354163,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 2,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 2,
+            "text": "Site of perforations",
+            "column_header": false,
+            "row_header": false,
+            "row_section": true,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 136.17343648274738,
+              "t": 297.99395751953125,
+              "r": 196.9046834309896,
+              "b": 311.68245442708337,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 2,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 2,
+            "text": "Duodenum",
+            "column_header": false,
+            "row_header": true,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 386.875,
+              "t": 297.99395751953125,
+              "r": 440.5703125,
+              "b": 312.05240885416663,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "18(85.7%)",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 136.17343648274738,
+              "t": 316.12196858723956,
+              "r": 194.68281046549478,
+              "b": 331.2903238932292,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 2,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 2,
+            "text": "Prepyloric",
+            "column_header": false,
+            "row_header": true,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 386.875,
+              "t": 315.38205973307294,
+              "r": 439.8296712239583,
+              "b": 331.6602783203125,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "3 (14.3%)",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 136.17343648274738,
+              "t": 333.8800455729167,
+              "r": 298.7406209309896,
+              "b": 348.3084716796875,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 2,
+            "start_row_offset_idx": 5,
+            "end_row_offset_idx": 6,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 2,
+            "text": "Mean size of ulcer perforations",
+            "column_header": false,
+            "row_header": true,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 393.17030843098956,
+              "t": 334.25,
+              "r": 434.6453043619792,
+              "b": 348.3084716796875,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 5,
+            "end_row_offset_idx": 6,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "5.1 mm",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          }
+        ],
+        "num_rows": 6,
+        "num_cols": 2,
+        "orientation": "rot_0",
+        "grid": [
+          [
+            {
+              "bbox": {
+                "l": 193.94218953450522,
+                "t": 244.34979248046875,
+                "r": 292.07499186197913,
+                "b": 258.7782185872396,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 2,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 2,
+              "text": "Operative findings",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 394.28125,
+                "t": 243.23990885416666,
+                "r": 432.7937418619792,
+                "b": 259.51814778645837,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Range",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 136.17343648274738,
+                "t": 262.10786946614587,
+                "r": 349.4734293619792,
+                "b": 276.90625,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 2,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 2,
+              "text": "Mean operative duration (minutes)",
+              "column_header": false,
+              "row_header": true,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 392.0593668619792,
+                "t": 261.3679402669271,
+                "r": 436.1265462239583,
+                "b": 275.4264119466146,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "45±15.4",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 136.5437469482422,
+                "t": 279.86592610677087,
+                "r": 238.37967936197916,
+                "b": 294.29435221354163,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 2,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 2,
+              "text": "Site of perforations",
+              "column_header": false,
+              "row_header": false,
+              "row_section": true,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 136.5437469482422,
+                "t": 279.86592610677087,
+                "r": 238.37967936197916,
+                "b": 294.29435221354163,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 2,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 2,
+              "text": "Site of perforations",
+              "column_header": false,
+              "row_header": false,
+              "row_section": true,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 136.17343648274738,
+                "t": 297.99395751953125,
+                "r": 196.9046834309896,
+                "b": 311.68245442708337,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 2,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 2,
+              "text": "Duodenum",
+              "column_header": false,
+              "row_header": true,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 386.875,
+                "t": 297.99395751953125,
+                "r": 440.5703125,
+                "b": 312.05240885416663,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "18(85.7%)",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 136.17343648274738,
+                "t": 316.12196858723956,
+                "r": 194.68281046549478,
+                "b": 331.2903238932292,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 2,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 2,
+              "text": "Prepyloric",
+              "column_header": false,
+              "row_header": true,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 386.875,
+                "t": 315.38205973307294,
+                "r": 439.8296712239583,
+                "b": 331.6602783203125,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "3 (14.3%)",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 136.17343648274738,
+                "t": 333.8800455729167,
+                "r": 298.7406209309896,
+                "b": 348.3084716796875,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 2,
+              "start_row_offset_idx": 5,
+              "end_row_offset_idx": 6,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 2,
+              "text": "Mean size of ulcer perforations",
+              "column_header": false,
+              "row_header": true,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 393.17030843098956,
+                "t": 334.25,
+                "r": 434.6453043619792,
+                "b": 348.3084716796875,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 5,
+              "end_row_offset_idx": 6,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "5.1 mm",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ]
+        ]
+      },
+      "annotations": []
+    },
+    {
+      "self_ref": "#/tables/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/59"
+        }
+      ],
+      "content_layer": "body",
+      "label": "table",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 128.33905029296875,
+            "t": 385.63812255859375,
+            "r": 459.01788330078125,
+            "b": 242.5518798828125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/59"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "data": {
+        "table_cells": [
+          {
+            "bbox": {
+              "l": 131.359375,
+              "t": 466.3256022135417,
+              "r": 230.97342936197916,
+              "b": 479.6441650390625,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Postoperative data",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 409.4640706380208,
+              "t": 465.9556477864583,
+              "r": 447.2359212239583,
+              "b": 481.4939371744792,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Range",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 131.359375,
+              "t": 481.4939371744792,
+              "r": 357.25,
+              "b": 495.5524088541667,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Number of analgesics injections per patient",
+            "column_header": false,
+            "row_header": true,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 409.09375,
+              "t": 480.3840738932292,
+              "r": 447.6062418619792,
+              "b": 497.0322672526042,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "1-8 inj.",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 214.30936686197916,
+              "t": 497.0322672526042,
+              "r": 275.41092936197913,
+              "b": 509.6108805338542,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Pain scores",
+            "column_header": false,
+            "row_header": false,
+            "row_section": true,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 227.27030436197916,
+              "t": 511.0907389322917,
+              "r": 261.7093709309896,
+              "b": 525.8891194661458,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Day 1",
+            "column_header": false,
+            "row_header": true,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 417.9812418619792,
+              "t": 510.7207438151042,
+              "r": 438.71875,
+              "b": 525.5191650390625,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "3.5",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 226.89999389648438,
+              "t": 525.5191650390625,
+              "r": 262.44999186197913,
+              "b": 541.0574544270833,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Day 3",
+            "column_header": false,
+            "row_header": true,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 418.7218831380208,
+              "t": 525.8891194661458,
+              "r": 439.0890706380208,
+              "b": 540.6875,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "1.6",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 131.359375,
+              "t": 541.79736328125,
+              "r": 341.32655843098956,
+              "b": 555.8558349609375,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 5,
+            "end_row_offset_idx": 6,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Nasogastric tube duration, (day) (range)",
+            "column_header": false,
+            "row_header": true,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 410.5749918619792,
+              "t": 540.3175455729167,
+              "r": 445.7546793619792,
+              "b": 557.335693359375,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 5,
+            "end_row_offset_idx": 6,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "2(2-3)",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 131.359375,
+              "t": 556.5957438151042,
+              "r": 292.81561279296875,
+              "b": 571.3941650390625,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 6,
+            "end_row_offset_idx": 7,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Resume diet day, (day) (range)",
+            "column_header": false,
+            "row_header": true,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 410.5749918619792,
+              "t": 555.4858805338542,
+              "r": 446.125,
+              "b": 572.1340738932291,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 6,
+            "end_row_offset_idx": 7,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "4(3-5)",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 131.359375,
+              "t": 571.7641194661459,
+              "r": 312.8125,
+              "b": 586.1925455729166,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 7,
+            "end_row_offset_idx": 8,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Postop. hospital stay, (day) (range)",
+            "column_header": false,
+            "row_header": true,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 406.8718668619792,
+              "t": 571.3941650390625,
+              "r": 449.4578043619792,
+              "b": 585.8225911458334,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 7,
+            "end_row_offset_idx": 8,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "3.5(3-4)",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 131.359375,
+              "t": 586.1925455729166,
+              "r": 292.81561279296875,
+              "b": 600.9909261067709,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 8,
+            "end_row_offset_idx": 9,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Return normal activities, (day)",
+            "column_header": false,
+            "row_header": true,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 407.6125081380208,
+              "t": 586.1925455729166,
+              "r": 449.0874837239583,
+              "b": 600.2510172526041,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 8,
+            "end_row_offset_idx": 9,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "9.3±5.8",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          }
+        ],
+        "num_rows": 9,
+        "num_cols": 2,
+        "orientation": "rot_0",
+        "grid": [
+          [
+            {
+              "bbox": {
+                "l": 131.359375,
+                "t": 466.3256022135417,
+                "r": 230.97342936197916,
+                "b": 479.6441650390625,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Postoperative data",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 409.4640706380208,
+                "t": 465.9556477864583,
+                "r": 447.2359212239583,
+                "b": 481.4939371744792,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Range",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 131.359375,
+                "t": 481.4939371744792,
+                "r": 357.25,
+                "b": 495.5524088541667,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Number of analgesics injections per patient",
+              "column_header": false,
+              "row_header": true,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 409.09375,
+                "t": 480.3840738932292,
+                "r": 447.6062418619792,
+                "b": 497.0322672526042,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "1-8 inj.",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 214.30936686197916,
+                "t": 497.0322672526042,
+                "r": 275.41092936197913,
+                "b": 509.6108805338542,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Pain scores",
+              "column_header": false,
+              "row_header": false,
+              "row_section": true,
+              "fillable": false
+            },
+            {
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 227.27030436197916,
+                "t": 511.0907389322917,
+                "r": 261.7093709309896,
+                "b": 525.8891194661458,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Day 1",
+              "column_header": false,
+              "row_header": true,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 417.9812418619792,
+                "t": 510.7207438151042,
+                "r": 438.71875,
+                "b": 525.5191650390625,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "3.5",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 226.89999389648438,
+                "t": 525.5191650390625,
+                "r": 262.44999186197913,
+                "b": 541.0574544270833,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Day 3",
+              "column_header": false,
+              "row_header": true,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 418.7218831380208,
+                "t": 525.8891194661458,
+                "r": 439.0890706380208,
+                "b": 540.6875,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "1.6",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 131.359375,
+                "t": 541.79736328125,
+                "r": 341.32655843098956,
+                "b": 555.8558349609375,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 5,
+              "end_row_offset_idx": 6,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Nasogastric tube duration, (day) (range)",
+              "column_header": false,
+              "row_header": true,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 410.5749918619792,
+                "t": 540.3175455729167,
+                "r": 445.7546793619792,
+                "b": 557.335693359375,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 5,
+              "end_row_offset_idx": 6,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "2(2-3)",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 131.359375,
+                "t": 556.5957438151042,
+                "r": 292.81561279296875,
+                "b": 571.3941650390625,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 6,
+              "end_row_offset_idx": 7,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Resume diet day, (day) (range)",
+              "column_header": false,
+              "row_header": true,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 410.5749918619792,
+                "t": 555.4858805338542,
+                "r": 446.125,
+                "b": 572.1340738932291,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 6,
+              "end_row_offset_idx": 7,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "4(3-5)",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 131.359375,
+                "t": 571.7641194661459,
+                "r": 312.8125,
+                "b": 586.1925455729166,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 7,
+              "end_row_offset_idx": 8,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Postop. hospital stay, (day) (range)",
+              "column_header": false,
+              "row_header": true,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 406.8718668619792,
+                "t": 571.3941650390625,
+                "r": 449.4578043619792,
+                "b": 585.8225911458334,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 7,
+              "end_row_offset_idx": 8,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "3.5(3-4)",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 131.359375,
+                "t": 586.1925455729166,
+                "r": 292.81561279296875,
+                "b": 600.9909261067709,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 8,
+              "end_row_offset_idx": 9,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Return normal activities, (day)",
+              "column_header": false,
+              "row_header": true,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 407.6125081380208,
+                "t": 586.1925455729166,
+                "r": 449.0874837239583,
+                "b": 600.2510172526041,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 8,
+              "end_row_offset_idx": 9,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "9.3±5.8",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ]
+        ]
+      },
+      "annotations": []
+    },
+    {
+      "self_ref": "#/tables/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/61"
+        }
+      ],
+      "content_layer": "body",
+      "label": "table",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 126.84156799316406,
+            "t": 125.568115234375,
+            "r": 460.1250915527344,
+            "b": 67.23822021484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/61"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "data": {
+        "table_cells": [
+          {
+            "bbox": {
+              "l": 127.65625,
+              "t": 727.5171305338541,
+              "r": 289.11248779296875,
+              "b": 741.945556640625,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Post operative complications",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 356.5093587239583,
+              "t": 726.7772216796875,
+              "r": 449.828125,
+              "b": 742.3155110677084,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Patients no. (%)",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 129.5078125,
+              "t": 745.2752278645834,
+              "r": 214.30936686197916,
+              "b": 758.2237955729166,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Chest infection",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 377.2468668619792,
+              "t": 744.5352376302084,
+              "r": 429.4609375,
+              "b": 760.0735677083334,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "2(0.95%)",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 128.76718648274738,
+              "t": 763.4032389322916,
+              "r": 315.7750040690104,
+              "b": 776.7217610677084,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Postoperative leak and peritonitis",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 378.35780843098956,
+              "t": 762.2933756510416,
+              "r": 429.0906168619792,
+              "b": 777.8316243489584,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "1(0.48%)",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          }
+        ],
+        "num_rows": 3,
+        "num_cols": 2,
+        "orientation": "rot_0",
+        "grid": [
+          [
+            {
+              "bbox": {
+                "l": 127.65625,
+                "t": 727.5171305338541,
+                "r": 289.11248779296875,
+                "b": 741.945556640625,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Post operative complications",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 356.5093587239583,
+                "t": 726.7772216796875,
+                "r": 449.828125,
+                "b": 742.3155110677084,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Patients no. (%)",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 129.5078125,
+                "t": 745.2752278645834,
+                "r": 214.30936686197916,
+                "b": 758.2237955729166,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Chest infection",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 377.2468668619792,
+                "t": 744.5352376302084,
+                "r": 429.4609375,
+                "b": 760.0735677083334,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "2(0.95%)",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 128.76718648274738,
+                "t": 763.4032389322916,
+                "r": 315.7750040690104,
+                "b": 776.7217610677084,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Postoperative leak and peritonitis",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 378.35780843098956,
+                "t": 762.2933756510416,
+                "r": 429.0906168619792,
+                "b": 777.8316243489584,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "1(0.48%)",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ]
+        ]
+      },
+      "annotations": []
+    }
+  ],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 595.0,
+        "height": 850.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 595.0,
+        "height": 850.0
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 595.0,
+        "height": 850.0
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 595.0,
+        "height": 850.0
+      },
+      "page_no": 4
+    },
+    "5": {
+      "size": {
+        "width": 595.0,
+        "height": 850.0
+      },
+      "page_no": 5
+    },
+    "6": {
+      "size": {
+        "width": 595.0,
+        "height": 850.0
+      },
+      "page_no": 6
+    },
+    "7": {
+      "size": {
+        "width": 595.0,
+        "height": 850.0
+      },
+      "page_no": 7
+    },
+    "8": {
+      "size": {
+        "width": 595.0,
+        "height": 850.0
+      },
+      "page_no": 8
+    }
+  }
+}

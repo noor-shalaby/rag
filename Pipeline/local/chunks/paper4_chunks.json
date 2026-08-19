@@ -1,0 +1,892 @@
+[
+  {
+    "content": "Background: Since the introduction of the laparoscopic appendectomy, it has become an alternative method of treatment to an open appendectomy because of less pain, less abdominal scarring, and quick recovery to daily life. Looking for ways to take advantage of the benefits of laparoscopic surgery has led some surgeons to start performing appendectomy utilizing the single incision laparoscopic surgery.\nMethods: 30 patients (12 males, 18 females) underwent single port laparoscopic appendectomy using the Covidien port through an incision of 2cm made just infraumbilical. With the use of ligasure for dissection and extracorporeal knot for the stump the appendix was removed.\nResults: All the 30 patients with age rangingfrom 18 to 50 years were successfully operated upon. The operative time range was 50 to 80 minutes. All were discharged 24 hours after operation. 2 patients (6, 66%) presented with postoperative complications, one case with umbilical wound infection and the other with postoperative pelvic collection.\nConclusion: Single port laparoscopic appendectomy is feasible and safe in acute appendicitis without mass or abcess formation.\n\n[Next context]\nAppendicitis is the most common intra­ abdominal condition requiring emergency surgery and carries a lifetime risk of 6%.1 Open surgery using the right lower quadrant incision has long been the gold standard.In 1983, Kurt Semm performed the first laparoscopic appendectomy.2 It has become an",
+    "metadata": {
+      "document_id": "paper4",
+      "source": "paper4.pdf",
+      "topic": "Abstract",
+      "headings": [
+        "Abstract"
+      ],
+      "chunk_index": 1,
+      "total_chunks": 8,
+      "pages": [
+        1
+      ],
+      "docling": {
+        "doc_items": [
+          {
+            "self_ref": "#/texts/4",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 1,
+                "bbox": {
+                  "l": 70.56,
+                  "t": 617.93489953125,
+                  "r": 531.11776384,
+                  "b": 552.0818668039773,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  440
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/5",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 1,
+                "bbox": {
+                  "l": 70.56,
+                  "t": 547.91489953125,
+                  "r": 530.826955264,
+                  "b": 510.3218668039773,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  292
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/6",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 1,
+                "bbox": {
+                  "l": 70.56,
+                  "t": 506.27489953125,
+                  "r": 530.8195459839999,
+                  "b": 454.40186680397727,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  379
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/7",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 1,
+                "bbox": {
+                  "l": 70.56,
+                  "t": 450.29489953125005,
+                  "r": 530.56779136,
+                  "b": 426.3818668039773,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  126
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "overlap": {
+        "enabled": true,
+        "ratio": 0.25,
+        "previous_context": false,
+        "next_context": true
+      }
+    }
+  },
+  {
+    "content": "[Previous context]\n24 hours after operation. 2 patients (6, 66%) presented with postoperative complications, one case with umbilical wound infection and the other with postoperative pelvic collection.\nConclusion: Single port laparoscopic appendectomy is feasible and safe in acute appendicitis without mass or abcess formation.\n\nAppendicitis is the most common intra­ abdominal condition requiring emergency surgery and carries a lifetime risk of 6%.1 Open surgery using the right lower quadrant incision has long been the gold standard.In 1983, Kurt Semm performed the first laparoscopic appendectomy.2 It has become an alternative method of treatment to open appendectomy because of less pain, less abdominal scarring & quick recovery to daily life.3 Since then, several different modifications to laparoscopic appendectomy were developed. In order to decrease abdominal incision & visible scars,2 recent research has led to the development of natural orifice1ranslnminal endoscopic surgery (NOTES).l Transumbilical single port laparoscopic surgery is virtually scarless as the intraabdominal entry point is hidden in the umbilicus. I A number of advantages have been proposed related to this approach which include cosmesis (scarless abdominal surgery performed through an umbilical incision), less incisional pain and the ability to convert to standard multiport laparoscopic surgery if needed.4\nOur aim of this study is to test the feasibility and safety of the single incision laparoscopic surgery (SILS) in the treatment of acute appendicitis.\n\n[Next context]\nFrom March 2010 till January 2011, 30 patients (12 males, 18 females) with age ranging between 18-50 years were referred to our",
+    "metadata": {
+      "document_id": "paper4",
+      "source": "paper4.pdf",
+      "topic": "Introduction:",
+      "headings": [
+        "Introduction:"
+      ],
+      "chunk_index": 2,
+      "total_chunks": 8,
+      "pages": [
+        1
+      ],
+      "docling": {
+        "doc_items": [
+          {
+            "self_ref": "#/texts/9",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 1,
+                "bbox": {
+                  "l": 70.56,
+                  "t": 344.90337953125004,
+                  "r": 295.204727936,
+                  "b": 55.50465953125001,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  980
+                ]
+              },
+              {
+                "page_no": 1,
+                "bbox": {
+                  "l": 307.4,
+                  "t": 358.94337953125,
+                  "r": 531.5043097599998,
+                  "b": 307.38465953125,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  981,
+                  1135
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/10",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 1,
+                "bbox": {
+                  "l": 307.4,
+                  "t": 302.91345953125006,
+                  "r": 531.2897171200001,
+                  "b": 251.28465953124999,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  161
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "overlap": {
+        "enabled": true,
+        "ratio": 0.25,
+        "previous_context": true,
+        "next_context": true
+      }
+    }
+  },
+  {
+    "content": "[Previous context]\nthrough an umbilical incision), less incisional pain and the ability to convert to standard multiport laparoscopic surgery if needed.4\nOur aim of this study is to test the feasibility and safety of the single incision laparoscopic surgery (SILS) in the treatment of acute appendicitis.\n\nFrom March 2010 till January 2011, 30 patients (12 males, 18 females) with age ranging between 18-50 years were referred to our ER at Ain Shams University El Demerdash hospital. They were diagnosed as acute appendicitis depending upon history, physical examinations, laboratory studies and imaging techniques (pelviabdominal U/S). All patients underwent laparoscopic appendectomy using the single port (Covidien) transumbilical technique.\nPreoperatively every patient had a single dose of 3rd generation cephalosporin and was asked to empty the bladder and if necessary the bladder was catheterized after onset of anaesthesia.\n\n[Next context]\nThe operation was carried out under general anaesthesia via endotracheal intubation.The umbilicus was cleaned out with povidone iodine. Pneumoperitoneum was established using the V eress needle then an incision of 2cm was made transumbilical and the single port was introduced through",
+    "metadata": {
+      "document_id": "paper4",
+      "source": "paper4.pdf",
+      "topic": "Patients and methods:",
+      "headings": [
+        "Patients and methods:"
+      ],
+      "chunk_index": 3,
+      "total_chunks": 8,
+      "pages": [
+        1,
+        2
+      ],
+      "docling": {
+        "doc_items": [
+          {
+            "self_ref": "#/texts/12",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 1,
+                "bbox": {
+                  "l": 307.4,
+                  "t": 219.08337953125,
+                  "r": 531.4599911680001,
+                  "b": 69.72465953125004,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  481
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/15",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 2,
+                "bbox": {
+                  "l": 70.08,
+                  "t": 780.24337953125,
+                  "r": 295.10286464,
+                  "b": 714.6446595312501,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  202
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "overlap": {
+        "enabled": true,
+        "ratio": 0.25,
+        "previous_context": true,
+        "next_context": true
+      }
+    }
+  },
+  {
+    "content": "[Previous context]\nof 3rd generation cephalosporin and was asked to empty the bladder and if necessary the bladder was catheterized after onset of anaesthesia.\n\nThe operation was carried out under general anaesthesia via endotracheal intubation.The umbilicus was cleaned out with povidone iodine. Pneumoperitoneum was established using the V eress needle then an incision of 2cm was made transumbilical and the single port was introduced through the incision. Exploration of the abdomen and pelvis was performed via 5mm 0 degree telescope then a\nFigure (1) (A)\n5mm nontraumatic grasper was introduced through another channel to grasp the appendix. After dissection of mesoappendix using the ligasure, anextiacorporeal knot was introduced to occlude the appendicular stump. Using the ligasure the appendix was separated and extracted from the abdomen through the incision. Suction irrigation of any reactional fluid was done followed by closure of the umbilicus in layers as a final step.\nPostoperatively patients continued on antibiotictherapy and ketoprofen for pain relief. All patients were discharged after 24hours to be followed in our outpatient clinic 5 days postoperative.\nFigure (1) (B)\nFigure (2)\nFigure(l): A,B: Dissection o[me&oappendix. Figure(2): Removal of the appendix with Ligasure.\n\n[Next context]\nThe 30 patients (12 males 400/o,18 females 60%) completed the single port laparoscopic appendectomy. Operative time ranged from (50 to 80) minutes. Postoperative enteral",
+    "metadata": {
+      "document_id": "paper4",
+      "source": "paper4.pdf",
+      "topic": "Surgi  al tKhnique:",
+      "headings": [
+        "Surgi  al tKhnique:"
+      ],
+      "chunk_index": 4,
+      "total_chunks": 8,
+      "pages": [
+        2
+      ],
+      "docling": {
+        "doc_items": [
+          {
+            "self_ref": "#/texts/17",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 2,
+                "bbox": {
+                  "l": 70.08,
+                  "t": 682.6633795312499,
+                  "r": 294.432265472,
+                  "b": 561.3846595312501,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  405
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/18",
+            "label": "caption",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 2,
+                "bbox": {
+                  "l": 103.02,
+                  "t": 358.35489953125006,
+                  "r": 175.22,
+                  "b": 348.4218668039773,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  14
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/19",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 2,
+                "bbox": {
+                  "l": 307.1,
+                  "t": 780.24337953125,
+                  "r": 531.6745016320001,
+                  "b": 644.5446595312501,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  464
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/20",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 2,
+                "bbox": {
+                  "l": 307.1,
+                  "t": 640.6633795312499,
+                  "r": 531.9457076799999,
+                  "b": 574.7046595312501,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  202
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/21",
+            "label": "caption",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 2,
+                "bbox": {
+                  "l": 244.04,
+                  "t": 358.35489953125006,
+                  "r": 315.74,
+                  "b": 348.4218668039773,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  14
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/22",
+            "label": "caption",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 2,
+                "bbox": {
+                  "l": 409.06,
+                  "t": 358.35489953125006,
+                  "r": 459.47812902399994,
+                  "b": 348.4218668039773,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  10
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/23",
+            "label": "caption",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 2,
+                "bbox": {
+                  "l": 174.02,
+                  "t": 338.79489953125005,
+                  "r": 417.40609638399997,
+                  "b": 316.9218668039773,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  93
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "overlap": {
+        "enabled": true,
+        "ratio": 0.25,
+        "previous_context": true,
+        "next_context": true
+      }
+    }
+  },
+  {
+    "content": "[Previous context]\npatients continued on antibiotictherapy and ketoprofen for pain relief. All patients were discharged after 24hours to be followed in our outpatient clinic 5 days postoperative.\nFigure (1) (B)\nFigure (2)\nFigure(l): A,B: Dissection o[me&oappendix. Figure(2): Removal of the appendix with Ligasure.\n\nThe 30 patients (12 males 400/o,18 females 60%) completed the single port laparoscopic appendectomy. Operative time ranged from (50 to 80) minutes. Postoperative enteral feeding was regained within 8 to 10 hours. During follow up one case (3.3%) had wound infection on 5th day postoperative but responded to daily dressing and antibiotic therapy according to culture and sensitivity. Another case (3.3%) was found to have pelvic collection on day 7 postoperative as he presented with persistent fever and abdominal pain.He was diagnosed with U/S and needed U/S guided aspiration and treatment with 3rd generation cephalosporins and metronidazole\n\n[Next context]\nOpen appendectomy was the gold standard treatment for appendicitis as described by Me Burney in 1894.A promising alternative was started by Semm in 1983 during the laparosoopic era.2Laparoscopic appendectomy offers many advantages, exploration of the abdominal cavity especially the internal genital organs in females.Also reduced postoperative pain, shorter hospital stay and earlier return to work. 5 With the development of advanced laparoscopic equipment and improved laparoscopic skills the procedure has become more popular. Looking for ways to take the advantages of the laparoscopic appendectomy, many surgeons start to perform single incision and single port laparoscopic appendectomy.\nIn 2007, Zhu from China reported his first experience using the umbilicus to",
+    "metadata": {
+      "document_id": "paper4",
+      "source": "paper4.pdf",
+      "topic": "Results:",
+      "headings": [
+        "Results:"
+      ],
+      "chunk_index": 5,
+      "total_chunks": 8,
+      "pages": [
+        2
+      ],
+      "docling": {
+        "doc_items": [
+          {
+            "self_ref": "#/texts/25",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 2,
+                "bbox": {
+                  "l": 70.08,
+                  "t": 282.0833795312501,
+                  "r": 294.75246310400007,
+                  "b": 75.90465953124999,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  694
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "overlap": {
+        "enabled": true,
+        "ratio": 0.25,
+        "previous_context": true,
+        "next_context": true
+      }
+    }
+  },
+  {
+    "content": "[Previous context]\npresented with persistent fever and abdominal pain.He was diagnosed with U/S and needed U/S guided aspiration and treatment with 3rd generation cephalosporins and metronidazole\n\nOpen appendectomy was the gold standard treatment for appendicitis as described by Me Burney in 1894.A promising alternative was started by Semm in 1983 during the laparosoopic era.2Laparoscopic appendectomy offers many advantages, exploration of the abdominal cavity especially the internal genital organs in females.Also reduced postoperative pain, shorter hospital stay and earlier return to work. 5 With the development of advanced laparoscopic equipment and improved laparoscopic skills the procedure has become more popular. Looking for ways to take the advantages of the laparoscopic appendectomy, many surgeons start to perform single incision and single port laparoscopic appendectomy.\nIn 2007, Zhu from China reported his first experience using the umbilicus to access the peritoneal cavity.6 Single incision laparoscopic surgery reduced the traditional three incisions with three ports to single skin incision with two or three ports through separate fascial incisions. Single incision has been evolved to single skin incision with single fascial incision through which a device is inserted or even glove that can hold several ports.7 In our series the operative time was 50 to 80 minutes, slightly longer than that found by Chow et al.8 The operative time in his study (60 minutes) was found to be less than in traditionallaparoscopic appendectomy. Also Vidal et al9 demonstrated in his results that the time (46 minutes) was similar between the single port and the three ports technique. We referred the longer operative time to the fact of the learning curve due to the restricted degree of freedom of the movement through the single port (crowding of the instruments).In spite that port site hernia is rare complication following laparoscopic surgery, Tonouchi et ailO reported that the incidence of port site hernia was 0.65%-2.8% and the risk is higher in single port due to larger incision length and stretching of the fasia with the bigger umbilical port. Fortunately we did not have such a complication. In his study of 43 patients, Kim et alll reported three cases of umbilical wound infection and one case needed aspiration of fluid collection. Park et ail revealed one case of wound infection and one case of intrabdominal abscess that was in conjunction with our study. We had one case of wound infection which presented on the 5th day postoperative and one case of intra abdominal fluid collection on the 7th day. Better cosmetic results were similar to the other series as the visible scar can be avoided through the umbilical incision. Finally there is limitation in our study concerning type of pathology as the complicated appendicitis is excluded (appendicular mass, appendicular abscess). We hope in other work to include all the appendix pathology.\n\n[Next context]\nFrom the obtained results we found that",
+    "metadata": {
+      "document_id": "paper4",
+      "source": "paper4.pdf",
+      "topic": "Dis ussion:",
+      "headings": [
+        "Dis ussion:"
+      ],
+      "chunk_index": 6,
+      "total_chunks": 8,
+      "pages": [
+        2,
+        3
+      ],
+      "docling": {
+        "doc_items": [
+          {
+            "self_ref": "#/texts/27",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 2,
+                "bbox": {
+                  "l": 307.04,
+                  "t": 282.02337953125004,
+                  "r": 532.6403345919999,
+                  "b": 62.46465953125005,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  742
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/30",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 3,
+                "bbox": {
+                  "l": 70.56,
+                  "t": 780.97345953125,
+                  "r": 295.115129216,
+                  "b": 142.86465953125003,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  2266
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "overlap": {
+        "enabled": true,
+        "ratio": 0.25,
+        "previous_context": true,
+        "next_context": true
+      }
+    }
+  },
+  {
+    "content": "[Previous context]\ninfection and one case needed aspiration of fluid collection. Park et ail revealed one case of wound infection and one case of intrabdominal abscess that was in conjunction with our study. We had one case of wound infection which presented on the 5th day postoperative and one case of intra abdominal fluid collection on the 7th day. Better cosmetic results were similar to the other series as the visible scar can be avoided through the umbilical incision. Finally there is limitation in our study concerning type of pathology as the complicated appendicitis is excluded (appendicular mass, appendicular abscess). We hope in other work to include all the appendix pathology.\n\nFrom the obtained results we found that single port laparoscopic appendectomy is feasible and safe in cases of non complicated appendicitis. Further studies are needed for complicated appendicitis.\n\n[Next context]\n- 1- Park JH, Hyun KH, Park CH, Choi SY, Choi WH, Kim DJ, Lee S, Kim JS: Laparoscopic vs transumbilical single-port laparoscopic appendectomy: Results of prospective randomized trial. J Korean Surg Soc 2010; 78: 213-218.\n- 2- Sesia SB, Haecker FM, Kubiack R, Mayr J: Laparoscopy-assisted single-port appendectomy in children: Is the postoperative infectious complication rate different? J Lap & Adv Surg Tech 2010; 20: 867-871.\n- 3- Pedersen AG, Petersen",
+    "metadata": {
+      "document_id": "paper4",
+      "source": "paper4.pdf",
+      "topic": "Conclusion:",
+      "headings": [
+        "Conclusion:"
+      ],
+      "chunk_index": 7,
+      "total_chunks": 8,
+      "pages": [
+        3
+      ],
+      "docling": {
+        "doc_items": [
+          {
+            "self_ref": "#/texts/32",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 3,
+                "bbox": {
+                  "l": 70.56,
+                  "t": 111.02337953125004,
+                  "r": 295.285952,
+                  "b": 59.16465953124998,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  191
+                ]
+              },
+              {
+                "page_no": 3,
+                "bbox": {
+                  "l": 307.4,
+                  "t": 780.96337953125,
+                  "r": 432.46,
+                  "b": 771.0446595312501,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  192,
+                  218
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "overlap": {
+        "enabled": true,
+        "ratio": 0.25,
+        "previous_context": true,
+        "next_context": true
+      }
+    }
+  },
+  {
+    "content": "[Previous context]\nFurther studies are needed for complicated appendicitis.\n\n- 1- Park JH, Hyun KH, Park CH, Choi SY, Choi WH, Kim DJ, Lee S, Kim JS: Laparoscopic vs transumbilical single-port laparoscopic appendectomy: Results of prospective randomized trial. J Korean Surg Soc 2010; 78: 213-218.\n- 2- Sesia SB, Haecker FM, Kubiack R, Mayr J: Laparoscopy-assisted single-port appendectomy in children: Is the postoperative infectious complication rate different? J Lap & Adv Surg Tech 2010; 20: 867-871.\n- 3- Pedersen AG, Petersen OB, Wara P, Ronning H, Qvist N, Laurberg S: Randomized clinical trial of laparoscopic versus open appendicectomy. Br J Surg 2001; 88: 200-205.\n- 4- Dutta S: Early experience with single incision laparoscopic surgery: Eliminating the scar from abdominal operations. J Ped Surg2009: 4;9: 1741-1745.\n- 5Hong TH, Kim HL, Lee YS, Kim JJ, Lee KH, You YK, Oh SJ, Park SM: Transumbilical single-port laparoscopic appendectomy (TUSPLA): Scarless intracorporeal appendectomy. J Laparoendosc Adv Surg Tech 2009; 19: 75-78.\n- 6- Zhu JF: Scarless endoscopic surgery: NOTES or TUES. Surg Endosc 2007; 21: 1898-1899.\n- 7- John R, Romanelli AE, David B E: Single­ port laparoscopic surgery: An overview. Surg Endosc 2009; 23: 1419-1427.\n- 8- Chow A, Purkayastha S, Nehme J, Darzi LA, Paraskeva P: Single incision laparoscopic surgery for appendectomy: A retrospective comparative analysis. Surg End2010.\n- 9- Vidal 0, Valentini M, Ginesta C, Mart J, Juan J, Espert AE, Benarroch G, Juan C, Valdecasas G: Laparoendoscopic single­ site surgery appendectomy. Surg Endosc 2010; 24: 686-691.\n- 10-Tonouchi H, Ohmori Y, Kobayashi M, Kusunoki M: Trocar site hernia. Arch Surg 2004; 139: 1248-1256.\n- 11-Kim HJ, Lee ll, Lee YS, Lee IK, Park JH, Lee SK, Kang WK., Cho HM, You YK, Oh ST: Single-port transumbilical\n- laparoscopic appendectomy: 43 consecutive cases. Surg Endosc 2010; 24: 2765-2769.",
+    "metadata": {
+      "document_id": "paper4",
+      "source": "paper4.pdf",
+      "topic": "References:",
+      "headings": [
+        "References:"
+      ],
+      "chunk_index": 8,
+      "total_chunks": 8,
+      "pages": [
+        3,
+        4
+      ],
+      "docling": {
+        "doc_items": [
+          {
+            "self_ref": "#/texts/34",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 3,
+                "bbox": {
+                  "l": 308.84,
+                  "t": 739.20337953125,
+                  "r": 532.37095,
+                  "b": 659.2211104403409,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  237
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/35",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 3,
+                "bbox": {
+                  "l": 307.4,
+                  "t": 655.24337953125,
+                  "r": 531.5528998719998,
+                  "b": 575.36465953125,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  224
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/36",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 3,
+                "bbox": {
+                  "l": 307.4,
+                  "t": 571.24337953125,
+                  "r": 531.16162048,
+                  "b": 505.70465953125,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  190
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/37",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 3,
+                "bbox": {
+                  "l": 307.4,
+                  "t": 501.58337953125005,
+                  "r": 530.340241792,
+                  "b": 449.5811104403409,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  162
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/38",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 3,
+                "bbox": {
+                  "l": 308.12,
+                  "t": 445.55489953125004,
+                  "r": 532.5699999999999,
+                  "b": 351.96465953125,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  237
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/39",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 3,
+                "bbox": {
+                  "l": 307.4,
+                  "t": 347.90337953125004,
+                  "r": 529.7318640639999,
+                  "b": 309.90465953125,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  92
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/40",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 3,
+                "bbox": {
+                  "l": 307.4,
+                  "t": 305.78337953125003,
+                  "r": 532.9508128000001,
+                  "b": 267.7611104403409,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  130
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/41",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 3,
+                "bbox": {
+                  "l": 308.12,
+                  "t": 263.78337953125003,
+                  "r": 531.7852887039999,
+                  "b": 197.80111044034095,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  182
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/42",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 3,
+                "bbox": {
+                  "l": 307.4,
+                  "t": 194.24337953124996,
+                  "r": 530.5924913919999,
+                  "b": 128.16465953124998,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  190
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/43",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 3,
+                "bbox": {
+                  "l": 308.84,
+                  "t": 124.46337953124998,
+                  "r": 531.9709822719998,
+                  "b": 86.46465953125005,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  106
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/46",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 4,
+                "bbox": {
+                  "l": 72.0,
+                  "t": 781.3665795312501,
+                  "r": 295.339983872,
+                  "b": 743.08465953125,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  123
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/47",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 4,
+                "bbox": {
+                  "l": 324.7,
+                  "t": 780.96337953125,
+                  "r": 525.89008,
+                  "b": 757.0618668039773,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  81
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "overlap": {
+        "enabled": true,
+        "ratio": 0.25,
+        "previous_context": true,
+        "next_context": false
+      }
+    }
+  }
+]

@@ -1,0 +1,170 @@
+## Open  versus  Laparoscopic  Intraperitoneal  Onlay  Mesh  for  Repair  of Spigelian Hernia: A Prospective Study
+
+Mohammed Attia Elsayed, MD; Mohammed Shaaban Khalifa, MD; Wadie Boshra MD, MRCS Department of General Surgery, Ain Shams University, Egypt
+
+Background: Is to describe the pathological, clinical and radiological features of Spigelian hernia, and to compare between open and laparoscopic methods of its surgical treatment.
+
+Patients and methods: We describe the clinical management of 20 cases of Spigelian hernias as regard patient complaint, clinical examination, radiological investigations, and the surgical approach that was randomly performed either open or laparoscopic intraperitoneal only mesh.
+
+Results: In all cases, the suspicion aroused during the clinical examination of the patients, and it was confirmed via imaging techniques. 10 cases were treated through open surgical approach, no intraoperative or postoperative complications have occurred, 3 patients had postoperative small wound seroma which resolved spontaneously, Other10  cases  were  treated  through  laparoscopic  intraperitoneal  onlay  mesh  repair  with  no  intraoperative  or postoperative complications. No recurrences had been observed for both groups in 24  months period of the study.
+
+Conclusion: Spigelian hernia is a rare entity; its diagnosis is depending on a thorough clinical examination and must be confirmed by imaging studies especially CT scan which is the modality of choice for its diagnosis. Open surgical repair is considered the standard method for treatment due to its rarity but laparoscopic intraperitoneal onlay mesh repair is also safe and effective with shorter postoperative hospital stay.
+
+Key words: Abdominal  wall,  ventral  hernia,  Spigelian  hernia,  laparoscopic  intraperitoneal  onlay  mesh  repair, surgery.
+
+## Introduction
+
+Spigelian hernia is a rare entity of abdominal wall hernias  with  a  reported  incidence  of  2%.  The clinical manifestation is usually non-specific and can be easily missed, a significant proportion of patients present with incarceration of Spigelian hernia (SH) in their first visit. 1
+
+Spigelian hernia occurs through a slit like defects in the anterior abdominal wall adjacent to semilunar line, which extends from the tip of the ninth costal cartilage to the pubic spine at the lateral edge of rectus muscle inferiorly. Most of  Spigelian hernias occur  in  the  lower  abdomen  where  the  posterior sheath is deficient. The hernia ring is a well-defined defect  in  the  transversus  aponeurosis,  the  hernia sac  is  surrounded  by  extraperitoneal  fatty  tissue, and this sac is often interparietal passing through thetransversus and internal oblique aponeuroses and then spreading out beneath the intact aponeurosis of external oblique. 2
+
+Diagnosis of Spigelian hernia requires a high degree of  suspicion,  with  the  most  common  finding  on clinical examination being a lump at the semilunar line. Radiological tests are useful in confirming the diagnosis. 3
+
+Surgical  intervention  is  the  gold  standard  for  the management of SH. The SH has been repaired by both  conventional  and  laparoscopic  approaches, Over the past decade there has been advancement in  minimally  invasive  techniques  for  repair  of  SH, with  a  reasonably  good  outcome.  A  number  of approaches  and  techniques  have  been  described. Yet,  there  was  no  agreed  consensus  on  the  best one.  Although,  open  repair  is  the  most  common approach used, laparoscopic techniques have been increasingly used. It includes intraperitoneal onlay mesh (IPOM), transabdominal preperitoneal repair and totally extraperitoneal repair. 4
+
+## Patients and methods
+
+Demographic,  clinical  and  surgical  data  of  the twenty  consecutive  patients  who  presented  with Spigelian  hernia  to  surgical  department  in  Ain Shams University hospitals (Cairo), Ibn Sina hospital (Jeddah) and El-Dar hospital (Medina) in the last 24
+
+months from July 2016 to July 2018 were reviewed. All  clinical  information  was  obtained  from  clinical records and referrals. All patients were subjected to imaging studies including abdominal ultrasound and Computed Tomography scan (CT scan) (Figure 2) to  confirm  the  diagnosis  and  evaluate  anatomical features like the size of the defect and the contents of the hernial sac.
+
+Fig 1: Clinically apparent Spigelian hernia on left side of abdomen.
+
+<!-- image -->
+
+Fig 2: CT image of anatomical defect in SH.
+
+<!-- image -->
+
+All patients were evaluated by routine blood investigation,  chest  x-ray  and  ECG.  All  patients signed preoperative written informed consent. Then  patients  were  randomly  classified  into 2 groups. The patients of the 1st group (10 patients) underwent open surgery with the use of prosthetic mesh placed on the sheath, while the patients of the 2nd group (10 patients) underwent laparoscopic intraperitoneal  onlay  mesh  repair  with  the  use  of double layer composite mesh.
+
+## Operative techniques: Open Surgical Approach
+
+All  operations  were  conducted  in  supine  position undergeneral  anesthesia,  transverse  incision  was sited over the protrusion, and the external oblique aponeurosis  was  incised  in  the  direction  of  fibers to  expose  the  peritoneal  sac.  In  most  cases,  the sac was inverted but in some cases the hernial sac was opened and the adhesions were sectioned then hernial  orifice  was  closed  with  nonabsorbable  sutures and reinforced via a prosthetic polypropylene mesh placed on sheath, in all cases, the contents were viable with surgical drain sited over the mesh.
+
+## Laparoscopic intraperitoneal onlay mesh repair
+
+Intraperitoneal access was performed using Veress needle. Once abdominal access was obtained, site of hernial orifice was readily identified and ports were placed at least 10 cm away from the hernial defect in the form of an arc of a circle whose center is the hernial defect. Contents were reduced from the sac and adhesiolysis was performed if required to free 5 cm around the defect for a double layer composite mesh (Symbotex, Autosuture; Covidien, Mansfield, Massachusetts,  USA)  to  be  placed.  The  mesh was  fixed  using  a  combination  of  transabdominal sutures  and  tacks  (Autosuture,  Tyco  health  care, US surgicals, CT, USA).The mesh was adjusted to cover 3-5 cm all around the defect. Two patient had coexistent paraumbilical hernia that was repaired at the same session.
+
+Fig 3: Laparoscopic view of the defect after reduction of the contents.
+
+<!-- image -->
+
+Fig 4: Laparoscopic view showing the mesh covering the defect during fixation with tackers.
+
+<!-- image -->
+
+Then all patients of both groups were instructed to come for regular follow up every 3 months where adequate  history was  taken  and  good  clinical examination was done in each visit, also abdominal ultrasound and / or CT scan was done if required to exclude suspected recurrence.
+
+All operative and postoperative data of the patients of both groups were collected and analyzed.
+
+Then both groups were compared as regard to the duration of surgery, intraoperative and postoperative complications,  length  of  hospital  stay,  number  of cases diagnosed by US and CT scan and recurrence rate.
+
+## Statistical analysis
+
+Data were collected, revised, coded and entered to the Statistical Package for Social Science (IBM SPSS) version  23.  Data  were  presented  as  percentages. The differences in surgical outcomes between the 2 groups were compared using the Pearson χ2 and Fisher  exact  tests.  P  values  were  reported  where the  results  were  considered  to  be  significant  (S) with p &lt;0.05, highly significant with p &lt; 0.01and non significant (NS) with p &gt; 0.05.
+
+## Results
+
+In our study, the mean age of the ten patients that were operated upon by open surgical technique was 56 y (40-72). Of these ten patients, 7 were females (70%) and 3 were males (30%), while the mean age of the ten patients that were operated upon by laparoscopic intraperitoneal onlay mesh repair was 54y (38-70). Of these 10 patients 6 were females (60%) and 4 were males (40%).
+
+For  the  patients  of  open  group  the  hernias  were located  in  the  left  side  in  6  patients  (60%)  and in the right side in 4 patients (40%) while for the laparoscopic group 8 hernias (80%) were located in the left side and 2 hernias (20%) were located in the right side.
+
+As  regard  to  the    patients  of  the  open  group  6 patients (60%) presented by a palpable abdominal lump (Figure 1) ,  2  patients  (20%)  presented  by abdominal  pain related to the site of hernia and 2 patients (20%) presented by palpable abdominal lump together with pain . As regard to the patients of the laparoscopic group 5 patients (50%) presented by palpable abdominal lump, 2 patients (20%) were presented by abdominal pain and 3 patients (30%) presented  by  palpable  abdominal  lump  together with  pain.  The  mean  period  of  symptoms  was  3y
+
+(2-5) years for the patients of open group and 5y (3-8) years for the patients of laparoscopic group.
+
+As regard to the open group 4 patients (40%) were hypertensive on medical treatment, 2patient (20%) were diabetic on regular insulin, 2 patients (20%) were hypertensive and diabetic on regular treatment and 3cases (30%) were obese with BMI&gt;40,while for  the  laparoscopic  group  2  patients(20%)  were hypertensive on medical treatment, 3 patients(30%) were  diabetic  one  on  regular  insulin  and  other on  oral  hypoglycemics  and  4  patients(40%)  were obese  with  BMI&gt;40.  all  patients  of  both  groups were controlled preoperative on medical treatment. The preoperative diagnosis was done clinically in 9 patients (90%) of the open group, and in 8 patients (80%)  of  the  laparoscopic  group.  The  diagnosis was confirmed with abdominal ultrasound (US) in 8 cases (80%) of the open group and in 7 cases (70%) of the laparoscopic group, diagnosis further confirmed  via  abdominal  computed  tomography scan (CT scan) (Figure 2) in all 10 cases (100%) in  the  open  group  and  in  9  cases  (90%)  of  the laparoscopic group. The mean defect diameter was found to be 6(3-12) cm for the open group and 4(39) cm for the laparoscopic group.
+
+The average range of operating time was 47minutes (29-70 minutes) for the open group and 42 minutes (30-56 minutes) for the laparoscopic group. Some patients  had  co  existent  other  abdominal  wall hernias,  as  regard  to  open  surgical  group  two patients had left sided inguinal hernia, one had left sided  femoral  hernias,  all  hernias  were  operated in the same session together with Spigelian hernia repair. As regard to laparoscopic group two patients had coexistent paraumbilical hernia that was repaired at the same session. The mean length of postoperative hospital stay was 4 days (2-7) days for the open group versus 1.3days (1-2 days). No intraoperative  complications  were  encountered  in both groups.
+
+Only  3cases  (30%)  of  the  open  surgical  group developed postoperative complications in the form of wound seroma that were controllable and treated conservatively  but  no  postoperative  complications noted  in  the  laparoscopic  group.  The  follow  up period was found to be 8 to 22 months (average 17 months). follow up was done in outpatient clinic for all patients of  both groups that had regular clinical assessment;  no  recurrence  was  detected  in  both groups with satisfactory postoperative outcome.
+
+Table 1: Demographic, clinical, radiological and operative data of patients of each group
+
+| Variable                               | Open Approach (n=10)   | Laparoscopic intraperitoneal onlay mesh (n=10)   | P Value    |
+|----------------------------------------|------------------------|--------------------------------------------------|------------|
+| Mean age                               | 56 y (40-72)           | 54 y (38-70)                                     | 0.42 (NS)  |
+| Gender (male/female)                   | 3/7                    | 4/6                                              | 0.59 (NS)  |
+| Side of hernia (Rt/Lt)                 | 4/6                    | 2/8                                              | 0.09 (NS)  |
+| Patient presentations:                 |                        |                                                  |            |
+| Palpable abdominal lump                | 6 (60%)                | 5 (50%)                                          | 0.9 ( NS)  |
+| Abdominal pain                         | 2 (20%)                | 2 (20%)                                          | 0.9 ( NS)  |
+| Palpable abdominal lump with pain      | 2 (20%)                | 3 (30%)                                          | 0.9 ( NS)  |
+| Mean period of symptoms                | 3y (2-5)               | 5y (3-8)                                         | 0.112(NS)  |
+| Mean defect diameter                   | 6 (3-12) cm            | 4 (3-9) cm                                       | 0.075(NS)  |
+| Mean follow up period                  | 17 months              | 17 months                                        | 0.075(NS)  |
+| Associated co morbidity                |                        |                                                  |            |
+| Hypertension                           | 4 (40%)                | 2 (20%)                                          |            |
+| Diabetes Mellitus                      | 2 (20%)                | 3 (30%)                                          | 0.8(NS)    |
+| Hypertension with Diabetes             | 2 (20%)                | 0                                                | 0.8(NS)    |
+| Obesity                                | 3 (30%)                | 4 (40%)                                          | 0.8(NS)    |
+| Sensitivity of Diagnostic modalities:  |                        |                                                  |            |
+| Abdominal US                           | 8 cases (80%)          | 7 cases (70%)                                    | 0.08 (NS)  |
+| Abdominal CT scan                      | 10 cases (100%)        | 9 cases (90%)                                    | 0.08 (NS)  |
+| Other coexistent hernia                | 2 cases (20%)          | 2 case (20%)                                     | >0.05 (NS) |
+| Average duration of operation(min)     | 47 (29-70)             | 42 (30-56)                                       | 0.07 (NS ) |
+| Intraoperative complications           | 0                      | 0                                                | NS         |
+| Postoperative complications            | 3 (30%)                | 0                                                | <0.05 (S)  |
+| Average length of postoperative hospi- | 4 (2-7)                | 1.3 (1-2)                                        | <0.01 (HS) |
+| tal stay (days)                        |                        |                                                  |            |
+| Recurrence                             | 0                      | 0                                                | NS         |
+
+## Discussion
+
+Spigelian hernia is named after (ArianeVanSpigel) 5 who  described  the  semilunar  line,  whoever  the hernia was first described by (KlinKosch) in 1764. The hernia appears to peak in the 4th to7th decades, the male to female ratio is 1: 1.8. Spigelian hernias are very uncommon and constitute only 0.12% of all abdominal wall hernias. 6 Spigelian hernia can be congenital or acquired. The Spigelian aponeurosis is widest between 0-6 cm cranial to the interspinous plane and 85-90% of the hernias occur within the Spigelian hernia belt. 7
+
+Spigelian hernias represent between 0.1 and 2% of all abdominal wall hernias and are more frequent in older people (40-70 year old), especially in women, and are very occasionally bilateral. 8 In our study the mean age for the open group was 56 years and was 54 years for the laparoscopic group. Female cases were 7 of 10 (70%) of open group and were 6 of 10 (60%) of laparoscopic group. All these reports were consistent with other series which stated that SH is most commonly seen in the middle age group and more frequently in females with a ratio of 1.4:1. 9
+
+The  diagnosis  of  Spigelian  hernia  is  difficult  and few  surgeons  suspect  it,  it  has  no  characteristics symptoms and the hernia may be interparietal with no obvious mass on inspection or palpation. Only 50% of cases are diagnosed preoperatively. 10
+
+In our study the preoperative diagnosis was done clinically in 9 patients (90%) of the open group, and in 8 patients (80%) of the laparoscopic group. As regard, the patients of the open group; 6patients (60%) presented by a palpable abdominal lump, 2 patients (20%) presented by abdominal pain related to the site of hernia and 2 patients (20%) presented by palpable abdominal lump together with pain. As regard  to  the  patients  of  the  Laparoscopic  group 5 patients (50%) presented by palpable abdominal lump,  2  patients  (20%)  presented  by  abdominal pain and 3 patients (30%) presented by palpable abdominal lump together with pain. These figures were comparable with the results of a retrospective study done by (Larson and Farley) 11 at Mayo clinic that documented that 35% of their patients had a palpable  swelling,  24%  had  abdominal  pain,  and only 6% were completely asymptomatic.
+
+Ultrasound  is  recommended  as  first  line  imaging investigation,  with  this  aid,  the  correct  diagnosis was  obtained  in  8  of  10  patients  (80%)  of  the open group and in 7 of 10 patients (70%) of the laparoscopic  group  were  studied.  The  advantages of  real  time  ultrasonography  are  the  ability  to perform  examination  in  both  supine  and  up  right positions, and while the patient performs a Valsalva maneuver. 12 CT  scan  with  close  thin  sections  is considered the most reliable technique to make the diagnosis in doubtful cases. The use of oral contrast medium during the examination is recommended, so that any bowel content can be identified. 13  CT scan confirms the diagnosis in 10 of 10 patients (100%) of the open surgical group and in 9 of 10 patients (90%) of laparoscopic group which indicates much higher  sensitivity  of  CT  scan  in  comparison  to ultrasound  in  diagnosing  Spigelian  hernia.  These results  were  comparable  with  other  series. 14 In another study CT is reported to have a sensitivity of  100%  and  a  positive  predictive  value  (PPV)  of 100%, whereas ultrasonography has a sensitivity of 90% and a PPV of 100%, and clinical assessment alone has a sensitivity of 100% and a PPV of 36%. 15 The differential diagnosis includes appendicitis and appendicular  abscess,  abdominal  wall  tumors  or spontaneous  hematoma  of  rectus  sheath  or  even acute diverticulitis. 16
+
+As regard location of hernia, 6 patients (60%) of the open group had SH on left side, which is more frequent as compared to contra lateral side, while 4  patients  (40%)  had  hernia  on  right  side,  while for the laparoscopic group 8 patients had left sided hernia and two patients had right sided hernia. as for the etiology the majority of cases were acquired hernias.  because  the  Spigelian  fascia  was  among the less resistant areas of the abdominal wall. 17
+
+Other  abdominal  wall  hernias  are  not  uncommon associations with SH which may suggest a predisposition to abdominal wall defects in patients with SH. 18  In our study there were 2 cases (20%) with another hernia associating with SH (one with left  inguinal  hernia  and  other  with  left  femoral hernia) among the open surgical group while in the laparoscopic group there was 2 cases (20%) with paraumbilical  hernia  associating  with  SH.  These reports  were  consistent  with  several  case  reports that  have  reported  simultaneous  repair  of  other hernias such as umbilical 19 and inguinal hernias. 20
+
+The  treatment  of  Spigelian  hernia  is  essentially surgical, and due to its high incidence of complications  (35%  strangulations,  incarceration), surgery is recommended in almost all cases. 21  The optimal surgical approach for repair is not yet well defined,  as  surgeon  can  use  a  traditional  open approach or a laparoscopic technique. 22
+
+(Carter  and  Mizes) 23 treated  SH  with  laparoscopic approach for the first time in 1992, the laparoscopic repair  can  be  performed  through  2  different  accesses, a  trans  abdominal  and  extraperitoneal,  the  latter was published for the first time by (Moreno-Egea et al) in 1999, whoever, the intraperitoneal technique is  considered  now  the  best  current  technique  for laparoscopic repair of SH. 24
+
+The  laparoscopic  technique  is  constantly  evolving and becomes today the gold standard approach for non-complicated  cases  in  referral  centers,  is  still requiring a good learning curve which may requires several years of practice, given the rarity of disease, for  these  reasons  together  with  high  incidence  of complications, the open surgical repair remain the recommended approach. 11
+
+In our study there were 10 patients who underwent open approach versus 10 patients who underwent laparoscopic intraperitoneal onlay mesh. The comparison  of  both  groups  reflected  that  there were  no  significant  differences  in  demographic, clinical  and  radiological  features  of  the  patients of  both  groups;  also  no  significant  difference  in the  average  operating  time  was  noted  between both groups, but there were significant differences as  regard  to  the  average  length  of  postoperative hospital  stay  which  was  shorter  as  regard  to  the laparoscopic  group  (1.3  vs.  4  days).  This  feature was nearly consistent with a randomized trial done by  (Moreno-Egea  et  al) 13 comparing  open  versus laparoscopic repair of SH in the literature concluded that  the  laparoscopic  group  significantly  reduced the morbidity of patients and the length of hospital stay. Some authors also advocate for laparoscopic repair to avoid disrupting the physiological behavior and mechanics of abdominal wall through scarring in open surgery. 25
+
+From  the  review  of  the  literature, the overall recurrence rate of SH is varies and ranges from 5 to 14%. 26  In our study there was no recurrence in both groups over a period of 24 months follow up. In a series of 70 patients undergoing open primary suture  repair,  there  were  3  recurrences  (4.3%) which subsequently underwent further repair with no further recurrence. 11
+
+## Conclusion
+
+Spigelian  hernia  is  a  rare  condition  with  limited number of cases published in the scientific literatures.  Diagnosis  of  Spigelian  hernia  needs thorough  clinical  examination  with  high  suspect and needs to be confirmed by imaging techniques especially CT scan. Open surgical repair remains the traditional  treatment  strategy  especially  in  urgent cases  but  laparoscopic  intraperitoneal  onlay  mesh repair is also safe and effective with shorter hospital stay and less postoperative morbidity.
+
+## References
+
+1. Spangen  L:  Spigelian  hernia. World  J  Surg. 1999; 13: 573-580.
+2. Spangen L: Spigelian hernia. Surg. Clin North Am. 1997; 64: 351-366.
+3. Zaki W, Alawad AAM: Spigelian Hernia: A rare case report. Ann Clin Case Rep. 2017; 2: 1288.
+4. Srivastava  KN,  Agarwal  A:  Spigelian  hernia. A diagnostic dilemma and laparoscopic management. Indian J Surg. 2015; 77(Suppl 1): S35-S37.
+5. Engeset J, Youngson GC: Ambulatory peritoneal dialysis  and  hernia  complications. Surg  Clin North Am. 2007; 64: 385-392.
+6. Opson RD, Davis WC: Spigelian hernia: Rare or obscure? Am J Surg. 2009; 116: 842-846.
+7. Read RC: Observation on the etiology of Spigelian  hernia. Ann Surg. 2012;  152:  10041009.
+8. Mouton WG, Otten KT, Weiss D, Naef M, Wagner HF: Preperitoneal mesh  repair  in Spigelian hernia. Int Surg. 2006; 91: 262-264.
+9. Polistina  FA,  Garbo  G,  Trevisan  P ,  Frego  M: Twelve  years  of  experience  treating  Spigelian hernia. Surgery. 2015; 157: 547-550.
+10. Campos  SM,  Walden  T:  Images  in  clinical medicine: Spigelian hernia. N Eng J Med. 2008; 336: 1149.
+11. Larson DW, Farley DR: Spigelian hernias; repair and  outcome  for  81  patients. World  J  Surg. 2002; 26: 1277-1281.
+12. Rogers FB, Camp PC: A strangulated Spigelian hernia mimicking diverticulitis. Hernia. 2014; 5: 51-52.
+13. Moreno-Egea A, Carrosco L, Girela E, et al: Open vs.  laparoscopic  repair  of  Spigelian  hernia:  A prospective randomized trial. Arch Surg. 2002; 137: 1266-1268.
+14. Webber V, Low C, Skipworth RJ, Kumar S, de Beaux AC, Tulloh B: Contemporary thoughts on the  management  of  Spigelian  hernia. Hernia. 2017.
+15. Light D, Chattopadhyay D, Bawa S: Radiological and  clinical  examination  in  the  diagnosis  of Spigelian hernias. Ann R Coll Surg Engl. 2013; 95: 98-100.
+16. Vesico  G,  Sommella  L,  Gallelli  G:  Complicated Spigelian hernia: Our experience. Ann Ital Chir. 2011; 71: 573-578.
+17.  Zennaro  F,  Tasi  D,  Orio  A,  Morelli  C,  Chella B: Spigelian hernia. Anatomico-clinical considerations and  description of 5 clinical cases. Ann Ital Chir. 2012; 74: 165-168.
+18. Paliogiannis P, Delgou L, Contu G, et al: Small bowel emergencies: 'Two surgical center' experience  and  literature  review. Eur  Surg. 2016: 48: 18-25.
+19. Amendolara M: Video laparoscopic treatment of Spigelian hernias. Surg Laparosc Endosc. 1998; 8: 136-139.
+20. Vannahme M, Monkhouse SJ: Acute management of a unilateral incarcerated Spigelian  hernia  in a patient with  bilateral Spigelian hernias. Ann R Coll Surg Engl. 2013; 95: e89-91.
+21. Mittal  T ,  Kumar  V ,  Khullar  R,  et  al:  Diagnosis and management of Spigelian hernia: A review of  literature  and  our  experience. J Min Access Surg. 2014; 4:95-98.
+22. Carter JE, Mizes C: Laparoscopic diagnosis and repair of Spigelian hernia: report of a case and technique. Am  J  Obstet  Gynecol. 1992;  167: 77-78.
+23. Perrakis A, Velimezis G, Kapogiantos Gm, et al: Spigelian hernia: A single center experience in a rare hernia entity. Hernia. 2015; 16: 439-445.
+24. Conzo G, Giordano A, Candela G, et al: Giant Spigelian hernia associated with inguinal hernia. Repair  with  poly  propylene  prosthesis. Am  J Surg. 2015; 55: 611-615.
+25. Leff DR, Hassell J, Sufi P, Heath D: Emergency and  elective  laparoscopic  repair  of  spigelian hernias; two case reports and a review of the literature. Surg Laparosc Endosc Percutan Tech. 2009; 19: e152-155.
+26. Moreno-Egea A, Campillo-Soto A, MoralesCuenca G: Which should be the gold standard laparoscopic  technique  for  handling  Spigelian hernias? Surg Endosc. 2015; 29: 856-862.

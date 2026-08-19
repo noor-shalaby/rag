@@ -1,0 +1,3524 @@
+[
+  {
+    "content": "Hassan k. Alsoueni, Mohammed M. Mohammed, Ahmed M. Nawar, Abdelmonem A.Ali\nDepartment of general surgery Benha faculty of medicine, Benha University, Egypt\n\n[Next context]\nAbdelmonem A.Ali , department of",
+    "metadata": {
+      "document_id": "paper21",
+      "source": "paper21.pdf",
+      "topic": "Laparoscopic Appendectomy Versus Open Appendectomy in Young Female Patients",
+      "headings": [
+        "Laparoscopic Appendectomy Versus Open Appendectomy in Young Female Patients"
+      ],
+      "chunk_index": 1,
+      "total_chunks": 19,
+      "pages": [
+        1
+      ],
+      "docling": {
+        "doc_items": [
+          {
+            "self_ref": "#/texts/2",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 1,
+                "bbox": {
+                  "l": 83.904,
+                  "t": 701.6559829101564,
+                  "r": 518.3419999999999,
+                  "b": 691.3239829101564,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  74
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/3",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 1,
+                "bbox": {
+                  "l": 67.584,
+                  "t": 658.4559829101563,
+                  "r": 204.5681599999999,
+                  "b": 622.0667029101563,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  83
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "overlap": {
+        "enabled": true,
+        "ratio": 0.25,
+        "previous_context": false,
+        "next_context": true
+      }
+    }
+  },
+  {
+    "content": "[Previous context]\nof medicine, Benha University, Egypt\n\nAbdelmonem A.Ali , department of general surgery faculty of medicine, Benha university, Egypt\nEmail:\nmon3em.awad@gmail.com\nReceived: 30 October 2019\nAccepted: 29 March 2019\n\n[Next context]\nBackground: Laparoscopic appendectomy combines the advantages of diagnosis & treatment in single procedure with least morbidity. In addition, whole abdomen can be visualized to rule out other coexisting pathology. Patients are likely to have less postoperative pain and be discharged from hospital and return to",
+    "metadata": {
+      "document_id": "paper21",
+      "source": "paper21.pdf",
+      "topic": "Correspondence to :",
+      "headings": [
+        "Correspondence to :"
+      ],
+      "chunk_index": 2,
+      "total_chunks": 19,
+      "pages": [
+        1
+      ],
+      "docling": {
+        "doc_items": [
+          {
+            "self_ref": "#/texts/5",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 1,
+                "bbox": {
+                  "l": 67.584,
+                  "t": 582.7322629101564,
+                  "r": 204.62000000000003,
+                  "b": 534.5567029101563,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  93
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/6",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 1,
+                "bbox": {
+                  "l": 67.584,
+                  "t": 520.6007029101563,
+                  "r": 96.864,
+                  "b": 511.09526291015635,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  6
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/7",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 1,
+                "bbox": {
+                  "l": 63.144,
+                  "t": 506.5607029101563,
+                  "r": 188.93568000000002,
+                  "b": 497.05526291015633,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  21
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/8",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 1,
+                "bbox": {
+                  "l": 63.144,
+                  "t": 482.1722629101563,
+                  "r": 177.29983999999996,
+                  "b": 473.5967029101563,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  25
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/9",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 1,
+                "bbox": {
+                  "l": 67.584,
+                  "t": 458.6522629101563,
+                  "r": 171.79999999999995,
+                  "b": 450.0767029101563,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "overlap": {
+        "enabled": true,
+        "ratio": 0.25,
+        "previous_context": true,
+        "next_context": true
+      }
+    }
+  },
+  {
+    "content": "[Previous context]\n2019\nAccepted: 29 March 2019\n\nBackground: Laparoscopic appendectomy combines the advantages of diagnosis & treatment in single procedure with least morbidity. In addition, whole abdomen can be visualized to rule out other coexisting pathology. Patients are likely to have less postoperative pain and be discharged from hospital and return to activities and routine work sooner than those who have undergone open appendectomy. Aim of the work : The purpose of the work was to describe our experience in comparative evaluation of modified laparoscopic versus open appendectomy for the treatment of acute appendicitis as regard surgical techniques, operative time and hospital stay in young females.\nMethodology: Our retrospective study has been conducted in General Surgery Department of Benha University Hospital from Oct 2017 to March 2018 on 40 patients. Results: Our results showed that laparoscopic appendectomy has many advantages such as: shorter hospital stay, decreased need for postoperative analgesia, earlier return to work and lower rate of wound infection. Conclusion: Laparoscopic appendectomy is safe and effective, less postoperative pain, early return to normal work and better cosmetic scar than open appendectomy.\nkey words\n: Laparoscopic, laparoscopic appendectomy, McBurney's.\n\n[Next context]\nAcute appendicitis is the most common intra-abdominal condition requiring emergency surgery. The introduction of laparoscopic surgery has dramatically changed the field of surgery, with improvement in the equipment and increasing clinical experience, it is possible to perform almost any kind of procedure under laparoscopic visualization (1 )\nAppendectomy is one of the most commonly performed operations. In 1889, McBurney performed the 1st open appendectomy, (2). Since then, it",
+    "metadata": {
+      "document_id": "paper21",
+      "source": "paper21.pdf",
+      "topic": "Abstract:",
+      "headings": [
+        "Abstract:"
+      ],
+      "chunk_index": 3,
+      "total_chunks": 19,
+      "pages": [
+        1
+      ],
+      "docling": {
+        "doc_items": [
+          {
+            "self_ref": "#/texts/11",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 1,
+                "bbox": {
+                  "l": 218.33,
+                  "t": 633.2559829101564,
+                  "r": 538.68,
+                  "b": 415.99398291015626,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  716
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/12",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 1,
+                "bbox": {
+                  "l": 218.33,
+                  "t": 405.56598291015627,
+                  "r": 541.358,
+                  "b": 229.60398291015633,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  581
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/13",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 1,
+                "bbox": {
+                  "l": 72.024,
+                  "t": 207.82398291015625,
+                  "r": 142.416,
+                  "b": 197.73052836470174,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  9
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/14",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 1,
+                "bbox": {
+                  "l": 142.46,
+                  "t": 208.01598291015625,
+                  "r": 426.1,
+                  "b": 197.68398291015626,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  54
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "overlap": {
+        "enabled": true,
+        "ratio": 0.25,
+        "previous_context": true,
+        "next_context": true
+      }
+    }
+  },
+  {
+    "content": "[Previous context]\nstay, decreased need for postoperative analgesia, earlier return to work and lower rate of wound infection. Conclusion: Laparoscopic appendectomy is safe and effective, less postoperative pain, early return to normal work and better cosmetic scar than open appendectomy.\nkey words\n: Laparoscopic, laparoscopic appendectomy, McBurney's.\n\nAcute appendicitis is the most common intra-abdominal condition requiring emergency surgery. The introduction of laparoscopic surgery has dramatically changed the field of surgery, with improvement in the equipment and increasing clinical experience, it is possible to perform almost any kind of procedure under laparoscopic visualization (1 )\nAppendectomy is one of the most commonly performed operations. In 1889, McBurney performed the 1st open appendectomy, (2). Since then, it has been the gold standard for the treatment of acute appendicitis for more than one hundred years. Although it is safe, the incidence of postoperative complications is 10% to 20% (2).\nThe rate of negative laparoscopic exploration in young women still is in the range of 25% to 30% (3). In 1983 the German gynecologist Kurt Semm removed the first appendix via a laparoscopic approach (2).\nThe idea of minimal surgical trauma, resulting in significantly shorter hospital stay, less postoperative pain, faster return to daily activities and better cosmetic outcome has made laparoscopic surgery for acute appendicitis very attractive (1).\nThere are studies showing that laparoscopic appendectomy does not offer any advantages (3, 5). With improved visualization of the entire abdomen, laparoscopic appendectomy improves the diagnostic accuracy and can identify the definitive pathology causing lower abdominal pain in young females than the open approach. It was conducluded that laparoscopy reduces unnecessary appendectomies and improves diagnosis in fertile women. (6).\nAim of the work: The purpose of the work was to describe our experience in comparative evaluation of laparoscopic versus open appendectomy for the treatment of acute appendicitis, as regard surgical techniques, operative time, hospital stay, post-operative morbidity and coast of both techniques in young females.\n\n[Next context]\nThis study was conducted in Faculty of medicine, Benha University Hospital, general surgery department, from October 2017 to March 2018. The study was conducted on 40 female patients with suspected appendicitis.\nLegalization: all patients have signed informed consents that they have been involved in this study and after an approval from the research ethics committee in Benha Faculty of Medicine.\nFemale patients aged from 15 to 30 years with",
+    "metadata": {
+      "document_id": "paper21",
+      "source": "paper21.pdf",
+      "topic": "Introduction:",
+      "headings": [
+        "Introduction:"
+      ],
+      "chunk_index": 4,
+      "total_chunks": 19,
+      "pages": [
+        1,
+        2
+      ],
+      "docling": {
+        "doc_items": [
+          {
+            "self_ref": "#/texts/16",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 1,
+                "bbox": {
+                  "l": 90.024,
+                  "t": 144.05598291015633,
+                  "r": 284.99000000000007,
+                  "b": 92.42398291015627,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  112
+                ]
+              },
+              {
+                "page_no": 1,
+                "bbox": {
+                  "l": 328.63,
+                  "t": 155.3359829101563,
+                  "r": 523.5459999999999,
+                  "b": 82.94398291015625,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  113,
+                  259
+                ]
+              },
+              {
+                "page_no": 2,
+                "bbox": {
+                  "l": 90.024,
+                  "t": 767.2959829101563,
+                  "r": 284.964,
+                  "b": 715.5639829101564,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  260,
+                  346
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/20",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 2,
+                "bbox": {
+                  "l": 90.024,
+                  "t": 693.9759829101563,
+                  "r": 285.038,
+                  "b": 518.0139829101563,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  324
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/21",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 2,
+                "bbox": {
+                  "l": 90.024,
+                  "t": 496.3059829101563,
+                  "r": 285.026,
+                  "b": 382.51398291015624,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  218
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/22",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 2,
+                "bbox": {
+                  "l": 90.024,
+                  "t": 360.9259829101563,
+                  "r": 284.9720000000001,
+                  "b": 226.36398291015632,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  256
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/23",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 2,
+                "bbox": {
+                  "l": 90.024,
+                  "t": 204.77598291015624,
+                  "r": 285.038,
+                  "b": 90.86398291015632,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  218
+                ]
+              },
+              {
+                "page_no": 2,
+                "bbox": {
+                  "l": 328.63,
+                  "t": 767.2959829101563,
+                  "r": 523.624,
+                  "b": 632.7639829101563,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  219,
+                  454
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/24",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 2,
+                "bbox": {
+                  "l": 328.63,
+                  "t": 611.1759829101563,
+                  "r": 523.6479999999999,
+                  "b": 435.2139829101563,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  320
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "overlap": {
+        "enabled": true,
+        "ratio": 0.25,
+        "previous_context": true,
+        "next_context": true
+      }
+    }
+  },
+  {
+    "content": "[Previous context]\nin young females than the open approach. It was conducluded that laparoscopy reduces unnecessary appendectomies and improves diagnosis in fertile women. (6).\nAim of the work: The purpose of the work was to describe our experience in comparative evaluation of laparoscopic versus open appendectomy for the treatment of acute appendicitis, as regard surgical techniques, operative time, hospital stay, post-operative morbidity and coast of both techniques in young females.\n\nThis study was conducted in Faculty of medicine, Benha University Hospital, general surgery department, from October 2017 to March 2018. The study was conducted on 40 female patients with suspected appendicitis.\nLegalization: all patients have signed informed consents that they have been involved in this study and after an approval from the research ethics committee in Benha Faculty of Medicine.\nFemale patients aged from 15 to 30 years with suspected appendicitis either\nacute, chronic or complicated were included in this study. While, patients with the following criteria were excluded: Hemodynamic instability, chronic medical or psychiatric illness, cirrhosis and /or ascites, coagulation disorders, previous laparotomy for small bowel obstruction or pregnant women in first or third trimester.\nPatients were randomly allocated into two groups 20 patients each:\nLaparoscopic Group: the patients will be operated by laparoscopic appendectomy, (LA).\nOpen Group: the patients will be operated by open appendectomy, (OA) by gridiron incision at McBurney point.\nHistory taking, clinical examination including PR and PV, laboratory investigations (CBC, Na and K in markedly dehydrated patients and urine analysis in suspected cases of urinary tract infection), radiological investigation and pelvi-abdominal Ultrasound to detect any gynecological causes as ectopic pregnancy, PID, ovarian cysts, torsion ovary, fibroids and adnexal mass and gynecological consultation if needed.\nPatients were fully informed about the risks and benefits of the 2 procedures and an informed consent was obtained from every patient.\nMarkedly dehydrated patients had fluid resuscitation and Foley catheter to ensure adequate urine output. Any electrolyte deficiencies were corrected prior to the induction of general anesthesia.\nPrior to the surgical incision, all patients received a standard regimen of intravenous antibiotics (third generation cephalosporin and 500 mg of Metronidazole).\n\n[Next context]\nThe patient was placed in the supine position and underwent general anesthesia with endotracheal intubation. While the patient was anesthetized and the abdominal musculature relaxed, the patient's abdomen was carefully examined. The skin incision on McBurney point was carried through the subcutaneous tissue until the external oblique fascia was exposed.\nA small incision was made in the external oblique fascia along the line of its fibers. This incision was sharply extended with scissors along the direction of the fibers. The underlying fibers of the internal oblique muscle\nand the transversus abdominis muscle were identified, split and retracted along the direction of their fibers. Next, retractors were adjusted to expose the peritoneum. Then grasping the peritoneum with clamps was",
+    "metadata": {
+      "document_id": "paper21",
+      "source": "paper21.pdf",
+      "topic": "Patients and methods :",
+      "headings": [
+        "Patients and methods :"
+      ],
+      "chunk_index": 5,
+      "total_chunks": 19,
+      "pages": [
+        2,
+        3
+      ],
+      "docling": {
+        "doc_items": [
+          {
+            "self_ref": "#/texts/26",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 2,
+                "bbox": {
+                  "l": 328.63,
+                  "t": 381.56598291015627,
+                  "r": 523.6679999999999,
+                  "b": 267.7639829101563,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  222
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/27",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 2,
+                "bbox": {
+                  "l": 328.63,
+                  "t": 246.17598291015634,
+                  "r": 523.5459999999998,
+                  "b": 132.28398291015628,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  194
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/28",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 2,
+                "bbox": {
+                  "l": 328.63,
+                  "t": 110.67598291015634,
+                  "r": 523.5459999999999,
+                  "b": 79.70398291015624,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  81
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/32",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 3,
+                "bbox": {
+                  "l": 90.024,
+                  "t": 767.2959829101563,
+                  "r": 285.07,
+                  "b": 591.3339829101564,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  344
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/33",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 3,
+                "bbox": {
+                  "l": 90.024,
+                  "t": 569.7459829101563,
+                  "r": 284.88000000000005,
+                  "b": 538.6539829101563,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  70
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/34",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 3,
+                "bbox": {
+                  "l": 90.024,
+                  "t": 517.0779829101563,
+                  "r": 285.01400000000007,
+                  "b": 465.3339829101563,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  88
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/35",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 3,
+                "bbox": {
+                  "l": 90.024,
+                  "t": 443.7579829101563,
+                  "r": 285.02599999999995,
+                  "b": 391.99398291015626,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  108
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/36",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 3,
+                "bbox": {
+                  "l": 90.024,
+                  "t": 370.2859829101563,
+                  "r": 285.046,
+                  "b": 132.28398291015628,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  432
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/37",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 3,
+                "bbox": {
+                  "l": 90.024,
+                  "t": 110.67598291015634,
+                  "r": 284.94800000000004,
+                  "b": 79.70398291015624,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  88
+                ]
+              },
+              {
+                "page_no": 3,
+                "bbox": {
+                  "l": 328.63,
+                  "t": 767.2959829101563,
+                  "r": 523.5579999999999,
+                  "b": 736.3239829101564,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  89,
+                  145
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/38",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 3,
+                "bbox": {
+                  "l": 328.63,
+                  "t": 714.6159829101563,
+                  "r": 523.588,
+                  "b": 600.8439829101563,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  197
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/39",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 3,
+                "bbox": {
+                  "l": 328.63,
+                  "t": 579.1059829101563,
+                  "r": 523.5699999999999,
+                  "b": 486.0939829101563,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  165
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "overlap": {
+        "enabled": true,
+        "ratio": 0.25,
+        "previous_context": true,
+        "next_context": true
+      }
+    }
+  },
+  {
+    "content": "[Previous context]\nwere fully informed about the risks and benefits of the 2 procedures and an informed consent was obtained from every patient.\nMarkedly dehydrated patients had fluid resuscitation and Foley catheter to ensure adequate urine output. Any electrolyte deficiencies were corrected prior to the induction of general anesthesia.\nPrior to the surgical incision, all patients received a standard regimen of intravenous antibiotics (third generation cephalosporin and 500 mg of Metronidazole).\n\nThe patient was placed in the supine position and underwent general anesthesia with endotracheal intubation. While the patient was anesthetized and the abdominal musculature relaxed, the patient's abdomen was carefully examined. The skin incision on McBurney point was carried through the subcutaneous tissue until the external oblique fascia was exposed.\nA small incision was made in the external oblique fascia along the line of its fibers. This incision was sharply extended with scissors along the direction of the fibers. The underlying fibers of the internal oblique muscle\nand the transversus abdominis muscle were identified, split and retracted along the direction of their fibers. Next, retractors were adjusted to expose the peritoneum. Then grasping the peritoneum with clamps was done, carefully verifying that intra-abdominal viscera had not been inadvertently grasped. A small incision was made in the peritoneum by scissors.\nThe cecum was delivered into the field gently grasping the cecum with moistened gauze and delivering it into the wound using a rocking movement and the anterior taenia of the cecum was followed till identification of appendix. Medial mobilization of the cecum was done bluntly with a finger combined with sharp or electrocautry in cases of difficult retrocacal appendix. The mesoappendix was divided between clamps and ligated with an absorbable suture. The base of the appendix was divided and ligated with absorbable suture material. Purse string sutures were done in cases of inflamed base of the appendix .The mucosa was obliterated to avoid the development of mucocele. The wound was closed in layers. If perforation or gangrene were present, the skin and subcutaneous tissue closure was by widely spaced sutures.\nTechnique of Laparoscopic appendectomy:\nIn this study, we aimed to present a simple modified technique to be used during laparoscopic appendectomy with the aim of reducing the cost.\nThe patient was placed supine in a 15° Trendelenburg position with both arms tucked. Rotation to the left was done. The surgeon stood on the patient's left side. The first assistant stood on the surgeon's left side. The monitor was on the patient's right side. After the induction of general anesthesia, a urinary catheter and a nasogastric tube were placed. A pneumoperitoneum was created in standard fashion, using either the Veress needle technique or the open technique according to the surgeon preference. The first trocar (10 mm) was introduced at the lower margin of the umbilicus (infraumbilical).\nThe intraperitoneal pressure was set to be 14 mmHg. Laparoscopy was then performed with \"zero\" angle viewing laparoscope to ensure the clinical diagnosis and identify the position of the appendix to determine the best site of insertion of the other trocars. A second 10 mm suprapubic trocar was inserted. A third operating trocar was inserted in the left iliac fossa. In 2 cases 4th trocar in the right upper quadrant was inserted to facilitate dissection of retrocecal appendix.\n\n[Next context]\nAfter insertion of the ports, a quick diagnostic laparoscopy was performed in order to confirm the diagnosis and assess other pathologies. The surgeon's left hand held a Babcock grasper to retract the cecum and subsequently expose the appendix. Cautery scissors were used to incise the retroperitoneal attachments of the cecum in difficult cases. The technique entails hanging the appendix to the abdominal wall by passing a straight needle through the abdominal wall and encircling the appendix, making single or double loops. This will expose the mesoappendix and make it easy to",
+    "metadata": {
+      "document_id": "paper21",
+      "source": "paper21.pdf",
+      "topic": "Technique of open procedure:",
+      "headings": [
+        "Technique of open procedure:"
+      ],
+      "chunk_index": 6,
+      "total_chunks": 19,
+      "pages": [
+        3,
+        4,
+        5
+      ],
+      "docling": {
+        "doc_items": [
+          {
+            "self_ref": "#/texts/41",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 3,
+                "bbox": {
+                  "l": 328.63,
+                  "t": 432.44598291015626,
+                  "r": 523.588,
+                  "b": 215.08398291015624,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  374
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/42",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 3,
+                "bbox": {
+                  "l": 328.63,
+                  "t": 193.49598291015627,
+                  "r": 523.5879999999999,
+                  "b": 79.70398291015624,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  241
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/46",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 4,
+                "bbox": {
+                  "l": 90.024,
+                  "t": 767.2959829101563,
+                  "r": 285.014,
+                  "b": 570.6939829101564,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  369
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/47",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 4,
+                "bbox": {
+                  "l": 90.024,
+                  "t": 548.9859829101563,
+                  "r": 284.964,
+                  "b": 83.30398291015626,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  859
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/48",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 4,
+                "bbox": {
+                  "l": 328.63,
+                  "t": 767.3079829101563,
+                  "r": 462.88599999999997,
+                  "b": 736.3210738192472,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  39
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/49",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 4,
+                "bbox": {
+                  "l": 328.63,
+                  "t": 714.6159829101563,
+                  "r": 523.5699999999997,
+                  "b": 642.2439829101563,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  153
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/50",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 4,
+                "bbox": {
+                  "l": 328.63,
+                  "t": 620.5359829101563,
+                  "r": 523.692,
+                  "b": 279.07398291015625,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  643
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/51",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 4,
+                "bbox": {
+                  "l": 328.63,
+                  "t": 257.3359829101563,
+                  "r": 523.5339999999998,
+                  "b": 81.50398291015631,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  358
+                ]
+              },
+              {
+                "page_no": 5,
+                "bbox": {
+                  "l": 90.024,
+                  "t": 767.2959829101563,
+                  "r": 284.94000000000005,
+                  "b": 694.9239829101564,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  359,
+                  515
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "overlap": {
+        "enabled": true,
+        "ratio": 0.25,
+        "previous_context": true,
+        "next_context": true
+      }
+    }
+  },
+  {
+    "content": "[Previous context]\ntube were placed. A pneumoperitoneum was created in standard fashion, using either the Veress needle technique or the open technique according to the surgeon preference. The first trocar (10 mm) was introduced at the lower margin of the umbilicus (infraumbilical).\nThe intraperitoneal pressure was set to be 14 mmHg. Laparoscopy was then performed with \"zero\" angle viewing laparoscope to ensure the clinical diagnosis and identify the position of the appendix to determine the best site of insertion of the other trocars. A second 10 mm suprapubic trocar was inserted. A third operating trocar was inserted in the left iliac fossa. In 2 cases 4th trocar in the right upper quadrant was inserted to facilitate dissection of retrocecal appendix.\n\nAfter insertion of the ports, a quick diagnostic laparoscopy was performed in order to confirm the diagnosis and assess other pathologies. The surgeon's left hand held a Babcock grasper to retract the cecum and subsequently expose the appendix. Cautery scissors were used to incise the retroperitoneal attachments of the cecum in difficult cases. The technique entails hanging the appendix to the abdominal wall by passing a straight needle through the abdominal wall and encircling the appendix, making single or double loops. This will expose the mesoappendix and make it easy to create a window in the mesoappendix close to the base. The rest of the technique will be the same as in open appendectomy where we apply 2 ties to the mesoappendix and appendix then both are divided as in open method. We tried to avoid the use of clips, endoloops or Harmonic to reduce the cost in a frequently performed procedure.\nAfter transection, the appendiceal stump mucosa was carefully cauterized.\nThe appendix was pulled into the umbilical port and withdrawn with the whole port or was placed in an impermeable retrieval bag before its removal. Irrigation and insertion of a drain were done only in complicated cases. Trocars were removed under direct vision. Fascia at the 10-mm trocar site was closed, and all wounds were closed primarily.\nIn patients with complicated appendicitis, antibiotics were not discontinued but were modified according to the culture results and continued for 7 to 10 days till the patient was afebrile.\nPatients were given sips of water after passing flatus or feces or after hearing intestinal sounds to avoid paralytic ileus from early introduction of food or liquids.\nPostoperatively all patients received analgesics in the form of NSAIDs for 24 hours, then analgesics were given upon the patient request.\nThe discharge criteria are met once the patients were a febrile, with audible bowel sounds and were able to tolerate a liquid diet and oral analgesia. The specimens were sent for pathology for assessing pathological diagnosis.\nThe comparison between the 2 groups was in the following criteria:\nIntraoperative: operative time (from skin incision to wound closure), intraoperative findings (normal, gangrenous, or perforated appendix), intraoperative complications, conversion to open procedure,\n\n[Next context]\nResults were statistically analyzed by statistical package SPSS version 20. Two types of statistics were done, descriptive (percentage (%), mean and standard deviation SD) and analytical. Analytical tests included: Student's t-test ( used to indicate the presence of any",
+    "metadata": {
+      "document_id": "paper21",
+      "source": "paper21.pdf",
+      "topic": "Technique of open procedure:",
+      "headings": [
+        "Technique of open procedure:"
+      ],
+      "chunk_index": 7,
+      "total_chunks": 19,
+      "pages": [
+        5,
+        6
+      ],
+      "docling": {
+        "doc_items": [
+          {
+            "self_ref": "#/texts/55",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 5,
+                "bbox": {
+                  "l": 90.024,
+                  "t": 673.2159829101563,
+                  "r": 285.002,
+                  "b": 145.36398291015632,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  982
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/56",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 5,
+                "bbox": {
+                  "l": 90.024,
+                  "t": 123.77598291015624,
+                  "r": 284.95200000000006,
+                  "b": 92.66398291015628,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  73
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/57",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 5,
+                "bbox": {
+                  "l": 328.63,
+                  "t": 767.2959829101563,
+                  "r": 523.68,
+                  "b": 570.6939829101564,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  366
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/58",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 5,
+                "bbox": {
+                  "l": 328.63,
+                  "t": 548.9859829101563,
+                  "r": 523.582,
+                  "b": 435.2139829101563,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  196
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/59",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 5,
+                "bbox": {
+                  "l": 328.63,
+                  "t": 413.4859829101563,
+                  "r": 523.5279999999997,
+                  "b": 320.47398291015634,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  167
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/60",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 5,
+                "bbox": {
+                  "l": 328.63,
+                  "t": 298.76598291015625,
+                  "r": 523.5579999999998,
+                  "b": 226.36398291015632,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  148
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/61",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 5,
+                "bbox": {
+                  "l": 328.63,
+                  "t": 204.77598291015624,
+                  "r": 523.5699999999996,
+                  "b": 90.86398291015632,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  240
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/65",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 6,
+                "bbox": {
+                  "l": 90.024,
+                  "t": 767.2959829101563,
+                  "r": 285.074,
+                  "b": 736.3239829101564,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  71
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/66",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 6,
+                "bbox": {
+                  "l": 90.024,
+                  "t": 714.6159829101563,
+                  "r": 284.97600000000006,
+                  "b": 600.8439829101563,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  202
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "overlap": {
+        "enabled": true,
+        "ratio": 0.25,
+        "previous_context": true,
+        "next_context": true
+      }
+    }
+  },
+  {
+    "content": "[Previous context]\nliquids.\nPostoperatively all patients received analgesics in the form of NSAIDs for 24 hours, then analgesics were given upon the patient request.\nThe discharge criteria are met once the patients were a febrile, with audible bowel sounds and were able to tolerate a liquid diet and oral analgesia. The specimens were sent for pathology for assessing pathological diagnosis.\nThe comparison between the 2 groups was in the following criteria:\nIntraoperative: operative time (from skin incision to wound closure), intraoperative findings (normal, gangrenous, or perforated appendix), intraoperative complications, conversion to open procedure,\n\nResults were statistically analyzed by statistical package SPSS version 20. Two types of statistics were done, descriptive (percentage (%), mean and standard deviation SD) and analytical. Analytical tests included: Student's t-test ( used to indicate the presence of any significant difference between two groups for a normally distributed quantitative variable), MannWhitney test (used to indicate the presence of any significant difference between two groups for a not normally distributed quantitative variable), Chi-Squared (χ 2 ) (used to compare between two groups or more regarding one qualitative variable) and Fisher's exact test (used to compare between two groups regarding one qualitative variable in a 2x2 contingency table when the count of any of the expected cells less than 5). Significant difference was detected when p <0.05\nassociated pathology and its management.\nPostoperative: Postoperative morbidity including wound infection, general complications of surgery, intraperitoneal collection, postoperative hospital stay, postoperative pain (the need for analgesia), and the time needed to return to work.\n\n[Next context]\nThis study was conducted on 40 female patients with suspected appendicitis; they were randomly allocated into two groups 20 patients each (fig 1, 2)\n- Laparoscopic Group : the patients will undergo laparoscopic appendicectomy.\n- Open Group: the patients will undergo open appendicectomy by gridiron",
+    "metadata": {
+      "document_id": "paper21",
+      "source": "paper21.pdf",
+      "topic": "Statistical analysis:",
+      "headings": [
+        "Statistical analysis:"
+      ],
+      "chunk_index": 8,
+      "total_chunks": 19,
+      "pages": [
+        6
+      ],
+      "docling": {
+        "doc_items": [
+          {
+            "self_ref": "#/texts/68",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 6,
+                "bbox": {
+                  "l": 63.864,
+                  "t": 526.5459829101563,
+                  "r": 285.27799999999996,
+                  "b": 102.1439829101563,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  882
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/69",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 6,
+                "bbox": {
+                  "l": 328.63,
+                  "t": 767.2959829101563,
+                  "r": 523.6,
+                  "b": 736.3239829101564,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  40
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/70",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 6,
+                "bbox": {
+                  "l": 328.63,
+                  "t": 714.6159829101563,
+                  "r": 523.6359999999999,
+                  "b": 580.0539829101564,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  246
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "overlap": {
+        "enabled": true,
+        "ratio": 0.25,
+        "previous_context": true,
+        "next_context": true
+      }
+    }
+  },
+  {
+    "content": "[Previous context]\nwas detected when p <0.05\nassociated pathology and its management.\nPostoperative: Postoperative morbidity including wound infection, general complications of surgery, intraperitoneal collection, postoperative hospital stay, postoperative pain (the need for analgesia), and the time needed to return to work.\n\nThis study was conducted on 40 female patients with suspected appendicitis; they were randomly allocated into two groups 20 patients each (fig 1, 2)\n- Laparoscopic Group : the patients will undergo laparoscopic appendicectomy.\n- Open Group: the patients will undergo open appendicectomy by gridiron incision at McBurney's point.\nFig 1: Distribution of the studied groups regarding their age\nFig 2: Distribution of the studied groups regarding the intraoperative finding\nThe operative time was significantly longer in the laparoscopic group with mean of 63 minutes than the open group which was 40 minutes with p value 0.001 (fig.3).\nFig 3: Distribution of the studied patients regarding the operative time\nIn Group A (Lap): 2 complications were met,\n-  Bleeding from mesoappendix which was controlled by ligation .\n-  Bleeding after puncture of ovarian cyst which was controlled by diathermy.\nIn Group B (Open) : 3 complications were met,\n-  2 cases with caecal serosal tears which were repaired primarily by absorbable sutures.\n-  1 case of iatrogenic ovarian injury which was also repaired primarily by absorbable sutures.\n\n[Next context]\n-  2 cases of right ovarian cysts were found,",
+    "metadata": {
+      "document_id": "paper21",
+      "source": "paper21.pdf",
+      "topic": "Results:",
+      "headings": [
+        "Results:"
+      ],
+      "chunk_index": 9,
+      "total_chunks": 19,
+      "pages": [
+        6,
+        7
+      ],
+      "docling": {
+        "doc_items": [
+          {
+            "self_ref": "#/texts/72",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 6,
+                "bbox": {
+                  "l": 332.47,
+                  "t": 491.50598291015626,
+                  "r": 553.852,
+                  "b": 419.11398291015627,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  156
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/73",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 6,
+                "bbox": {
+                  "l": 327.91,
+                  "t": 397.1397029101563,
+                  "r": 553.8280000000001,
+                  "b": 369.43398291015626,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  83
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/74",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 6,
+                "bbox": {
+                  "l": 327.91,
+                  "t": 352.25970291015625,
+                  "r": 553.84,
+                  "b": 308.71398291015635,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  105
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/75",
+            "label": "caption",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 6,
+                "bbox": {
+                  "l": 332.47,
+                  "t": 120.56226291015628,
+                  "r": 538.0462000000002,
+                  "b": 94.68670291015633,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  61
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/99",
+            "label": "caption",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 7,
+                "bbox": {
+                  "l": 63.864,
+                  "t": 581.1722629101563,
+                  "r": 269.23919999999987,
+                  "b": 561.0767029101563,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  78
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/122",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 7,
+                "bbox": {
+                  "l": 63.864,
+                  "t": 532.7859829101563,
+                  "r": 270.05,
+                  "b": 439.6539829101563,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  167
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/123",
+            "label": "caption",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 7,
+                "bbox": {
+                  "l": 63.864,
+                  "t": 235.4022629101563,
+                  "r": 269.35871999999983,
+                  "b": 215.30670291015622,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  72
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/138",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 7,
+                "bbox": {
+                  "l": 63.864,
+                  "t": 193.37598291015627,
+                  "r": 285.23,
+                  "b": 169.24398291015632,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  48
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/139",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 7,
+                "bbox": {
+                  "l": 54.864,
+                  "t": 152.81598291015632,
+                  "r": 285.16799999999995,
+                  "b": 128.80398291015626,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  63
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/140",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 7,
+                "bbox": {
+                  "l": 54.864,
+                  "t": 112.47598291015629,
+                  "r": 285.13200000000006,
+                  "b": 81.86398291015632,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  76
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/141",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 7,
+                "bbox": {
+                  "l": 332.47,
+                  "t": 754.2159829101563,
+                  "r": 553.8039999999999,
+                  "b": 730.0839829101564,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  51
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/142",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 7,
+                "bbox": {
+                  "l": 318.91,
+                  "t": 713.6559829101564,
+                  "r": 553.7379999999996,
+                  "b": 687.4839829101563,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  95
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/143",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 7,
+                "bbox": {
+                  "l": 318.91,
+                  "t": 669.1359829101564,
+                  "r": 553.6539999999998,
+                  "b": 642.8439829101563,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  94
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "overlap": {
+        "enabled": true,
+        "ratio": 0.25,
+        "previous_context": true,
+        "next_context": true
+      }
+    }
+  },
+  {
+    "content": "[Previous context]\nwhich was controlled by diathermy.\nIn Group B (Open) : 3 complications were met,\n-  2 cases with caecal serosal tears which were repaired primarily by absorbable sutures.\n-  1 case of iatrogenic ovarian injury which was also repaired primarily by absorbable sutures.\n\n-  2 cases of right ovarian cysts were found, one was punctured and the other left with no intervention according to gynecological consultation which was done intraoperatively.\n-  One case of peri-ovarian collection mostly due to ruptured Graafian follicle (Mittelschmerz).\n\n[Next context]\n-  One case of ovarian cyst was found and left without interference after gynecological consultation.\n-  Conversion of laparoscopic procedure to open\n-  2",
+    "metadata": {
+      "document_id": "paper21",
+      "source": "paper21.pdf",
+      "topic": "In Group A (Lap):",
+      "headings": [
+        "In Group A (Lap):"
+      ],
+      "chunk_index": 10,
+      "total_chunks": 19,
+      "pages": [
+        7
+      ],
+      "docling": {
+        "doc_items": [
+          {
+            "self_ref": "#/texts/146",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 7,
+                "bbox": {
+                  "l": 337.03,
+                  "t": 540.4548229101563,
+                  "r": 553.7739999999999,
+                  "b": 445.8939829101563,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  175
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/147",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 7,
+                "bbox": {
+                  "l": 337.03,
+                  "t": 430.8748229101563,
+                  "r": 553.8159999999998,
+                  "b": 376.63398291015625,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  95
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "overlap": {
+        "enabled": true,
+        "ratio": 0.25,
+        "previous_context": true,
+        "next_context": true
+      }
+    }
+  },
+  {
+    "content": "[Previous context]\nof peri-ovarian collection mostly due to ruptured Graafian follicle (Mittelschmerz).\n\n-  One case of ovarian cyst was found and left without interference after gynecological consultation.\n-  Conversion of laparoscopic procedure to open\n-  2 cases of laparoscopic appendectomies were converted to open procedures, due to technical difficulties (fig.4).\nThere was a significant difference between both groups regarding post operative hospital stay , analgesia needed and time needed to return to work with PV=0.002, <0.001and 0.001 respectively.\nFig 4: Distribution of the studied patients regarding the duration of hospital stay\nAll of them were significantly lower in laparoscopic group. There was no significant difference between both groups regarding post operative time needed for fluid tolerance with PV=0.146.\n\n[Next context]\nApproximately 6% of the population develops appendicitis in their life time, with peak incidence between the ages of 10 and 30 years as shown in Fig (1), thus making appendectomy the most frequently performed abdominal operation, (7).\nThe treatment of acute appendicitis remained essentially unchanged since its first description by Charles McBurney in 1889. Appendectomy by McBurney's incision remained the procedure of choice for nearly a century until 1983 when Kurt Semm offered an alternative, \"laparoscopic appendectomy‖, but as McBurney's operation is well tolerated with less co- morbidity the benefits of laparoscopic appendectomy have been difficult to establish, (8).\nSeveral authors proposed",
+    "metadata": {
+      "document_id": "paper21",
+      "source": "paper21.pdf",
+      "topic": "In Group B (Open):",
+      "headings": [
+        "In Group B (Open):"
+      ],
+      "chunk_index": 11,
+      "total_chunks": 19,
+      "pages": [
+        7,
+        8
+      ],
+      "docling": {
+        "doc_items": [
+          {
+            "self_ref": "#/texts/149",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 7,
+                "bbox": {
+                  "l": 341.47,
+                  "t": 320.2219829101564,
+                  "r": 553.7739999999998,
+                  "b": 277.2739829101563,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  100
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/150",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 7,
+                "bbox": {
+                  "l": 341.47,
+                  "t": 266.5519829101563,
+                  "r": 553.7619999999998,
+                  "b": 239.44398291015636,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  46
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/151",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 7,
+                "bbox": {
+                  "l": 341.47,
+                  "t": 229.12482291015635,
+                  "r": 553.8399999999997,
+                  "b": 182.34126291015627,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  123
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/152",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 7,
+                "bbox": {
+                  "l": 350.47,
+                  "t": 170.3359829101563,
+                  "r": 553.7739999999999,
+                  "b": 77.18398291015626,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  198
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/156",
+            "label": "caption",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 8,
+                "bbox": {
+                  "l": 63.864,
+                  "t": 593.0522629101563,
+                  "r": 284.5477199999999,
+                  "b": 572.9567029101563,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  90
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/168",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 8,
+                "bbox": {
+                  "l": 63.864,
+                  "t": 558.2259829101563,
+                  "r": 285.1680000000001,
+                  "b": 465.0939829101563,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  193
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "overlap": {
+        "enabled": true,
+        "ratio": 0.25,
+        "previous_context": true,
+        "next_context": true
+      }
+    }
+  },
+  {
+    "content": "[Previous context]\nAll of them were significantly lower in laparoscopic group. There was no significant difference between both groups regarding post operative time needed for fluid tolerance with PV=0.146.\n\nApproximately 6% of the population develops appendicitis in their life time, with peak incidence between the ages of 10 and 30 years as shown in Fig (1), thus making appendectomy the most frequently performed abdominal operation, (7).\nThe treatment of acute appendicitis remained essentially unchanged since its first description by Charles McBurney in 1889. Appendectomy by McBurney's incision remained the procedure of choice for nearly a century until 1983 when Kurt Semm offered an alternative, \"laparoscopic appendectomy‖, but as McBurney's operation is well tolerated with less co- morbidity the benefits of laparoscopic appendectomy have been difficult to establish, (8).\nSeveral authors proposed that the new technique of laparoscopic appendectomy should be the preferred treatment for acute appendicitis. However, unlike laparoscopic cholecystectomy, laparoscopic appendectomy has not yet gained popularity. Laparoscopic cholecystectomy is now considered a standard method of performing cholecystectomy and has mostly replaced the old method throughout the world, while appendectomy has yet to achieve such popularity, (8) the putative advantages of the laparoscopic approach are quicker and less painful recovery, fewer postoperative complications and better cosmoses. It allows better assessment of other intra-abdominal pathologies and state of appendix. But because the validity of these point's remains unconvincing and also because of shortage of laparoscopic sets in some hospitals, laparoscopic appendectomy is not practiced widely, (9)\nLaparoscopic appendectomy has emerged as a safe procedure, and its potential advantages of shorter hospital stay, early mobilization, early return of bowel function, acceptable complication rate along with the recent enthusiasm of minimally invasive surgery, has led some authors to advocate this approach as the procedure of choice for uncomplicated appendicitis, (10)\nThere have been numerous retrospective and uncontrolled series of laparoscopic appendectomy (LA), as well as many prospective randomized studies published to date. Although most of these have concluded that the laparoscopic technique is as good as open appendectomy (OA), there has been considerable controversy as to whether LA is superior or not, (4)\nClear and magnified visions of appendix with more space to maneuver through a small hole like incision are great advantages of laparoscopic surgery as shown in Fig (2) which assess the intraoperative finding. Some surgeons with equal safety and ease in OA do-Button hole‖ surgery. Hence, it is difficult to prove any advantage of LA above incision. (11)\nThe role of laparoscopic appendectomy has not yet been clearly defined. Numerous factors need to be considered in deciding the ideal, and most appropriate surgical technique for acute appendicitis.\n\n[Next context]\nA statistically significant difference in operative time was observed between the laparoscopic and the open group (64.5 vs. 60 min; p = 0.002), (12). All the previous results of mentioned studies regarding operative time are comparable to this study as this study revealed that there was a significant difference regarding operative time with PV=0.001(mean time was 63.15 minutes in the laparoscopic group and 40.55 minutes in the open group) as shown in fig (3) The postoperative pain is usually troublesome for the patients. In a study done by Long et al, (13) patients who had laparoscopic appendectomy required less parenteral analgesia than open-surgery patients (1.6 versus 2.2 days' worth; 33.3 mg versus 53.5 mg of morphine or equivalent; P < 0.001 for both",
+    "metadata": {
+      "document_id": "paper21",
+      "source": "paper21.pdf",
+      "topic": "Discussion:",
+      "headings": [
+        "Discussion:"
+      ],
+      "chunk_index": 12,
+      "total_chunks": 19,
+      "pages": [
+        8,
+        9
+      ],
+      "docling": {
+        "doc_items": [
+          {
+            "self_ref": "#/texts/170",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 8,
+                "bbox": {
+                  "l": 63.864,
+                  "t": 408.56598291015627,
+                  "r": 285.266,
+                  "b": 294.7939829101563,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  249
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/171",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 8,
+                "bbox": {
+                  "l": 63.864,
+                  "t": 273.0559829101562,
+                  "r": 285.242,
+                  "b": 97.10398291015633,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  381
+                ]
+              },
+              {
+                "page_no": 8,
+                "bbox": {
+                  "l": 332.47,
+                  "t": 767.2959829101563,
+                  "r": 553.7619999999995,
+                  "b": 736.3239829101564,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  382,
+                  458
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/172",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 8,
+                "bbox": {
+                  "l": 332.47,
+                  "t": 714.6159829101563,
+                  "r": 553.896,
+                  "b": 269.5939829101562,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  902
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/173",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 8,
+                "bbox": {
+                  "l": 332.47,
+                  "t": 247.9759829101563,
+                  "r": 553.92,
+                  "b": 113.44398291015625,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  310
+                ]
+              },
+              {
+                "page_no": 9,
+                "bbox": {
+                  "l": 63.864,
+                  "t": 767.2959829101563,
+                  "r": 285.15600000000006,
+                  "b": 736.3239829101564,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  311,
+                  389
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/177",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 9,
+                "bbox": {
+                  "l": 63.864,
+                  "t": 714.6159829101563,
+                  "r": 285.242,
+                  "b": 538.6539829101563,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  357
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/178",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 9,
+                "bbox": {
+                  "l": 63.864,
+                  "t": 517.0659829101563,
+                  "r": 285.218,
+                  "b": 341.11398291015627,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  367
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/179",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 9,
+                "bbox": {
+                  "l": 63.864,
+                  "t": 319.52598291015624,
+                  "r": 285.298,
+                  "b": 226.36398291015632,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  203
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "overlap": {
+        "enabled": true,
+        "ratio": 0.25,
+        "previous_context": true,
+        "next_context": true
+      }
+    }
+  },
+  {
+    "content": "[Previous context]\n(OA), there has been considerable controversy as to whether LA is superior or not, (4)\nClear and magnified visions of appendix with more space to maneuver through a small hole like incision are great advantages of laparoscopic surgery as shown in Fig (2) which assess the intraoperative finding. Some surgeons with equal safety and ease in OA do-Button hole‖ surgery. Hence, it is difficult to prove any advantage of LA above incision. (11)\nThe role of laparoscopic appendectomy has not yet been clearly defined. Numerous factors need to be considered in deciding the ideal, and most appropriate surgical technique for acute appendicitis.\n\nA statistically significant difference in operative time was observed between the laparoscopic and the open group (64.5 vs. 60 min; p = 0.002), (12). All the previous results of mentioned studies regarding operative time are comparable to this study as this study revealed that there was a significant difference regarding operative time with PV=0.001(mean time was 63.15 minutes in the laparoscopic group and 40.55 minutes in the open group) as shown in fig (3) The postoperative pain is usually troublesome for the patients. In a study done by Long et al, (13) patients who had laparoscopic appendectomy required less parenteral analgesia than open-surgery patients (1.6 versus 2.2 days' worth; 33.3 mg versus 53.5 mg of morphine or equivalent; P < 0.001 for both measures.\nIn another study done by Ortega et al., (14) linear analogue pain scores were recorded in 135 patients blinded to the procedure of operation by special dressing and pain score was less in laparoscopic group compared to open.\nNumber of cases taking analgesics in open appendectomy group and laparoscopic appendectomy group after operation was 12.30% vs 6.10% respectively. Usage of analgesics in laparoscopic appendectomy group was lower than open appendectomy group, but no significant difference was observed (15).\nIn a study done by Mishra et al, (16), it was noticed that after laparoscopic appendectomy procedure, more pain was found and the use of postoperative narcotics was less after appendectomy.\nAlso, Alfredo et al., (17) reported that the analgesia used was significantly higher in the open group compared to the laparoscopic group with p=0.001.\nAll the previous results regarding the postoperative pain and need for analgesia can be compared to the present study as there were less post- operative pain and less need for analgesia in LA group. The difference was significant (PV=0. 0001).\nOn the other hand, the study done by Kathhouda et al., (4) showed that the severity of pain experienced and its influence on activity were similar for both groups. Narcotic medication usage to control postoperative pain was also equivalent between the 2 groups which cannot be compared to this study. These results may be related to different pain threshold and different pain perception among the studied groups of different authors.\nIn all laparoscopic surgeries, the hospital stay after laparoscopic appendectomy was significantly lower than after open appendectomy in all of the reported studies as shown in fig (4). In a study done by Guller et al., (18) laparoscopic appendectomy was associated with shorter median hospital stay (laparoscopic appendectomy:2.06 days, open appendectomy: 2.88 days, p < 0.0001). While, median length of hospitalization was significantly shorter in the laparoscopic group (p < 0.000) in another study (12) and was 5 days and 6 days for LA and OA group respectively (P<0.001) in Yau et al., (19) study.\nIn the work of Alfredo et al, the hospital stay was significantly lower in the laparoscopic group (mean hospital stay was 27.2 hours) compared to the open group (53.1 hours), (P=0.001), (17).\n\n[Next context]\nA study done by Shirazi et al showed that the length of hospital stay ranged from 2 days to 9 days. The mean length of stay was significantly shorter after LA (3 days after LA, 5 days after OA, P < 0.0001), (20).\nKamal and Qureshi , showed that the mean hospital stay was nearly 1/3rd in LA. The patients were discharged home after 24 hours in LA where as in OA the patient left the hospital on the third day, (11)\nAll previous results of mentioned studies regarding hospital stay are comparable to this study as this study revealed that there was a significant increase in hospital stay in the open group(mean hospital stay was 3.3 days), than the laparoscopic group (1.9 days), (PV=0.002)\nIn this study, although the",
+    "metadata": {
+      "document_id": "paper21",
+      "source": "paper21.pdf",
+      "topic": "Discussion:",
+      "headings": [
+        "Discussion:"
+      ],
+      "chunk_index": 13,
+      "total_chunks": 19,
+      "pages": [
+        9,
+        10
+      ],
+      "docling": {
+        "doc_items": [
+          {
+            "self_ref": "#/texts/180",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 9,
+                "bbox": {
+                  "l": 63.864,
+                  "t": 204.77598291015624,
+                  "r": 285.15600000000006,
+                  "b": 90.86398291015632,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  262
+                ]
+              },
+              {
+                "page_no": 9,
+                "bbox": {
+                  "l": 332.47,
+                  "t": 767.2959829101563,
+                  "r": 553.8959999999998,
+                  "b": 508.5339829101563,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  263,
+                  800
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/181",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 9,
+                "bbox": {
+                  "l": 332.47,
+                  "t": 486.94598291015626,
+                  "r": 553.872,
+                  "b": 373.1539829101563,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  231
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/182",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 9,
+                "bbox": {
+                  "l": 332.47,
+                  "t": 351.44598291015626,
+                  "r": 553.7739999999998,
+                  "b": 196.24398291015632,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  307
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/183",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 9,
+                "bbox": {
+                  "l": 332.47,
+                  "t": 174.53598291015624,
+                  "r": 553.7979999999995,
+                  "b": 81.50398291015631,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  190
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/187",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 10,
+                "bbox": {
+                  "l": 63.864,
+                  "t": 767.2959829101563,
+                  "r": 285.17600000000004,
+                  "b": 694.9239829101564,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  163
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/188",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 10,
+                "bbox": {
+                  "l": 63.864,
+                  "t": 673.2159829101563,
+                  "r": 285.25399999999996,
+                  "b": 559.4139829101563,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  262
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/189",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 10,
+                "bbox": {
+                  "l": 63.864,
+                  "t": 537.7059829101563,
+                  "r": 285.254,
+                  "b": 320.47398291015634,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  446
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/190",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 10,
+                "bbox": {
+                  "l": 63.864,
+                  "t": 298.76598291015625,
+                  "r": 285.31,
+                  "b": 81.50398291015631,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  484
+                ]
+              },
+              {
+                "page_no": 10,
+                "bbox": {
+                  "l": 332.47,
+                  "t": 767.2959829101563,
+                  "r": 553.7739999999999,
+                  "b": 694.9239829101564,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  485,
+                  626
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/191",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 10,
+                "bbox": {
+                  "l": 332.47,
+                  "t": 673.2159829101563,
+                  "r": 553.8399999999999,
+                  "b": 580.0539829101564,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  208
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "overlap": {
+        "enabled": true,
+        "ratio": 0.25,
+        "previous_context": true,
+        "next_context": true
+      }
+    }
+  },
+  {
+    "content": "[Previous context]\nthe hospital stay after laparoscopic appendectomy was significantly lower than after open appendectomy in all of the reported studies as shown in fig (4). In a study done by Guller et al., (18) laparoscopic appendectomy was associated with shorter median hospital stay (laparoscopic appendectomy:2.06 days, open appendectomy: 2.88 days, p < 0.0001). While, median length of hospitalization was significantly shorter in the laparoscopic group (p < 0.000) in another study (12) and was 5 days and 6 days for LA and OA group respectively (P<0.001) in Yau et al., (19) study.\nIn the work of Alfredo et al, the hospital stay was significantly lower in the laparoscopic group (mean hospital stay was 27.2 hours) compared to the open group (53.1 hours), (P=0.001), (17).\n\nA study done by Shirazi et al showed that the length of hospital stay ranged from 2 days to 9 days. The mean length of stay was significantly shorter after LA (3 days after LA, 5 days after OA, P < 0.0001), (20).\nKamal and Qureshi , showed that the mean hospital stay was nearly 1/3rd in LA. The patients were discharged home after 24 hours in LA where as in OA the patient left the hospital on the third day, (11)\nAll previous results of mentioned studies regarding hospital stay are comparable to this study as this study revealed that there was a significant increase in hospital stay in the open group(mean hospital stay was 3.3 days), than the laparoscopic group (1.9 days), (PV=0.002)\nIn this study, although the overall postoperative complications were higher in the OA group (20%) than LA group (10%), the result was statistically insignificant (p=0.661.)\nSimilarly, Katkhouda et al (4) showed that there was no significant difference in the overall complication rates (18.5% in the LA group versus 17.1% in the OA group) (p = 1.00). Also, Long et al(13) found that no significant difference regarding overall complications.\nTotal number of complications was less in the LA group with a significantly lower incidence of wound infection (1.4 % vs 10.6 %, P <0.001).(21).\nSurgical site infections occurred exclusively after OA (38 vs. 0 patients).(12)\nSimilarly, Alfredo et al , showed that there was no significant difference regarding overall post operative complications between OA group and LA group although the incidence of complications was higher in the OA group( 8% in the OA versus 3.6% in the LA), (17)\nOn the other hand, a study done by Shirazi et al reported that the rate of overall complications (LA: 15%, OA: 31.8%, P < 0.0001) was significantly lower in patients undergoing LA, (20)\nSimilarly, Guller et al showed that overall complications were significantly lower in laparoscopic group (P = 0.002), (18)\nThis difference in the significance of overall post operative complications may be related to number of studied cases and the pathology present in the appendix.\nA meta-analysis of randomized controlled trials has been reported with outcomes of 2877 patients included in 28 trials. Overall complication rates were comparable, but wound infections were definitely reduced after laparoscopy (2.3% to 6.1%), (22)\nA study by Yau et al (19) was done to evaluate wound infection. The results showed that there was one patient converted to OA (0.6%) in the LA group who suffered from wound infection, and there were seven (10%) wound infections in the OA group (p=0.001). Guller et al., (18) also, showed that there was lower rate of wound infections among laparoscopic group (p < 0.0001). Moreover, Sauerland et al., (23) who included 67 studies, of which 56 compared laparoscopic appendectomy (with or without diagnostic laparoscopy) versus open appendectomy in adults found that wound infections were less likely after laparoscopic than after open appendectomy.\nKamal and Qureshi (11) compared 42 patients who had laparoscopic appendectomy to 53 patients who had open appendectomy. Wound infection regarding skin was zero in laparoscopic group and 3 wound infections in open group.\n\n[Next context]\nThere were no differences in post-operatory complications (intra-abdominal abscess, surgical site infection and prolonged ileus),(24)\nAll previous results of mentioned studies regarding wound infection are comparable to this study as this study revealed that there was a significant decrease in wound infection in LA group (PV=1)\nWe must convert laparoscopic procedure to open surgery when indicated for the safety of the patient and this occurs",
+    "metadata": {
+      "document_id": "paper21",
+      "source": "paper21.pdf",
+      "topic": "Discussion:",
+      "headings": [
+        "Discussion:"
+      ],
+      "chunk_index": 14,
+      "total_chunks": 19,
+      "pages": [
+        10,
+        11
+      ],
+      "docling": {
+        "doc_items": [
+          {
+            "self_ref": "#/texts/192",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 10,
+                "bbox": {
+                  "l": 332.47,
+                  "t": 558.4659829101563,
+                  "r": 553.7259999999999,
+                  "b": 465.3339829101563,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  218
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/193",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 10,
+                "bbox": {
+                  "l": 332.47,
+                  "t": 443.7459829101563,
+                  "r": 553.7619999999996,
+                  "b": 350.5939829101563,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  217
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/194",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 10,
+                "bbox": {
+                  "l": 332.47,
+                  "t": 329.00598291015626,
+                  "r": 553.8760000000001,
+                  "b": 194.44398291015636,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  298
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/195",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 10,
+                "bbox": {
+                  "l": 332.47,
+                  "t": 172.73598291015628,
+                  "r": 553.75,
+                  "b": 79.70398291015624,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  176
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/199",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 11,
+                "bbox": {
+                  "l": 63.864,
+                  "t": 767.2959829101563,
+                  "r": 285.1320000000001,
+                  "b": 632.7639829101563,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  295
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/200",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 11,
+                "bbox": {
+                  "l": 63.864,
+                  "t": 611.1759829101563,
+                  "r": 285.24199999999996,
+                  "b": 538.6539829101563,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  156
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/201",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 11,
+                "bbox": {
+                  "l": 63.864,
+                  "t": 517.0659829101563,
+                  "r": 285.1200000000001,
+                  "b": 486.0939829101563,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  79
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/202",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 11,
+                "bbox": {
+                  "l": 63.864,
+                  "t": 464.38598291015626,
+                  "r": 285.168,
+                  "b": 329.9539829101563,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  270
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/203",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 11,
+                "bbox": {
+                  "l": 63.864,
+                  "t": 308.2459829101563,
+                  "r": 285.13999999999993,
+                  "b": 215.08398291015624,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  196
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/204",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 11,
+                "bbox": {
+                  "l": 63.864,
+                  "t": 193.49598291015627,
+                  "r": 285.1320000000001,
+                  "b": 141.7639829101563,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  132
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/205",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 11,
+                "bbox": {
+                  "l": 63.864,
+                  "t": 120.17598291015634,
+                  "r": 285.26599999999996,
+                  "b": 89.06398291015626,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  90
+                ]
+              },
+              {
+                "page_no": 11,
+                "bbox": {
+                  "l": 332.47,
+                  "t": 767.2959829101563,
+                  "r": 553.7499999999999,
+                  "b": 736.3239829101564,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  91,
+                  160
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/206",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 11,
+                "bbox": {
+                  "l": 332.47,
+                  "t": 714.6159829101563,
+                  "r": 553.7739999999999,
+                  "b": 600.8439829101563,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  267
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/207",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 11,
+                "bbox": {
+                  "l": 332.47,
+                  "t": 579.1059829101563,
+                  "r": 553.8639999999999,
+                  "b": 258.2839829101563,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  684
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/208",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 11,
+                "bbox": {
+                  "l": 332.47,
+                  "t": 236.69598291015632,
+                  "r": 553.7859999999997,
+                  "b": 122.92398291015627,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  224
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "overlap": {
+        "enabled": true,
+        "ratio": 0.25,
+        "previous_context": true,
+        "next_context": true
+      }
+    }
+  },
+  {
+    "content": "[Previous context]\ndone to evaluate wound infection. The results showed that there was one patient converted to OA (0.6%) in the LA group who suffered from wound infection, and there were seven (10%) wound infections in the OA group (p=0.001). Guller et al., (18) also, showed that there was lower rate of wound infections among laparoscopic group (p < 0.0001). Moreover, Sauerland et al., (23) who included 67 studies, of which 56 compared laparoscopic appendectomy (with or without diagnostic laparoscopy) versus open appendectomy in adults found that wound infections were less likely after laparoscopic than after open appendectomy.\nKamal and Qureshi (11) compared 42 patients who had laparoscopic appendectomy to 53 patients who had open appendectomy. Wound infection regarding skin was zero in laparoscopic group and 3 wound infections in open group.\n\nThere were no differences in post-operatory complications (intra-abdominal abscess, surgical site infection and prolonged ileus),(24)\nAll previous results of mentioned studies regarding wound infection are comparable to this study as this study revealed that there was a significant decrease in wound infection in LA group (PV=1)\nWe must convert laparoscopic procedure to open surgery when indicated for the safety of the patient and this occurs in 2 cases in our study.\nThe rate of conversion from LA to OA is 4.16%, but this number is slowly decreasing as surgeons gain more experience with LA .(25).\nThe rates of conversion for laparoscopic appendectomy range from 3.3% to 11.25% . As the conversion from laparoscopic appendectomy to an open procedure is sometimes recognized as a failure, some operators do their best to reduce conversion rates, (26).\nEarly reports centered on the use of the laparoscope to increase diagnostic accuracy and decrease the negative appendectomy rate which ranges in some series from 20 to 30%, (4).\nLaparoscopy has a great diagnostic value specially in acute abdomen .It plays a significant role in young females where at times it is nearly impossible to differentiate between acute appendicitis and gynecological clinical conditions like \"Pelvic Inflammatory disease\", \"Twisted ovary\" and ectopic pregnancy etc, (11).\nWhile in open procedure, associated pathology was found in 1 patients, (5%).\nThese results clarify the importance of laparoscopy as a diagnostic and therapeutic tool to deal with other causes of acute abdomen. This advantage permits the surgeons to manage even gynecological cases without extending or changing incisions with the least post operative complications.\n\n[Next context]\nLaparoscopic appendectomy is safe and feasible. Despite that the operating time for laparoscopic appendectomy is still higher than that for open procedure, laparoscopic approach had several",
+    "metadata": {
+      "document_id": "paper21",
+      "source": "paper21.pdf",
+      "topic": "Discussion:",
+      "headings": [
+        "Discussion:"
+      ],
+      "chunk_index": 15,
+      "total_chunks": 19,
+      "pages": [
+        12
+      ],
+      "docling": {
+        "doc_items": [
+          {
+            "self_ref": "#/texts/212",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 12,
+                "bbox": {
+                  "l": 63.864,
+                  "t": 767.2959829101563,
+                  "r": 285.31,
+                  "b": 694.9239829101564,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  133
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/213",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 12,
+                "bbox": {
+                  "l": 63.864,
+                  "t": 673.2159829101563,
+                  "r": 285.31,
+                  "b": 580.0539829101564,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  207
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/214",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 12,
+                "bbox": {
+                  "l": 63.864,
+                  "t": 558.4659829101563,
+                  "r": 285.15600000000006,
+                  "b": 486.0939829101563,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  143
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/215",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 12,
+                "bbox": {
+                  "l": 63.864,
+                  "t": 464.38598291015626,
+                  "r": 285.156,
+                  "b": 391.99398291015626,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  145
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/216",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 12,
+                "bbox": {
+                  "l": 63.864,
+                  "t": 370.2859829101563,
+                  "r": 285.192,
+                  "b": 235.84398291015634,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  260
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/217",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 12,
+                "bbox": {
+                  "l": 63.864,
+                  "t": 214.13598291015626,
+                  "r": 285.31,
+                  "b": 121.12398291015631,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  188
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/218",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 12,
+                "bbox": {
+                  "l": 332.47,
+                  "t": 767.2959829101563,
+                  "r": 553.7979999999998,
+                  "b": 612.1239829101563,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  340
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/219",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 12,
+                "bbox": {
+                  "l": 332.47,
+                  "t": 590.3859829101564,
+                  "r": 553.7739999999998,
+                  "b": 559.4139829101563,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  76
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/220",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 12,
+                "bbox": {
+                  "l": 332.47,
+                  "t": 537.7059829101563,
+                  "r": 553.8279999999999,
+                  "b": 382.51398291015624,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  293
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "overlap": {
+        "enabled": true,
+        "ratio": 0.25,
+        "previous_context": true,
+        "next_context": true
+      }
+    }
+  },
+  {
+    "content": "[Previous context]\nlike \"Pelvic Inflammatory disease\", \"Twisted ovary\" and ectopic pregnancy etc, (11).\nWhile in open procedure, associated pathology was found in 1 patients, (5%).\nThese results clarify the importance of laparoscopy as a diagnostic and therapeutic tool to deal with other causes of acute abdomen. This advantage permits the surgeons to manage even gynecological cases without extending or changing incisions with the least post operative complications.\n\nLaparoscopic appendectomy is safe and feasible. Despite that the operating time for laparoscopic appendectomy is still higher than that for open procedure, laparoscopic approach had several advantages over open appendectomy in that, it has lesser incidence of wound infection, shorter hospital stay, less need for post operative analgesia and faster return of patients to normal activities. Moreover, it is very useful in reaching an exact diagnosis in equivocal cases in females during their childbearing period. We must\nconvert laparoscopic procedure to open surgery when indicated for the safety of the patient. A larger further study to evaluate the cost, benefit of laparoscopic appendectomy is recommended.\n\n[Next context]\n1. Kehagias I, Karamanakos SN, Panagiotopoulos S, Panagopoulos K and Kalfarentzos F. Laparoscopic versus open appendectomy: which way to go?. World Journal of Gastroenterology: WJG. 2008 Aug 21;14(31):4909.\n2. Semm K. Endoscopic appendectomy. Endoscopy. 1983 Mar;15(02):59-64.\n3. Martin LC, Puente I, Sosa JL, Bassin A, Breslaw R, McKenney MG and et al. Open versus laparoscopic appendectomy. A prospective randomized comparison. Annals of surgery. 1995 Sep;222(3):256.\n4. Katkhouda N, Friedlander MH, Grant SW, Achanta KK, Essani R, Paik P and et al. Intraabdominal abscess rate after",
+    "metadata": {
+      "document_id": "paper21",
+      "source": "paper21.pdf",
+      "topic": "Conclusion:",
+      "headings": [
+        "Conclusion:"
+      ],
+      "chunk_index": 16,
+      "total_chunks": 19,
+      "pages": [
+        12,
+        13
+      ],
+      "docling": {
+        "doc_items": [
+          {
+            "self_ref": "#/texts/222",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 12,
+                "bbox": {
+                  "l": 332.47,
+                  "t": 329.00598291015626,
+                  "r": 553.92,
+                  "b": 90.86398291015632,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  559
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/226",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 13,
+                "bbox": {
+                  "l": 63.864,
+                  "t": 767.2959829101563,
+                  "r": 285.18,
+                  "b": 674.1639829101563,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  194
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "overlap": {
+        "enabled": true,
+        "ratio": 0.25,
+        "previous_context": true,
+        "next_context": true
+      }
+    }
+  },
+  {
+    "content": "[Previous context]\nprocedure to open surgery when indicated for the safety of the patient. A larger further study to evaluate the cost, benefit of laparoscopic appendectomy is recommended.\n\n1. Kehagias I, Karamanakos SN, Panagiotopoulos S, Panagopoulos K and Kalfarentzos F. Laparoscopic versus open appendectomy: which way to go?. World Journal of Gastroenterology: WJG. 2008 Aug 21;14(31):4909.\n2. Semm K. Endoscopic appendectomy. Endoscopy. 1983 Mar;15(02):59-64.\n3. Martin LC, Puente I, Sosa JL, Bassin A, Breslaw R, McKenney MG and et al. Open versus laparoscopic appendectomy. A prospective randomized comparison. Annals of surgery. 1995 Sep;222(3):256.\n4. Katkhouda N, Friedlander MH, Grant SW, Achanta KK, Essani R, Paik P and et al. Intraabdominal abscess rate after laparoscopic appendectomy. The American journal of surgery. 2000 Dec 1;180(6):456-61.\n5. Johnson AB and Peetz ME. Laparoscopic appendectomy is an acceptable alternative for the treatment of perforated appendicitis. Surgical endoscopy. 1998 Jul 1;12(7):940-3.\n6. Larsson PG, Henriksson G, Olsson M, Boris J, Ströberg P, Tronstad SE and et al. Laparoscopy reduces unnecessary appendicectomies and improves diagnosis in fertile women. Surgical endoscopy. 2001 Feb 1;15(2):200-2.\n7. Kumar B, Samad A, Khanzada TW, Laghari MH and Shaikh AR. Superiority of laparoscopic appendectomy over open appendectomy: the Hyderabad experience. Rawal Med J. 2008 Jan 1;33(2):165-8.\n8. Peiser JG and Greenberg D. Laparoscopic versus open appendectomy: results of a retrospective comparison in an Israeli hospital. IMAJ-RAMAT GAN-. 2002 Feb 1;4(2):91-4.\n9. Sweeney KJ and Keane FB. Moving from open to laparoscopic appendicectomy. British journal of surgery. 2003 Mar;90(3):257-8.\n10. Tranoff M, Atabek U, Goodman M, Alexander JB, Chrzanowski F, Mortman K and et al. A comparison of laparoscopic and open appendectomy. J Soc Laparoendosc Surg 1998; 2: 153-8\n11. Kamal M and Qureshi KH. Laparoscopic versus open appendectomy. Department of Surgery, Nishtar Medical College, Multan. Pakistan. J. Med. Res, 2003;Vol. 42 No.1.\n12. Horvath P, Lange J, Bachmann R, Struller F, Königsrainer A, Zdichavsky M and et al. Comparison of clinical outcome of laparoscopic versus open appendectomy for complicated appendicitis. Surgical endoscopy. 2017 Jan 1;31(1):199-205.\n13. Long KH, Bannon MP, Zietlow SP, Helgeson ER, Harmsen WS, Smith CD and et al. A prospective randomized comparison of laparoscopic appendectomy with open appendectomy: clinical and economic analyses. Surgery. 2001 Apr 1;129(4):390-400.\n\n[Next context]\n14. Ortega AE, Hunter JG, Peters JH, Swanstrom LL and Schirmer B. Laparoscopic Appendectomy Study",
+    "metadata": {
+      "document_id": "paper21",
+      "source": "paper21.pdf",
+      "topic": "References:",
+      "headings": [
+        "References:"
+      ],
+      "chunk_index": 17,
+      "total_chunks": 19,
+      "pages": [
+        13
+      ],
+      "docling": {
+        "doc_items": [
+          {
+            "self_ref": "#/texts/228",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 13,
+                "bbox": {
+                  "l": 63.864,
+                  "t": 618.0422629101563,
+                  "r": 284.80004,
+                  "b": 540.5567029101563,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  220
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/229",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 13,
+                "bbox": {
+                  "l": 63.864,
+                  "t": 531.8522629101564,
+                  "r": 284.5499999999999,
+                  "b": 505.99670291015633,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  69
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/230",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 13,
+                "bbox": {
+                  "l": 63.864,
+                  "t": 497.2922629101563,
+                  "r": 284.56991999999997,
+                  "b": 419.6967029101563,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  195
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/231",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 13,
+                "bbox": {
+                  "l": 63.864,
+                  "t": 411.1122629101563,
+                  "r": 284.73116000000005,
+                  "b": 333.5367029101563,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  205
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/232",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 13,
+                "bbox": {
+                  "l": 63.864,
+                  "t": 324.83226291015626,
+                  "r": 284.7412400000001,
+                  "b": 264.50670291015626,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  172
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/233",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 13,
+                "bbox": {
+                  "l": 68.424,
+                  "t": 255.8022629101563,
+                  "r": 284.57819999999987,
+                  "b": 178.2267029101563,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  221
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/234",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 13,
+                "bbox": {
+                  "l": 68.424,
+                  "t": 169.52226291015631,
+                  "r": 284.5782000000001,
+                  "b": 91.92670291015634,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  197
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/235",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 13,
+                "bbox": {
+                  "l": 337.03,
+                  "t": 767.8222629101563,
+                  "r": 553.2978400000001,
+                  "b": 707.5067029101563,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  174
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/236",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 13,
+                "bbox": {
+                  "l": 337.03,
+                  "t": 698.8022629101563,
+                  "r": 553.1244400000005,
+                  "b": 655.7867029101564,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  126
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/237",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 13,
+                "bbox": {
+                  "l": 337.03,
+                  "t": 647.0822629101563,
+                  "r": 553.3374399999999,
+                  "b": 569.4767029101563,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  184
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/238",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 13,
+                "bbox": {
+                  "l": 337.03,
+                  "t": 560.7722629101563,
+                  "r": 553.2822400000001,
+                  "b": 500.4767029101563,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  175
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/239",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 13,
+                "bbox": {
+                  "l": 337.03,
+                  "t": 491.7722629101563,
+                  "r": 553.3197600000002,
+                  "b": 397.0167029101563,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  243
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/240",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 13,
+                "bbox": {
+                  "l": 337.03,
+                  "t": 388.31226291015633,
+                  "r": 553.2140800000003,
+                  "b": 293.4567029101563,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  254
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "overlap": {
+        "enabled": true,
+        "ratio": 0.25,
+        "previous_context": true,
+        "next_context": true
+      }
+    }
+  },
+  {
+    "content": "[Previous context]\nLaparoscopic versus open appendectomy. Department of Surgery, Nishtar Medical College, Multan. Pakistan. J. Med. Res, 2003;Vol. 42 No.1.\n12. Horvath P, Lange J, Bachmann R, Struller F, Königsrainer A, Zdichavsky M and et al. Comparison of clinical outcome of laparoscopic versus open appendectomy for complicated appendicitis. Surgical endoscopy. 2017 Jan 1;31(1):199-205.\n13. Long KH, Bannon MP, Zietlow SP, Helgeson ER, Harmsen WS, Smith CD and et al. A prospective randomized comparison of laparoscopic appendectomy with open appendectomy: clinical and economic analyses. Surgery. 2001 Apr 1;129(4):390-400.\n\n14. Ortega AE, Hunter JG, Peters JH, Swanstrom LL and Schirmer B. Laparoscopic Appendectomy Study Group. A prospective, randomized comparison of laparoscopic appendectomy with open appendectomy. The American journal of surgery. 1995 Feb 1;169(2):208-13.\n15. Yu G, Han A, Wang W. Comparison of laparoscopic appendectomy with open appendectomy in treating children with appendicitis. Pakistan journal of medical sciences. 2016 Mar;32(2):299.\n\n[Next context]\n16. Mishra RK, Hanna GB and Cuschieri A. Laparoscopic versus open appendectomy for the treatment of acute appendicitis. World J. of Laparoscopic Surg. 2008 Jan;1(1):19-28.\n17. Alfredo M, Carbonell DO, Justin MB, Amy E, Kristi L and Harold T. Outcomes of laparoscopic versus open appendectomy, from the Carolinas laparoscopic and advanced surgery program, department of general surgery. The american surgeon, 2004;70:759-766.\n18. Guller U, Hervey S, Purves H, Muhlbaier LH, Peterson ED, Eubanks S and et al. Laparoscopic versus open appendectomy: outcomes comparison based on a large administrative database. Annals of surgery.",
+    "metadata": {
+      "document_id": "paper21",
+      "source": "paper21.pdf",
+      "topic": "References:",
+      "headings": [
+        "References:"
+      ],
+      "chunk_index": 18,
+      "total_chunks": 19,
+      "pages": [
+        13
+      ],
+      "docling": {
+        "doc_items": [
+          {
+            "self_ref": "#/texts/241",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 13,
+                "bbox": {
+                  "l": 337.03,
+                  "t": 284.75226291015633,
+                  "r": 553.2041200000002,
+                  "b": 172.7067029101563,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  267
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/242",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 13,
+                "bbox": {
+                  "l": 337.03,
+                  "t": 164.00226291015633,
+                  "r": 553.2140800000003,
+                  "b": 86.40670291015624,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  185
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "overlap": {
+        "enabled": true,
+        "ratio": 0.25,
+        "previous_context": true,
+        "next_context": true
+      }
+    }
+  },
+  {
+    "content": "[Previous context]\nwith open appendectomy in treating children with appendicitis. Pakistan journal of medical sciences. 2016 Mar;32(2):299.\n\n16. Mishra RK, Hanna GB and Cuschieri A. Laparoscopic versus open appendectomy for the treatment of acute appendicitis. World J. of Laparoscopic Surg. 2008 Jan;1(1):19-28.\n17. Alfredo M, Carbonell DO, Justin MB, Amy E, Kristi L and Harold T. Outcomes of laparoscopic versus open appendectomy, from the Carolinas laparoscopic and advanced surgery program, department of general surgery. The american surgeon, 2004;70:759-766.\n18. Guller U, Hervey S, Purves H, Muhlbaier LH, Peterson ED, Eubanks S and et al. Laparoscopic versus open appendectomy: outcomes comparison based on a large administrative database. Annals of surgery. 2004 Jan;239(1):43.\n19. Yau KK, Siu WT, Tang CN, Yang GP and Li MK. Laparoscopic versus open appendectomy for complicated appendicitis. Journal of the American College of Surgeons. 2007 Jul 1;205(1):60-5.\n20. Shirazi B, Ali N and Shamim MS. Laproscopic versus open appendectomy: A comparative study. JPMA-Journal of the Pakistan Medical Association. 2010 Nov 1;60(11):901.\n21. Biondi A, Di Stefano C, Ferrara F, Bellia A, Vacante M, Piazza L and et al. Laparoscopic versus open appendectomy: a retrospective cohort study assessing outcomes and costeffectiveness. World Journal of Emergency Surgery. 2016 Dec;11(1):44.\n22. Hansen JB, Smithers BM, Schache D, Wall DR, Miller BJ, MenZies BL and et al . Laparoscopic versus open appendectomy: prospective randomized trial. World journal of surgery. 1996 Jan 1;20(1):17-21.\n23. Sauerland S, Jaschinski T and Neugebauer EA. Laparoscopic versus open surgery for suspected appendicitis. Cochrane Database of Systematic Reviews. 2010(10.)\n24. Quezada F, Quezada N, Mejia R, Brañes A, Padilla O, Jarufe N, Pimentel F and et al. Laparoscopic versus open approach in the management of appendicitis complicated exclusively with peritonitis: a single center experience. International Journal of Surgery. 2015 Jan 1;13:80-3.\n25. Kumar S, Jalan A, Patowary BN, Shrestha S. Laparoscopic appendectomy versus open appendectomy for acute appendicitis: A prospective comparative study. Kathmandu Univ Med J (KUMJ). 2016 Jul;14(55):244-8.\n26. Jeon BG, Kim HJ, Jung KH, Kim SW, Park JS, Kim KH, Kim ID, Lee SJ and et al. Prolonged operative time in laparoscopic appendectomy: Predictive factors and outcomes. International Journal of Surgery. 2016 Dec 1;36:225-32.\nTo cite this article: Hassan k. Alsoueni, Mohammed M. Mohammed, Ahmed M. Nawar, Abdelmonem A.Ali. Laparoscopic appendectomy versus open appendectomy in young female patients, BMFJ 2020;37(1):271-284. DOI: 10.21608/bmfj.2020.18734.1144",
+    "metadata": {
+      "document_id": "paper21",
+      "source": "paper21.pdf",
+      "topic": "References:",
+      "headings": [
+        "References:"
+      ],
+      "chunk_index": 19,
+      "total_chunks": 19,
+      "pages": [
+        14
+      ],
+      "docling": {
+        "doc_items": [
+          {
+            "self_ref": "#/texts/246",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 14,
+                "bbox": {
+                  "l": 68.424,
+                  "t": 767.8222629101563,
+                  "r": 284.7196400000001,
+                  "b": 707.5067029101563,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  177
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/247",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 14,
+                "bbox": {
+                  "l": 68.424,
+                  "t": 698.8022629101563,
+                  "r": 284.7393200000002,
+                  "b": 603.9467029101563,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  261
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/248",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 14,
+                "bbox": {
+                  "l": 68.424,
+                  "t": 595.3322629101563,
+                  "r": 284.80024,
+                  "b": 500.4767029101563,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  228
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/249",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 14,
+                "bbox": {
+                  "l": 68.424,
+                  "t": 491.7722629101563,
+                  "r": 284.5981200000001,
+                  "b": 414.17670291015634,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  193
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/250",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 14,
+                "bbox": {
+                  "l": 68.424,
+                  "t": 405.5922629101563,
+                  "r": 284.6727200000001,
+                  "b": 345.17670291015634,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  172
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/251",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 14,
+                "bbox": {
+                  "l": 68.424,
+                  "t": 336.5922629101563,
+                  "r": 284.72252,
+                  "b": 241.7067029101563,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  259
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/252",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 14,
+                "bbox": {
+                  "l": 337.03,
+                  "t": 767.8222629101563,
+                  "r": 553.1842000000003,
+                  "b": 690.2267029101563,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  200
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/253",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 14,
+                "bbox": {
+                  "l": 337.03,
+                  "t": 681.5222629101563,
+                  "r": 553.2140800000001,
+                  "b": 621.2267029101563,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  164
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/254",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 14,
+                "bbox": {
+                  "l": 337.03,
+                  "t": 612.5222629101563,
+                  "r": 553.3845600000001,
+                  "b": 500.4767029101563,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  292
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/255",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 14,
+                "bbox": {
+                  "l": 337.03,
+                  "t": 491.7722629101563,
+                  "r": 553.2240400000002,
+                  "b": 414.17670291015634,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  213
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/256",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 14,
+                "bbox": {
+                  "l": 337.03,
+                  "t": 405.08598291015625,
+                  "r": 553.2516400000002,
+                  "b": 323.83398291015624,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  232
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/257",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 14,
+                "bbox": {
+                  "l": 101.18,
+                  "t": 221.3359829101563,
+                  "r": 535.428,
+                  "b": 179.20398291015636,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  240
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "overlap": {
+        "enabled": true,
+        "ratio": 0.25,
+        "previous_context": true,
+        "next_context": false
+      }
+    }
+  }
+]
