@@ -29,57 +29,6 @@ class QueryRequest(BaseModel):
     patient_context: str = ""
 
 
-def rerank_chunks(query: str, chunks: list[dict[str, Any]], patient_context: str = "") -> list[dict[str, Any]]:
-    """Uses Gemini to filter noise and select the top 5 most relevant chunks (matching CLI logic)."""
-    if not chunks:
-        return []
-
-    context_list = "\n\n".join(
-        [f"ID {i}: {res.get('content', '')}" for i, res in enumerate(chunks)]
-    )
-
-    prompt = f"""
-        You are a professional, empathetic, and rigorous clinical AI assistant.
-        A user is asking a health-related question. Provide a comprehensive, expertly structured response.
-
-        Patient context:
-        {patient_context if patient_context.strip() else "No additional patient information was provided."}
-
-        IMPORTANT FORMATTING & LANGUAGE RULES:
-        1. You MUST output your entire response using clean, semantic HTML tags (such as <h3>, <p>, <strong>, <ul>, <li>). Do NOT use Markdown syntax like #, **, or *.
-        2. **Language Matching:** Translate the section headers (such as "Immediate Safety & Actionable Guidance", "Potential Causes", etc.) into the **exact same language** used by the patient in their question (e.g., if the user asks in Arabic, translate the section headers into natural Arabic).
-
-        Structure your answer cleanly with these sections (translated to the user's language):
-        - Immediate Safety & Actionable Guidance
-        - Potential Causes & Clinical Overview
-        - Verified Literature Insights
-        - Professional Medical Advice
-
-        Reference Context from Local Database:
-        {context_list if context_list else "No specific local database chunks matched, rely on standard clinical consensus."}
-
-        Question: {query}
-
-        Answer (in HTML tags only, with translated section headers (same language as user prompt), no markdown):
-    """
-
-    try:
-        response = client.models.generate_content(
-            model="gemini-3.5-flash", contents=prompt
-        )
-
-        assert response.text is not None, "No response from reranker"
-        cleaned_text = response.text.strip().replace("`", "")
-        indices = [int(i.strip()) for i in cleaned_text.split(",") if i.strip().isdigit()]
-
-        selected_chunks = [chunks[i] for i in indices if 0 <= i < len(chunks)]
-        return selected_chunks[:5] if selected_chunks else chunks[:5]
-
-    except Exception as e:
-        print(f"Reranking error ({e}), falling back to top retriever results.")
-        return chunks[:5]
-
-
 def generate_medical_answer(query: str, patient_context: str = "") -> tuple[str, str]:
     """Retrieves 10 candidates, reranks them to top 5, and generates a structured HTML medical response."""
 
@@ -88,8 +37,7 @@ def generate_medical_answer(query: str, patient_context: str = "") -> tuple[str,
 
     context_blocks = []
     if raw_results:
-        refined_results = rerank_chunks(query, raw_results, patient_context)
-        for res in refined_results:
+        for res in raw_results:
             content = res.get("content", "")
             context_blocks.append(content)
 
