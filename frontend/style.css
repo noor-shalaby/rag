@@ -117,3 +117,17 @@ body {
 .chat-form button:hover {
     background: #0052a3;
 }
+
+.message.assistant ul, .message.assistant ol {
+    margin-left: 20px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+
+.message.assistant p {
+    margin-bottom: 8px;
+}
+
+.message.assistant strong {
+    color: #004080;
+}

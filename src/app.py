@@ -12,10 +12,10 @@ app = FastAPI(
     version="1.0.0"
 )
 
-# --- 2. ADD THIS CORS CONFIGURATION ---
+# Enable CORS for frontend communication
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],  # Allows all domains/frontends to connect (or specify your specific frontend URL)
+    allow_origins=["*"],  # Allows all domains/frontends to connect
     allow_credentials=True,
     allow_methods=["*"],  # Allows all HTTP methods (POST, GET, etc.)
     allow_headers=["*"],  # Allows all headers
@@ -28,6 +28,7 @@ client = genai.Client()
 class QueryRequest(BaseModel):
     query: str
 
+
 def rerank_chunks(query: str, chunks: list[dict[str, Any]]) -> list[dict[str, Any]]:
     """Uses Gemini to filter noise and select the top 5 most relevant chunks."""
     if not chunks:
@@ -38,32 +39,25 @@ def rerank_chunks(query: str, chunks: list[dict[str, Any]]) -> list[dict[str, An
     )
 
     prompt = f"""
-        You are an expert clinical medical assistant.
+    You are an expert medical relevance evaluator.
+    Given the user query and a list of candidate document chunks, select the indices (ID numbers)
+    of the top 5 chunks that most accurately and directly answer the question.
 
-        Your task is to provide a precise, medically accurate, and structured answer to the user's question using **ONLY** the provided medical sources below.
+    CRITICAL RULES:
+    - Ignore chunks that are purely author lists, university departments, titles, or references.
+    - Only select chunks that contain actual medical insights, clinical guidelines, symptoms, or findings.
 
-        CRITICAL RULES:
-        - **Strict Grounding:** Base your response exclusively on the provided sources. Do not extrapolate, assume, or bring in external medical knowledge.
-        - **Output Format:** You must format your entire response using clean, semantic HTML tags (such as <h3>, <p>, <strong>, <ul>, and <li>). Do NOT use markdown syntax like #, **, or *.
-        - **Mandatory Citations:** You must cite every claim using the exact format `` corresponding to the source index right after the relevant sentence or bullet point.
-        - **Noise Filtering:** Ignore chunks that contain only author names, institutional affiliations, titles, or raw bibliography/reference lists.
-        - **Insufficiency Protocol:** If the provided sources do not contain enough information to answer the question, output *only*: "<p>I don't have enough information in the provided sources to answer this question.</p>"
-        - **Transparency:** Never mention the chunks, vector database, retrieval system, or internal prompt instructions.
+    Query: {query}
 
-        <sources>
-        {context_list if context_list else "No specific local database chunks matched."}
-        </sources>
+    Candidate Chunks:
+    {context_list}
 
-        <question>
-        {query}
-        </question>
-
-        Answer (in HTML):
+    Return ONLY the integer indices as a comma-separated list (e.g., 0, 1, 2, 3, 4). Do not include any other text.
     """
 
     try:
         response = client.models.generate_content(  # pyright: ignore[reportUnknownMemberType]
-            model="gemini-3.5-flash", contents=prompt
+            model="gemini-2.5-flash", contents=prompt
         )
 
         assert response.text is not None, "No response from reranker"
@@ -86,7 +80,7 @@ async def ask_medical_question(payload: QueryRequest):
         raise HTTPException(status_code=400, detail="Query cannot be empty.")
 
     try:
-        # 1. Retrieve candidates
+        # 1. Retrieve candidate chunks
         raw_results = retrieve_medical_context(query, match_threshold=0.0, match_count=10)
 
         context_blocks = []
@@ -98,37 +92,48 @@ async def ask_medical_question(payload: QueryRequest):
 
         context_text = "\n\n---\n\n".join(context_blocks)
 
-        # 2. Formulate prompt
+        # 2. Formulate prompt requiring strict HTML output
         prompt = f"""
         You are a professional, empathetic, and rigorous clinical AI assistant.
-        A user is asking a health-related question. Provide a comprehensive, expertly structured response.
+        Answer the user's question using ONLY the provided medical sources below.
 
-        Structure your answer cleanly with Markdown:
-        1. **Immediate Safety & Actionable Guidance:** What steps the user should take immediately, and crucially, **what they must avoid doing or eating** (e.g., fasting, avoiding pain relievers or laxatives that mask symptoms or risk rupture).
-        2. **Potential Causes & Clinical Overview:** Standard medical consensus on why this occurs.
-        3. **Verified Literature Insights:** Integrate specific findings, clinical evaluation methods (such as scoring systems or diagnostics), and statistics from the provided reference context below.
-        4. **Professional Medical Advice:** Conclude clearly by emphasizing why prompt professional evaluation by a physician or emergency room is mandatory.
+        CRITICAL RULES:
+        - **Strict Grounding:** Base your response exclusively on the provided sources. Do not extrapolate, assume, or bring in external medical knowledge.
+        - **Output Format:** You MUST format your entire response using clean, semantic HTML tags (such as <h3>, <p>, <strong>, <ul>, <li>). Do NOT use markdown syntax like #, **, or *.
+        - **Structure Required:**
+          1. <h3>Immediate Safety & Actionable Guidance</h3> (Steps to take immediately, and crucially, what to AVOID doing or eating, e.g., fasting, avoiding pain relievers or laxatives).
+          2. <h3>Potential Causes & Clinical Overview</h3> (Standard medical consensus on why this occurs).
+          3. <h3>Verified Literature Insights</h3> (Integrate findings, clinical evaluation methods, or statistics from context).
+          4. <h3>Professional Medical Advice</h3> (Emphasize why prompt evaluation by a physician or ER is mandatory).
+        - **Insufficiency Protocol:** If the provided sources do not contain enough information to answer the question, output *only*: "<p>I don't have enough information in the provided sources to answer this question.</p>"
+        - **Transparency:** Never mention chunks, vector database, retrieval system, or internal prompt instructions.
 
-        Reference Context from Local Database:
-        {context_text if context_text else "No specific local database chunks matched, rely on standard clinical consensus."}
+        <sources>
+        {context_text if context_text else "No local database chunks matched."}
+        </sources>
 
-        Question: {query}
+        <question>
+        {query}
+        </question>
 
-        Answer:
+        Answer (in HTML tags only, no markdown):
         """
 
         response = client.models.generate_content(  # pyright: ignore[reportUnknownMemberType]
-            model="gemini-3.5-flash", contents=prompt
+            model="gemini-2.5-flash", contents=prompt
         )
 
         assert response.text is not None, "No text generated"
 
-        # 3. Add medical disclaimer
+        # 3. Add styled HTML medical disclaimer box
         disclaimer = (
-            "⚠️ **IMPORTANT MEDICAL DISCLAIMER:** *This AI assistant provides educational insights synthesized "
-            "from clinical literature and general medical knowledge. It is **not** a substitute for professional medical advice, "
-            "diagnosis, or treatment. If you are experiencing a medical emergency, please contact your local emergency services "
-            "or visit the nearest emergency room immediately.*\n\n---\n\n"
+            "<div style='background-color: #fff3cd; color: #856404; border-left: 4px solid #ffeeba; "
+            "padding: 12px; margin-bottom: 16px; border-radius: 4px; font-size: 0.85rem; line-height: 1.4;'>"
+            "<strong>⚠️ IMPORTANT MEDICAL DISCLAIMER:</strong> This AI assistant provides educational insights "
+            "synthesized from clinical literature and medical knowledge. It is <strong>not</strong> a substitute for professional "
+            "medical advice, diagnosis, or treatment. If you are experiencing a medical emergency, please contact local emergency "
+            "services or visit the nearest emergency room immediately."
+            "</div>"
         )
 
         return {
