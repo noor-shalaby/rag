@@ -3,31 +3,32 @@
 <html lang="en">
     <head>
         <meta charset="UTF-8">
+        <!-- Critical for mobile responsiveness -->
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Clinical RAG Assistant</title>
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
         <link rel="stylesheet" href="style.css">
     </head>
     <body>
-        <div class="chat-container">
-            <header class="chat-header">
-                <h2>🩺 Clinical RAG Assistant</h2>
-                <p>Evidence-based answers backed by your medical database</p>
-            </header>
 
-            <div id="chat-messages" class="chat-messages">
-                <!-- Messages will appear here -->
+        <div class="chat-container">
+            <div class="chat-header">
+                <h1>Clinical RAG Assistant</h1>
+                <p>Evidence-based answers backed by clinical literature</p>
             </div>
 
-            <form id="chat-form" class="chat-form">
-                <input
-                    type="text"
-                    id="user-input"
-                    placeholder="Type your medical question here..."
-                    autocomplete="off"
-                    required
-                >
-                <button type="submit" id="send-button">Send</button>
-            </form>
+            <div class="chat-messages" id="chatMessages">
+                <div class="message assistant">
+                    <p>Hello! How can I help you analyze medical literature today?</p>
+                </div>
+            </div>
+
+            <div class="chat-input-area">
+                <input type="text" id="queryInput" placeholder="Type your medical question here...">
+                <button id="sendBtn">Send</button>
+            </div>
         </div>
 
         <script src="script.js"></script>
