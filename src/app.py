@@ -53,16 +53,6 @@ def generate_medical_answer(query: str, patient_context: str = "") -> str:
     IMPORTANT FORMATTING RULE:
     You MUST output your entire response using clean, semantic HTML tags (such as <h3>, <p>, <strong>, <ul>, <li>). Do NOT use Markdown syntax like #, **, or *.
 
-    Structure your answer cleanly:
-    1. <h3>Immediate Safety & Actionable Guidance</h3>
-       <p>What steps the user should take immediately, and crucially, <strong>what they must avoid doing or eating</strong> (e.g., fasting, avoiding pain relievers or laxatives that mask symptoms or risk rupture).</p>
-    2. <h3>Potential Causes & Clinical Overview</h3>
-       <p>Standard medical consensus on why this occurs.</p>
-    3. <h3>Verified Literature Insights</h3>
-       <p>Integrate specific findings, clinical evaluation methods, and statistics from the provided reference context below.</p>
-    4. <h3>Professional Medical Advice</h3>
-       <p>Conclude clearly by emphasizing why prompt professional evaluation by a physician or emergency room is mandatory.</p>
-
     Reference Context from Local Database:
     {context_text if context_text else "No specific local database chunks matched, rely on standard clinical consensus."}
 
