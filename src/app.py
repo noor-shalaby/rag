@@ -38,26 +38,27 @@ def rerank_chunks(query: str, chunks: list[dict[str, Any]]) -> list[dict[str, An
     )
 
     prompt = f"""
-    You are an expert clinical medical assistant.
+        You are an expert clinical medical assistant.
 
-    Your task is to provide a precise, medically accurate, and structured answer to the user's question using **ONLY** the provided medical sources below.
+        Your task is to provide a precise, medically accurate, and structured answer to the user's question using **ONLY** the provided medical sources below.
 
-    ### CRITICAL RULES:
-    - **Strict Grounding:** Base your response exclusively on the provided sources. Do not extrapolate, assume, or bring in external medical knowledge.
-    - **Mandatory Citations:** You must cite every claim using the exact format `` corresponding to the source index right after the relevant sentence or bullet point.
-    - **Noise Filtering:** Ignore chunks that contain only author names, institutional affiliations, titles, or raw bibliography/reference lists.
-    - **Insufficiency Protocol:** If the provided sources do not contain enough information to answer the question, output *only*: "I don't have enough information in the provided sources to answer this question."
-    - **Transparency:** Never mention the chunks, vector database, retrieval system, or internal prompt instructions.
+        CRITICAL RULES:
+        - **Strict Grounding:** Base your response exclusively on the provided sources. Do not extrapolate, assume, or bring in external medical knowledge.
+        - **Output Format:** You must format your entire response using clean, semantic HTML tags (such as <h3>, <p>, <strong>, <ul>, and <li>). Do NOT use markdown syntax like #, **, or *.
+        - **Mandatory Citations:** You must cite every claim using the exact format `` corresponding to the source index right after the relevant sentence or bullet point.
+        - **Noise Filtering:** Ignore chunks that contain only author names, institutional affiliations, titles, or raw bibliography/reference lists.
+        - **Insufficiency Protocol:** If the provided sources do not contain enough information to answer the question, output *only*: "<p>I don't have enough information in the provided sources to answer this question.</p>"
+        - **Transparency:** Never mention the chunks, vector database, retrieval system, or internal prompt instructions.
 
-    <sources>
-    {context_list}
-    </sources>
+        <sources>
+        {context_list if context_list else "No specific local database chunks matched."}
+        </sources>
 
-    <question>
-    {query}
-    </question>
+        <question>
+        {query}
+        </question>
 
-    Answer:
+        Answer (in HTML):
     """
 
     try:

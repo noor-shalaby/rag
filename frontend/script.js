@@ -48,8 +48,8 @@ function appendMessage(text, senderClass) {
     messageDiv.id = messageId;
     messageDiv.className = `message ${senderClass}`;
 
-    // Simple text handling (preserves newlines)
-    messageDiv.innerText = text;
+    // Render HTML tags instead of printing raw text tags
+    messageDiv.innerHTML = text;
 
     chatMessages.appendChild(messageDiv);
     chatMessages.scrollTop = chatMessages.scrollHeight;
