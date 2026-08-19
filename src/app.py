@@ -28,20 +28,26 @@ def rerank_chunks(query: str, chunks: list[dict[str, Any]]) -> list[dict[str, An
     )
 
     prompt = f"""
-    You are an expert medical relevance evaluator.
-    Given the user query and a list of candidate document chunks, select the indices (ID numbers)
-    of the top 5 chunks that most accurately and directly answer the question.
+    You are an expert clinical medical assistant.
 
-    CRITICAL RULES:
-    - Ignore chunks that are purely author lists, university departments, titles, or references.
-    - Only select chunks that contain actual medical insights, clinical guidelines, symptoms, or findings.
+    Your task is to provide a precise, medically accurate, and structured answer to the user's question using **ONLY** the provided medical sources below.
 
-    Query: {query}
+    ### CRITICAL RULES:
+    - **Strict Grounding:** Base your response exclusively on the provided sources. Do not extrapolate, assume, or bring in external medical knowledge.
+    - **Mandatory Citations:** You must cite every claim using the exact format `` corresponding to the source index right after the relevant sentence or bullet point.
+    - **Noise Filtering:** Ignore chunks that contain only author names, institutional affiliations, titles, or raw bibliography/reference lists.
+    - **Insufficiency Protocol:** If the provided sources do not contain enough information to answer the question, output *only*: "I don't have enough information in the provided sources to answer this question."
+    - **Transparency:** Never mention the chunks, vector database, retrieval system, or internal prompt instructions.
 
-    Candidate Chunks:
+    <sources>
     {context_list}
+    </sources>
 
-    Return ONLY the integer indices as a comma-separated list (e.g., 0, 1, 2, 3, 4). Do not include any other text.
+    <question>
+    {query}
+    </question>
+
+    Answer:
     """
 
     try:
