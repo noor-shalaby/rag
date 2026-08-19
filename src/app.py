@@ -60,7 +60,7 @@ def rerank_chunks(query: str, chunks: list[dict[str, Any]], patient_context: str
 
         Question: {query}
 
-        Answer (in HTML tags only, with translated section headers, no markdown):
+        Answer (in HTML tags only, with translated section headers (same language as user prompt), no markdown):
     """
 
     try:
