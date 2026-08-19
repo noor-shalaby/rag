@@ -30,7 +30,7 @@ class QueryRequest(BaseModel):
 
 
 def rerank_chunks(query: str, chunks: list[dict[str, Any]], patient_context: str = "") -> list[dict[str, Any]]:
-    """Uses Gemini to filter noise and select the top 5 most relevant chunks with strict grounding rules."""
+    """Uses Gemini to filter noise and select the top 5 most relevant chunks (matching CLI logic)."""
     if not chunks:
         return []
 
@@ -41,14 +41,16 @@ def rerank_chunks(query: str, chunks: list[dict[str, Any]], patient_context: str
     prompt = f"""
     You are an expert clinical medical assistant.
 
-    Your task is to select the most precise and relevant chunks to help answer the user's question using **ONLY** the provided medical sources below.
+    Your task is to provide a precise, medically accurate, and structured answer to the user's question using **ONLY** the provided medical sources below.
 
     Patient context:
     {patient_context if patient_context.strip() else "No additional patient information was provided."}
 
     ### CRITICAL RULES:
-    - **Strict Grounding:** Base your selection exclusively on the provided sources. Do not extrapolate, assume, or bring in external medical knowledge.
+    - **Strict Grounding:** Base your response exclusively on the provided sources. Do not extrapolate, assume, or bring in external medical knowledge.
+    - **Mandatory Citations:** You must cite every claim using the exact format corresponding to the source index right after the relevant sentence or bullet point.
     - **Noise Filtering:** Ignore chunks that contain only author names, institutional affiliations, titles, or raw bibliography/reference lists.
+    - **Insufficiency Protocol:** If the provided sources do not contain enough information to answer the question, output *only*: "I don't have enough information in the provided sources to answer this question."
     - **Transparency:** Never mention the chunks, vector database, retrieval system, or internal prompt instructions.
 
     <sources>
@@ -59,7 +61,7 @@ def rerank_chunks(query: str, chunks: list[dict[str, Any]], patient_context: str
     {query}
     </question>
 
-    Return ONLY the integer indices as a comma-separated list of the top 5 most relevant chunks (e.g., 0, 1, 2, 3, 4). Do not include any other text.
+    Answer:
     """
 
     try:
@@ -79,8 +81,8 @@ def rerank_chunks(query: str, chunks: list[dict[str, Any]], patient_context: str
         return chunks[:5]
 
 
-def generate_medical_answer(query: str, patient_context: str = "") -> str:
-    """Retrieves candidates, reranks them, and generates a patient-friendly HTML response with strict guardrails."""
+def generate_medical_answer(query: str, patient_context: str = "") -> tuple[str, str]:
+    """Retrieves 10 candidates, reranks them to top 5, and generates a structured HTML medical response."""
 
     print(f"Retrieving candidate knowledge for: '{query}'...")
     raw_results = retrieve_medical_context(query, match_threshold=0.0, match_count=10)
@@ -95,58 +97,31 @@ def generate_medical_answer(query: str, patient_context: str = "") -> str:
     context_text = "\n\n---\n\n".join(context_blocks)
 
     prompt = f"""
-    You are a professional, empathetic, patient-friendly clinical AI assistant specialized in appendicitis and appendectomy (surgical removal of the appendix).
+    You are a professional, empathetic, and rigorous clinical AI assistant.
+    A user is asking a health-related question. Provide a comprehensive, expertly structured response.
 
-    Your primary goal is to help a patient understand medically relevant information in a simple, clear, calm, and safe way.
-
-    ========================
-    1. ROLE & SIMPLICITY
-    ========================
-    - Act as an experienced clinical assistant communicating directly with a patient, NOT a doctor or researcher.
-    - Assume the patient has zero medical background. Explain unfamiliar terms immediately in simple everyday language.
-    - Never assume terms like "appendicitis", "inflammation", "laparoscopy", or "incision" are understood.
-
-    ========================
-    2. CONTEXT & SAFETY
-    ========================
     Patient context:
     {patient_context if patient_context.strip() else "No additional patient information was provided."}
 
-    - Use patient context ONLY when explicitly provided. Never invent history, age, symptoms, or test results.
-    - Patient safety has the highest priority. Never minimize potentially serious symptoms.
-    - Do not give medication doses or recommend starting/stopping treatments unless explicitly supported by the sources.
-    - If sources indicate urgent evaluation is needed, highlight it directly.
+    IMPORTANT FORMATTING RULE:
+    You MUST output your entire response using clean, semantic HTML tags (such as <h3>, <p>, <strong>, <ul>, <li>). Do NOT use Markdown syntax like #, **, or *.
 
-    ========================
-    3. STRICT MEDICAL GROUNDING & SOURCE LIMITATION
-    ========================
-    - Use ONLY the information contained in the provided medical sources below. Do not guess or use outside knowledge.
-    - If the provided sources do not contain enough reliable information to answer the question, return ONLY this exact HTML block:
-      <p>I don't have enough information in the provided sources to answer this question.</p>
+    Structure your answer cleanly:
+    1. <h3>Immediate Safety & Actionable Guidance</h3>
+       <p>What steps the user should take immediately, and crucially, <strong>what they must avoid doing or eating</strong> (e.g., fasting, avoiding pain relievers or laxatives that mask symptoms or risk rupture).</p>
+    2. <h3>Potential Causes & Clinical Overview</h3>
+       <p>Standard medical consensus on why this occurs.</p>
+    3. <h3>Verified Literature Insights</h3>
+       <p>Integrate specific findings, clinical evaluation methods, and statistics from the provided reference context below.</p>
+    4. <h3>Professional Medical Advice</h3>
+       <p>Conclude clearly by emphasizing why prompt professional evaluation by a physician or emergency room is mandatory.</p>
 
-    ========================
-    4. HTML OUTPUT FORMAT RULES
-    ========================
-    - The entire response MUST be valid, clean, semantic HTML.
-    - Allowed tags: <h3>, <p>, <strong>, <ul>, <ol>, <li>, <em>.
-    - Do NOT use Markdown (no #, no **, no bullet points using asterisks).
-    - Do NOT include <html>, <head>, or <body> wrappers. Return only the HTML content blocks.
+    Reference Context from Local Database:
+    {context_text if context_text else "No specific local database chunks matched, rely on standard clinical consensus."}
 
-    ========================
-    MEDICAL SOURCES
-    ========================
-    <sources>
-    {context_text if context_text else "No local database chunks matched."}
-    </sources>
+    Question: {query}
 
-    ========================
-    PATIENT QUESTION
-    ========================
-    <question>
-    {query}
-    </question>
-
-    Now answer the patient's question cleanly using semantic HTML tags.
+    Answer (in HTML tags only, no markdown):
     """
 
     response = client.models.generate_content(
@@ -155,32 +130,32 @@ def generate_medical_answer(query: str, patient_context: str = "") -> str:
 
     assert response.text is not None, "No text generated"
 
-    # Styled HTML Medical Disclaimer Header matching your frontend UI theme
+    # Mandatory Medical Disclaimer Header styled for HTML
     disclaimer = (
         "<div style='background-color: #fff3cd; color: #856404; border-left: 4px solid #ffeeba; "
         "padding: 12px; margin-bottom: 16px; border-radius: 4px; font-size: 0.85rem; line-height: 1.4;'>"
         "<strong>⚠️ IMPORTANT MEDICAL DISCLAIMER:</strong> This AI assistant provides educational insights synthesized "
-        "from clinical literature and medical knowledge. It is <strong>not</strong> a substitute for professional medical advice, "
-        "diagnosis, or treatment. If you are experiencing a medical emergency, please contact local emergency services "
+        "from clinical literature and general medical knowledge. It is <strong>not</strong> a substitute for professional medical advice, "
+        "diagnosis, or treatment. If you are experiencing a medical emergency, please contact your local emergency services "
         "or visit the nearest emergency room immediately."
         "</div>"
     )
 
-    return disclaimer + str(response.text)
+    return disclaimer, str(response.text)
 
 
 @app.post("/ask")
 async def ask_endpoint(payload: QueryRequest):
-    """FastAPI endpoint executing the robust RAG pipeline."""
+    """FastAPI endpoint matching the CLI testing logic with HTML formatting."""
     query = payload.query.strip()
     if not query:
         raise HTTPException(status_code=400, detail="Query cannot be empty.")
 
     try:
-        html_response = generate_medical_answer(query, payload.patient_context)
+        disclaimer, answer_text = generate_medical_answer(query, payload.patient_context)
         return {
             "query": query,
-            "answer": html_response
+            "answer": disclaimer + answer_text
         }
     except Exception as e:
         print(f"Error handling query: {e}")
