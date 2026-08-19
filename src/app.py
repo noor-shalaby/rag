@@ -1,5 +1,6 @@
 from typing import Any
 from fastapi import FastAPI, HTTPException
+from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 from google import genai
 from retrieve import retrieve_medical_context
@@ -9,6 +10,15 @@ app = FastAPI(
     title="Clinical RAG Assistant API",
     description="A hybrid medical RAG application powered by Gemini and Supabase",
     version="1.0.0"
+)
+
+# --- 2. ADD THIS CORS CONFIGURATION ---
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],  # Allows all domains/frontends to connect (or specify your specific frontend URL)
+    allow_credentials=True,
+    allow_methods=["*"],  # Allows all HTTP methods (POST, GET, etc.)
+    allow_headers=["*"],  # Allows all headers
 )
 
 # Initialize Gemini client
