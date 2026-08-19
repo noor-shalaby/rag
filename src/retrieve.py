@@ -1,5 +1,5 @@
 import os
-from typing import cast
+from typing import Any, cast
 
 from dotenv import load_dotenv
 from google import genai
@@ -23,11 +23,11 @@ supabase: Client = create_client(SUPABASE_URL, selected_key)
 
 
 def retrieve_medical_context(
-    query: str, match_threshold: float = 0.5, match_count: int = 3
-) -> list[dict[str, str | float | dict[str, str | int | list[str | int]]]]:
-    """Embeds a query and retrieves similar documents from Supabase."""
+    query: str, match_threshold: float = 0.0, match_count: int = 10
+) -> list[dict[str, Any]]:
+    """Embeds a query and retrieves the top N documents from Supabase with zero filtering."""
 
-    # 1. Embed the query
+    # 1. Embed the query using gemini-embedding-2
     response = client.models.embed_content(  # pyright: ignore[reportUnknownMemberType]
         model="gemini-embedding-2", contents=query
     )
@@ -38,7 +38,7 @@ def retrieve_medical_context(
 
     embedding_vector: list[float] = [float(val) for val in first_embed.values]
 
-    # 2. Call the Supabase RPC function
+    # 2. Call the Supabase RPC function using match_threshold=0.0 to bypass filtering
     result = supabase.rpc(
         "match_medical_documents",
         {
@@ -48,21 +48,18 @@ def retrieve_medical_context(
         },
     ).execute()
 
-    # Explicitly cast result data to satisfy type checking
-    return cast(
-        list[dict[str, str | float | dict[str, str | int | list[str | int]]]],
-        result.data,
-    )
+    # Cast result data to satisfy type checking safely
+    return cast(list[dict[str, Any]], result.data)
 
 
 if __name__ == "__main__":
     user_query = input("Ask a medical question: ")
 
-    print(f"\nSearching for: '{user_query}'...")
-    results = retrieve_medical_context(user_query)
+    print(f"\nFetching top matching chunks for: '{user_query}'...")
+    results = retrieve_medical_context(user_query, match_threshold=0.0, match_count=5)
 
     if not results:
-        print("No relevant information found.")
+        print("No information found in database.")
     else:
         for i, res in enumerate(results):
             similarity = float(str(res.get("similarity", 0.0)))
@@ -74,5 +71,5 @@ if __name__ == "__main__":
                 source = str(metadata.get("source", "Unknown"))
 
             print(f"\n--- Result {i+1} (Similarity: {similarity:.4f}) ---")
-            print(f"Content: {content[:300]}...")
+            print(f"Content: {content}...")
             print(f"Source: {source}")

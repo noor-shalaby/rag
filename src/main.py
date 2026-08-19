@@ -1,0 +1,106 @@
+from typing import Any
+from google import genai
+from retrieve import retrieve_medical_context
+
+# Initialize Gemini for text generation and reranking
+client = genai.Client()
+
+def rerank_chunks(query: str, chunks: list[dict[str, Any]]) -> list[dict[str, Any]]:
+    """Uses Gemini to filter noise and select the top 5 most relevant chunks."""
+    if not chunks:
+        return []
+
+    context_list = "\n\n".join(
+        [f"ID {i}: {res.get('content', '')}" for i, res in enumerate(chunks)]
+    )
+
+    prompt = f"""
+    You are an expert medical relevance evaluator.
+    Given the user query and a list of candidate document chunks, select the indices (ID numbers)
+    of the top 5 chunks that most accurately and directly answer the question.
+
+    CRITICAL RULES:
+    - Ignore chunks that are purely author lists, university departments, titles, or references.
+    - Only select chunks that contain actual medical insights, clinical guidelines, symptoms, or findings.
+
+    Query: {query}
+
+    Candidate Chunks:
+    {context_list}
+
+    Return ONLY the integer indices as a comma-separated list (e.g., 0, 1, 2, 3, 4). Do not include any other text.
+    """
+
+    try:
+        response = client.models.generate_content(  # pyright: ignore[reportUnknownMemberType]
+            model="gemini-3.5-flash", contents=prompt
+        )
+
+        assert response.text is not None, "No response from reranker"
+        cleaned_text = response.text.strip().replace("`", "")
+        indices = [int(i.strip()) for i in cleaned_text.split(",") if i.strip().isdigit()]
+
+        selected_chunks = [chunks[i] for i in indices if 0 <= i < len(chunks)]
+        return selected_chunks[:5] if selected_chunks else chunks[:5]
+
+    except Exception as e:
+        print(f"Reranking error ({e}), falling back to top retriever results.")
+        return chunks[:5]
+
+
+def generate_medical_answer(query: str) -> str:
+    """Retrieves 5 candidates, reranks them, and generates a perfected hybrid medical response with disclaimers."""
+
+    # 1. Retrieve top 10 candidates to feed into the 5-chunk selector
+    print(f"Retrieving candidate knowledge for: '{query}'...")
+    raw_results = retrieve_medical_context(query, match_threshold=0.0, match_count=10)
+
+    context_blocks = []
+    if raw_results:
+        refined_results = rerank_chunks(query, raw_results)
+        for res in refined_results:
+            content = res.get("content", "")
+            context_blocks.append(content)
+
+    context_text = "\n\n---\n\n".join(context_blocks)
+
+    # 2. Formulate the production prompt
+    prompt = f"""
+    You are a professional, empathetic, and rigorous clinical AI assistant.
+    A user is asking a health-related question. Provide a comprehensive, expertly structured response.
+
+    Structure your answer cleanly with Markdown:
+    1. **Immediate Safety & Actionable Guidance:** What steps the user should take immediately, and crucially, **what they must avoid doing or eating** (e.g., fasting, avoiding pain relievers or laxatives that mask symptoms or risk rupture).
+    2. **Potential Causes & Clinical Overview:** Standard medical consensus on why this occurs.
+    3. **Verified Literature Insights:** Integrate specific findings, clinical evaluation methods (such as scoring systems or diagnostics), and statistics from the provided reference context below.
+    4. **Professional Medical Advice:** Conclude clearly by emphasizing why prompt professional evaluation by a physician or emergency room is mandatory.
+
+    Reference Context from Local Database:
+    {context_text if context_text else "No specific local database chunks matched, rely on standard clinical consensus."}
+
+    Question: {query}
+
+    Answer:
+    """
+
+    response = client.models.generate_content(  # pyright: ignore[reportUnknownMemberType]
+        model="gemini-3.5-flash", contents=prompt
+    )
+
+    assert response.text is not None, "No text generated"
+
+    # Mandatory Medical Disclaimer Header
+    disclaimer = (
+        "⚠️ **IMPORTANT MEDICAL DISCLAIMER:** *This AI assistant provides educational insights synthesized "
+        "from clinical literature and general medical knowledge. It is **not** a substitute for professional medical advice, "
+        "diagnosis, or treatment. If you are experiencing a medical emergency, please contact your local emergency services "
+        "or visit the nearest emergency room immediately.*\n\n---\n\n"
+    )
+
+    return disclaimer + str(response.text)
+
+
+if __name__ == "__main__":
+    user_q = input("Ask a medical question: ")
+    answer = generate_medical_answer(user_q)
+    print(f"\n{answer}")
