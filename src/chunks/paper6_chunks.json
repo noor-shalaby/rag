@@ -1,0 +1,3109 @@
+[
+  {
+    "content": " Background: The abdomen is one of the most frequent sites for lymphoma in children. The role of surgery has been limited to intra-abdominal respectable tumours or as a diagnostic procedure in case of disseminated disease. Laparotomy without total excision of the tumour does not improve survival; moreover, it may cause complications and delays initiation of chemotherapy.\nAim of the work: This study was undertaken to assess the role of surgery in the management of children and adolescents presenting with intra-abdomina/lymphoma in order to create certain criteria to select the proper surgical modality for managing those patients.\nPatients and methods: This retrospective, descriptive study was done on 33 patients of abdominal lymphoma over a period of seven years from 2000 to 2007. Patients' files were reviewed regarding the full clinical examinations, laboratory and radiological investigations as well as surgical and diagnostic procedures. Collected data were tabulated and statistically analyzed using SPSS program package.\nResults: Patients' ages ranged from 2.5 to 16 years with a mean of6. 7. They were 18females and 15 males at FIM ratio 1.2: 1. In those patients who underwent surgery; seventeen (51.5%) presented with emergency complaints, 10 patients (30%) with acute abdominal pain and 7 patients (21.5%) with intestinal obstruction with surgical excision of the tumour mass. In the remaining 16 patients, 9 had huge pelvi- abdominal masses and 7 had generalized lymphadenopathy where the intra-abdominal involvement was discovered following further investigation.\nConclusion: Surgery still has a role in treatment of lymphoma whether non Hodgkin or Hodgkin's as complete resection does improve the survival rate, however, in disseminated metastatic disease, aggressive debulking of the tumour should be avoided as chemotherapy is to be instituted primarily. Surgical resection does not cause significant change in morbidity or mortality.\nKey words: Abdomina/lymphoma in paediatrics, role of surgery.\n\n[Next context]\nPediatric lymphomas are the third most common malignancy in children and accounts for 13% of all childhood cancers.Its incidence increases with increasing age in children.l Hodgkin (HL) and non-Hodgkin's lymphomas (NHL) constitute 10-15% of total cancer diagnoses in children in the more developed countries, after acute leukemia's and brain tumours.2,3\nApproximately 60% of paediatric lymphomas are NHL, with the remainder being Hodgkin's lymphomas (HL). Although age adjusted incidence rates ofNHL increase with age, the more aggressive lymphomas are seen more commonly in the younger population with a transition to low-grade, indolent subtypes as the population ages.4\nAccording to the latest classification (2008) with the use of additional immunological and molecular markers, most paediatric NHL can be grouped into four major histological subtypes:\n- a) Burkitt lymphoma.\n- b) Diffuse large B-celllymphoma.\n- c) Anaplastic large",
+    "metadata": {
+      "document_id": "paper6",
+      "source": "paper6.pdf",
+      "topic": "Abstract",
+      "headings": [
+        "Abstract"
+      ],
+      "chunk_index": 2,
+      "total_chunks": 17,
+      "pages": [
+        1
+      ],
+      "docling": {
+        "doc_items": [
+          {
+            "self_ref": "#/texts/7",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 1,
+                "bbox": {
+                  "l": 69.12,
+                  "t": 560.42801953125,
+                  "r": 531.195,
+                  "b": 495.78111044034097,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  387
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/8",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 1,
+                "bbox": {
+                  "l": 70.56,
+                  "t": 492.44801953125,
+                  "r": 530.764,
+                  "b": 454.68111044034094,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  277
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/9",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 1,
+                "bbox": {
+                  "l": 70.56,
+                  "t": 451.76801953125,
+                  "r": 531.5499999999997,
+                  "b": 386.5811104403409,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  419
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/10",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 1,
+                "bbox": {
+                  "l": 69.12,
+                  "t": 383.72801953124997,
+                  "r": 531.348745548,
+                  "b": 305.2611104403409,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  566
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/11",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 1,
+                "bbox": {
+                  "l": 69.84,
+                  "t": 301.9880195312501,
+                  "r": 532.5298000000001,
+                  "b": 237.3411104403409,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  394
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/12",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 1,
+                "bbox": {
+                  "l": 69.84,
+                  "t": 233.94801953125,
+                  "r": 381.484,
+                  "b": 223.6011104403409,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  61
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "overlap": {
+        "enabled": true,
+        "ratio": 0.25,
+        "previous_context": true,
+        "next_context": true
+      }
+    }
+  },
+  {
+    "content": "[Previous context]\nhad generalized lymphadenopathy where the intra-abdominal involvement was discovered following further investigation.\nConclusion: Surgery still has a role in treatment of lymphoma whether non Hodgkin or Hodgkin's as complete resection does improve the survival rate, however, in disseminated metastatic disease, aggressive debulking of the tumour should be avoided as chemotherapy is to be instituted primarily. Surgical resection does not cause significant change in morbidity or mortality.\nKey words: Abdomina/lymphoma in paediatrics, role of surgery.\n\nPediatric lymphomas are the third most common malignancy in children and accounts for 13% of all childhood cancers.Its incidence increases with increasing age in children.l Hodgkin (HL) and non-Hodgkin's lymphomas (NHL) constitute 10-15% of total cancer diagnoses in children in the more developed countries, after acute leukemia's and brain tumours.2,3\nApproximately 60% of paediatric lymphomas are NHL, with the remainder being Hodgkin's lymphomas (HL). Although age­ adjusted incidence rates ofNHL increase with age, the more aggressive lymphomas are seen more commonly in the younger population with a transition to low-grade, indolent subtypes as the population ages.4\nAccording to the latest classification (2008) with the use of additional immunological and molecular markers, most paediatric NHL can be grouped into four major histological subtypes:\n- a) Burkitt lymphoma.\n- b) Diffuse large B-celllymphoma.\n- c) Anaplastic large cell lymphoma.\n- d) Lymphoblastic lymphoma. The most important subtype of HL is nodular sclerosis.5\nPaediatric patients typically present with Burkitt lymphoma with extranodal involvement, specifically occurring in the abdomen in approximately 31% of the cases. Common presenting symptoms include abdominal pain, palpable mass, nausea and vomiting, intestinal obstruction due to bowel compression or intussusceptions, and acute appendicitis. Intussusceptions as a presenting feature of Burkitt lymphoma may be associated with early stage disease, which is curable with less intensive therapy.1o\nThe appropriate role of surgery in intra abdominal Burkitt's lymphoma although a controversial subject became more defined over the last two decades. Children with localized bowel tumour scan undergo gross total resection of the primary tumour, with low operational morbidity rate.ll-14\nPatients with abdominal NHL can be divided into two surgical groups; in the first group the tumor is localized anatomically within the abdomen, in this case, the tumor often involves the bowel wall and many of those children present with acute abdominal symptoms suggesting appendicitis or intussusceptions. The majority can undergo complete gross tumor resection, often with a simple bowel resection andre-anastomosis. In the second group; there is extensive intra-abdominal tumor, and presentation with an abdominal mass without acute symptoms is more likely. The mesenteric root and retro peritoneum are heavily involved and attempts at complete excision are associated with a higher complication rate where surgery on elective basis is for debulking.12\nLocalized gastrointestinal lymphomas should be resected whether through laparotomy or laparoscopically12,15 when possible. Complete resection of non- Hodgkin lymphoma has been reported to reduce the tumour bulk and to have a favourable impact on survival. 1 6-I9\nWhen patients present with extensive intra­ abdominal tumour, radical excision is contraindicated. The mesenteric root and retro peritoneum are heavily involved, and attempts at complete excision are associated with a higher complication rate.20,21 A recent study has stated that laparotomy should be limited to cases presenting with acute abdomen and limited resectable disease. In cases of disseminated disease, bone marrow aspiration, cytological investigation of the ascite/pleural effusion, or ultrasound-guided-true-cut needle biopsy of the abdominal mass were a better alternative, had less morbidity than laparotomy and allowed early initiation of chemotherapy.22\nThis study was undertaken to assess the role of surgery in the management of children and adolescents presenting with intra­ abdominal lymphomas in our experience and to report our strategy management of abdominal lymphoma in order to reach certain criteria for selecting the proper surgical modality.\n\n[Next context]\nA retrospective, descriptive study was done on 33 patients of abdominal lymphoma who were treated over the period of 7 years from 2000 to 2007.\nInclusion criteria were children and adolescents aged 2-18 years, both males and females who were suffering of generalized lymphadenopathy and got tissue biopsy revealing lymphoma and evidence of intra­ abdominal involvement. Also,",
+    "metadata": {
+      "document_id": "paper6",
+      "source": "paper6.pdf",
+      "topic": "Introduction:",
+      "headings": [
+        "Introduction:"
+      ],
+      "chunk_index": 3,
+      "total_chunks": 17,
+      "pages": [
+        1,
+        2
+      ],
+      "docling": {
+        "doc_items": [
+          {
+            "self_ref": "#/texts/14",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 1,
+                "bbox": {
+                  "l": 70.56,
+                  "t": 170.69601953125004,
+                  "r": 294.8762,
+                  "b": 50.19537953125007,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  372
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/15",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 1,
+                "bbox": {
+                  "l": 307.4,
+                  "t": 184.67601953125006,
+                  "r": 531.7044999999999,
+                  "b": 76.60401953125006,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  333
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/18",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 2,
+                "bbox": {
+                  "l": 70.56,
+                  "t": 780.18337953125,
+                  "r": 294.50257164799996,
+                  "b": 715.60465953125,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  201
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/19",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 2,
+                "bbox": {
+                  "l": 71.28,
+                  "t": 711.96337953125,
+                  "r": 177.01999999999998,
+                  "b": 702.0446595312501,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  21
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/20",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 2,
+                "bbox": {
+                  "l": 70.56,
+                  "t": 698.22337953125,
+                  "r": 238.27144294400009,
+                  "b": 688.3046595312501,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  33
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/21",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 2,
+                "bbox": {
+                  "l": 71.28,
+                  "t": 684.5233795312499,
+                  "r": 241.28,
+                  "b": 674.60465953125,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  35
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/22",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 2,
+                "bbox": {
+                  "l": 70.56,
+                  "t": 670.84337953125,
+                  "r": 291.14000000000004,
+                  "b": 647.24465953125,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  89
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/23",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 2,
+                "bbox": {
+                  "l": 70.56,
+                  "t": 643.5433795312499,
+                  "r": 295.06981951999995,
+                  "b": 482.97137953125,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  523
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/24",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 2,
+                "bbox": {
+                  "l": 70.56,
+                  "t": 479.56337953125,
+                  "r": 295.09853854399995,
+                  "b": 387.98465953125003,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  311
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/25",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 2,
+                "bbox": {
+                  "l": 70.56,
+                  "t": 383.56337953125,
+                  "r": 295.480211456,
+                  "b": 155.46465953125005,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  814
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/26",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 2,
+                "bbox": {
+                  "l": 70.56,
+                  "t": 151.3433795312501,
+                  "r": 295.224995072,
+                  "b": 60.48465953125003,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  284
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/27",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 2,
+                "bbox": {
+                  "l": 307.4,
+                  "t": 780.18337953125,
+                  "r": 531.4531594240001,
+                  "b": 578.84465953125,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  716
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/28",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 2,
+                "bbox": {
+                  "l": 307.4,
+                  "t": 574.7833795312499,
+                  "r": 531.900307456,
+                  "b": 482.96465953125,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  322
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "overlap": {
+        "enabled": true,
+        "ratio": 0.25,
+        "previous_context": true,
+        "next_context": true
+      }
+    }
+  },
+  {
+    "content": "[Previous context]\npatients present with extensive intra­ abdominal tumour, radical excision is contraindicated. The mesenteric root and retro peritoneum are heavily involved, and attempts at complete excision are associated with a higher complication rate.20,21 A recent study has stated that laparotomy should be limited to cases presenting with acute abdomen and limited resectable disease. In cases of disseminated disease, bone marrow aspiration, cytological investigation of the ascite/pleural effusion, or ultrasound-guided-true-cut needle biopsy of the abdominal mass were a better alternative, had less morbidity than laparotomy and allowed early initiation of chemotherapy.22\nThis study was undertaken to assess the role of surgery in the management of children and adolescents presenting with intra­ abdominal lymphomas in our experience and to report our strategy management of abdominal lymphoma in order to reach certain criteria for selecting the proper surgical modality.\n\nA retrospective, descriptive study was done on 33 patients of abdominal lymphoma who were treated over the period of 7 years from 2000 to 2007.\nInclusion criteria were children and adolescents aged 2-18 years, both males and females who were suffering of generalized lymphadenopathy and got tissue biopsy revealing lymphoma and evidence of intra­ abdominal involvement. Also, included were children and adolescents of similar age and sex who revealed intra-abdominal mass with tissue biopsy revealing lymphoma.\nExcluded of this study were patients out of the specified age range, or those without intra­ abdominal involvement. Those who had generalized lymphadenopathy or intra­ abdominal masses proven not to be lymphoma by tissue biopsy were excluded as well as patients with post-transplantation lymphoma or severe immune-deficiency status.\nAfter approval of the ethical committee patients' files were reviewed regarding demographic data, history taking, full clinical examinations including general examination for the vital signs at presentation.Also reviewed were any striking clinical features at presentation such as jaundice, cyanosis, pallor and maller-flushes. Records of systemic clinical examination including thorough lymph node group's examination, abdominal examination, chest and cardiac examination were reviewed. Laboratory and radiological investigations were also reviewed. Surgical techniques were thoroughly studied by reviewing all the operative details and fmdings. Post-operative sequence was also recorded in all patients with the fmal post-operative results.\nCollected data were tabulated and statistically analyzed using SPSS program package.\n\n[Next context]\nThe age ranged between 2.5 -16 years with a mean of 6.7 years; there were 18 females and 15 males with F/M ratio of 1.2:1. The socio-demographic characteristics of the patients are shown in Table(l).\nTwenty two patients presented with abdominal disease, 6 had intra-abdominal tumours and 5 had diffuse intra-abdominal spread. The remaining 11 patients presented with symptoms of an acute abdomen requiring emergent operation; 4 patients with complete intestinal obstruction secondary to tumour matting, 5 with irreducible intussusceptions with tumour acting as the lead point, and 2 patients with suspected appendicitis.Moreover, 3 patients did show a pelvi- abdominal mass, 4 with generalized lymphadenopathy,",
+    "metadata": {
+      "document_id": "paper6",
+      "source": "paper6.pdf",
+      "topic": "Patients and methods:",
+      "headings": [
+        "Patients and methods:"
+      ],
+      "chunk_index": 4,
+      "total_chunks": 17,
+      "pages": [
+        2,
+        3
+      ],
+      "docling": {
+        "doc_items": [
+          {
+            "self_ref": "#/texts/30",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 2,
+                "bbox": {
+                  "l": 307.4,
+                  "t": 451.84337953125004,
+                  "r": 530.9106069759998,
+                  "b": 400.64465953125,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  153
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/31",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 2,
+                "bbox": {
+                  "l": 307.4,
+                  "t": 396.88337953125,
+                  "r": 531.51304384,
+                  "b": 277.62465953125,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  406
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/32",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 2,
+                "bbox": {
+                  "l": 307.4,
+                  "t": 273.8633795312501,
+                  "r": 531.8130787839999,
+                  "b": 167.88465953125,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  360
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/33",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 2,
+                "bbox": {
+                  "l": 307.4,
+                  "t": 164.36337953125008,
+                  "r": 531.397651456,
+                  "b": 71.16465953124998,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  333
+                ]
+              },
+              {
+                "page_no": 3,
+                "bbox": {
+                  "l": 70.56,
+                  "t": 781.2960195312501,
+                  "r": 294.7301,
+                  "b": 645.24401953125,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  334,
+                  784
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/36",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 3,
+                "bbox": {
+                  "l": 70.56,
+                  "t": 641.1760195312501,
+                  "r": 295.24819999999994,
+                  "b": 603.24401953125,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  95
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "overlap": {
+        "enabled": true,
+        "ratio": 0.25,
+        "previous_context": true,
+        "next_context": true
+      }
+    }
+  },
+  {
+    "content": "[Previous context]\nthorough lymph node group's examination, abdominal examination, chest and cardiac examination were reviewed. Laboratory and radiological investigations were also reviewed. Surgical techniques were thoroughly studied by reviewing all the operative details and fmdings. Post-operative sequence was also recorded in all patients with the fmal post-operative results.\nCollected data were tabulated and statistically analyzed using SPSS program package.\n\nThe age ranged between 2.5 -16 years with a mean of 6.7 years; there were 18 females and 15 males with F/M ratio of 1.2:1. The socio-demographic characteristics of the patients are shown in Table(l).\nTwenty two patients presented with abdominal disease, 6 had intra-abdominal tumours and 5 had diffuse intra-abdominal spread. The remaining 11 patients presented with symptoms of an acute abdomen requiring emergent operation; 4 patients with complete intestinal obstruction secondary to tumour matting, 5 with irreducible intussusceptions with tumour acting as the lead point, and 2 patients with suspected appendicitis.Moreover, 3 patients did show a pelvi- abdominal mass, 4 with generalized lymphadenopathy, 3 with acute abdominal pain, and only 1 patient suffered of intestinal obstruction Table(2).\nTable (1): Demographic characteristics of the studied patients.\n\nAge distribution, Number of patients (o/u) (n=33) = . pre-school age (2-6 years), Number of patients (o/u) (n=33) = 19 (57.6%). School age (6- 18 years), Number of patients (o/u) (n=33) = 14 (42.4%). Gender distribution, Number of patients (o/u) (n=33) = . Male, Number of patients (o/u) (n=33) = 15 (45.5%). Female, Number of patients (o/u) (n=33) = 18 (54.5%). Demographic distribution, Number of patients (o/u) (n=33) = . North Sinai, Number of patients (o/u) (n=33) = 10 (30.3%). Ismailia (urban and Suburban), Number of patients (o/u) (n=33) = 6 (18.2%). Suez (urban and Suburban), Number of patients (o/u) (n=33) = 6 (18.2%). Shebin El Koum (urban and Suburban), Number of patients (o/u) (n=33) = 8 (24.2%). Koum Hamadah, Number of patients (o/u) (n=33) = 2 (6.1%). Mahmoudiah, Number of patients (o/u) (n=33) = 1 (3 %)\nTable (1): Clinical features of the studied patients.\n\nHuge pelvi-abdominal mass, Number of patients (n=33) = 9 (27.3%). Generalized lymphadenopathy, Number of patients (n=33) = 9 (27.3%). Acute abdominal pain (total), Number of patients (n=33) = 10 (30.3%). Irreducible intussusceptions, Number of patients (n=33) = 7 (21.2%). Appendicitis, Number of patients (n=33) = 3 (9.1%). Intestinal obstruction, Number of patients (n=33) = 5 (15.1%)\nBoth ultrasound scanning and computed tomography were done for all the 33 patients. mtrasound scanning showed 4 (12.1%) patients with enlarged liver and 11 (33.3%) with enlarged spleen while lymph node enlargement was found in 10 (30.3%) and abdominal mass in 15 (45.5%) and intra peritoneal fluid collection in 9 patients (27.3%).\nComputed tomography (CT) reports revealed 6 (18.2.1%) patients with enlarged liver, 13 (39.4%) with enlarged spleen and para-aortic lymph node enlargement in 23 (69.7%) cases, with abdominal mass in 16 (48.5%) cases, and intra peritoneal fluid collection in 11 (33.3%) cases Tables(3,4).\n\n[Next context]\nTable (3):Shows the ultrasonic findings in the studied patients.\n\nLiver:, No.(%) (n=33) = . Liver:, xl P value = . Normal, No.(%) (n=33) = 27 (81.8%). Normal, xl P value = 0.221 1. Enlarged, No.(%) (n=33) = 6 (18.2%). Enlarged, xl P value = 0.631. Spleen:, No.(%) (n=33)",
+    "metadata": {
+      "document_id": "paper6",
+      "source": "paper6.pdf",
+      "topic": "Results:",
+      "headings": [
+        "Results:"
+      ],
+      "chunk_index": 5,
+      "total_chunks": 17,
+      "pages": [
+        3,
+        4
+      ],
+      "docling": {
+        "doc_items": [
+          {
+            "self_ref": "#/texts/38",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 3,
+                "bbox": {
+                  "l": 71.28,
+                  "t": 571.6360195312501,
+                  "r": 294.536,
+                  "b": 547.5640195312501,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  84
+                ]
+              },
+              {
+                "page_no": 3,
+                "bbox": {
+                  "l": 307.4,
+                  "t": 781.2960195312501,
+                  "r": 530.9553999999999,
+                  "b": 742.9440195312501,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  85,
+                  210
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/39",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 3,
+                "bbox": {
+                  "l": 307.4,
+                  "t": 739.23601953125,
+                  "r": 531.8296,
+                  "b": 547.4440195312501,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  644
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/40",
+            "label": "caption",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 3,
+                "bbox": {
+                  "l": 71.28,
+                  "t": 525.3880195312499,
+                  "r": 380.60470000000004,
+                  "b": 515.0411104403408,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  63
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/tables/0",
+            "label": "table",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 3,
+                "bbox": {
+                  "l": 90.79641270704505,
+                  "t": 510.9302767537797,
+                  "r": 497.82003291559823,
+                  "b": 249.2242534775594,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  0
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/41",
+            "label": "caption",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 3,
+                "bbox": {
+                  "l": 71.28,
+                  "t": 226.20801953125,
+                  "r": 318.81185000000005,
+                  "b": 215.8611104403409,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  53
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/tables/1",
+            "label": "table",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 3,
+                "bbox": {
+                  "l": 133.80195661940996,
+                  "t": 213.22596912846848,
+                  "r": 456.1971115105292,
+                  "b": 60.842741551960216,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  0
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/44",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 4,
+                "bbox": {
+                  "l": 70.56,
+                  "t": 780.57601953125,
+                  "r": 294.8269999999999,
+                  "b": 672.7128814097031,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  348
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/45",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 4,
+                "bbox": {
+                  "l": 307.4,
+                  "t": 780.57601953125,
+                  "r": 531.9654999999999,
+                  "b": 686.40401953125,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  319
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "overlap": {
+        "enabled": true,
+        "ratio": 0.25,
+        "previous_context": true,
+        "next_context": true
+      }
+    }
+  },
+  {
+    "content": "[Previous context]\n3 (9.1%). Intestinal obstruction, Number of patients (n=33) = 5 (15.1%)\nBoth ultrasound scanning and computed tomography were done for all the 33 patients. mtrasound scanning showed 4 (12.1%) patients with enlarged liver and 11 (33.3%) with enlarged spleen while lymph node enlargement was found in 10 (30.3%) and abdominal mass in 15 (45.5%) and intra peritoneal fluid collection in 9 patients (27.3%).\nComputed tomography (CT) reports revealed 6 (18.2.1%) patients with enlarged liver, 13 (39.4%) with enlarged spleen and para-aortic lymph node enlargement in 23 (69.7%) cases, with abdominal mass in 16 (48.5%) cases, and intra peritoneal fluid collection in 11 (33.3%) cases Tables(3,4).\n\nTable (3):Shows the ultrasonic findings in the studied patients.\n\nLiver:, No.(%) (n=33) = . Liver:, xl P value = . Normal, No.(%) (n=33) = 27 (81.8%). Normal, xl P value = 0.221 1. Enlarged, No.(%) (n=33) = 6 (18.2%). Enlarged, xl P value = 0.631. Spleen:, No.(%) (n=33) = . Spleen:, xl P value = . Normal, No.(%) (n=33) = 21 (63.6%). Normal, xl P value = 0.147 1. Enlarged, No.(%) (n=33) = 12 (36.4%). Enlarged, xl P value = 0.701. Lymph nodes:, No.(%) (n=33) = . Lymph nodes:, xl P value = . Normal, No.(%) (n=33) = 22 (66.7%). Normal, xl P value = 0.017 1. Enlarged, No.(%) (n=33) = 11 (33.3%). Enlarged, xl P value = 0.896. Mass:, No.(%) (n=33) = . Mass:, xl P value = . Positive, No.(%) (n=33) = 15 (45.5%). Positive, xl P value = 0.137 1. Negative, No.(%) (n=33) = 18 (54.5%). Negative, xl P value = 0.710. Collection:, No.(%) (n=33) = . Collection:, xl P value = . Positive, No.(%) (n=33) = 9 (27.3%). Positive, xl P value = 0.172 1. Negative, No.(%) (n=33) = 24 (72.7%). Negative, xl P value = 0.678\nsFishers Exact test.\n\n[Next context]\nTable (4): Computed tomography findings in the studied patients.\n\nLiver:, No.(%) (n=22) = . Liver:, Xl Pvalue = . Normal, No.(%) (n=22) = 27 (81.8%). Normal, Xl Pvalue = 0.229 5. Enlarged, No.(%) (n=22) = 6 (18.2%). Enlarged, Xl Pvalue = 0.632. Spleen:, No.(%) (n=22) = . Spleen:, Xl Pvalue = . Normal, No.(%) (n=22) = 20 (60.6%). Normal, Xl Pvalue = 0.397 5. Enlarged, No.(%) (n=22) = 13 (39.4%). Enlarged, Xl Pvalue = 0.528. Lymph nodes:, No.(%) (n=22) = . Lymph nodes:, Xl Pvalue = . Normal, No.(%)",
+    "metadata": {
+      "document_id": "paper6",
+      "source": "paper6.pdf",
+      "topic": "Results:",
+      "headings": [
+        "Results:"
+      ],
+      "chunk_index": 6,
+      "total_chunks": 17,
+      "pages": [
+        4
+      ],
+      "docling": {
+        "doc_items": [
+          {
+            "self_ref": "#/texts/46",
+            "label": "caption",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 4,
+                "bbox": {
+                  "l": 71.28,
+                  "t": 660.35489953125,
+                  "r": 384.030820864,
+                  "b": 650.4218668039773,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  67
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/tables/2",
+            "label": "table",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 4,
+                "bbox": {
+                  "l": 147.94705533595646,
+                  "t": 643.8103899668595,
+                  "r": 441.28001416373155,
+                  "b": 329.05541831595053,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  0
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/47",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 4,
+                "bbox": {
+                  "l": 70.56,
+                  "t": 323.01489953124997,
+                  "r": 162.36552703999996,
+                  "b": 313.0818668039773,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  21
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "overlap": {
+        "enabled": true,
+        "ratio": 0.25,
+        "previous_context": true,
+        "next_context": true
+      }
+    }
+  },
+  {
+    "content": "[Previous context]\n= 18 (54.5%). Negative, xl P value = 0.710. Collection:, No.(%) (n=33) = . Collection:, xl P value = . Positive, No.(%) (n=33) = 9 (27.3%). Positive, xl P value = 0.172 1. Negative, No.(%) (n=33) = 24 (72.7%). Negative, xl P value = 0.678\nsFishers Exact test.\n\nTable (4): Computed tomography findings in the studied patients.\n\nLiver:, No.(%) (n=22) = . Liver:, Xl Pvalue = . Normal, No.(%) (n=22) = 27 (81.8%). Normal, Xl Pvalue = 0.229 5. Enlarged, No.(%) (n=22) = 6 (18.2%). Enlarged, Xl Pvalue = 0.632. Spleen:, No.(%) (n=22) = . Spleen:, Xl Pvalue = . Normal, No.(%) (n=22) = 20 (60.6%). Normal, Xl Pvalue = 0.397 5. Enlarged, No.(%) (n=22) = 13 (39.4%). Enlarged, Xl Pvalue = 0.528. Lymph nodes:, No.(%) (n=22) = . Lymph nodes:, Xl Pvalue = . Normal, No.(%) (n=22) = 10 (30.3%). Normal, Xl Pvalue = 7.21 5. Enlarged, No.(%) (n=22) = 23 (69.5%). Enlarged, Xl Pvalue = 0.007*. Mass:, No.(%) (n=22) = . Mass:, Xl Pvalue = . Positive, No.(%) (n=22) = 16 (48.5%). Positive, Xl Pvalue = 0.379 1. Negative, No.(%) (n=22) = 17 (51.5%). Negative, Xl Pvalue = 0.538. Collection:, No.(%) (n=22) = . Collection:, Xl Pvalue = . Positive, No.(%) (n=22) = 12 (36.4%). Positive, Xl Pvalue = 0.835 1. Negative, No.(%) (n=22) = 22 (66.7%). Negative, Xl Pvalue = 0.360\nReviewed laboratory findings: 22 patients had elevated ESR 2-4 folds, 28 patients had elevated C-reactive protein. All the 33 patients showed elevated LDH; 15 had elevated lactate dehydrogenase (LDH) (2 folds), and in 18 cases elevated 3 folds. The complete blood count (CBC) showed normal blood picture in 5 cases, leucocytosis in 8 cases, 1 case with leucocytosis and lymphocytosis, 6 cases with leucopenia, 2 cases with leucopenia and lymphocytosis. Other laboratory findings were hypoalbunimia in 8 cases, elevated serum urea in 6 cases, elevated serum creatinine in 1case, and elevated liver enzymes (SGOT and SGPT) in 3 cases Table(5).\nThe operative records showed a total of 15 laparotomies. Out of them, 11 patients underwent emergency laparotomy for acute abdomen and 4 patients had elective abdominal exploration (EAE). Lymph node biopsies were taken in the remaining 7 patients. Moreover, urgent laparotomy procedures were performed in extra 3 patients as a diagnostic and for appendectomy in 1 patient and resection of an intussusceptions mass in 2 patients. Out of the total 33, the remaining 8 patients underwent laparotomy for treatment of different pathologies Table(6A).\n\n[Next context]\nLaparotomy was performed in 15 patients, of the 4 patients with EAE, total tumour resection and small bowel resection anastomosis were done in 1 of them, 2 patients were splenectomised with para-aortic L.N. and liver biopsy while incisional biopsy was performed in 1 patient In the other 11 patients, urgent abdominal exploration was performed, 3 patients had ileocolic",
+    "metadata": {
+      "document_id": "paper6",
+      "source": "paper6.pdf",
+      "topic": "Results:",
+      "headings": [
+        "Results:"
+      ],
+      "chunk_index": 7,
+      "total_chunks": 17,
+      "pages": [
+        5
+      ],
+      "docling": {
+        "doc_items": [
+          {
+            "self_ref": "#/texts/50",
+            "label": "caption",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 5,
+                "bbox": {
+                  "l": 71.28,
+                  "t": 781.18801953125,
+                  "r": 391.69375,
+                  "b": 770.8411104403409,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  64
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/tables/3",
+            "label": "table",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 5,
+                "bbox": {
+                  "l": 159.73842190675626,
+                  "t": 767.0651467854267,
+                  "r": 427.8734962050404,
+                  "b": 451.15503470862615,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  0
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/53",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 5,
+                "bbox": {
+                  "l": 70.56,
+                  "t": 413.98337953125,
+                  "r": 294.91138184000005,
+                  "b": 208.32465953125006,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  679
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/54",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 5,
+                "bbox": {
+                  "l": 70.56,
+                  "t": 204.20337953125,
+                  "r": 294.9244113919999,
+                  "b": 68.64465953125,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  467
+                ]
+              },
+              {
+                "page_no": 5,
+                "bbox": {
+                  "l": 307.4,
+                  "t": 413.98337953125,
+                  "r": 531.08111488,
+                  "b": 376.04465953125003,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  468,
+                  585
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "overlap": {
+        "enabled": true,
+        "ratio": 0.25,
+        "previous_context": true,
+        "next_context": true
+      }
+    }
+  },
+  {
+    "content": "[Previous context]\nand SGPT) in 3 cases Table(5).\nThe operative records showed a total of 15 laparotomies. Out of them, 11 patients underwent emergency laparotomy for acute abdomen and 4 patients had elective abdominal exploration (EAE). Lymph node biopsies were taken in the remaining 7 patients. Moreover, urgent laparotomy procedures were performed in extra 3 patients as a diagnostic and for appendectomy in 1 patient and resection of an intussusceptions mass in 2 patients. Out of the total 33, the remaining 8 patients underwent laparotomy for treatment of different pathologies Table(6A).\n\nLaparotomy was performed in 15 patients, of the 4 patients with EAE, total tumour resection and small bowel resection anastomosis were done in 1 of them, 2 patients were splenectomised with para-aortic L.N. and liver biopsy while incisional biopsy was performed in 1 patient In the other 11 patients, urgent abdominal exploration was performed, 3 patients had ileocolic intussusceptions and resection anastomosis with lymph node biopsy (1 patient), debulking (1 patient), caecal perforation (1 patient) where right hemicolectomy was done with ileotransverse anastomosis. In 2 patients, splenectomy was done with partial gastrectomy (1 patient) and resection anastomosis of small bowel with partial excision of the mass (1 patient). In 4 other patients mesenteric mass was found with perforation (3 patients), where debulking of the mass with resection anastomosis was done and 1 patient with an additional sigmoid volvulous which was untwisted with complete debulking of the mass. In the remaining 2 patients with urgent abdominal exploration, 1 patient had ileoileal intussusception with lymphadenopathy where lymph node biopsy was done. I patient had intestinal perforation and resection anastomosis was done. The rest of patients underwent a diagnostic and therapeutic laparoscopy.One patient underwent laparoscopic appendectomy; the remaining 8 patients underwent laparotomy for total tumour resection where small bowel resection anastomosis was done in 2 patients, debulking and splenectomy with para-aortic lymph node biopsy in 4 patients. The remaining 2 patients underwent para-aortic L.N. and liver biopsy Table(6B).\n\n[Next context]\nTable (5): Laboratory findings in the studied patients.\n\nErythrocyte sedimentation rate (ESR):, No.(%) (n=33) = . Erythrocyte sedimentation rate (ESR):, Xl Pvalue = . Normal, No.(%) (n=33) = 11 (33.3%). Normal, Xl Pvalue = 0.017 8. Elevated (2-4 folds), No.(%) (n=33) = 22 (66.7%). Elevated (2-4 folds), Xl Pvalue = 0.896. C-reactive protein (CRP):, No.(%) (n=33) = . C-reactive protein (CRP):, Xl Pvalue = . Normal, No.(%) (n=33) = 5 (15.5%). Normal, Xl Pvalue = 0.737 8. Elevated,",
+    "metadata": {
+      "document_id": "paper6",
+      "source": "paper6.pdf",
+      "topic": "Results:",
+      "headings": [
+        "Results:"
+      ],
+      "chunk_index": 8,
+      "total_chunks": 17,
+      "pages": [
+        5,
+        6
+      ],
+      "docling": {
+        "doc_items": [
+          {
+            "self_ref": "#/texts/55",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 5,
+                "bbox": {
+                  "l": 307.4,
+                  "t": 371.96337953125004,
+                  "r": 531.6407303679999,
+                  "b": 68.52465953125,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  1016
+                ]
+              },
+              {
+                "page_no": 6,
+                "bbox": {
+                  "l": 70.56,
+                  "t": 780.24337953125,
+                  "r": 294.8435233,
+                  "b": 672.74465953125,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  1017,
+                  1394
+                ]
+              },
+              {
+                "page_no": 6,
+                "bbox": {
+                  "l": 307.4,
+                  "t": 780.24337953125,
+                  "r": 531.3863342079999,
+                  "b": 672.54401953125,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  1395,
+                  1729
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "overlap": {
+        "enabled": true,
+        "ratio": 0.25,
+        "previous_context": true,
+        "next_context": true
+      }
+    }
+  },
+  {
+    "content": "[Previous context]\nwas done. The rest of patients underwent a diagnostic and therapeutic laparoscopy.One patient underwent laparoscopic appendectomy; the remaining 8 patients underwent laparotomy for total tumour resection where small bowel resection anastomosis was done in 2 patients, debulking and splenectomy with para-aortic lymph node biopsy in 4 patients. The remaining 2 patients underwent para-aortic L.N. and liver biopsy Table(6B).\n\nTable (5): Laboratory findings in the studied patients.\n\nErythrocyte sedimentation rate (ESR):, No.(%) (n=33) = . Erythrocyte sedimentation rate (ESR):, Xl Pvalue = . Normal, No.(%) (n=33) = 11 (33.3%). Normal, Xl Pvalue = 0.017 8. Elevated (2-4 folds), No.(%) (n=33) = 22 (66.7%). Elevated (2-4 folds), Xl Pvalue = 0.896. C-reactive protein (CRP):, No.(%) (n=33) = . C-reactive protein (CRP):, Xl Pvalue = . Normal, No.(%) (n=33) = 5 (15.5%). Normal, Xl Pvalue = 0.737 8. Elevated, No.(%) (n=33) = 28 (84.8%)*. Elevated, Xl Pvalue = 0.390. Lactate dehydrogenase (LDH):, No.(%) (n=33) = . Lactate dehydrogenase (LDH):, Xl Pvalue = . Normal, No.(%) (n=33) = 0(0%). Normal, Xl Pvalue = 0.137#. Elevated 2-folds, No.(%) (n=33) = 15 (45.5%)*. Elevated 2-folds, Xl Pvalue = 0.711. Elevated 3-folds, No.(%) (n=33) = 18 (54.5%)*. Elevated 3-folds, Xl Pvalue = . Complete blood count (CBC):, No.(%) (n=33) = . Complete blood count (CBC):, Xl Pvalue = . Normal, No.(%) (n=33) = 7 (21.2%). Normal, Xl Pvalue = 8.29#. Leucocytosis, No.(%) (n=33) = 8 (24.2%). Leucocytosis, Xl Pvalue = . Leucocytosis + lymphocytosis, No.(%) (n=33) = 1 (3.0%). Leucocytosis + lymphocytosis, Xl Pvalue = 0.081. Leucopenia, No.(%) (n=33) = 11 (33.3%). Leucopenia, Xl Pvalue = . Leucopenia + lymphocytosis, No.(%) (n=33) = 6 (18.2%). Leucopenia + lymphocytosis, Xl Pvalue = . Other laboratory findings:, No.(%) (n=33) = . Other laboratory findings:, Xl Pvalue = . Elevated urea, No.(%) (n=33) = 4 (12.1%). Elevated urea, Xl Pvalue = 11.62#. Elevated urea, creatinine and K +, No.(%) (n=33) = 5 (15.2%). Elevated urea, creatinine and K +, Xl Pvalue = . Hypoalbuminemia, No.(%) (n=33) = 10 (30.3%). Hypoalbuminemia, Xl Pvalue = 0.020*. Elevated SGOT, SGPT & hypoalbuminemia, No.(%) (n=33) = 6 (18.2%). Elevated SGOT, SGPT & hypoalbuminemia, Xl Pvalue = . Negative, No.(%) (n=33) = 8 (24.2%). Negative, Xl Pvalue = \n*Results are statistically significant as the P value is<0.05.\n\n[Next context]\n# Montcalro Exact test.\nTable (6A): Diagnostic method and surgical interventions in the lllparotomy group.\n\nDiagnostic Method, 1 = Number of patients (n=33). Lymph node biopsy, 1 = 10. Urgent laparoscopy, 1 = 3. Laparotomy (total), 1 = 20. Elective exploration, 1 = 7. Urgent exploration, 1 = 13\nTable (6B): Diagnostic method and surgical interventions in the two groups.\n\n1.Urgent laparotomy, Number of patients (n=33) = 3. 2.Elective abdominal exploration, Number of patients (n=33) = 4. Incisional biopsy for pelvi-abdominal mass, Number of patients (n=33) = 1. Splenectomy + para-aortic L.N & liver biopsy, Number of",
+    "metadata": {
+      "document_id": "paper6",
+      "source": "paper6.pdf",
+      "topic": "Results:",
+      "headings": [
+        "Results:"
+      ],
+      "chunk_index": 9,
+      "total_chunks": 17,
+      "pages": [
+        6
+      ],
+      "docling": {
+        "doc_items": [
+          {
+            "self_ref": "#/texts/58",
+            "label": "caption",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 6,
+                "bbox": {
+                  "l": 71.28,
+                  "t": 648.59489953125,
+                  "r": 334.420120064,
+                  "b": 638.6618668039773,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  60
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/tables/4",
+            "label": "table",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 6,
+                "bbox": {
+                  "l": 81.93232205404955,
+                  "t": 633.0995511590996,
+                  "r": 506.0957324952388,
+                  "b": 188.11063152243116,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  0
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/59",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 6,
+                "bbox": {
+                  "l": 72.0,
+                  "t": 182.19489953125003,
+                  "r": 355.851278464,
+                  "b": 172.26186680397723,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  65
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "overlap": {
+        "enabled": true,
+        "ratio": 0.25,
+        "previous_context": true,
+        "next_context": true
+      }
+    }
+  },
+  {
+    "content": "[Previous context]\n4 (12.1%). Elevated urea, Xl Pvalue = 11.62#. Elevated urea, creatinine and K +, No.(%) (n=33) = 5 (15.2%). Elevated urea, creatinine and K +, Xl Pvalue = . Hypoalbuminemia, No.(%) (n=33) = 10 (30.3%). Hypoalbuminemia, Xl Pvalue = 0.020*. Elevated SGOT, SGPT & hypoalbuminemia, No.(%) (n=33) = 6 (18.2%). Elevated SGOT, SGPT & hypoalbuminemia, Xl Pvalue = . Negative, No.(%) (n=33) = 8 (24.2%). Negative, Xl Pvalue = \n*Results are statistically significant as the P value is<0.05.\n\n# Montcalro Exact test.\nTable (6A): Diagnostic method and surgical interventions in the lllparotomy group.\n\nDiagnostic Method, 1 = Number of patients (n=33). Lymph node biopsy, 1 = 10. Urgent laparoscopy, 1 = 3. Laparotomy (total), 1 = 20. Elective exploration, 1 = 7. Urgent exploration, 1 = 13\nTable (6B): Diagnostic method and surgical interventions in the two groups.\n\n1.Urgent laparotomy, Number of patients (n=33) = 3. 2.Elective abdominal exploration, Number of patients (n=33) = 4. Incisional biopsy for pelvi-abdominal mass, Number of patients (n=33) = 1. Splenectomy + para-aortic L.N & liver biopsy, Number of patients (n=33) = 4. Total resection ofpelvi-abdominal mass+ small bowel resection anastomosis, Number of patients (n=33) = 1. 3.Urgent abdominal exploration, Number of patients (n=33) = 17. (lleocolic intussusception & resection anastomosis):, Number of patients (n=33) = . + Reduction LN biopsy., Number of patients (n=33) = 1. + Debulking, Number of patients (n=33) = 5. + Perforation + Rt. hemicolectomy and ileotransverse anastomosis., Number of patients (n=33) = 1. Splenectomy:, Number of patients (n=33) = . +Partial gastrectomy., Number of patients (n=33) = 1. +Resection anastomosis., Number of patients (n=33) = 1. Mesenteric mass:, Number of patients (n=33) = . + Perforation + debulking and resection anastomosis., Number of patients (n=33) = 3. + Sigmoid volvulous +debulking., Number of patients (n=33) = 1. Other:, Number of patients (n=33) = . + Ileoileal intussusceptions & lymphadenopathy+ LN biopsy., Number of patients (n=33) = 1. + Intestinal perforation and resection anastomosis., Number of patients (n=33) = 3\nOf the 15 patients who underwent abdominal exploration, the primary tumour sites were terminal ileum (n=7), caecum (n=l), ileum (n=2) colon (n=2) and lymph nodes /spleen (n=3).\nOut of the I5 patients that underwent abdominal exploration; 4 cases were elective abdominal exploration and II cases were urgent abdominal exploration. In 6 cases, the intra operative data matched with the previous radiological investigations (abdominal CT & abdominal U/S) which were done before the surgical intervention. In 9 cases the intra operative data did not match with the previous radiological investigations which were done before the surgical intervention. Surgery was also performed as laparoscopy in 3 patients and laparotomy in 8 patients. Operative data matched with the previous imaging investigations in 8 patients that were done prior to the surgical procedure, yet, they did not match in 3 patients Table(7).\n\n[Next context]\nBased on the pathological data; 15 patients were diagnosed as Non-Hodgkin's Lymphoma (NHL). As shown in Table(4), according to the American National Cancer Institute Classification, patients had large B-cell lymphoma (n=8) where 3 cases were stage IVB, 4 cases were stage IR & 1 case was stage IIIB and small lymphocytic type, stage I (n=l), Burkitt's lymphoma type (4), stage IR {n=2) and stage IIIB (n=2) and MALT lymphoma, stage NB (n=2). In group II, all of patients were ofNHL with small lymphocytic type in 2, Burkitt's lymphoma in 3, stage IR (n=2) and stage IIIB (n=l) and MALT lymphoma in 1. On the other hand,",
+    "metadata": {
+      "document_id": "paper6",
+      "source": "paper6.pdf",
+      "topic": "Results:",
+      "headings": [
+        "Results:"
+      ],
+      "chunk_index": 10,
+      "total_chunks": 17,
+      "pages": [
+        6,
+        7,
+        8
+      ],
+      "docling": {
+        "doc_items": [
+          {
+            "self_ref": "#/texts/60",
+            "label": "footnote",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 6,
+                "bbox": {
+                  "l": 71.28,
+                  "t": 170.19489953125003,
+                  "r": 180.32814831999994,
+                  "b": 160.26186680397723,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/63",
+            "label": "caption",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 7,
+                "bbox": {
+                  "l": 71.28,
+                  "t": 781.18801953125,
+                  "r": 479.3056000000001,
+                  "b": 770.8411104403409,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  82
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/tables/5",
+            "label": "table",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 7,
+                "bbox": {
+                  "l": 188.14863375372747,
+                  "t": 768.9502619841301,
+                  "r": 400.2486653965812,
+                  "b": 636.9679131401462,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  0
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/64",
+            "label": "caption",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 7,
+                "bbox": {
+                  "l": 71.28,
+                  "t": 630.5080195312499,
+                  "r": 445.5766000000001,
+                  "b": 620.1611104403408,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  75
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/tables/6",
+            "label": "table",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 7,
+                "bbox": {
+                  "l": 85.53540958902416,
+                  "t": 616.7794493835288,
+                  "r": 502.6400193034601,
+                  "b": 209.45695946293722,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  0
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/65",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 7,
+                "bbox": {
+                  "l": 70.56,
+                  "t": 198.84657953124997,
+                  "r": 294.7631000000001,
+                  "b": 132.34401953125007,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  192
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/66",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 7,
+                "bbox": {
+                  "l": 70.56,
+                  "t": 129.11601953125,
+                  "r": 294.5066,
+                  "b": 62.68401953124999,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  230
+                ]
+              },
+              {
+                "page_no": 7,
+                "bbox": {
+                  "l": 307.4,
+                  "t": 198.77601953125009,
+                  "r": 532.3569459700001,
+                  "b": 62.68401953124999,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  231,
+                  694
+                ]
+              },
+              {
+                "page_no": 8,
+                "bbox": {
+                  "l": 70.56,
+                  "t": 780.57601953125,
+                  "r": 293.10200000000003,
+                  "b": 756.9240195312501,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  695,
+                  776
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "overlap": {
+        "enabled": true,
+        "ratio": 0.25,
+        "previous_context": true,
+        "next_context": true
+      }
+    }
+  },
+  {
+    "content": "[Previous context]\nexploration and II cases were urgent abdominal exploration. In 6 cases, the intra operative data matched with the previous radiological investigations (abdominal CT & abdominal U/S) which were done before the surgical intervention. In 9 cases the intra operative data did not match with the previous radiological investigations which were done before the surgical intervention. Surgery was also performed as laparoscopy in 3 patients and laparotomy in 8 patients. Operative data matched with the previous imaging investigations in 8 patients that were done prior to the surgical procedure, yet, they did not match in 3 patients Table(7).\n\nBased on the pathological data; 15 patients were diagnosed as Non-Hodgkin's Lymphoma (NHL). As shown in Table(4), according to the American National Cancer Institute Classification, patients had large B-cell lymphoma (n=8) where 3 cases were stage IVB, 4 cases were stage IR & 1 case was stage IIIB and small lymphocytic type, stage I (n=l), Burkitt's lymphoma type (4), stage IR {n=2) and stage IIIB (n=2) and MALT lymphoma, stage NB (n=2). In group II, all of patients were ofNHL with small lymphocytic type in 2, Burkitt's lymphoma in 3, stage IR (n=2) and stage IIIB (n=l) and MALT lymphoma in 1. On the other hand, extra 7 patients were diagnosed as Hodgkin Lymphoma with nodular sclerosis type who were diagnosed through CT and lymph node biopsy, lymphocytic predominant (n=l), diagnosed by staging laparotomy and another patient of lymphocytic depletion type who was also diagnosed via staging laparotomy Table(8).\nTable (7):Showing the primary site of malignant involvement in studkd patients post abdominal exploration.\n\nTerminal ileum, Number of patients (n=33) = 11. Caecum, Number of patients (n=33) = 4. Ileum, Number of patients (n=33) = 4. Colon, Number of patients (n=33) = 4. Lymph nodes alone {LN), spleen, Number of patients (n=33) = 14\nTable (8): Pathological and histological results in the studied patients.\n\nPathological/ Histological diagnosis, 1 = Number of patients (n=33). Non-Hodgkin's lymphoma (NHL), 1 = 26 (78.8%). Small lymphocytic, 1 = 3. Burkitt lymphoma, 1 = 7. Large B-cell, 1 = 13. MALT lymphoma, 1 = 3. Hodgkin's lymphoma (HL), 1 = 7 (21.2%). Nodular sclerosis (Lymph Node biopsy & CT), 1 = 5. Lymphocyte predominant (staging laparotomy), 1 = 1. Lymphocyte depletion (staging laparotomy), 1 = 1\nIn the studied patients; 20 did not show any post-operative complications. 8 patients had wound infection. 4 patients were lost; 1 with renal failure, 2 as a result of wound infection and tumor lysis syndrome and 1 because of disseminated metastasis Table(9).\nRecords of the histopathological data showed 26 cases diagnosed as Non-Hodgkin's lymphoma; 3 case with small lymphocytic type, stage I (according to American National Cancer Institute Classification), 11 cases Burkitt's lymphoma type, stage IR in 2 cases and stage IIIB in 3 cases, 12 cases were large B-cell lymphoma where 3 cases were stage IVB, 5 cases were stage IR, lease was stage IIIB. In group II, all the 11 patients were diagnosed as Non-Hodgkin's lymphoma Table (10).\nSeven cases were diagnosed as Hodgkin's lymphoma; 2 cases staged and diagnosed via staging laparotomy, other 5 cases were staged and diagnose by LN biopsy and C.T.\n\n[Next context]\nTable (9): Postoperative primary complications in the studied patients.\n\nNo complications, Number of patients (n=33) = 20 (60.6%). Wound infection, Number of patients (n=33) = 8 (24.2%). Renal failure + death, Number of patients (n=33) = 1(3.0%). Wound infection + tumor lysis syndrome + death, Number of patients (n=33) = 3 (9.1%). Disseminated metastasis, Number of patients (n=33) = 1(3.0%)\nTable (10): Pathological results in the studied patients.\n\nHodgkin's lymphoma,",
+    "metadata": {
+      "document_id": "paper6",
+      "source": "paper6.pdf",
+      "topic": "Results:",
+      "headings": [
+        "Results:"
+      ],
+      "chunk_index": 11,
+      "total_chunks": 17,
+      "pages": [
+        8
+      ],
+      "docling": {
+        "doc_items": [
+          {
+            "self_ref": "#/texts/69",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 8,
+                "bbox": {
+                  "l": 70.56,
+                  "t": 753.6360195312501,
+                  "r": 294.5954,
+                  "b": 621.3040195312501,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  445
+                ]
+              },
+              {
+                "page_no": 8,
+                "bbox": {
+                  "l": 307.4,
+                  "t": 780.92113953125,
+                  "r": 531.7596768519999,
+                  "b": 621.3040195312501,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  446,
+                  974
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/70",
+            "label": "caption",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 8,
+                "bbox": {
+                  "l": 70.56,
+                  "t": 611.57489953125,
+                  "r": 524.5411455999999,
+                  "b": 589.4018668039773,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  106
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/tables/7",
+            "label": "table",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 8,
+                "bbox": {
+                  "l": 159.59997425550173,
+                  "t": 591.2015154332798,
+                  "r": 429.2676776339527,
+                  "b": 454.67245153462187,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  0
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/71",
+            "label": "caption",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 8,
+                "bbox": {
+                  "l": 71.28,
+                  "t": 442.31489953125003,
+                  "r": 415.36800217599995,
+                  "b": 432.3818668039773,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  79
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/tables/8",
+            "label": "table",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 8,
+                "bbox": {
+                  "l": 134.4383916065723,
+                  "t": 427.38924670922404,
+                  "r": 455.05953051184906,
+                  "b": 219.02340791488393,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  0
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/72",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 8,
+                "bbox": {
+                  "l": 70.56,
+                  "t": 207.17601953125006,
+                  "r": 294.8330050000001,
+                  "b": 126.70401953124997,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  273
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/73",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 8,
+                "bbox": {
+                  "l": 70.56,
+                  "t": 122.99601953125,
+                  "r": 294.31505000000004,
+                  "b": 56.984019531250055,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  224
+                ]
+              },
+              {
+                "page_no": 8,
+                "bbox": {
+                  "l": 307.4,
+                  "t": 207.17601953125006,
+                  "r": 531.1650000000001,
+                  "b": 112.78401953125001,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  225,
+                  513
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/74",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 8,
+                "bbox": {
+                  "l": 307.4,
+                  "t": 109.07601953125004,
+                  "r": 531.5088999999999,
+                  "b": 57.164019531250005,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  173
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "overlap": {
+        "enabled": true,
+        "ratio": 0.25,
+        "previous_context": true,
+        "next_context": true
+      }
+    }
+  },
+  {
+    "content": "[Previous context]\nTable(9).\nRecords of the histopathological data showed 26 cases diagnosed as Non-Hodgkin's lymphoma; 3 case with small lymphocytic type, stage I (according to American National Cancer Institute Classification), 11 cases Burkitt's lymphoma type, stage IR in 2 cases and stage IIIB in 3 cases, 12 cases were large B-cell lymphoma where 3 cases were stage IVB, 5 cases were stage IR, lease was stage IIIB. In group II, all the 11 patients were diagnosed as Non-Hodgkin's lymphoma Table (10).\nSeven cases were diagnosed as Hodgkin's lymphoma; 2 cases staged and diagnosed via staging laparotomy, other 5 cases were staged and diagnose by LN biopsy and C.T.\n\nTable (9): Postoperative primary complications in the studied patients.\n\nNo complications, Number of patients (n=33) = 20 (60.6%). Wound infection, Number of patients (n=33) = 8 (24.2%). Renal failure + death, Number of patients (n=33) = 1(3.0%). Wound infection + tumor lysis syndrome + death, Number of patients (n=33) = 3 (9.1%). Disseminated metastasis, Number of patients (n=33) = 1(3.0%)\nTable (10): Pathological results in the studied patients.\n\nHodgkin's lymphoma, Number of patients (n=33) = 7 (21.2%). Non-Hodgkin's lymphoma, Number of patients (n=33) = 26 (78.8%). Small lymphocytic, Number of patients (n=33) = 3 (9.1%). Burkitt lymphoma, Number of patients (n=33) = 11 (33.3%). Large B-cell, Number of patients (n=33) = 12 (36.4%)\nmain purpose of staging laparotomy is to identify patients who should be treated with chemotherapy, and because current protocols are mostly chemotherapy-based, laparotomy is unnecessary. Staging laparotomy is used less frequently now.25\nHowever, the debate regarding the benefits of staging laparotomy still exist as many complications are related to the procedure, although surgical mortality is rare.In a literature review, it was reported that atelectasis, wound infection, intestinal obstruction, left-sided pleural effusion, retroperitoneal hematoma, sub-diaphragmatic abscess, transient pancre­ atitis, and thrombotic episodes have been observed in 6% to 7% of patients. The most common complication is intestinal obstruction {2% to 4% of patients), which is usually a late event that often occurs more than 6 months postoperatively.26\nIn our current study, the incidence of complications after surgery for Hodgkin's lymphoma was 9.1%. It has been reported that long-term complications of staging laparotomy are related to the asplenic state. The incidence of post splenectomy sepsis in patients with Hodgkin's disease was 11 % to 13 % before the development of polyvalent pneumococcal,\n\n[Next context]\nDespite the existing controversy in diagnosis and treatment of childhood and adolescent lymphoma whether Hodgkin's or non­ Hodgkin's the role of pediatric surgery in the management of these diseases is currently evoluting, with the trend towards minimal involvement.23\nFor Hodgkin's disease staging, laparotomy remains undisputedly the most accurate method to delineate extent of disease precisely. Yet, for therapy of all Hodgkin's disease patients, young and old, chemotherapy has taken a predominant role. Oncologists thus believe that the precise staging afforded by laparotomy has come to have academic value and no clinical importance.13,23-25\nIn our current study, surgical biopsy staging was performed in seven patients with Hodgkin's disease with no recorded complications in 5 patients and wound infection in 2 patients. Similar reports were recorded in the literature regarding the the superiority of pathologic staging. It was reported that",
+    "metadata": {
+      "document_id": "paper6",
+      "source": "paper6.pdf",
+      "topic": "Results:",
+      "headings": [
+        "Results:"
+      ],
+      "chunk_index": 12,
+      "total_chunks": 17,
+      "pages": [
+        9
+      ],
+      "docling": {
+        "doc_items": [
+          {
+            "self_ref": "#/texts/77",
+            "label": "caption",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 9,
+                "bbox": {
+                  "l": 71.28,
+                  "t": 780.7948995312499,
+                  "r": 412.81855321599994,
+                  "b": 770.8618668039773,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  73
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/tables/9",
+            "label": "table",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 9,
+                "bbox": {
+                  "l": 127.07735750556868,
+                  "t": 767.8325217310734,
+                  "r": 461.2206569932589,
+                  "b": 636.4671384065291,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  0
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/78",
+            "label": "caption",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 9,
+                "bbox": {
+                  "l": 71.28,
+                  "t": 616.01489953125,
+                  "r": 339.53855321599997,
+                  "b": 606.0818668039773,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  59
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/tables/10",
+            "label": "table",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 9,
+                "bbox": {
+                  "l": 182.1390321457837,
+                  "t": 602.6406733962456,
+                  "r": 406.8237157166255,
+                  "b": 469.09451361275774,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  0
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/79",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 9,
+                "bbox": {
+                  "l": 307.4,
+                  "t": 452.20337953125005,
+                  "r": 530.939048704,
+                  "b": 372.56465953125,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  261
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/80",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 9,
+                "bbox": {
+                  "l": 307.4,
+                  "t": 368.06337953125,
+                  "r": 531.2742768640002,
+                  "b": 176.76465953125,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  646
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/81",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 9,
+                "bbox": {
+                  "l": 307.4,
+                  "t": 172.3433795312501,
+                  "r": 531.6569977600001,
+                  "b": 64.26465953125,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  372
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "overlap": {
+        "enabled": true,
+        "ratio": 0.25,
+        "previous_context": true,
+        "next_context": true
+      }
+    }
+  },
+  {
+    "content": "[Previous context]\nof patients), which is usually a late event that often occurs more than 6 months postoperatively.26\nIn our current study, the incidence of complications after surgery for Hodgkin's lymphoma was 9.1%. It has been reported that long-term complications of staging laparotomy are related to the asplenic state. The incidence of post splenectomy sepsis in patients with Hodgkin's disease was 11 % to 13 % before the development of polyvalent pneumococcal,\n\nDespite the existing controversy in diagnosis and treatment of childhood and adolescent lymphoma whether Hodgkin's or non­ Hodgkin's the role of pediatric surgery in the management of these diseases is currently evoluting, with the trend towards minimal involvement.23\nFor Hodgkin's disease staging, laparotomy remains undisputedly the most accurate method to delineate extent of disease precisely. Yet, for therapy of all Hodgkin's disease patients, young and old, chemotherapy has taken a predominant role. Oncologists thus believe that the precise staging afforded by laparotomy has come to have academic value and no clinical importance.13,23-25\nIn our current study, surgical biopsy staging was performed in seven patients with Hodgkin's disease with no recorded complications in 5 patients and wound infection in 2 patients. Similar reports were recorded in the literature regarding the the superiority of pathologic staging. It was reported that most patients with an equivocal staging should undergo staging laparotomy.13\nThis is contradicted by other data in the literature supported by the concept that the hemophilus, and meningococcal vaccines and use of peri operative and prophylactic antibiotics.24\nIn the last few years, chemotherapy has evolved to be the primary modality of treatment for all types of non-Hodgkin's lymphomas. Role of radiation therapy and surgery have been regulated to that of symptomatic relief. The dramatic improvement in survival of childhood non-Hodgkin's lymphomas can be attributed to multi-agent chemotherapy and improved supportive care. Event free survival of these lymphomas is exceedingly good and thus the current emphasis is to identify newer treatment modalities.6\nFor practical purpose, patients with abdominal non-Hodgkin's lymphoma can be divided into two surgical groups, in the first group the tumor is localized anatomically within the abdomen. In this case; the tumor often involves the bowel wall and many of these children present with acute abdominal symptoms suggesting appendicitis or intussusceptions. The majority can undergo complete gross tumor resection, often with a simple bowel resection and re-anastomosis. In the second group; there is extensive intra­ abdominal tumor, and presentation with an abdominal mass without acute symptoms is more likely. The mesenteric root and retro peritoneum are heavily involved and attempts at complete excision are associated with a higher complication rate where surgery on elective basis is for debulking.l2\nIn our current study, patients with non­ Hodgkin's lymphoma huge pelvi-abdominal mass were recorded as 9 (27.3%) patients. Moreover, other abdominal complications due to lymphoma with the need for an emergent surgical intervention were recorded as irreducible intussusceptions in 5 patients, appendicitis in 3 patients with a total percentage of 15.2% and 9.1%, respectively.\nIn a study of 62 patients with abdominal lymphomas treated at Texas Children's Hospital over a 40-year period, 26 underwent complete resection. Only 2 complications (small-bowel obstruction, wound infection) occurred although a primary anastemosis was performed in all. Of a total of 138 published cases involving complete resection, only 6\ncomplications (5%) were reported. Patients with extensive abdominal disease should undergo a biopsy only followed by the early initiation of chemotherapy.17\nThis data can be compared to our study results that showed an elective abdominal exploration in a total of 6 out of 26 patients with non-Hodgkin's lymphoma with incisional biopsy for pelvi-abdominal mass in 1 patient, splenectomy + para-aortic L.N & liver biopsy in 4 patients, and 1 patient of total resection of pelvi-abdominal mass + small bowel resection anastomosis.\n\n[Next context]\nOn the other hand, an urgent abdominal exploration was performed in 21 patients who were divided as 1 reduction Lymph node biopsy, 1 perforation+ right hemicolectomy and ileo transverse anastomosis, and debulking in 5 patients.\nOther literature reported an intestinal obstruction in only 4 of 146 staging laparotomies, all of which took place over 1st year postoperatively. Furthermore, serious bacterial infections occurred in 1.4% of children who underwent a splenectomy and in 2.8% of children who did not. These infections were attributed to functional asplenia following splenic radiation. Subsequent exposure to chemotherapy increased the incidence of infection 9-fold in both groups.24\nOther reports noted the role of surgery in non-Hodgkin's lymphoma based",
+    "metadata": {
+      "document_id": "paper6",
+      "source": "paper6.pdf",
+      "topic": "Discussion:",
+      "headings": [
+        "Discussion:"
+      ],
+      "chunk_index": 13,
+      "total_chunks": 17,
+      "pages": [
+        9,
+        10
+      ],
+      "docling": {
+        "doc_items": [
+          {
+            "self_ref": "#/texts/83",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 9,
+                "bbox": {
+                  "l": 70.56,
+                  "t": 439.26545953125003,
+                  "r": 294.74802099199997,
+                  "b": 344.82465953125,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  294
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/84",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 9,
+                "bbox": {
+                  "l": 70.56,
+                  "t": 340.34337953125004,
+                  "r": 294.79853854399994,
+                  "b": 219.36465953125003,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  411
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/85",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 9,
+                "bbox": {
+                  "l": 70.56,
+                  "t": 214.10337953125008,
+                  "r": 294.48200806400007,
+                  "b": 93.24465953125002,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  401
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/86",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 9,
+                "bbox": {
+                  "l": 70.56,
+                  "t": 88.46337953124998,
+                  "r": 294.630046976,
+                  "b": 64.86465953125003,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  98
+                ]
+              },
+              {
+                "page_no": 10,
+                "bbox": {
+                  "l": 70.56,
+                  "t": 780.18337953125,
+                  "r": 294.413590784,
+                  "b": 742.60465953125,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  99,
+                  202
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/89",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 10,
+                "bbox": {
+                  "l": 70.56,
+                  "t": 738.5433795312499,
+                  "r": 294.424834304,
+                  "b": 574.7046595312501,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  546
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/90",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 10,
+                "bbox": {
+                  "l": 70.56,
+                  "t": 570.5233795312499,
+                  "r": 295.33853854399996,
+                  "b": 309.0646595312501,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  887
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/91",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 10,
+                "bbox": {
+                  "l": 70.56,
+                  "t": 304.94337953125,
+                  "r": 295.415873024,
+                  "b": 182.76465953125,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  408
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/92",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 10,
+                "bbox": {
+                  "l": 70.56,
+                  "t": 179.06337953125,
+                  "r": 295.05810828799986,
+                  "b": 70.80465953124997,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  368
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/93",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 10,
+                "bbox": {
+                  "l": 307.4,
+                  "t": 780.18337953125,
+                  "r": 530.5102831359999,
+                  "b": 728.98465953125,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  169
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/94",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 10,
+                "bbox": {
+                  "l": 307.4,
+                  "t": 724.56337953125,
+                  "r": 531.5536234240001,
+                  "b": 603.08465953125,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  412
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "overlap": {
+        "enabled": true,
+        "ratio": 0.25,
+        "previous_context": true,
+        "next_context": true
+      }
+    }
+  },
+  {
+    "content": "[Previous context]\ntotal percentage of 15.2% and 9.1%, respectively.\nIn a study of 62 patients with abdominal lymphomas treated at Texas Children's Hospital over a 40-year period, 26 underwent complete resection. Only 2 complications (small-bowel obstruction, wound infection) occurred although a primary anastemosis was performed in all. Of a total of 138 published cases involving complete resection, only 6\ncomplications (5%) were reported. Patients with extensive abdominal disease should undergo a biopsy only followed by the early initiation of chemotherapy.17\nThis data can be compared to our study results that showed an elective abdominal exploration in a total of 6 out of 26 patients with non-Hodgkin's lymphoma with incisional biopsy for pelvi-abdominal mass in 1 patient, splenectomy + para-aortic L.N & liver biopsy in 4 patients, and 1 patient of total resection of pelvi-abdominal mass + small bowel resection anastomosis.\n\nOn the other hand, an urgent abdominal exploration was performed in 21 patients who were divided as 1 reduction Lymph node biopsy, 1 perforation+ right hemicolectomy and ileo transverse anastomosis, and debulking in 5 patients.\nOther literature reported an intestinal obstruction in only 4 of 146 staging laparotomies, all of which took place over 1st year postoperatively. Furthermore, serious bacterial infections occurred in 1.4% of children who underwent a splenectomy and in 2.8% of children who did not. These infections were attributed to functional asplenia following splenic radiation. Subsequent exposure to chemotherapy increased the incidence of infection 9-fold in both groups.24\nOther reports noted the role of surgery in non-Hodgkin's lymphoma based on an extensive experience with patients having Burkitt's lymphoma, suggesting that surgical reduction of tumour bulk had a favourable impact on survival. There were several problems with their conclusion. First, extent of disease at diagnosis was not evaluated for its predictive effect on outcome. Second, only 9 of the 68 patients reported (13%) actually underwent total resection (defined as >90% resection). The vast majority had biopsy alone (63%) or subtotal resection (24%). Their data strongly suggested a biologic selection for the patients undergoing total resection. They reported surgical mortality rate in their series to be 10% that would seem excessive under present circumstances.l6\nMoreover, the role of surgery both in the primary tumour and in treatment of complications for patients with a miracle Burkitt's lymphoma was evaluated suggesting an advantage to complete resection but point out that extent of disease was not analyzed as an independent variable. A role for surgical intervention in the supportive therapy of non-Hodgkin's lymphoma was also suggested.27-29\nSimilarly, the surgical committee of the Children's Cancer Group (CCG) evaluated the role of surgical therapy in 68 patients with non-Hodgkin's lymphoma in the CCG-551 study. Sixty three variables were analyzed included extent of disease at diagnosis; completeness of surgical resection (complete gross resection); radiation therapy to the primary site; and sex, age, and race. Laparotomy was performed in 67 children (99%) with complete gross resection accomplished in 28 (42%). Age at diagnosis, sex, and race had no effect on event-free survival. Tumour burden was the most important prognostic factor. Complete resection was also a significant predictor of event-free survival but not as important as tumour burden. Their data agreed with our current study data supporting a role for complete surgical resection in the setting of localized disease, especially when confined to bowel. Resections performed under these circumstances positively affect outcome by reduction of tumour cell burden and prevent certain complications, such as bowel perforation. Because extensive retroperitoneal dissection with the possibility of significant hemorrhagic or septic complications is avoided, chemotherapy can be initiated promptly.l7\n\n[Next context]\ndiagnostic tissue include ascites and pleural Nevertheless, attempts at resection of massive retroperitoneal masses or large hepatic lymphomas are associated with an increased complication rate and serve to postpone essential chemotherapy. This is particularly deleterious because undifferentiated lym­ phomas grow so rapidly. In patients presenting with extensive abdominal disease, diagnosis can often be made by bone marrow aspiration because at least 20% of all patients have obvious marrow involvement (symptoms, positive bone scan), and an additional I0% have microscopic involvement that is unsus­ pected clinically. Additional sources of effusions, peripheral lymph nodes, or local­ ized bone lesions, which can sometimes be biopsied by needle. Tumour may invade bowel wall",
+    "metadata": {
+      "document_id": "paper6",
+      "source": "paper6.pdf",
+      "topic": "Discussion:",
+      "headings": [
+        "Discussion:"
+      ],
+      "chunk_index": 14,
+      "total_chunks": 17,
+      "pages": [
+        10,
+        11
+      ],
+      "docling": {
+        "doc_items": [
+          {
+            "self_ref": "#/texts/95",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 10,
+                "bbox": {
+                  "l": 307.4,
+                  "t": 599.0233795312499,
+                  "r": 530.9858137599998,
+                  "b": 518.8603540767047,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  245
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/96",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 10,
+                "bbox": {
+                  "l": 307.4,
+                  "t": 515.08337953125,
+                  "r": 532.0467896320001,
+                  "b": 365.52465953125,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  503
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/97",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 10,
+                "bbox": {
+                  "l": 307.4,
+                  "t": 361.40337953125004,
+                  "r": 531.542892544,
+                  "b": 114.54465953124998,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  853
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/98",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 10,
+                "bbox": {
+                  "l": 307.4,
+                  "t": 110.12337953125007,
+                  "r": 531.0052157439999,
+                  "b": 72.24465953125002,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  138
+                ]
+              },
+              {
+                "page_no": 11,
+                "bbox": {
+                  "l": 70.56,
+                  "t": 781.2960195312501,
+                  "r": 295.4157499999999,
+                  "b": 688.14401953125,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  139,
+                  424
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/101",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 11,
+                "bbox": {
+                  "l": 70.56,
+                  "t": 683.7760195312501,
+                  "r": 295.60850000000005,
+                  "b": 283.30401953125,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  1330
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "overlap": {
+        "enabled": true,
+        "ratio": 0.25,
+        "previous_context": true,
+        "next_context": true
+      }
+    }
+  },
+  {
+    "content": "[Previous context]\ncomplete gross resection accomplished in 28 (42%). Age at diagnosis, sex, and race had no effect on event-free survival. Tumour burden was the most important prognostic factor. Complete resection was also a significant predictor of event-free survival but not as important as tumour burden. Their data agreed with our current study data supporting a role for complete surgical resection in the setting of localized disease, especially when confined to bowel. Resections performed under these circumstances positively affect outcome by reduction of tumour cell burden and prevent certain complications, such as bowel perforation. Because extensive retroperitoneal dissection with the possibility of significant hemorrhagic or septic complications is avoided, chemotherapy can be initiated promptly.l7\n\ndiagnostic tissue include ascites and pleural Nevertheless, attempts at resection of massive retroperitoneal masses or large hepatic lymphomas are associated with an increased complication rate and serve to postpone essential chemotherapy. This is particularly deleterious because undifferentiated lym­ phomas grow so rapidly. In patients presenting with extensive abdominal disease, diagnosis can often be made by bone marrow aspiration because at least 20% of all patients have obvious marrow involvement (symptoms, positive bone scan), and an additional I0% have microscopic involvement that is unsus­ pected clinically. Additional sources of effusions, peripheral lymph nodes, or local­ ized bone lesions, which can sometimes be biopsied by needle. Tumour may invade bowel wall and undergo subsequent necrosis resulting in free perforation and peritonitis or severe hemorrhage. Often, Burkitt's lymphoma is localized to the right lower quadrant in the region ofPeyer's patches; and symptoms may mimic acute appendicitis. In this situation, resection of the ileocoecal segment and adjacent mesentery often results in complete gross resection.29\nThrough the study of our patient's record, complete blood picture and platelet count were done preoperatively based on the fact that significant bone marrow infiltration may cause thrombocytopenia, this was supported by published data suggesting that the production of serum clotting factors may also be affected by hepatic infiltration, and a full coagulation screen should be performed in preparation for surgery.12\nThe data of our current study showed 3 patients with tumour lysis syndrome that results in hyperuremic nephropathy and renal shut down. This syndrome was also reported in the literature.30,31\nWe recommend that in patients presenting with extensive intra-abdominal tumour, radical excision is to be contraindicated as the mesenteric root and retro-peritoneum are heavily involved. Attempts at complete excision are associated with a higher complication rate and may lead to a delay in initiation of chemotherapy.\nIt is also recommended that laparotomy should be limited to cases presented with acute abdomen and limited resectable disease. In the condition of disseminated disease, other alternatives should be applied including bone marrow aspiration, cytological investigation of ascitis/pleural effusion or ultrasound-guided­ true- cut needle biopsy of the abdominal mass in order to have less morbidity than laparotomy and allow early initiation of chemotherapy. Despite the benefits of staging laparotomy, many complications are related to the procedure, although surgical mortality is rare.\npatients with abdominal lymphoma involving It can also be concluded that a multi disciplinary approach should be applied for laboratory, imaging techniques as well as surgical biopsy in selected cases to reach a proper diagnosis. After a proper diagnosis the treatment options can be planned; including chemotherapy, radiotherapy and surgery in limited cases in order to deal with complications.\n\n[Next context]\n- 1- Shad A, Magrath I: Non-Hodgkin's lymphoma. Pediatric Clinic North Am 1997; 863-890.\n- 2- Brecher ML: Malignant lymphomas in children and adolescents. Semin Surg Oncol 1986; 2: 147-155.\n- 3- Gaini RM, Romagnoli M, Sala A, Garavello W: Lymphomas of head and neck in pediatric patients. lnt J Pediatr Otorhinolaryngol 2009; 73(1): 65-70.\n- 4- Jaglowski SM, Linden E, Termuhlen AM, Flynn JM: Lymphoma in adolescents and young adults. Semin Onco/2009; 36: 381418.\n- 5Abramson SJ, Price AP: Imaging of pediatric lymphomas. Radio/ Clin North Am 2008; 46: 313-338.\n- 6- Shad A, Magrath I: Malignant",
+    "metadata": {
+      "document_id": "paper6",
+      "source": "paper6.pdf",
+      "topic": "Discussion:",
+      "headings": [
+        "Discussion:"
+      ],
+      "chunk_index": 15,
+      "total_chunks": 17,
+      "pages": [
+        11,
+        12
+      ],
+      "docling": {
+        "doc_items": [
+          {
+            "self_ref": "#/texts/102",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 11,
+                "bbox": {
+                  "l": 70.56,
+                  "t": 279.29601953125007,
+                  "r": 295.11560000000003,
+                  "b": 71.02401953125002,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  690
+                ]
+              },
+              {
+                "page_no": 11,
+                "bbox": {
+                  "l": 307.4,
+                  "t": 781.2960195312501,
+                  "r": 531.36685,
+                  "b": 617.88401953125,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  691,
+                  1231
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/103",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 11,
+                "bbox": {
+                  "l": 307.4,
+                  "t": 613.57601953125,
+                  "r": 532.1499999999999,
+                  "b": 478.50401953125,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  430
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/104",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 11,
+                "bbox": {
+                  "l": 307.4,
+                  "t": 473.83601953125,
+                  "r": 531.9624625,
+                  "b": 409.02401953125,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  203
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/105",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 11,
+                "bbox": {
+                  "l": 307.4,
+                  "t": 404.23601953125,
+                  "r": 531.496,
+                  "b": 295.66401953125,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  336
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/106",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 11,
+                "bbox": {
+                  "l": 307.4,
+                  "t": 291.9560195312499,
+                  "r": 531.5559999999999,
+                  "b": 113.92401953125,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  612
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/107",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 11,
+                "bbox": {
+                  "l": 307.4,
+                  "t": 110.40657953125003,
+                  "r": 532.110385,
+                  "b": 71.02401953125002,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  132
+                ]
+              },
+              {
+                "page_no": 12,
+                "bbox": {
+                  "l": 70.56,
+                  "t": 780.24337953125,
+                  "r": 295.03849880599995,
+                  "b": 686.6646595312501,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  133,
+                  429
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "overlap": {
+        "enabled": true,
+        "ratio": 0.25,
+        "previous_context": true,
+        "next_context": true
+      }
+    }
+  },
+  {
+    "content": "[Previous context]\nbone marrow aspiration, cytological investigation of ascitis/pleural effusion or ultrasound-guided­ true- cut needle biopsy of the abdominal mass in order to have less morbidity than laparotomy and allow early initiation of chemotherapy. Despite the benefits of staging laparotomy, many complications are related to the procedure, although surgical mortality is rare.\npatients with abdominal lymphoma involving It can also be concluded that a multi disciplinary approach should be applied for laboratory, imaging techniques as well as surgical biopsy in selected cases to reach a proper diagnosis. After a proper diagnosis the treatment options can be planned; including chemotherapy, radiotherapy and surgery in limited cases in order to deal with complications.\n\n- 1- Shad A, Magrath I: Non-Hodgkin's lymphoma. Pediatric Clinic North Am 1997; 863-890.\n- 2- Brecher ML: Malignant lymphomas in children and adolescents. Semin Surg Oncol 1986; 2: 147-155.\n- 3- Gaini RM, Romagnoli M, Sala A, Garavello W: Lymphomas of head and neck in pediatric patients. lnt J Pediatr Otorhinolaryngol 2009; 73(1): 65-70.\n- 4- Jaglowski SM, Linden E, Termuhlen AM, Flynn JM: Lymphoma in adolescents and young adults. Semin Onco/2009; 36: 381418.\n- 5Abramson SJ, Price AP: Imaging of pediatric lymphomas. Radio/ Clin North Am 2008; 46: 313-338.\n- 6- Shad A, Magrath I: Malignant non­ Hodgkin's lymphomas in children. In: Principles and Practice of Pediatric Oncology. Pizzo P, Poplacka D (Editors); Philadelphia, Lippincott-Raven (Publisher); 3rd edn. 1996; p. 545-587.\n- 7- Olson MR, Donaldson SS: Treatment of pediatric Hodgkin lymphoma. Curr Treat Options Onco/2008; 9: 81-94.\n- 8- Freed J, Kelly KM: Current approaches to the management of pediatric Hodgkin lymphoma. Paediatr Drugs 2010; 12: 8598.\n- 9- O'Brien RL, Born WK.: Gammadelta T cell subsets: A link between TCR and function? Semin Immunol 2010; 22: 193-198.\n- 10-Sandlund JT, Downing JR, Crist WM: Non-Hodgkin's lymphoma in childhood. N Engl J Med 1996; 334: 1238-1248.\n- 11-StovroffMC, Coran AG, Hutchinson RJ: The role of surgery in American Burkitt's lymphoma in children. J Pediatr Surg 1991; 26: 1235-1238.\n- P, Siegel S, Meadows A, Hammond D: 12-LaQuaglia MP, Stolar CJ, Kmilo M, Exelby\n- The role of surgery in abdominal non­ Hodgkin's lymphoma:Experience from the Childrens Cancer Study Group. J Pediatr Surg 1992; 27: 230-235.\n- 13-Gahukamble DB, Khamage AS: Limitations of surgery in intraabdominal Burkitt's lymphoma in children. J Pediatr Surg 1995; 30:519-522.\n- 14-Delarue A, Bergeron C, Mechinaud-Lacroix F, Coze C, Raphael M, pour le \"Comite Lymphome\" de Ia SFCE: Pediatric non­ Hodgkin's lymphoma: Primary surgical management of patients presenting with abdominal symptoms. Recommendations of the Lymphoma Committee of the French Society to Combat Pediatric Cancers (SFCE). J Chir (Paris). 2008; 145: 454458.\n- 15-Patte C, Kalifa C, Flamant F, Hartmann 0, Bruguieres L, Valteau-Couanet D: Results of the LMB-81 protocol, a modified LSA2L2 protocol with high dose methotrexate, on 84 children with non-B cell (lymphoblastic) lymphoma. Med Pediatr Oncology 1992; 105-113.\n- 16-Kemeny MM, Magrath IT, Brennan MF: The role of surgery in the management of American Burkitt's lymphoma and its marment. Ann Surg 1982; 196: 82-86.\n\n[Next context]\n- 17-Fleming ID, Turk PS, Murphy SB, Crist WM, Santana VM, Rao BN: Surgical implications of primary gastrointestinal lymphoma of childhood. Arch Surg 1990; 125: 252-256.\n- 18-Shamberger RC, Weinsrein HJ: The role of surgery in abdominal Burkitt's lymphoma. J Pediatr Surg 1992; 27: 236240.\n- 19-Magrath IT: Surgical reduction of tumor bulk in management of abdominal Burkitt's lymphoma. BMJ 1974; 2: 308-312.\n- 20-Link M, Weinstein H: Malignant non­ Hodgkin lymphomas in children. In: Principals and practice of pediatric oncology. Pizzo PA, Poplack DG (Editors); Lippincott Williams & Wilkins, Philadelphia (Publisher); 5th",
+    "metadata": {
+      "document_id": "paper6",
+      "source": "paper6.pdf",
+      "topic": "References:",
+      "headings": [
+        "References:"
+      ],
+      "chunk_index": 16,
+      "total_chunks": 17,
+      "pages": [
+        12
+      ],
+      "docling": {
+        "doc_items": [
+          {
+            "self_ref": "#/texts/111",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 12,
+                "bbox": {
+                  "l": 72.0,
+                  "t": 654.46337953125,
+                  "r": 295.33625984,
+                  "b": 616.5246595312501,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  96
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/112",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 12,
+                "bbox": {
+                  "l": 70.56,
+                  "t": 612.82337953125,
+                  "r": 293.94158412800004,
+                  "b": 574.8246595312501,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  104
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/113",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 12,
+                "bbox": {
+                  "l": 71.28,
+                  "t": 571.1065795312501,
+                  "r": 295.145,
+                  "b": 518.6411104403409,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  159
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/114",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 12,
+                "bbox": {
+                  "l": 70.56,
+                  "t": 515.08337953125,
+                  "r": 288.99974528,
+                  "b": 462.62465953125,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  124
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/115",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 12,
+                "bbox": {
+                  "l": 71.28,
+                  "t": 459.04337953125,
+                  "r": 289.82,
+                  "b": 420.92465953125003,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  96
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/116",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 12,
+                "bbox": {
+                  "l": 71.28,
+                  "t": 416.80337953125,
+                  "r": 294.164100592,
+                  "b": 336.72465953125004,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  238
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/117",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 12,
+                "bbox": {
+                  "l": 71.28,
+                  "t": 333.02337953125004,
+                  "r": 292.94805286400003,
+                  "b": 294.94111044034094,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  115
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/118",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 12,
+                "bbox": {
+                  "l": 71.28,
+                  "t": 291.30657953125,
+                  "r": 294.505990784,
+                  "b": 238.92465953124997,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  127
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/119",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 12,
+                "bbox": {
+                  "l": 71.28,
+                  "t": 235.20657953125,
+                  "r": 295.4394447200001,
+                  "b": 196.78111044034097,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  124
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/120",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 12,
+                "bbox": {
+                  "l": 72.0,
+                  "t": 192.80337953125002,
+                  "r": 289.28,
+                  "b": 154.96111044034092,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  115
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/121",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 12,
+                "bbox": {
+                  "l": 72.0,
+                  "t": 150.92337953125002,
+                  "r": 294.72708723200003,
+                  "b": 98.94465953124995,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  147
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/122",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 12,
+                "bbox": {
+                  "l": 72.0,
+                  "t": 95.57601953125004,
+                  "r": 289.88,
+                  "b": 70.44465953124995,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  83
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/123",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 12,
+                "bbox": {
+                  "l": 323.98,
+                  "t": 780.24337953125,
+                  "r": 531.40271104,
+                  "b": 728.5411104403408,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  151
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/124",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 12,
+                "bbox": {
+                  "l": 308.84,
+                  "t": 724.44337953125,
+                  "r": 531.61997056,
+                  "b": 672.5411104403408,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  142
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/125",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 12,
+                "bbox": {
+                  "l": 308.84,
+                  "t": 669.2560195312501,
+                  "r": 528.54,
+                  "b": 532.9446595312501,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  363
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/126",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 12,
+                "bbox": {
+                  "l": 308.84,
+                  "t": 529.09601953125,
+                  "r": 533.9200000000001,
+                  "b": 434.94111044034094,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  287
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/127",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 12,
+                "bbox": {
+                  "l": 308.84,
+                  "t": 430.84337953125004,
+                  "r": 531.89465536,
+                  "b": 378.78111044034097,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  166
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "overlap": {
+        "enabled": true,
+        "ratio": 0.25,
+        "previous_context": true,
+        "next_context": true
+      }
+    }
+  },
+  {
+    "content": "[Previous context]\nPediatric non­ Hodgkin's lymphoma: Primary surgical management of patients presenting with abdominal symptoms. Recommendations of the Lymphoma Committee of the French Society to Combat Pediatric Cancers (SFCE). J Chir (Paris). 2008; 145: 454458.\n- 15-Patte C, Kalifa C, Flamant F, Hartmann 0, Bruguieres L, Valteau-Couanet D: Results of the LMB-81 protocol, a modified LSA2L2 protocol with high dose methotrexate, on 84 children with non-B cell (lymphoblastic) lymphoma. Med Pediatr Oncology 1992; 105-113.\n- 16-Kemeny MM, Magrath IT, Brennan MF: The role of surgery in the management of American Burkitt's lymphoma and its marment. Ann Surg 1982; 196: 82-86.\n\n- 17-Fleming ID, Turk PS, Murphy SB, Crist WM, Santana VM, Rao BN: Surgical implications of primary gastrointestinal lymphoma of childhood. Arch Surg 1990; 125: 252-256.\n- 18-Shamberger RC, Weinsrein HJ: The role of surgery in abdominal Burkitt's lymphoma. J Pediatr Surg 1992; 27: 236240.\n- 19-Magrath IT: Surgical reduction of tumor bulk in management of abdominal Burkitt's lymphoma. BMJ 1974; 2: 308-312.\n- 20-Link M, Weinstein H: Malignant non­ Hodgkin lymphomas in children. In: Principals and practice of pediatric oncology. Pizzo PA, Poplack DG (Editors); Lippincott Williams & Wilkins, Philadelphia (Publisher); 5th edn. 2006.\n- Heidelberg (Publisher); 2nd edn. 2008. 21-Billmire DF: Lymphoma. In: The Surgery of Childhood Tumours.Carachi R, Grosfeld JL (Editors); Springer-Verlag, Berlin,\n- 22-Vural S, Baskin D, Dogan 0, Polat N, Caliskan C, Urganci N, Karaman S: Diagnosis in childhood abdominal Burkitt's lymphoma. Ann Surg Oneal 2010; 17: 2476-2479.\n- 23-Breuer CK, Tarbell NJ, Mauch PM, Weinstein IU, Morrissey M, Neuberg D, Shamberger RC:The Importance of staging laparotomy in pediatric Hodgkin's disease. J Pediatr Surg 1994; 29: 1085-1089.\n- 24-Donaldson SS, Kaplan HS: Complications of treatment of Hodgkin's disease in children. Cancer Treat Rep 1982; 66: 977989.\n- 25-Maunch PM, Kalish LA, Marcus KC: Second malignancies after treatment for laparotomy staged IA-IIB Hodgkin's disease: Long term analysis of risk factors & outcome. Blood 1996; 87: 3625-3632.\n- 26-Chilcote RR:Septicemia and meningitis in children splenecromized for Hodgkin's disease. N Eng! J Med 1976; 295: 798-800.\n- 27-Cohen LF, Barlow JE, Magrath IT, Poplack DG, Ziegler JL: Acute tumor lysis\n- syndrome: A review of 37 patients with Burkirr's lymphoma. Am J Med 1980; 68: 486-491.\n- 28-Tsoks GE, Balow JE, Spiegel RJ, Magrath IT: Renal and metabolic complications of undifferentiated and lymphoblastic lymphomas. Medicine (Baltimore) 1981; 60: 218-229.\n- 29-Magrath IT, Janus C, Edwards BK, Spiegel R, Jaffe ES, Berard CW, Miliauskas J, Morris K, Barnwell R: An effective therapy for both undifferentiated (including Burkitt's) lymphomas and lymphoblastic lymphomas in children and young adults. Blood 1984; 63: 1102-1111.\n- 30-Meyers PA, PotterVP, WollnerN, Exelby P: Bowel perforation during initial treatment for childhood non-Hodgkin's lymphoma. Cancer 1985; 56: 259-261.\n- 31-Hande KR, Garrow GC: Acute tumor lysis syndrome in patients with high-grade non­ Hodgkin's lymphoma. Am J Med 1993; 94:133-139.",
+    "metadata": {
+      "document_id": "paper6",
+      "source": "paper6.pdf",
+      "topic": "References:",
+      "headings": [
+        "References:"
+      ],
+      "chunk_index": 17,
+      "total_chunks": 17,
+      "pages": [
+        12,
+        13
+      ],
+      "docling": {
+        "doc_items": [
+          {
+            "self_ref": "#/texts/128",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 12,
+                "bbox": {
+                  "l": 308.84,
+                  "t": 374.66337953125003,
+                  "r": 531.0098763519999,
+                  "b": 308.82465953125006,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  178
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/129",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 12,
+                "bbox": {
+                  "l": 308.84,
+                  "t": 305.06337953125,
+                  "r": 531.0276451839999,
+                  "b": 252.78465953124999,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  128
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/130",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 12,
+                "bbox": {
+                  "l": 308.84,
+                  "t": 249.08337953125,
+                  "r": 530.954323072,
+                  "b": 210.94111044034094,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  123
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/131",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 12,
+                "bbox": {
+                  "l": 307.4,
+                  "t": 207.32337953125,
+                  "r": 531.6510300159999,
+                  "b": 127.44465953124995,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  241
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/132",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 12,
+                "bbox": {
+                  "l": 307.4,
+                  "t": 123.33345953125001,
+                  "r": 530.4964737280001,
+                  "b": 70.44465953124995,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  165
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/135",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 13,
+                "bbox": {
+                  "l": 70.56,
+                  "t": 780.96337953125,
+                  "r": 294.809829632,
+                  "b": 714.8846595312501,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  176
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/136",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 13,
+                "bbox": {
+                  "l": 72.72,
+                  "t": 711.12337953125,
+                  "r": 292.09690678400005,
+                  "b": 645.1211104403409,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  208
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/137",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 13,
+                "bbox": {
+                  "l": 70.56,
+                  "t": 641.08337953125,
+                  "r": 294.85506588800007,
+                  "b": 589.1646595312501,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  131
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/138",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 13,
+                "bbox": {
+                  "l": 70.56,
+                  "t": 585.4033795312499,
+                  "r": 294.977417216,
+                  "b": 519.4811104403409,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  203
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/139",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 13,
+                "bbox": {
+                  "l": 70.56,
+                  "t": 515.38337953125,
+                  "r": 294.89685209600003,
+                  "b": 477.3611104403409,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  129
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/140",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 13,
+                "bbox": {
+                  "l": 73.26,
+                  "t": 473.38337953125,
+                  "r": 291.38,
+                  "b": 449.42465953125003,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  84
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/141",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 13,
+                "bbox": {
+                  "l": 324.7,
+                  "t": 780.96337953125,
+                  "r": 526.06,
+                  "b": 742.96465953125,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  89
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/142",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 13,
+                "bbox": {
+                  "l": 307.4,
+                  "t": 738.84337953125,
+                  "r": 531.506626816,
+                  "b": 673.2846595312501,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  178
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/143",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 13,
+                "bbox": {
+                  "l": 307.4,
+                  "t": 669.1633795312499,
+                  "r": 531.838987264,
+                  "b": 575.1011104403409,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  288
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/144",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 13,
+                "bbox": {
+                  "l": 310.28,
+                  "t": 571.18337953125,
+                  "r": 530.9337445120001,
+                  "b": 519.421110440341,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  152
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/145",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 13,
+                "bbox": {
+                  "l": 307.4,
+                  "t": 515.42657953125,
+                  "r": 530.7717030399999,
+                  "b": 463.46465953125,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  130
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "overlap": {
+        "enabled": true,
+        "ratio": 0.25,
+        "previous_context": true,
+        "next_context": false
+      }
+    }
+  }
+]

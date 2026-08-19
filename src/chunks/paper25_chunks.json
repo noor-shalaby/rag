@@ -1,0 +1,2277 @@
+[
+  {
+    "content": "Background: Acute appendicitis is the commonest emergency in general surgery, the treatment of it is whether surgical or conservative. The aim of this study is to demonstrate the effects of conservative treatment\nAim: evaluate the outcomes of conservative treatment of appendicitis in young patients. Patients and methods: this study included 92 young female patients diagnosed with acute appendicitis, eligible patients will be recruited from outpatient clinic, emergency department and general surgery department of Benha University and general surgery department of Benha teaching hospital. Results: With a median follow-up of nine to twelve months, 61 (66.3%) underwent effective management without surgery and successfully finished the original NonOperative Treatment (NOT). In the patients who failed the NonOperative Treatment (NOT) in our trial, there were no appendiceal perforations. The findings of a recent meta-analysis, which incorporated several studies regarding the safety and effectiveness of Non-Operative Treatment (NOT) in cases of Uncomplicated Acute Appendicitis (UAA), are in line with this. It demonstrated that Non-Operative Treatment (NOT) for Uncomplicated Acute Appendicitis (UAA) is successful, with a success rate of 66% at the last follow-up. Conclusion: Approximately half of appendicitis patients had successful conservative treatment. Patients with lower age and body mass index but higher chest problems and previous GIT symptoms exhibited more positive response to conservative treatment.\nKeywords: Non-Operative Treatment, uncomplicated Acute Appendicitis, gastrointestinal tract.\nGeneral Surgery Department, Faculty of Medicine Benha University, Egypt.\nCorresponding to: Dr. Abdelaziz A. Abdelaziz. Department, Benha\nGeneral Surgery Faculty of Medicine University, Egypt.\nEmail:\nzizadell44@gmail.com\nReceived:\nAccepted:\n\n[Next context]\nSince it has been known for decades that antibiotics may be used to treat appendicitis, considering the use of antibiotics alone instead of surgery for simple cases of appendicitis has increased. While there is a good amount of evidence to support this treatment in adults, there is still more and more data showing how safe and successful non-operative management is for kids. There is still a need for large research, which are now being carried out with findings anticipated in the next years. The most frequent surgical emergency in children is acute appendicitis, which has a lifetime risk of 8.6% in males and 6.7% in females. Although appendicitis can occur in any stage of life, the largest prevalence occurs in those between the ages of 10 and 19 [1] .",
+    "metadata": {
+      "document_id": "paper25",
+      "source": "paper25.pdf",
+      "topic": "Abstract:",
+      "headings": [
+        "Abstract:"
+      ],
+      "chunk_index": 2,
+      "total_chunks": 14,
+      "pages": [
+        1
+      ],
+      "docling": {
+        "doc_items": [
+          {
+            "self_ref": "#/texts/8",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 1,
+                "bbox": {
+                  "l": 215.93,
+                  "t": 615.4307029101562,
+                  "r": 508.15543999999977,
+                  "b": 567.9752629101563,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  214
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/9",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 1,
+                "bbox": {
+                  "l": 215.93,
+                  "t": 564.8807029101563,
+                  "r": 508.27311999999984,
+                  "b": 289.67526291015633,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  1369
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/10",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 1,
+                "bbox": {
+                  "l": 215.93,
+                  "t": 286.58070291015633,
+                  "r": 508.18359999999996,
+                  "b": 264.3552629101563,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  92
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/11",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 1,
+                "bbox": {
+                  "l": 68.064,
+                  "t": 487.2122629101563,
+                  "r": 188.63000000000002,
+                  "b": 452.11670291015633,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  72
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/12",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 1,
+                "bbox": {
+                  "l": 68.064,
+                  "t": 437.5322629101563,
+                  "r": 200.18,
+                  "b": 392.9779829101563,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  63
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/13",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 1,
+                "bbox": {
+                  "l": 68.064,
+                  "t": 412.6269829101563,
+                  "r": 164.43600000000004,
+                  "b": 381.0979829101563,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  54
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/14",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 1,
+                "bbox": {
+                  "l": 68.064,
+                  "t": 376.96698291015633,
+                  "r": 92.04599999999999,
+                  "b": 369.2179829101563,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  6
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/15",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 1,
+                "bbox": {
+                  "l": 94.584,
+                  "t": 376.96698291015633,
+                  "r": 182.51,
+                  "b": 369.2179829101563,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  20
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/16",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 1,
+                "bbox": {
+                  "l": 68.064,
+                  "t": 352.9122629101563,
+                  "r": 110.50999999999999,
+                  "b": 344.3367029101563,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  9
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/17",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 1,
+                "bbox": {
+                  "l": 68.064,
+                  "t": 339.5922629101563,
+                  "r": 111.11,
+                  "b": 331.0167029101563,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  9
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "overlap": {
+        "enabled": true,
+        "ratio": 0.25,
+        "previous_context": true,
+        "next_context": true
+      }
+    }
+  },
+  {
+    "content": "[Previous context]\nsuccessful conservative treatment. Patients with lower age and body mass index but higher chest problems and previous GIT symptoms exhibited more positive response to conservative treatment.\nKeywords: Non-Operative Treatment, uncomplicated Acute Appendicitis, gastrointestinal tract.\nGeneral Surgery Department, Faculty of Medicine Benha University, Egypt.\nCorresponding to: Dr. Abdelaziz A. Abdelaziz. Department, Benha\nGeneral Surgery Faculty of Medicine University, Egypt.\nEmail:\nzizadell44@gmail.com\nReceived:\nAccepted:\n\nSince it has been known for decades that antibiotics may be used to treat appendicitis, considering the use of antibiotics alone instead of surgery for simple cases of appendicitis has increased. While there is a good amount of evidence to support this treatment in adults, there is still more and more data showing how safe and successful non-operative management is for kids. There is still a need for large research, which are now being carried out with findings anticipated in the next years. The most frequent surgical emergency in children is acute appendicitis, which has a lifetime risk of 8.6% in males and 6.7% in females. Although appendicitis can occur in any stage of life, the largest prevalence occurs in those between the ages of 10 and 19 [1] .\nAlthough the precise cause of acute appendicitis is still unknown, a number of ideas link it to lymphoid hyperplasia, mucosal inflammation, or the existence of a fecalith. The latter results in ischemia, infarction, supportive transmural inflammation, and appendix perforation by causing luminal blockage, distention, and inflammation of the appendix wall [2] . Fever, colicky periumbilical discomfort, pain migration to the right iliac region, anorexia, nausea, and vomiting are among the common symptoms. However, because to their unusual appearance and poor communication abilities, preschoolers may be hard to diagnose with appendicitis. Almost all of the 120 US children (mean age 3.6 years) who were diagnosed with perforated appendicitis at a younger age than 1 year old had this condition at the time of diagnosis, mostly due to delays in diagnosis [3] .\nWithin 24 hours of the beginning of symptoms, appendiceal perforation is anticipated to occur in 7.7% of individuals. The surgical orthodoxy that governed emergency appendectomy has undergone a paradigm change in favor of non-operative treatment.\nAn 84% success rate in treating adult patients with uncomplicated acute appendicitis with antibiotics during their first hospitalization was found in a metaanalysis of randomized controlled trials that included 5 studies and 1430 individuals. Another 21 per cent of patients were readmitted for treatmentrelated recurrent appendicitis during the follow-up year. Comparing patients receiving antibiotic therapy to those having an appendectomy, there was an overall 39% decrease in the risk of complications [4] .\nIn an observational research conducted by Abeş and colleagues in 2007, abdominal soreness was successfully resolved in 15 out of 136 children, aged 5 to 13, who were chosen for non-operative therapy (93.7%) [5] .\nIn a Swedish randomized controlled trial, 50 children (mean age 11.2 years) were randomly assigned to receive either intravenous (meropenem and metronidazole) or preoperative (metronidazole) antibiotic prophylaxis after surgery for at least 48 hours. The trial's goal was to assess the safety and viability of non-operative treatment of acute nonperforated appendicitis with antibiotics. The majority of patients (92%) who received antibiotic treatment saw an early remission of symptoms, and only 1 patient (5%) experienced a recurrence of histologically proved acute appendicitis during the 1-year follow-up. However, the study was underpowered to detect differences between groups [6] . of acute appendicitis had motivated the authors to\nThe grey area about outcome conservative treatment of conduct this study.\n\n[Next context]\nThis current study was conducted following the ethical consideration of Helsinki Prospective the study was conducted throughout the period from December 2022 till December 2023.",
+    "metadata": {
+      "document_id": "paper25",
+      "source": "paper25.pdf",
+      "topic": "Introduction",
+      "headings": [
+        "Introduction"
+      ],
+      "chunk_index": 3,
+      "total_chunks": 14,
+      "pages": [
+        2
+      ],
+      "docling": {
+        "doc_items": [
+          {
+            "self_ref": "#/texts/20",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 2,
+                "bbox": {
+                  "l": 72.024,
+                  "t": 749.4159829101563,
+                  "r": 282.6,
+                  "b": 490.7739829101563,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  791
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/21",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 2,
+                "bbox": {
+                  "l": 72.024,
+                  "t": 487.3059829101563,
+                  "r": 282.65,
+                  "b": 187.12398291015631,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  906
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/22",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 2,
+                "bbox": {
+                  "l": 72.024,
+                  "t": 183.65598291015635,
+                  "r": 285.41,
+                  "b": 90.52798291015631,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  246
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/23",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 2,
+                "bbox": {
+                  "l": 315.67,
+                  "t": 767.0759829101563,
+                  "r": 526.2339999999999,
+                  "b": 577.2939829101563,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  540
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/24",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 2,
+                "bbox": {
+                  "l": 315.67,
+                  "t": 573.8259829101563,
+                  "r": 526.2459999999999,
+                  "b": 494.49398291015626,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  231
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/25",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 2,
+                "bbox": {
+                  "l": 315.67,
+                  "t": 491.02598291015624,
+                  "r": 526.2999999999998,
+                  "b": 204.6439829101563,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  786
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/26",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 2,
+                "bbox": {
+                  "l": 315.67,
+                  "t": 242.60598291015629,
+                  "r": 502.22199999999987,
+                  "b": 190.84398291015634,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  73
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "overlap": {
+        "enabled": true,
+        "ratio": 0.25,
+        "previous_context": true,
+        "next_context": true
+      }
+    }
+  },
+  {
+    "content": "[Previous context]\nchildren, aged 5 to 13, who were chosen for non-operative therapy (93.7%) [5] .\nIn a Swedish randomized controlled trial, 50 children (mean age 11.2 years) were randomly assigned to receive either intravenous (meropenem and metronidazole) or preoperative (metronidazole) antibiotic prophylaxis after surgery for at least 48 hours. The trial's goal was to assess the safety and viability of non-operative treatment of acute nonperforated appendicitis with antibiotics. The majority of patients (92%) who received antibiotic treatment saw an early remission of symptoms, and only 1 patient (5%) experienced a recurrence of histologically proved acute appendicitis during the 1-year follow-up. However, the study was underpowered to detect differences between groups [6] . of acute appendicitis had motivated the authors to\nThe grey area about outcome conservative treatment of conduct this study.\n\nThis current study was conducted following the ethical consideration of Helsinki Prospective the study was conducted throughout the period from December 2022 till December 2023.\nThe current prospective study included 92 young female patients with acute appendicitis, eligible patients was recruited from outpatient clinic, emergency department and general surgery department of Benha University and general surgery department of Benha teaching hospital.\nEthical approval was taken from the ethical and research committee of Benha University (Ms 30-12-2022).\nhas RIPASSA score > 7.5. Female patient older than 25 years old with complicated appendicitis or associated urinary or gynecological problems are excluded from our study.\n\n[Next context]\n- For all included patients, Patients was assessed throughout history, examination and RIPASSA Score.\n- Taking in consideration special signs of acute appendicitis.\nInformed written consent was obtained from all included patients. The current study included 92 female patients aged from 16 -25 years old, diagnosed with acute non complicated appendicitis and\n- Assessment using RIPASSA score was done and a cut off value of less than 7.5 was considered as an indication for conservative treatment ,scoring was assessed according to items in table 1\nTable 1: Scoring system according to RIPASA score\n\nParameter, RIPASA SCORE = Score. Age, RIPASA SCORE = 1 pt (if <40",
+    "metadata": {
+      "document_id": "paper25",
+      "source": "paper25.pdf",
+      "topic": "Patient and method Study design:",
+      "headings": [
+        "Patient and method Study design:"
+      ],
+      "chunk_index": 4,
+      "total_chunks": 14,
+      "pages": [
+        2,
+        3
+      ],
+      "docling": {
+        "doc_items": [
+          {
+            "self_ref": "#/texts/28",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 2,
+                "bbox": {
+                  "l": 315.67,
+                  "t": 144.05598291015633,
+                  "r": 526.3,
+                  "b": 78.52798291015631,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  177
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/30",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 3,
+                "bbox": {
+                  "l": 72.024,
+                  "t": 767.0759829101563,
+                  "r": 282.65000000000003,
+                  "b": 660.1239829101563,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  275
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/31",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 3,
+                "bbox": {
+                  "l": 72.024,
+                  "t": 656.6559829101564,
+                  "r": 282.65,
+                  "b": 618.7239829101563,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  108
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/32",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 3,
+                "bbox": {
+                  "l": 315.67,
+                  "t": 767.0759829101563,
+                  "r": 526.324,
+                  "b": 701.5239829101563,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  176
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "overlap": {
+        "enabled": true,
+        "ratio": 0.25,
+        "previous_context": true,
+        "next_context": true
+      }
+    }
+  },
+  {
+    "content": "[Previous context]\nRIPASSA score > 7.5. Female patient older than 25 years old with complicated appendicitis or associated urinary or gynecological problems are excluded from our study.\n\n- For all included patients, Patients was assessed throughout history, examination and RIPASSA Score.\n- Taking in consideration special signs of acute appendicitis.\nInformed written consent was obtained from all included patients. The current study included 92 female patients aged from 16 -25 years old, diagnosed with acute non complicated appendicitis and\n- Assessment using RIPASSA score was done and a cut off value of less than 7.5 was considered as an indication for conservative treatment ,scoring was assessed according to items in table 1\nTable 1: Scoring system according to RIPASA score\n\nParameter, RIPASA SCORE = Score. Age, RIPASA SCORE = 1 pt (if <40 yr) or 0.5 pt (if >40 yr). Sex, RIPASA SCORE = 1 pt (if M)or 0.5 pt (if F). RIF pain, RIPASA SCORE = 0.5 pt. Migration to RIF, RIPASA SCORE = 0.5 pt. Nausea/ Vomiting, RIPASA SCORE = 1 pt. Anorexia, RIPASA SCORE = 1 pt. Duration of symptoms, RIPASA SCORE = 1 pt (if < 48 hr) or 0.5 pt (if > 48 hr). RIF tenderness, RIPASA SCORE = 1 pt. RIF rebound tenderness, RIPASA SCORE = 1 pt. RIF guarding, RIPASA SCORE = 2 pt. Rovsing's sign, RIPASA SCORE = 2 pt. Fever, RIPASA SCORE = 1 pt. Raised WBC count, RIPASA SCORE = 1 pt. Negative urinalysis, RIPASA SCORE = 1 pt. Maximum score/ min score, RIPASA SCORE = 15 pt / 2 pt\nRIF: Right Iliac Fossa\nFor all included patients the protocol of treatment was the following:\nFor the first twelve hours after receiving intravenous (IV) liquids, patients continued to fast. One of the following IV antibiotics was administered to patients: Ceftriaxone IV (1 g) once daily in combination with three daily 500 mg infusions of metronidazole IV during a 48hour period. Medication dosages are modified in accordance with hospital policies and pain ratings. Every six hours, vital signs were measured, including pain levels. The patient was reassessed by a doctor twice a day. The patient was sent home after 48 hours if they satisfy the predetermined discharge requirements. If not, the Non-Operative\nTreatment (NOT) persisted for a maximum of 72 hours.\nThe discharge criteria for the Non-Operative Treatment (NOT) group are:\nTemperature <38.0°C, pain ratings <4, decreased WBC count, decreased CRP, ability to move, ability to tolerate oral intake, and no symptoms of complicated appendicitis were observed on the second US scan. Patients were released given three daily doses of oral metronidazole (500 mg) and three daily doses of amoxicillin/clavulanic acid (1 g). The course of antibiotic therapy lasts for seven days in total.\n\n[Next context]\nThe effectivity",
+    "metadata": {
+      "document_id": "paper25",
+      "source": "paper25.pdf",
+      "topic": "Procedure:",
+      "headings": [
+        "Procedure:"
+      ],
+      "chunk_index": 5,
+      "total_chunks": 14,
+      "pages": [
+        3
+      ],
+      "docling": {
+        "doc_items": [
+          {
+            "self_ref": "#/texts/34",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 3,
+                "bbox": {
+                  "l": 315.67,
+                  "t": 685.1919829101563,
+                  "r": 526.3,
+                  "b": 646.3239829101564,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  106
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/35",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 3,
+                "bbox": {
+                  "l": 315.67,
+                  "t": 643.7919829101562,
+                  "r": 526.2099999999999,
+                  "b": 618.7239829101563,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  62
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/36",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 3,
+                "bbox": {
+                  "l": 72.024,
+                  "t": 615.2559829101564,
+                  "r": 282.65,
+                  "b": 549.6939829101564,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  215
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/37",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 3,
+                "bbox": {
+                  "l": 315.67,
+                  "t": 616.1919829101563,
+                  "r": 526.3,
+                  "b": 549.6939829101564,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  193
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/38",
+            "label": "caption",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 3,
+                "bbox": {
+                  "l": 72.024,
+                  "t": 521.6259829101563,
+                  "r": 333.28000000000003,
+                  "b": 511.2939829101562,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  49
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/tables/0",
+            "label": "table",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 3,
+                "bbox": {
+                  "l": 65.7098744938643,
+                  "t": 500.9365517633531,
+                  "r": 447.6109999163405,
+                  "b": 300.94966886514646,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  0
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/39",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 3,
+                "bbox": {
+                  "l": 108.02,
+                  "t": 299.0869829101564,
+                  "r": 190.34,
+                  "b": 291.33798291015637,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/40",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 3,
+                "bbox": {
+                  "l": 72.024,
+                  "t": 276.3807029101563,
+                  "r": 282.19248000000005,
+                  "b": 254.15526291015635,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  70
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/41",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 3,
+                "bbox": {
+                  "l": 72.024,
+                  "t": 251.06070291015635,
+                  "r": 282.36008,
+                  "b": 77.12926291015629,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  649
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/43",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 3,
+                "bbox": {
+                  "l": 315.67,
+                  "t": 288.3807029101563,
+                  "r": 525.7943199999997,
+                  "b": 266.15526291015635,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  52
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/44",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 3,
+                "bbox": {
+                  "l": 315.67,
+                  "t": 263.06070291015635,
+                  "r": 526.01008,
+                  "b": 240.8352629101563,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  76
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/45",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 3,
+                "bbox": {
+                  "l": 315.67,
+                  "t": 237.7407029101563,
+                  "r": 526.0672,
+                  "b": 114.32526291015631,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  416
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "overlap": {
+        "enabled": true,
+        "ratio": 0.25,
+        "previous_context": true,
+        "next_context": true
+      }
+    }
+  },
+  {
+    "content": "[Previous context]\na doctor twice a day. The patient was sent home after 48 hours if they satisfy the predetermined discharge requirements. If not, the Non-Operative\nTreatment (NOT) persisted for a maximum of 72 hours.\nThe discharge criteria for the Non-Operative Treatment (NOT) group are:\nTemperature <38.0°C, pain ratings <4, decreased WBC count, decreased CRP, ability to move, ability to tolerate oral intake, and no symptoms of complicated appendicitis were observed on the second US scan. Patients were released given three daily doses of oral metronidazole (500 mg) and three daily doses of amoxicillin/clavulanic acid (1 g). The course of antibiotic therapy lasts for seven days in total.\n\nThe effectivity of treatment of query appendicitis through avoiding unnecessary operation.\n\n[Next context]\nDecrease overall cost and",
+    "metadata": {
+      "document_id": "paper25",
+      "source": "paper25.pdf",
+      "topic": "Primary outcome",
+      "headings": [
+        "Primary outcome"
+      ],
+      "chunk_index": 6,
+      "total_chunks": 14,
+      "pages": [
+        4
+      ],
+      "docling": {
+        "doc_items": [
+          {
+            "self_ref": "#/texts/48",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 4,
+                "bbox": {
+                  "l": 72.024,
+                  "t": 767.0759829101563,
+                  "r": 282.65,
+                  "b": 729.1239829101563,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  90
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "overlap": {
+        "enabled": true,
+        "ratio": 0.25,
+        "previous_context": true,
+        "next_context": true
+      }
+    }
+  },
+  {
+    "content": "[Previous context]\nunnecessary operation.\n\nDecrease overall cost and reducing operation rate as well as decrease burden on health care system.\n\n[Next context]\nStatistical analysis was done by SPSS v26 (IBM Inc., Armonk, NY, USA). Quantitative variables were presented as mean and standard deviation (SD). Qualitative variables were presented as",
+    "metadata": {
+      "document_id": "paper25",
+      "source": "paper25.pdf",
+      "topic": "Secondary outcome",
+      "headings": [
+        "Secondary outcome"
+      ],
+      "chunk_index": 7,
+      "total_chunks": 14,
+      "pages": [
+        4
+      ],
+      "docling": {
+        "doc_items": [
+          {
+            "self_ref": "#/texts/50",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 4,
+                "bbox": {
+                  "l": 72.024,
+                  "t": 711.8559829101563,
+                  "r": 282.55999999999995,
+                  "b": 673.9239829101564,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  105
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "overlap": {
+        "enabled": true,
+        "ratio": 0.25,
+        "previous_context": true,
+        "next_context": true
+      }
+    }
+  },
+  {
+    "content": "[Previous context]\non health care system.\n\nStatistical analysis was done by SPSS v26 (IBM Inc., Armonk, NY, USA). Quantitative variables were presented as mean and standard deviation (SD). Qualitative variables were presented as\nTable 2: General characteristic of studied patients\n\nAge, = Mean ± SD. Age, = 21 ±2. Age, = . Age, = . Body mass index, = Mean± SD. Body mass index, = 22±2. Body mass index, = . Body mass index, = . Chest problems, = N (%). Chest problems, = 28 (30.4 ). Chest problems, = 48. Chest problems, = (52.2). Previous Git sx, = N (%). Previous Git sx, = . Previous Git sx, = . Previous Git sx, =\n\n[Next context]\nApproximately half of the patients (54.3%) complained of anorexia. Most patients had fever (97.8%). Nausea and vomiting were reported in 58.7%. All patients complained of RIF pain and tenderness. Migration of pain was reported in 59.8%. All patients had normal urine cultures. About half of the patients (52.2%) had symptoms duration of ≤ 48 hours, while the remainder had symptoms duration of >",
+    "metadata": {
+      "document_id": "paper25",
+      "source": "paper25.pdf",
+      "topic": "Statistical analysis",
+      "headings": [
+        "Statistical analysis"
+      ],
+      "chunk_index": 8,
+      "total_chunks": 14,
+      "pages": [
+        4
+      ],
+      "docling": {
+        "doc_items": [
+          {
+            "self_ref": "#/texts/52",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 4,
+                "bbox": {
+                  "l": 72.024,
+                  "t": 656.6559829101564,
+                  "r": 282.65,
+                  "b": 591.1239829101563,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  191
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/53",
+            "label": "caption",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 4,
+                "bbox": {
+                  "l": 72.024,
+                  "t": 573.8259829101563,
+                  "r": 313.1480000000001,
+                  "b": 563.4939829101563,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  51
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/tables/1",
+            "label": "table",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 4,
+                "bbox": {
+                  "l": 82.68828509801122,
+                  "t": 554.5564251483868,
+                  "r": 511.8035564132473,
+                  "b": 488.8567061940907,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  0
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "overlap": {
+        "enabled": true,
+        "ratio": 0.25,
+        "previous_context": true,
+        "next_context": true
+      }
+    }
+  },
+  {
+    "content": "[Previous context]\nproblems, = 48. Chest problems, = (52.2). Previous Git sx, = N (%). Previous Git sx, = . Previous Git sx, = . Previous Git sx, =\n\nApproximately half of the patients (54.3%) complained of anorexia. Most patients had fever (97.8%). Nausea and vomiting were reported in 58.7%. All patients complained of RIF pain and tenderness. Migration of pain was reported in 59.8%. All patients had normal urine cultures. About half of the patients (52.2%) had symptoms duration of ≤ 48 hours, while the remainder had symptoms duration of > 48 hour, clinical findings in studied patients and scoring system illustrated in table 3 and table 4\nTable 3: Clinical finding in studied patients\nAnorexia, 1 = 50. Fever, 1 = 81. Nausea and vomiting, 1 = 54. RIF pain, 1 = 92. RIF tenderness, 1 = 92. Migration of pain, 1 = 55. Sx duration >48 hour, 1 = 48. Sx duration <48hour, 1 = 44\nTable (4) Scoring system of studied patients according to RIPASSA score\n49 patients, 1 = Scoring 6.5. 38 patients, 1 = Scoring 7. 5 patients, 1 = Scoring 7.5\nThe current study included 92 young female patients who had acute abdominal pain and diagnosed with acute appendicitis and had a score of ≤ 7.5 at RIPASSA score .67 patients (72%) had a successful conservative treatment while 25 patients (28%) underwent surgery.\nAbout 58 patients of conservative group had successful conservative treatment after 48 hours , while 9 patient of them had recurrent abdominal pain and received conservative treatment for the 2nd time, 3 of them had resolving of their symptoms and discharged while 6 of them had underwent surgery. Histopathology of\nfrequency and percentage (%).\n\n[Next context]\nThe current study included 92 young female patients,\nThe mean age of the studied patients was 21 ±2. The mean body mass",
+    "metadata": {
+      "document_id": "paper25",
+      "source": "paper25.pdf",
+      "topic": "Clinical findings:",
+      "headings": [
+        "Clinical findings:"
+      ],
+      "chunk_index": 9,
+      "total_chunks": 14,
+      "pages": [
+        4
+      ],
+      "docling": {
+        "doc_items": [
+          {
+            "self_ref": "#/texts/55",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 4,
+                "bbox": {
+                  "l": 72.024,
+                  "t": 459.2259829101563,
+                  "r": 282.57600000000014,
+                  "b": 379.87398291015626,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  261
+                ]
+              },
+              {
+                "page_no": 4,
+                "bbox": {
+                  "l": 315.67,
+                  "t": 473.02598291015624,
+                  "r": 526.3,
+                  "b": 379.87398291015626,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  262,
+                  525
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/56",
+            "label": "caption",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 4,
+                "bbox": {
+                  "l": 72.024,
+                  "t": 364.40598291015624,
+                  "r": 283.25600000000014,
+                  "b": 354.07398291015625,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  45
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/tables/2",
+            "label": "table",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 4,
+                "bbox": {
+                  "l": 65.94499386049368,
+                  "t": 354.5198338397617,
+                  "r": 529.3562655930572,
+                  "b": 260.26682886832134,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  0
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/57",
+            "label": "caption",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 4,
+                "bbox": {
+                  "l": 72.024,
+                  "t": 246.2059829101563,
+                  "r": 432.31,
+                  "b": 235.87398291015631,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  71
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/tables/3",
+            "label": "table",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 4,
+                "bbox": {
+                  "l": 65.35142070281265,
+                  "t": 236.33325149357813,
+                  "r": 529.5370268216466,
+                  "b": 198.80288287816734,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  0
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/58",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 4,
+                "bbox": {
+                  "l": 72.024,
+                  "t": 185.3359829101563,
+                  "r": 282.63800000000003,
+                  "b": 92.20798291015626,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  271
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/59",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 4,
+                "bbox": {
+                  "l": 315.67,
+                  "t": 185.3359829101563,
+                  "r": 526.1979999999999,
+                  "b": 78.4079829101563,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  334
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/60",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 4,
+                "bbox": {
+                  "l": 315.67,
+                  "t": 767.0759829101563,
+                  "r": 468.94,
+                  "b": 756.7439829101563,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  29
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "overlap": {
+        "enabled": true,
+        "ratio": 0.25,
+        "previous_context": true,
+        "next_context": true
+      }
+    }
+  },
+  {
+    "content": "[Previous context]\nsuccessful conservative treatment while 25 patients (28%) underwent surgery.\nAbout 58 patients of conservative group had successful conservative treatment after 48 hours , while 9 patient of them had recurrent abdominal pain and received conservative treatment for the 2nd time, 3 of them had resolving of their symptoms and discharged while 6 of them had underwent surgery. Histopathology of\nfrequency and percentage (%).\n\nThe current study included 92 young female patients,\nThe mean age of the studied patients was 21 ±2. The mean body mass index was 22 ±2. Chest problems were reported in 30.4% of the studied patients, while previous GIT problems were reported in 52.2%, general characteristics of the patients illustrated in table 2\n25patients who underwent surgery revealed 7 with non-inflamed appendix and 18 of them had inflamed appendix.\nAll of that illustrated in the figure below (Fig 1)\nFig 1: Results of conservative treatment on included patients.\n\n[Next context]\nSurgeons benefit from radiological tests to complement the clinical picture prior to surgical intervention, as the diagnosis of AA is still unclear.\nHowever, there are a number of negative aspects to imaging, the main one being the radiation exposure that young individuals experience during a CT scan.\nOn the other side, individuals with an AA diagnosis may have a number of serious consequences from surgical procedures [7] .\nTherefore, it is critical to ascertain whether surgical surgery is still the preferred course of treatment for individuals with AA diagnoses [8] .\nSeveral recent research have indicated that medical therapy is a viable option for managing alcoholism. The use of antibiotics as the last resort for adult-onset\narthritis (AA) is not straightforward, according to a number of recent research. These criteria include the kind of arthritis, whether the patient is an adult or a kid, and whether the antibiotic is",
+    "metadata": {
+      "document_id": "paper25",
+      "source": "paper25.pdf",
+      "topic": "Results",
+      "headings": [
+        "Results"
+      ],
+      "chunk_index": 10,
+      "total_chunks": 14,
+      "pages": [
+        4,
+        5
+      ],
+      "docling": {
+        "doc_items": [
+          {
+            "self_ref": "#/texts/62",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 4,
+                "bbox": {
+                  "l": 315.67,
+                  "t": 723.6159829101563,
+                  "r": 526.1979999999999,
+                  "b": 699.4839829101563,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  52
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/63",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 4,
+                "bbox": {
+                  "l": 315.67,
+                  "t": 696.0159829101564,
+                  "r": 526.2339999999997,
+                  "b": 602.8839829101563,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  266
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/65",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 5,
+                "bbox": {
+                  "l": 72.024,
+                  "t": 767.0759829101563,
+                  "r": 285.54000000000013,
+                  "b": 729.1239829101563,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  118
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/66",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 5,
+                "bbox": {
+                  "l": 315.67,
+                  "t": 767.0759829101563,
+                  "r": 526.3,
+                  "b": 742.9239829101564,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  58
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/67",
+            "label": "caption",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 5,
+                "bbox": {
+                  "l": 149.9,
+                  "t": 389.96598291015624,
+                  "r": 448.54,
+                  "b": 379.63398291015625,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  62
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "overlap": {
+        "enabled": true,
+        "ratio": 0.25,
+        "previous_context": true,
+        "next_context": true
+      }
+    }
+  },
+  {
+    "content": "[Previous context]\nhad inflamed appendix.\nAll of that illustrated in the figure below (Fig 1)\nFig 1: Results of conservative treatment on included patients.\n\nSurgeons benefit from radiological tests to complement the clinical picture prior to surgical intervention, as the diagnosis of AA is still unclear.\nHowever, there are a number of negative aspects to imaging, the main one being the radiation exposure that young individuals experience during a CT scan.\nOn the other side, individuals with an AA diagnosis may have a number of serious consequences from surgical procedures [7] .\nTherefore, it is critical to ascertain whether surgical surgery is still the preferred course of treatment for individuals with AA diagnoses [8] .\nSeveral recent research have indicated that medical therapy is a viable option for managing alcoholism. The use of antibiotics as the last resort for adult-onset\narthritis (AA) is not straightforward, according to a number of recent research. These criteria include the kind of arthritis, whether the patient is an adult or a kid, and whether the antibiotic is being used as a preventative measure or as a bridge to surgery [9].\nOur findings showed that there was a treatment strategy for Uncomplicated Acute Appendicitis (UAA) patients outside surgery.\nThe individuals * Data were shown as numerical values. Patients who experience several postoperative complications, such as surgical site infection (SSI) with Uncomplicated Acute Appendicitis (UAA), might be notified that there is a safe and generally successful choice to Non-Operative Treatment (NOT) [9]. In addition, they must be told that their stay in the hospital will be prolonged due to the requirement for close clinical surveillance, that in approximately 7-8% of instances, Non-Operative Treatment (NOT) will fail after three days, and that in approximately be\n15-16% of cases, a second round of NonOperative Treatment (NOT) may required. [10]\nTypically, over the follow-up period, 1820% of patients would require surgical care to remove the appendix without any further morbidities or appendiceal rupture. Based on our study results, the majority of patients opted Non-Operative Treatment (NOT) to have the first hospital admission rather than the urgent procedure for Uncomplicated Acute Appendicitis (UAA), even if this may result in a lengthier hospital stay [11].\nUsing predetermined criteria, the current study evaluated the Non-Operative Treatment (NOT)'s safety and viability for simple AA. Every single one of the 92 patients in our sample who had an AA diagnosis underwent Non-Operative Treatment (NOT).\nSixty-one (66.3%) of them had management without surgery, and they successfully finished the first NonOperative Treatment (NOT), with a median follow-up of nineteen to twentyfour months. In the patients who failed the Non-Operative Treatment (NOT) in our trial, there were no appendiceal perforations. This is in line with a recent meta-analysis's findings, which incorporated several studies regarding the safety and effectiveness of Non-Operative Treatment (NOT) in cases of Uncomplicated Acute Appendicitis (UAA) and demonstrated that Non-Operative Treatment (NOT) for Uncomplicated Acute Appendicitis (UAA) was successful with a success rate of 66% at the final follow-up.\nThroughout the follow-up period, there was a 14% recurrence of AA in this metaanalysis, although there were no serious adverse events. This is consistent with our study's findings, which showed that during a median follow-up period of 19 (9-24) months, 9/67 (13.4%) of the patients in the Non-Operative Treatment (NOT) group experienced another AA incident. Of the patients in this group who had recurrent AA, 3\\67 (4.4%) completed a successful second Non-Operative Treatment (NOT) trial. Conversely, in our study's surgical group, 18 out of 25 operated patients had an 80% efficaciously pathologically inflamed appendix.\nOur approach of omitting patients with AA with appendicolith from the NonOperative Treatment (NOT) group and providing IV antibiotics for three days may have had a significant role in our high success rates.\n\n[Next context]\nOn the other hand, an inadequate course of antibiotics may result in therapeutic failure. According to the previously reported meta-analysis, there were no significant differences in outcomes between Non-Operative Treatment (NOT) and appendectomy, and the outcomes of the two treatment methods were comparable.\nThe authors did note that unless there are extensive randomized trials contrasting the Non-Operative Treatment (NOT) with appendectomy in the Uncomplicated Acute Appendicitis (UAA), recommendations cannot be made.\nIn their recent systematic review, Kessler et al. evaluated the Non-Operative Treatment (NOT) and appendectomy for management of Uncomplicated Acute Appendicitis (UAA) in children in five cohort and randomized studies [12] . They found that, in general, there",
+    "metadata": {
+      "document_id": "paper25",
+      "source": "paper25.pdf",
+      "topic": "Discussion",
+      "headings": [
+        "Discussion"
+      ],
+      "chunk_index": 11,
+      "total_chunks": 14,
+      "pages": [
+        5,
+        6
+      ],
+      "docling": {
+        "doc_items": [
+          {
+            "self_ref": "#/texts/106",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 5,
+                "bbox": {
+                  "l": 72.024,
+                  "t": 342.44598291015626,
+                  "r": 282.5280000000002,
+                  "b": 290.71398291015635,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  158
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/107",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 5,
+                "bbox": {
+                  "l": 72.024,
+                  "t": 287.2459829101563,
+                  "r": 282.5400000000001,
+                  "b": 235.5139829101563,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  163
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/108",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 5,
+                "bbox": {
+                  "l": 72.024,
+                  "t": 232.01598291015625,
+                  "r": 282.54000000000013,
+                  "b": 194.08398291015624,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  130
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/109",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 5,
+                "bbox": {
+                  "l": 72.024,
+                  "t": 190.61598291015628,
+                  "r": 282.62600000000003,
+                  "b": 138.8839829101563,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  152
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/110",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 5,
+                "bbox": {
+                  "l": 72.024,
+                  "t": 135.41598291015634,
+                  "r": 282.61400000000003,
+                  "b": 83.68798291015628,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  164
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/112",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 5,
+                "bbox": {
+                  "l": 315.67,
+                  "t": 359.96598291015624,
+                  "r": 529.42,
+                  "b": 266.83398291015624,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  279
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/113",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 5,
+                "bbox": {
+                  "l": 315.67,
+                  "t": 263.3659829101563,
+                  "r": 526.2099999999999,
+                  "b": 211.60398291015633,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  130
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/114",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 5,
+                "bbox": {
+                  "l": 315.67,
+                  "t": 208.25598291015626,
+                  "r": 526.1979999999998,
+                  "b": 87.52798291015631,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  386
+                ]
+              },
+              {
+                "page_no": 6,
+                "bbox": {
+                  "l": 72.024,
+                  "t": 767.0759829101563,
+                  "r": 282.59,
+                  "b": 673.9239829101564,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  387,
+                  613
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/116",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 6,
+                "bbox": {
+                  "l": 72.024,
+                  "t": 698.0559829101563,
+                  "r": 279.566,
+                  "b": 660.1239829101563,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  82
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/117",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 6,
+                "bbox": {
+                  "l": 72.024,
+                  "t": 656.6559829101564,
+                  "r": 282.5520000000001,
+                  "b": 508.2939829101563,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  444
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/118",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 6,
+                "bbox": {
+                  "l": 72.024,
+                  "t": 504.82598291015626,
+                  "r": 282.626,
+                  "b": 411.69398291015625,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  262
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/119",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 6,
+                "bbox": {
+                  "l": 72.024,
+                  "t": 408.20598291015625,
+                  "r": 282.626,
+                  "b": 149.44398291015636,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  706
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/120",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 6,
+                "bbox": {
+                  "l": 72.024,
+                  "t": 145.9759829101563,
+                  "r": 282.602,
+                  "b": 80.44798291015627,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  214
+                ]
+              },
+              {
+                "page_no": 6,
+                "bbox": {
+                  "l": 315.67,
+                  "t": 767.0759829101563,
+                  "r": 529.42,
+                  "b": 618.7239829101563,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  215,
+                  650
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/121",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 6,
+                "bbox": {
+                  "l": 315.67,
+                  "t": 615.2559829101564,
+                  "r": 526.1859999999999,
+                  "b": 535.8939829101563,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  216
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "overlap": {
+        "enabled": true,
+        "ratio": 0.25,
+        "previous_context": true,
+        "next_context": true
+      }
+    }
+  },
+  {
+    "content": "[Previous context]\ndemonstrated that Non-Operative Treatment (NOT) for Uncomplicated Acute Appendicitis (UAA) was successful with a success rate of 66% at the final follow-up.\nThroughout the follow-up period, there was a 14% recurrence of AA in this metaanalysis, although there were no serious adverse events. This is consistent with our study's findings, which showed that during a median follow-up period of 19 (9-24) months, 9/67 (13.4%) of the patients in the Non-Operative Treatment (NOT) group experienced another AA incident. Of the patients in this group who had recurrent AA, 3\\67 (4.4%) completed a successful second Non-Operative Treatment (NOT) trial. Conversely, in our study's surgical group, 18 out of 25 operated patients had an 80% efficaciously pathologically inflamed appendix.\nOur approach of omitting patients with AA with appendicolith from the NonOperative Treatment (NOT) group and providing IV antibiotics for three days may have had a significant role in our high success rates.\n\nOn the other hand, an inadequate course of antibiotics may result in therapeutic failure. According to the previously reported meta-analysis, there were no significant differences in outcomes between Non-Operative Treatment (NOT) and appendectomy, and the outcomes of the two treatment methods were comparable.\nThe authors did note that unless there are extensive randomized trials contrasting the Non-Operative Treatment (NOT) with appendectomy in the Uncomplicated Acute Appendicitis (UAA), recommendations cannot be made.\nIn their recent systematic review, Kessler et al. evaluated the Non-Operative Treatment (NOT) and appendectomy for management of Uncomplicated Acute Appendicitis (UAA) in children in five cohort and randomized studies [12] . They found that, in general, there were a few post-appendectomy complications, with comparable numbers in Non-Operative Treatment (NOT) and appendectomy (2% in both procedures). This puts into question the previously mentioned results and opinions [13].\nBut after comparing Non-Operative Treatment (NOT)'s effectiveness to appendectomy, they discovered that NonOperative Treatment (NOT) was less\neffective, with a success rate of 74%\ncompared to appendectomy's 82.5%. Furthermore, compared to Non-Operative Treatment (NOT), the appendectomy was linked to decreased readmission rates. They came to the conclusion that, in the case of children with Uncomplicated Acute Appendicitis (UAA), surgical intervention should still be the primary line of therapy. Although the NonOperative Treatment (NOT) group in our study had a greater success rate, we do not advocate for abandoning surgery for AA since appendectomy is a permanent cure for appendicitis.\nWe contend that Non-Operative Treatment (NOT) can be both safe and effective, and patients really prefer it when we apply stringent inclusion and exclusion criteria to specific individuals with Uncomplicated Acute Appendicitis (UAA). We believe that the success of our study was largely due to our protocol of routine follow-up, which in some cases lasted up to 24 months with a mean duration of 19 months in the Non-Operative Treatment (NOT) group through scheduled visits to the outpatient clinic and an available line for patients to communicate in case of recurrence of abdominal symptoms. The safety of the non-operative medical care of Uncomplicated Acute Appendicitis (UAA) is not disclosed by the pathology findings of the excised appendices of patients who did not pass.\nOut of the 17 appendices removed because to recurrent AA, 1 had gangrenous tissue, 12 had inflammation, and 4 had no inflammation. In our research group, there was not a single instance of a ruptured appendix with 100% safety. This finding is consistent with other previous studies that have demonstrated postponing surgery for Uncomplicated Acute Appendicitis (UAA) patients is safe, does not raise the risk of appendiceal perforation, and does not increase the risk of postoperative morbidities.\n\n[Next context]\nApproximately half of appendicitis patients had successful conservative treatment. Patients with lower",
+    "metadata": {
+      "document_id": "paper25",
+      "source": "paper25.pdf",
+      "topic": "Discussion",
+      "headings": [
+        "Discussion"
+      ],
+      "chunk_index": 12,
+      "total_chunks": 14,
+      "pages": [
+        6,
+        7
+      ],
+      "docling": {
+        "doc_items": [
+          {
+            "self_ref": "#/texts/122",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 6,
+                "bbox": {
+                  "l": 315.67,
+                  "t": 532.4259829101563,
+                  "r": 526.2099999999998,
+                  "b": 411.69398291015625,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  315
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/123",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 6,
+                "bbox": {
+                  "l": 315.67,
+                  "t": 408.20598291015625,
+                  "r": 526.2099999999999,
+                  "b": 328.8739829101562,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  213
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/124",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 6,
+                "bbox": {
+                  "l": 315.67,
+                  "t": 325.40598291015624,
+                  "r": 526.2759999999998,
+                  "b": 149.44398291015636,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  503
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/125",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 6,
+                "bbox": {
+                  "l": 315.67,
+                  "t": 145.9759829101563,
+                  "r": 526.2759999999998,
+                  "b": 94.24798291015622,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  144
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/126",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 6,
+                "bbox": {
+                  "l": 315.67,
+                  "t": 90.77998291015626,
+                  "r": 526.1739999999996,
+                  "b": 80.44798291015627,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  39
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/128",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 7,
+                "bbox": {
+                  "l": 72.024,
+                  "t": 767.0759829101563,
+                  "r": 282.626,
+                  "b": 577.2939829101563,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  548
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/129",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 7,
+                "bbox": {
+                  "l": 72.024,
+                  "t": 573.8259829101563,
+                  "r": 285.77,
+                  "b": 301.2739829101563,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  835
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/130",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 7,
+                "bbox": {
+                  "l": 72.024,
+                  "t": 297.8059829101562,
+                  "r": 282.576,
+                  "b": 121.84398291015623,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  512
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "overlap": {
+        "enabled": true,
+        "ratio": 0.25,
+        "previous_context": true,
+        "next_context": true
+      }
+    }
+  },
+  {
+    "content": "[Previous context]\nof abdominal symptoms. The safety of the non-operative medical care of Uncomplicated Acute Appendicitis (UAA) is not disclosed by the pathology findings of the excised appendices of patients who did not pass.\nOut of the 17 appendices removed because to recurrent AA, 1 had gangrenous tissue, 12 had inflammation, and 4 had no inflammation. In our research group, there was not a single instance of a ruptured appendix with 100% safety. This finding is consistent with other previous studies that have demonstrated postponing surgery for Uncomplicated Acute Appendicitis (UAA) patients is safe, does not raise the risk of appendiceal perforation, and does not increase the risk of postoperative morbidities.\n\nApproximately half of appendicitis patients had successful conservative treatment. Patients with lower age and body mass index exhibited more positive response to conservative treatment.\nLow leucocyte count, symptoms duration of > 48 hours, anorexia, nausea and vomiting, and migration of pain led to successful conservative treatment in appendicitis patients.\n\n[Next context]\n1. Abbasi AS, Niaz S, Ashfaq U. Acute appendicitis: relationship of total leucocyte count with per-operative stage. J Islamabad Med Dent Coll. 2017;6:255-8.\n2. Ajmani ML, Ajmani K. The position, length and arterial supply of vermiform appendix. Anat Anz. 1983;153:369-74.\n3. Al-Hashemy AM, Seleem MI. Appraisal of the modified Alvarado score for acute appendicitis in adults. Saudi Med J. 2004;25:1229-31.\n4. Allievi N, Harbi A, Ceresoli M, Montori G, Poiasina E, Coccolini F, et al. Acute Appendicitis: Still a Surgical Disease? Results from",
+    "metadata": {
+      "document_id": "paper25",
+      "source": "paper25.pdf",
+      "topic": "Conclusion",
+      "headings": [
+        "Conclusion"
+      ],
+      "chunk_index": 13,
+      "total_chunks": 14,
+      "pages": [
+        7
+      ],
+      "docling": {
+        "doc_items": [
+          {
+            "self_ref": "#/texts/133",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 7,
+                "bbox": {
+                  "l": 315.67,
+                  "t": 767.0759829101563,
+                  "r": 526.1979999999998,
+                  "b": 701.5239829101563,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  196
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/134",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 7,
+                "bbox": {
+                  "l": 315.67,
+                  "t": 698.0559829101563,
+                  "r": 526.1859999999998,
+                  "b": 632.5239829101563,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  183
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "overlap": {
+        "enabled": true,
+        "ratio": 0.25,
+        "previous_context": true,
+        "next_context": true
+      }
+    }
+  },
+  {
+    "content": "[Previous context]\nand migration of pain led to successful conservative treatment in appendicitis patients.\n\n1. Abbasi AS, Niaz S, Ashfaq U. Acute appendicitis: relationship of total leucocyte count with per-operative stage. J Islamabad Med Dent Coll. 2017;6:255-8.\n2. Ajmani ML, Ajmani K. The position, length and arterial supply of vermiform appendix. Anat Anz. 1983;153:369-74.\n3. Al-Hashemy AM, Seleem MI. Appraisal of the modified Alvarado score for acute appendicitis in adults. Saudi Med J. 2004;25:1229-31.\n4. Allievi N, Harbi A, Ceresoli M, Montori G, Poiasina E, Coccolini F, et al. Acute Appendicitis: Still a Surgical Disease? Results from a Propensity Score-Based Outcome Analysis of Conservative Versus Surgical Management from a Prospective Database. World J Surg. 2017;41:2697-705.\n5. Alnjadat I, Abdallah B. Alvarado versus RIPASA score in diagnosing acute appendicitis. Rawal Med J. 2013;38:147-51.\n6. Alvarado A. A practical score for the early diagnosis of acute appendicitis. Ann Emerg Med. 1986;15:557-64.\n7. Atema JJ, van Rossem CC, Leeuwenburgh MM, Stoker J, Boermeester MA. Scoring system to distinguish uncomplicated from complicated acute appendicitis. Br J Surg. 2015;102:979-90.\n8. Andersen BR, Kallehave FL, Andersen HK. Antibiotics versus placebo for prevention of postoperative infection after appendicectomy. Cochrane Database Syst Rev. 2005;2005:3945.\n9. Andersson M, Andersson RE. The appendicitis inflammatory response score: a tool for the diagnosis of acute appendicitis that outperforms the Alvarado score. World J Surg. 2008;32:1843-9.\n10. Andersson R. Meta-analysis of the clinical and laboratory diagnosis of appendicitis. Br J Surg. 2004;91:28-37.\n11. Arnbjörnsson E. Scoring system for computeraided diagnosis of acute appendicitis. The value of prospective versus retrospective studies. Ann Chir Gynaecol. 1985;74:159-66.\n12. Bertelli L, Lorenzini L, Bertelli E. The arterial vascularization of the large intestine. Anatomical and radiological study. Surg Radiol Anat. 1996;1:1-6.\n13. Arroyo-Rangel C, Limón IO, Vera Á G, Guardiola PM, Sánchez-Valdivieso EA.\nTo cite this article: Emad M. Abdelrahman, Husein G. Elgohary, Abdelaziz A. Abdelaziz, Mohamed I. Abuelnasr. Outcome of Conservative Treatment of Acute Appendicitis in Young Females. BMFJ XXX, DOI: 10.21608/bmfj.2024.295528.2097.\nSensitivity, Specificity and Reliability of the RIPASA Score for Diagnosis of Acute Appendicitis in Relation to the Alvarado Score. Cir Esp (Engl Ed). 2018;96:149-54.",
+    "metadata": {
+      "document_id": "paper25",
+      "source": "paper25.pdf",
+      "topic": "References",
+      "headings": [
+        "References"
+      ],
+      "chunk_index": 14,
+      "total_chunks": 14,
+      "pages": [
+        7,
+        8
+      ],
+      "docling": {
+        "doc_items": [
+          {
+            "self_ref": "#/texts/136",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 7,
+                "bbox": {
+                  "l": 315.67,
+                  "t": 599.9222629101563,
+                  "r": 525.6602800000002,
+                  "b": 556.7567029101563,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  161
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/137",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 7,
+                "bbox": {
+                  "l": 315.67,
+                  "t": 553.8122629101563,
+                  "r": 525.5693200000005,
+                  "b": 522.3167029101563,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  125
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/138",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 7,
+                "bbox": {
+                  "l": 315.67,
+                  "t": 519.3722629101563,
+                  "r": 525.5528800000003,
+                  "b": 487.7567029101563,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  133
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/139",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 7,
+                "bbox": {
+                  "l": 315.67,
+                  "t": 484.81226291015633,
+                  "r": 525.7492,
+                  "b": 407.23670291015634,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  292
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/140",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 7,
+                "bbox": {
+                  "l": 315.67,
+                  "t": 404.3922629101563,
+                  "r": 525.6191200000004,
+                  "b": 372.7767029101563,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  118
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/141",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 7,
+                "bbox": {
+                  "l": 315.67,
+                  "t": 369.8322629101563,
+                  "r": 525.5494000000003,
+                  "b": 338.2167029101563,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  122
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/142",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 7,
+                "bbox": {
+                  "l": 315.67,
+                  "t": 335.3922629101563,
+                  "r": 525.7553200000001,
+                  "b": 280.7367029101563,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  187
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/143",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 7,
+                "bbox": {
+                  "l": 315.67,
+                  "t": 277.9122629101563,
+                  "r": 525.6290800000002,
+                  "b": 223.25670291015626,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  194
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/144",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 7,
+                "bbox": {
+                  "l": 315.67,
+                  "t": 220.2822629101563,
+                  "r": 525.6091600000003,
+                  "b": 165.74670291015627,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  195
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/145",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 7,
+                "bbox": {
+                  "l": 315.67,
+                  "t": 162.8022629101563,
+                  "r": 525.6666400000003,
+                  "b": 131.30670291015622,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  114
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/146",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 7,
+                "bbox": {
+                  "l": 315.67,
+                  "t": 128.36226291015623,
+                  "r": 525.5892400000005,
+                  "b": 85.23070291015631,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  175
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/148",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 8,
+                "bbox": {
+                  "l": 72.024,
+                  "t": 767.4622629101563,
+                  "r": 281.95320000000004,
+                  "b": 724.4267029101563,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  158
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/149",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 8,
+                "bbox": {
+                  "l": 72.024,
+                  "t": 721.4822629101564,
+                  "r": 282.08348,
+                  "b": 701.3867029101563,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  79
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/150",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 8,
+                "bbox": {
+                  "l": 62.784,
+                  "t": 645.6159829101563,
+                  "r": 533.9719999999996,
+                  "b": 603.6039829101563,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  240
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/151",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 8,
+                "bbox": {
+                  "l": 333.67,
+                  "t": 767.4622629101563,
+                  "r": 525.5992000000003,
+                  "b": 724.4267029101563,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  171
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "overlap": {
+        "enabled": true,
+        "ratio": 0.25,
+        "previous_context": true,
+        "next_context": false
+      }
+    }
+  }
+]

@@ -46,6 +46,8 @@ def rerank_chunks(query: str, chunks: list[dict[str, Any]]) -> list[dict[str, An
     CRITICAL RULES:
     - Ignore chunks that are purely author lists, university departments, titles, or references.
     - Only select chunks that contain actual medical insights, clinical guidelines, symptoms, or findings.
+    - Reply to the user in the exact same language that the user used in their query.
+    - Tailor your explanations, tone, and vocabulary so that they are easily understood by a general audience (a non-doctor/layperson), avoiding dense or overly technical medical jargon where possible.
 
     Query: {query}
 
