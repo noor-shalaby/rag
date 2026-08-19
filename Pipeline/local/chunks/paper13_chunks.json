@@ -1,0 +1,1691 @@
+[
+  {
+    "content": "Background: Acute appendicitis is one of the most common causes of right lower quadrant pain in female during child bearing period which needs surgical intervention. This study was conducted to evaluate the importance of diagnostic laparoscopy in the management of clinically diagnosed appendicitis in female patients during child bearing period.\nMethods: Ninety six female patients with an age range of 18 to 45 years with clinically diagnosed acute appendicitis were enrolled in our study after taking consent. All patients underwent laparoscopic exploration. Appendectomy was only done for patients with inflamed appendix. However, if the appendix was found normal it was not removed and other gynecological or surgical pathologies were explored.\nResults: In the 96 female patients with right lower abdominal pain who underwent laparoscopic exploration, we found that 50 cases had appendicitis as the only pathological finding, 21 cases had appendicitis in addition to another pathological finding, 13 cases had normal appendix but with other pathological findings which can possibly explain the symptoms and 7 cases had normal appendix with no other pathological findings that can explain the symptoms.\nConclusion: Laparoscopic appendectomy is highly advisable for female patients with suspected acute appendicitis during child bearing period.\n\n[Next context]\nAcute lower abdominal pain is a common presentation in females in child bearing period which may need surgical intervention. Acute appendicitis is one of the most common causes of this abdominal pain. However, in females in child bearing period there are many gynecological, obstetric and other surgical causes that must be considered, as ovarian cysts, pelvic infections, ectopic pregnancy, pelvic adhesions and endometriosis. 1-3\nIn",
+    "metadata": {
+      "document_id": "paper13",
+      "source": "paper13.pdf",
+      "topic": "Unknown",
+      "headings": [
+        "Tamer M Said Salama, MD; Mohamed Ibrahim Hassan, MD"
+      ],
+      "chunk_index": 1,
+      "total_chunks": 12,
+      "pages": [
+        1
+      ],
+      "docling": {
+        "doc_items": [
+          {
+            "self_ref": "#/texts/2",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 1,
+                "bbox": {
+                  "l": 55.685,
+                  "t": 744.3255146484375,
+                  "r": 321.94199999999995,
+                  "b": 734.1095475304492,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  58
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/3",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 1,
+                "bbox": {
+                  "l": 55.685,
+                  "t": 704.1855146484376,
+                  "r": 527.5539999999997,
+                  "b": 657.9695475304492,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  346
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/4",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 1,
+                "bbox": {
+                  "l": 55.685,
+                  "t": 644.1855146484376,
+                  "r": 527.5539999999999,
+                  "b": 597.9695475304492,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  402
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/5",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 1,
+                "bbox": {
+                  "l": 55.685,
+                  "t": 584.1855146484376,
+                  "r": 527.5539999999999,
+                  "b": 525.9695475304492,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  456
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/6",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 1,
+                "bbox": {
+                  "l": 55.68500000000001,
+                  "t": 512.1855146484376,
+                  "r": 527.5279999999996,
+                  "b": 489.9695475304492,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  150
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "overlap": {
+        "enabled": true,
+        "ratio": 0.25,
+        "previous_context": false,
+        "next_context": true
+      },
+      "removed_front_matter": "Department of General Surgery, Ain Shams University, Egypt"
+    }
+  },
+  {
+    "content": "[Previous context]\n13 cases had normal appendix but with other pathological findings which can possibly explain the symptoms and 7 cases had normal appendix with no other pathological findings that can explain the symptoms.\nConclusion: Laparoscopic appendectomy is highly advisable for female patients with suspected acute appendicitis during child bearing period.\n\nAcute lower abdominal pain is a common presentation in females in child bearing period which may need surgical intervention. Acute appendicitis is one of the most common causes of this abdominal pain. However, in females in child bearing period there are many gynecological, obstetric and other surgical causes that must be considered, as ovarian cysts, pelvic infections, ectopic pregnancy, pelvic adhesions and endometriosis. 1-3\nIn many cases, accurate diagnosis can be difficult and therefore patients are put under observation for regular clinical assessment (vital signs: temperature, heart rate) and investigated with basic laboratory and radiological tests (complete blood count, urine analysis, pregnancy test, pelvic ultrasound scan, and pelviabdominal computer tomography with contrast). 2 Despite the technological advances in these investigative tools, there are still difficulties in confirming the final diagnosis with noninvasive diagnostic techniques and misdiagnosis rate can vary from 20%-40 %. 4 Moreover if the cause of the pain was identified, it will still not to be managed. 5\nWith the increasing advances in minimal invasive surgery, it will be common to consider diagnostic laparoscopy not only as an accurate tool for diagnosis but also as a therapeutic method. 6 However, in our country open method is still the most frequently used technique and laparoscopic appendectomy is relatively low especially in females during child bearing period due to its relatively high cost in comparison to open technique.\nThis study was conducted to evaluate the benefits and pitfalls of the use of laparoscopy in the management of clinically diagnosed appendicitis in female patients during child bearing period based on our experience.\n\n[Next context]\nThis prospective study was performed in the General Surgery Department, El Demrdash Hospital, Ain Shams University, Cairo, Egypt from December 2012 to June 2015. Ninety six female patients with an age range of 18 to 45 years who were admitted in the casualty with clinically diagnosed acute appendicitis were enrolled in our study after signing written consent with the procedure. Approval from Ethical Committee of Faculty of Medicine at Ain Shams University was taken.\nPatients with symptoms of acute appendicitis for long duration more than 48 hour or with signs of complicated appendicitis (generalized peritonitis or appendicular mass) or those who refused the laparoscopic procedure were excluded from the study. Also patients were excluded if they had major medical comorbidity (e.g. cardiac patients) or if the pregnancy test was positive.\nAll patients had lower abdominal pain",
+    "metadata": {
+      "document_id": "paper13",
+      "source": "paper13.pdf",
+      "topic": "Introduction",
+      "headings": [
+        "Introduction"
+      ],
+      "chunk_index": 2,
+      "total_chunks": 12,
+      "pages": [
+        1
+      ],
+      "docling": {
+        "doc_items": [
+          {
+            "self_ref": "#/texts/8",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 1,
+                "bbox": {
+                  "l": 56.69500000000001,
+                  "t": 452.50551464843755,
+                  "r": 279.934,
+                  "b": 334.28954753044917,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  449
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/9",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 1,
+                "bbox": {
+                  "l": 56.69130000000001,
+                  "t": 320.5054146484375,
+                  "r": 279.95290000000006,
+                  "b": 154.28944753044914,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  695
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/10",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 1,
+                "bbox": {
+                  "l": 56.6929,
+                  "t": 140.50541464843752,
+                  "r": 279.92439999999993,
+                  "b": 58.28944753044914,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  356
+                ]
+              },
+              {
+                "page_no": 1,
+                "bbox": {
+                  "l": 303.8174,
+                  "t": 464.5054146484375,
+                  "r": 528.0523999999996,
+                  "b": 442.28944753044914,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  357,
+                  456
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/11",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 1,
+                "bbox": {
+                  "l": 303.8174,
+                  "t": 428.5054146484375,
+                  "r": 528.0613999999998,
+                  "b": 370.28944753044914,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  223
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "overlap": {
+        "enabled": true,
+        "ratio": 0.25,
+        "previous_context": true,
+        "next_context": true
+      }
+    }
+  },
+  {
+    "content": "[Previous context]\nmethod is still the most frequently used technique and laparoscopic appendectomy is relatively low especially in females during child bearing period due to its relatively high cost in comparison to open technique.\nThis study was conducted to evaluate the benefits and pitfalls of the use of laparoscopy in the management of clinically diagnosed appendicitis in female patients during child bearing period based on our experience.\n\nThis prospective study was performed in the General Surgery Department, El Demrdash Hospital, Ain Shams University, Cairo, Egypt from December 2012 to June 2015. Ninety six female patients with an age range of 18 to 45 years who were admitted in the casualty with clinically diagnosed acute appendicitis were enrolled in our study after signing written consent with the procedure. Approval from Ethical Committee of Faculty of Medicine at Ain Shams University was taken.\nPatients with symptoms of acute appendicitis for long duration more than 48 hour or with signs of complicated appendicitis (generalized peritonitis or appendicular mass) or those who refused the laparoscopic procedure were excluded from the study. Also patients were excluded if they had major medical comorbidity (e.g. cardiac patients) or if the pregnancy test was positive.\nAll patients had lower abdominal pain mainly in the right iliac fossa with or without vomiting, for a period less than 24 hours. On admission, a detailed gfgfg history was taken to exclude any other differential diagnosis (gynecological, renal or other surgical causes). Detailed general examination for vital signs (heart rate, blood pressure, respiratory rate and temperature), chest examination and cardiac examination were performed.\nLocal abdominal examination was performed to confirm the diagnosis of acute appendicitis and to exclude any other gynecological, renal causes or any sign for complicated appendicitis (appendicular mass, generalized peritonitis).\nAll patients received antibiotics, a spasmolytic and a proton pump inhibitor in intravenous normal saline through a wide bore peripheral venous cannula, while analgesics were contraindicated. Urine and blood samples for lab investigations (CBC, chemical, bleeding profile, urine analysis and pregnancy test) were collected, pregnancy test was negative in all patients. In addition, pelviabdominal ultrasound and computer tomography with contrast were not done to all cases due to lack of available as routine in the causality.\nPatients were put under observation with follow up every 2 hours. If the symptoms worsened or didn't improve within 24 hours or signs of local peritonitis appeared despite of medical treatment, a decision for laparoscopic appendectomy was taken.\nPatients were transferred to the OR and catheterization of urinary bladder was done. Under general anesthesia, 10 mm trocar was introduced through a supraumbilical incision using open technique. 30 degree camera was inserted to visualize the peritoneal cavity. Another 2 ports were inserted in the right and left iliac fossa respectively, and then the patient was put in Trendelenburg position. Full examination of the pelvis including, the uterus, tubes, the intestine, the peritoneal wall, the urinary balder and the lymph nodes was performed. Then the patient was tilted to the left to examine the right iliac fossa region, including the appendix and the terminal ileum.\nIf the appendix was complicated (perforated appendix, appendicular mass or abscess) or couldn't be visualized or if there was any other visual pathology that needed laparotomy, we decided to terminate the procedure and converted it to open surgery.\nRemoval of the appendix was only performed for patients with inflamed appendix, however, if the appendix appeared normal we decided to keep it and we started exploring for any other gynecological or surgical pathology.\nPostoperatively, prophylactic doses of antibiotics and non-steroidal analgesics were given to all patients. Patients with laparoscopic interventions started eating soft diet and mobilized in the same day after surgery.\n\n[Next context]\nPatients were followed up in outpatient clinic after",
+    "metadata": {
+      "document_id": "paper13",
+      "source": "paper13.pdf",
+      "topic": "Patients  and methods",
+      "headings": [
+        "Patients  and methods"
+      ],
+      "chunk_index": 3,
+      "total_chunks": 12,
+      "pages": [
+        1,
+        2
+      ],
+      "docling": {
+        "doc_items": [
+          {
+            "self_ref": "#/texts/13",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 1,
+                "bbox": {
+                  "l": 303.8174,
+                  "t": 344.5054146484375,
+                  "r": 528.0613999999996,
+                  "b": 214.28944753044914,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  502
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/14",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 1,
+                "bbox": {
+                  "l": 303.8174,
+                  "t": 200.50541464843752,
+                  "r": 528.0683999999995,
+                  "b": 106.28944753044914,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  391
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/15",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 1,
+                "bbox": {
+                  "l": 303.8174,
+                  "t": 92.50541464843752,
+                  "r": 528.0553999999998,
+                  "b": 58.28944753044914,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  160
+                ]
+              },
+              {
+                "page_no": 2,
+                "bbox": {
+                  "l": 41.6211,
+                  "t": 33.377114648437555,
+                  "r": 65.6919,
+                  "b": 22.721515052886502,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  161,
+                  166
+                ]
+              },
+              {
+                "page_no": 2,
+                "bbox": {
+                  "l": 69.7679,
+                  "t": 784.2337146484375,
+                  "r": 294.0078999999999,
+                  "b": 714.0177475304491,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  167,
+                  454
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/18",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 2,
+                "bbox": {
+                  "l": 69.7679,
+                  "t": 700.2337146484375,
+                  "r": 294.01890000000003,
+                  "b": 642.0177475304491,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  233
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/19",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 2,
+                "bbox": {
+                  "l": 69.7679,
+                  "t": 628.2337146484375,
+                  "r": 294.01390000000004,
+                  "b": 498.0177475304491,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  568
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/20",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 2,
+                "bbox": {
+                  "l": 69.7679,
+                  "t": 484.2337146484375,
+                  "r": 294.00690000000003,
+                  "b": 426.0177475304491,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  245
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/21",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 2,
+                "bbox": {
+                  "l": 69.76789999999997,
+                  "t": 412.2337146484375,
+                  "r": 294.02389999999986,
+                  "b": 246.01774753044913,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  693
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/22",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 2,
+                "bbox": {
+                  "l": 69.76789999999997,
+                  "t": 232.2337146484375,
+                  "r": 294.00190000000003,
+                  "b": 162.01774753044913,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  257
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/23",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 2,
+                "bbox": {
+                  "l": 69.76789999999997,
+                  "t": 148.2337146484375,
+                  "r": 294.00089999999994,
+                  "b": 90.01774753044913,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  244
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/24",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 2,
+                "bbox": {
+                  "l": 69.76789999999997,
+                  "t": 76.23371464843751,
+                  "r": 294.0149,
+                  "b": 54.01774753044913,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  107
+                ]
+              },
+              {
+                "page_no": 2,
+                "bbox": {
+                  "l": 317.89789999999994,
+                  "t": 784.2337146484375,
+                  "r": 542.1379,
+                  "b": 750.0177475304491,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  108,
+                  232
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "overlap": {
+        "enabled": true,
+        "ratio": 0.25,
+        "previous_context": true,
+        "next_context": true
+      }
+    }
+  },
+  {
+    "content": "[Previous context]\nintestine, the peritoneal wall, the urinary balder and the lymph nodes was performed. Then the patient was tilted to the left to examine the right iliac fossa region, including the appendix and the terminal ileum.\nIf the appendix was complicated (perforated appendix, appendicular mass or abscess) or couldn't be visualized or if there was any other visual pathology that needed laparotomy, we decided to terminate the procedure and converted it to open surgery.\nRemoval of the appendix was only performed for patients with inflamed appendix, however, if the appendix appeared normal we decided to keep it and we started exploring for any other gynecological or surgical pathology.\nPostoperatively, prophylactic doses of antibiotics and non-steroidal analgesics were given to all patients. Patients with laparoscopic interventions started eating soft diet and mobilized in the same day after surgery.\n\nPatients were followed up in outpatient clinic after 7 days and 1, 6 months from discharge, where any data regarding any postoperative complication such as wound infection or recurrent pain were recorded.\n\n[Next context]\nNinety six female patients with an age range of 18 to 45 years, clinically diagnosed with acute appendicitis and were admitted in our casualty were enrolled in our study.\nIn this study, laparoscopic exploration was performed for 96 cases, five of the cases were converted to open surgery either because of failure of visualization of the appendix (2 cases) or the presence of complicated appendix (2 cases",
+    "metadata": {
+      "document_id": "paper13",
+      "source": "paper13.pdf",
+      "topic": "Patients  and methods",
+      "headings": [
+        "Patients  and methods"
+      ],
+      "chunk_index": 4,
+      "total_chunks": 12,
+      "pages": [
+        2
+      ],
+      "docling": {
+        "doc_items": [
+          {
+            "self_ref": "#/texts/25",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 2,
+                "bbox": {
+                  "l": 317.89789999999994,
+                  "t": 736.2337146484375,
+                  "r": 542.1308999999998,
+                  "b": 678.0177475304491,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  219
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "overlap": {
+        "enabled": true,
+        "ratio": 0.25,
+        "previous_context": true,
+        "next_context": true
+      }
+    }
+  },
+  {
+    "content": "[Previous context]\nas wound infection or recurrent pain were recorded.\n\nNinety six female patients with an age range of 18 to 45 years, clinically diagnosed with acute appendicitis and were admitted in our casualty were enrolled in our study.\nIn this study, laparoscopic exploration was performed for 96 cases, five of the cases were converted to open surgery either because of failure of visualization of the appendix (2 cases) or the presence of complicated appendix (2 cases had appendicular mass and one case had appendicular abscess). (Tables 1,2).\nFor the other 91 patients, all of them were managed by laparoscopy where 50 patients underwent laparoscopic appendectomy for macroscopically inflamed appendix without the presence of any other pathology (Figures 1,2) , while 21 patients had laparoscopic appendectomy due to appendicitis with the presence of other pathologies (15 cases had gynecological pathologies and 6 cases had other surgical pathologies). (Figure 3), (Tables 2,3).\nOf the 91 patients, 13 cases had normal appendix but there were other pathological causes that could possibly explain the symptoms where seven cases had gynecological pathologies and six cases had other surgical pathologies. (Figures 4,5) (Table 2).\nFinally, negative laparoscopy with normal appendix without any other surgical pathology was found in 7 cases out of the 91 cases that were managed by laparoscopy.\nPatients who underwent laparoscopic surgery were hospitalized for a duration that ranged from 24 to 72 hours depending on the procedure performed.\nIn our study, the mortality was zero. Regarding morbidity, there were 8 cases with wound infections in patients who underwent laparoscopy. Finally, no recurrent attack of abdominal pain occurred in patients where the appendix was not removed in the follow up period (Table 4).\n\n[Next context]\nTable 1: Description of personal and surgical data\nAge, = . Age, N = . Age, % = . Age, Mean = 31.1. Age, ±SD = 7.8. Age, Range = 18-45. Type of procedure (n=96), = Laparoscopic. Type of procedure (n=96), N = 91. Type of procedure (n=96), % = 94.8%. Type of procedure (n=96), Mean = . Type of procedure (n=96), ±SD = . Type of procedure (n=96), Range = . Type of procedure (n=96), = Laparoscopic Converted to open. Type of procedure (n=96), N =",
+    "metadata": {
+      "document_id": "paper13",
+      "source": "paper13.pdf",
+      "topic": "Results",
+      "headings": [
+        "Results"
+      ],
+      "chunk_index": 5,
+      "total_chunks": 12,
+      "pages": [
+        2,
+        3
+      ],
+      "docling": {
+        "doc_items": [
+          {
+            "self_ref": "#/texts/27",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 2,
+                "bbox": {
+                  "l": 317.89789999999994,
+                  "t": 652.2337146484375,
+                  "r": 542.1308999999999,
+                  "b": 606.0177475304491,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  191
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/28",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 2,
+                "bbox": {
+                  "l": 317.89789999999994,
+                  "t": 592.2337146484375,
+                  "r": 542.1408999999995,
+                  "b": 510.0177475304491,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  332
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/29",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 2,
+                "bbox": {
+                  "l": 317.8978999999999,
+                  "t": 496.2337146484375,
+                  "r": 542.1409,
+                  "b": 378.1034986859962,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  460
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/30",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 2,
+                "bbox": {
+                  "l": 317.89789999999994,
+                  "t": 364.2337146484375,
+                  "r": 542.1438999999996,
+                  "b": 294.1034986859962,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  259
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/31",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 2,
+                "bbox": {
+                  "l": 317.89789999999994,
+                  "t": 280.2337146484375,
+                  "r": 542.1458999999999,
+                  "b": 234.01774753044913,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  162
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/32",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 2,
+                "bbox": {
+                  "l": 317.89789999999994,
+                  "t": 220.2337146484375,
+                  "r": 542.1308999999997,
+                  "b": 186.01774753044913,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  146
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/33",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 2,
+                "bbox": {
+                  "l": 317.89789999999994,
+                  "t": 172.2337146484375,
+                  "r": 542.1428999999999,
+                  "b": 90.10349868599621,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  291
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/36",
+            "label": "caption",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 3,
+                "bbox": {
+                  "l": 60.6929,
+                  "t": 780.8579146484375,
+                  "r": 284.8919,
+                  "b": 771.7407202822403,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  50
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "overlap": {
+        "enabled": true,
+        "ratio": 0.25,
+        "previous_context": true,
+        "next_context": true
+      }
+    }
+  },
+  {
+    "content": "[Previous context]\nlaparoscopy.\nPatients who underwent laparoscopic surgery were hospitalized for a duration that ranged from 24 to 72 hours depending on the procedure performed.\nIn our study, the mortality was zero. Regarding morbidity, there were 8 cases with wound infections in patients who underwent laparoscopy. Finally, no recurrent attack of abdominal pain occurred in patients where the appendix was not removed in the follow up period (Table 4).\n\nTable 1: Description of personal and surgical data\nAge, = . Age, N = . Age, % = . Age, Mean = 31.1. Age, ±SD = 7.8. Age, Range = 18-45. Type of procedure (n=96), = Laparoscopic. Type of procedure (n=96), N = 91. Type of procedure (n=96), % = 94.8%. Type of procedure (n=96), Mean = . Type of procedure (n=96), ±SD = . Type of procedure (n=96), Range = . Type of procedure (n=96), = Laparoscopic Converted to open. Type of procedure (n=96), N = 5. Type of procedure (n=96), % = 5.2%. Type of procedure (n=96), Mean = . Type of procedure (n=96), ±SD = . Type of procedure (n=96), Range = . Procedure done(n=96), = Appendectomy. Procedure done(n=96), N = 55. Procedure done(n=96), % = 57.2%. Procedure done(n=96), Mean = . Procedure done(n=96), ±SD = . Procedure done(n=96), Range = . Procedure done(n=96), = Appendectomy + Other procedure. Procedure done(n=96), N = 21. Procedure done(n=96), % = 21.8%. Procedure done(n=96), Mean = . Procedure done(n=96), ±SD = . Procedure done(n=96), Range = . Procedure done(n=96), = Other procedure. Procedure done(n=96), N = 13. Procedure done(n=96), % = 13.6%. Procedure done(n=96), Mean = . Procedure done(n=96), ±SD = . Procedure done(n=96), Range = . Procedure done(n=96), = Negative. Procedure done(n=96), N = 7. Procedure done(n=96), % = 7.4 %. Procedure done(n=96), Mean = . Procedure done(n=96), ±SD = . Procedure done(n=96), Range = . Appendectomy, = Yes. Appendectomy, N = 76. Appendectomy, % = 79.1%. Appendectomy, Mean = . Appendectomy, ±SD = . Appendectomy, Range = . Appendectomy, = No. Appendectomy, N = 20. Appendectomy, % = 20.9%. Appendectomy, Mean = . Appendectomy, ±SD = . Appendectomy, Range = . Type of appendectomy(n=76), = Laparoscopic. Type of appendectomy(n=76), N = 71. Type of appendectomy(n=76), % = 93.4%. Type of appendectomy(n=76), Mean = . Type of appendectomy(n=76), ±SD = . Type of appendectomy(n=76), Range = . Type of appendectomy(n=76), = Open. Type of appendectomy(n=76), N = 5. Type of appendectomy(n=76), % = 6.6%. Type of appendectomy(n=76), Mean = . Type of appendectomy(n=76), ±SD = . Type of\n\n[Next context]\nappendectomy(n=76), Range = . Pathological finding (more than one per patient), = Appendicitis. Pathological finding (more than one per patient), N = 76. Pathological finding (more than one per patient), % = 79.1%. Pathological finding (more than one per patient), Mean = . Pathological finding (more than one per patient), ±SD = . Pathological finding (more than one per patient), Range = . Pathological finding (more than one per patient), = Gynecological. Pathological finding (more than one per patient), N = 22. Pathological finding (more than one per patient), % = 22.9%. Pathological finding (more",
+    "metadata": {
+      "document_id": "paper13",
+      "source": "paper13.pdf",
+      "topic": "Results",
+      "headings": [
+        "Results"
+      ],
+      "chunk_index": 6,
+      "total_chunks": 12,
+      "pages": [
+        3
+      ],
+      "docling": {
+        "doc_items": [
+          {
+            "self_ref": "#/tables/0",
+            "label": "table",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 3,
+                "bbox": {
+                  "l": 55.80080883903428,
+                  "t": 770.9886403728638,
+                  "r": 525.5678383544087,
+                  "b": 525.4433184512084,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  0
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "overlap": {
+        "enabled": true,
+        "ratio": 0.25,
+        "previous_context": true,
+        "next_context": true
+      }
+    }
+  },
+  {
+    "content": "[Previous context]\nNo. Appendectomy, N = 20. Appendectomy, % = 20.9%. Appendectomy, Mean = . Appendectomy, ±SD = . Appendectomy, Range = . Type of appendectomy(n=76), = Laparoscopic. Type of appendectomy(n=76), N = 71. Type of appendectomy(n=76), % = 93.4%. Type of appendectomy(n=76), Mean = . Type of appendectomy(n=76), ±SD = . Type of appendectomy(n=76), Range = . Type of appendectomy(n=76), = Open. Type of appendectomy(n=76), N = 5. Type of appendectomy(n=76), % = 6.6%. Type of appendectomy(n=76), Mean = . Type of appendectomy(n=76), ±SD = . Type of\n\nappendectomy(n=76), Range = . Pathological finding (more than one per patient), = Appendicitis. Pathological finding (more than one per patient), N = 76. Pathological finding (more than one per patient), % = 79.1%. Pathological finding (more than one per patient), Mean = . Pathological finding (more than one per patient), ±SD = . Pathological finding (more than one per patient), Range = . Pathological finding (more than one per patient), = Gynecological. Pathological finding (more than one per patient), N = 22. Pathological finding (more than one per patient), % = 22.9%. Pathological finding (more than one per patient), Mean = . Pathological finding (more than one per patient), ±SD = . Pathological finding (more than one per patient), Range = . Pathological finding (more than one per patient), = Other pathology. Pathological finding (more than one per patient), N = 12. Pathological finding (more than one per patient), % = 12.6%. Pathological finding (more than one per patient), Mean = . Pathological finding (more than one per patient), ±SD = . Pathological finding (more than one per patient), Range = . Pathological finding (more than one per patient), = No pathology. Pathological finding (more than one per patient), N = 7. Pathological finding (more than one per patient), % = 7.4%. Pathological finding (more than one per patient), Mean = . Pathological finding (more than one per patient), ±SD = . Pathological finding (more than one per patient), Range = \nTable 2: Description to overall Gynecological and other surgical pathology\n\nGynecological cases (n=22), = Ovarian cyst. Gynecological cases (n=22), Intervention = Marsupializatio. Gynecological cases (n=22), N = 11. , = Ovarian mass. , Intervention = Oophorectomy. , N = 1. , = Endometriosis. , Intervention = . , N = 2. , = Uterine fibroid. , Intervention = Biopsy was taken. , N = 2. , = Hemorrhagic cyst. , Intervention = Marsupializatio. , N = 1. , = Pelvic inflammatory disease. , Intervention = . , N = 5. Other surgical causes(n=12), = Pelvic adhesions. Other surgical causes(n=12), Intervention = Adhesiolysis. Other surgical causes(n=12), N = 10. , = Crohns disease. , Intervention = . , N = 1. , = Perforated duodenal ulcer. , Intervention = Closure. , N = 1\nTable 3: Description of Intra-Operative pathological findings\n\n[Next context]\nAppendicitis only, Intervention = . Appendicitis only, N = 50. Appendicitis + other pathology, Intervention = . Appendicitis + other pathology, N = 21. , Intervention = Ovarian cyst. , N = 6. , Intervention = Ovarian mass. , N = 1. , Intervention = Endometriosis. , N = 2. , Intervention = Uterine fibroid.",
+    "metadata": {
+      "document_id": "paper13",
+      "source": "paper13.pdf",
+      "topic": "Results",
+      "headings": [
+        "Results"
+      ],
+      "chunk_index": 7,
+      "total_chunks": 12,
+      "pages": [
+        3
+      ],
+      "docling": {
+        "doc_items": [
+          {
+            "self_ref": "#/tables/0",
+            "label": "table",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 3,
+                "bbox": {
+                  "l": 55.80080883903428,
+                  "t": 770.9886403728638,
+                  "r": 525.5678383544087,
+                  "b": 525.4433184512084,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  0
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/37",
+            "label": "caption",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 3,
+                "bbox": {
+                  "l": 60.3019,
+                  "t": 514.5273146484375,
+                  "r": 394.0939,
+                  "b": 505.41012028224037,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  74
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/tables/1",
+            "label": "table",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 3,
+                "bbox": {
+                  "l": 55.48827455807477,
+                  "t": 503.24846410287677,
+                  "r": 525.2368743553757,
+                  "b": 344.2779601954738,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  0
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/38",
+            "label": "caption",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 3,
+                "bbox": {
+                  "l": 59.685,
+                  "t": 332.9683146484375,
+                  "r": 338.19900000000007,
+                  "b": 323.85112028224034,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  61
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "overlap": {
+        "enabled": true,
+        "ratio": 0.25,
+        "previous_context": true,
+        "next_context": true
+      }
+    }
+  },
+  {
+    "content": "[Previous context]\n= . , N = 2. , = Uterine fibroid. , Intervention = Biopsy was taken. , N = 2. , = Hemorrhagic cyst. , Intervention = Marsupializatio. , N = 1. , = Pelvic inflammatory disease. , Intervention = . , N = 5. Other surgical causes(n=12), = Pelvic adhesions. Other surgical causes(n=12), Intervention = Adhesiolysis. Other surgical causes(n=12), N = 10. , = Crohns disease. , Intervention = . , N = 1. , = Perforated duodenal ulcer. , Intervention = Closure. , N = 1\nTable 3: Description of Intra-Operative pathological findings\n\nAppendicitis only, Intervention = . Appendicitis only, N = 50. Appendicitis + other pathology, Intervention = . Appendicitis + other pathology, N = 21. , Intervention = Ovarian cyst. , N = 6. , Intervention = Ovarian mass. , N = 1. , Intervention = Endometriosis. , N = 2. , Intervention = Uterine fibroid. , N = 2. , Intervention = Hemorrhagic cyst. , N = 1. , Intervention = Pelvic inflammatory disease. , N = 3. , Intervention = Adhesions. , N = 6. Normal appendix +Other, Intervention = . Normal appendix +Other, N = 13. , Intervention = Cecal +Pelvic adhesions. , N = 4. , Intervention = Crohns disease. , N = 1. , Intervention = Perforated DU. , N = 1. , Intervention = Ovarian cyst. , N = 5. , Intervention = Pelvic inflammatory disease. , N = 2. Normal appendix, Intervention = . Normal appendix, N = 7\ngfgfg\nTable 4: Complication and mortality among patients who underwent laparoscopy and laparotomy\n\nWound infection, Laparoscopy.N = 8. Wound infection, Laparoscopy.% = 8,8.1%. Recurrent attacks of pain, Laparoscopy.N = 0. Recurrent attacks of pain, Laparoscopy.% = 0%. Mortality, Laparoscopy.N = 0. Mortality, Laparoscopy.% = 0%\nFig 1: Inflamed appendix.\nFig 2: Inflamed appendix with ovarian cyst.\nFig 3: Sever cecal adhesion.\nFig 4: Fibroid uterus with normal appendix.\n\n[Next context]\nAcute appendicitis is one of the most common causes of right lower quadrant pain in females during child bearing period, which may need surgical intervention. 3 Although open appendectomy is a simple procedure with minimal complications, 7 the incidence of incorrect diagnosis in open appendectomy is high. 8 Laparoscopy provides more accurate diagnosis in young women, due to its free intra-abdominal mobility with direct vitalization of female reproductive system. 9 Furthermore, it has better cosmetic results and lower incidence of fertility problems which may occur after open appendectomy. 10\nIn this study, 96 female patients in child bearing period presented with right lower abdominal pain underwent laparoscopic exploration. Five patients were converted to open surgery, while 71 patients underwent laparoscopic appendectomy in which 50 cases had appendicitis as the sole pathology, while 21 cases had other surgical pathologies in addition to appendicitis. Twenty",
+    "metadata": {
+      "document_id": "paper13",
+      "source": "paper13.pdf",
+      "topic": "Results",
+      "headings": [
+        "Results"
+      ],
+      "chunk_index": 8,
+      "total_chunks": 12,
+      "pages": [
+        3,
+        4
+      ],
+      "docling": {
+        "doc_items": [
+          {
+            "self_ref": "#/tables/2",
+            "label": "table",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 3,
+                "bbox": {
+                  "l": 55.15948594510555,
+                  "t": 322.56851606547946,
+                  "r": 525.3211419418453,
+                  "b": 55.29538845996467,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  0
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/41",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 4,
+                "bbox": {
+                  "l": 41.6211,
+                  "t": 33.377114648437555,
+                  "r": 65.6919,
+                  "b": 22.721515052886502,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  5
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/42",
+            "label": "caption",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 4,
+                "bbox": {
+                  "l": 74.8661,
+                  "t": 780.8108146484375,
+                  "r": 295.2752,
+                  "b": 750.0936202822404,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  96
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/tables/3",
+            "label": "table",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 4,
+                "bbox": {
+                  "l": 69.8744689784944,
+                  "t": 748.6994608838837,
+                  "r": 297.2258526079356,
+                  "b": 673.958370642303,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  0
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/44",
+            "label": "caption",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 4,
+                "bbox": {
+                  "l": 122.2058,
+                  "t": 392.3478146484375,
+                  "r": 238.43179999999998,
+                  "b": 383.23062028224035,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  25
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/45",
+            "label": "caption",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 4,
+                "bbox": {
+                  "l": 82.031,
+                  "t": 232.09271464843755,
+                  "r": 278.63599999999997,
+                  "b": 222.97552028224027,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  43
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/46",
+            "label": "caption",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 4,
+                "bbox": {
+                  "l": 117.7058,
+                  "t": 81.43761464843749,
+                  "r": 242.94979999999995,
+                  "b": 72.32042028224032,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  28
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/47",
+            "label": "caption",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 4,
+                "bbox": {
+                  "l": 330.4269,
+                  "t": 663.8847146484375,
+                  "r": 526.0779,
+                  "b": 654.7675202822403,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  43
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "overlap": {
+        "enabled": true,
+        "ratio": 0.25,
+        "previous_context": true,
+        "next_context": true
+      }
+    }
+  },
+  {
+    "content": "[Previous context]\nWound infection, Laparoscopy.N = 8. Wound infection, Laparoscopy.% = 8,8.1%. Recurrent attacks of pain, Laparoscopy.N = 0. Recurrent attacks of pain, Laparoscopy.% = 0%. Mortality, Laparoscopy.N = 0. Mortality, Laparoscopy.% = 0%\nFig 1: Inflamed appendix.\nFig 2: Inflamed appendix with ovarian cyst.\nFig 3: Sever cecal adhesion.\nFig 4: Fibroid uterus with normal appendix.\n\nAcute appendicitis is one of the most common causes of right lower quadrant pain in females during child bearing period, which may need surgical intervention. 3 Although open appendectomy is a simple procedure with minimal complications, 7 the incidence of incorrect diagnosis in open appendectomy is high. 8 Laparoscopy provides more accurate diagnosis in young women, due to its free intra-abdominal mobility with direct vitalization of female reproductive system. 9 Furthermore, it has better cosmetic results and lower incidence of fertility problems which may occur after open appendectomy. 10\nIn this study, 96 female patients in child bearing period presented with right lower abdominal pain underwent laparoscopic exploration. Five patients were converted to open surgery, while 71 patients underwent laparoscopic appendectomy in which 50 cases had appendicitis as the sole pathology, while 21 cases had other surgical pathologies in addition to appendicitis. Twenty cases had normal appendix where 13 cases had other surgical pathologies and 7 cases had no any other surgical pathologies.\nLaparoscopy is an accurate and a sensitive tool to diagnose the causes of lower abdominal pain, which was proven in our results. We found that 21 cases (21.8%) had appendicitis with other surgical and gynecological pathologies and 20 cases (20.9%) had normal appendix (13 of them had other surgical pathologies). These diagnoses would have been difficult to be identified if appendectomy was done through grid iron incision. These results are also supported by another study performed by Golash et al, 11 in which they reported that many patients with lower abdominal pain will undergo exploration for suspected appendicitis, but a normal appendix will be found in only 20-35% of patients. This is because the gridiron incision only allows a small area of exposure which can make a definitive diagnosis very difficult and many patients may return with recurrent lower abdominal pain after surgery. 11\nIn this study we found that 22 cases (22.9%) had gynecological pathologies, 2 of them were suffering from infertility for more than10 years. In another study conducted by Anders et al, 4 they stated that most gynecological disorders which may cause infertility and have similar presentation to acute appendicitis can be accurately diagnosed by laparoscopy. Moreover, it avoids unnecessary complications of appendectomy such as adhesion, infection and infertility. 4 These results agree with those published in another study conducted by Faggi et al, 9 in which they stated that laparoscopy is not only able to accurately diagnose pelvic pathologies in fertile females, but in addition it plays an important role in defining the proper surgical approach of treatment. 9 In every female in child bearing period with lower abdominal pain, PID must be considered. However, its differentiation from acute appendicitis is difficult where the rate of miss diagnosis can reach 30-50% and the rate of unnecessary exploration can reach 40%. 12\nIn our study, unnecessary appendectomy for normal appendix was avoided in 20.9% of the cases. However, there is still controversy in many studies over the necessity to remove or not a normal looking appendix during laparoscopy. Supporter of the removal of normal looking appendix based their opinion on the fact that visual inspection of the appendix can't exclude the presence of pathology, and thus patients may suffer from recurrent attacks in the future. 10 While surgeons who prefer to leave the normal-looking appendix during laparoscopy, build their opinion on the low possibility of developing acute appendicitis in the future and to avoid morbidity of unnecessary appendectomy. 13\n\n[Next context]\nFrom these results, we can state that the use of laparoscopy is highly recommended for",
+    "metadata": {
+      "document_id": "paper13",
+      "source": "paper13.pdf",
+      "topic": "Discussion",
+      "headings": [
+        "Discussion"
+      ],
+      "chunk_index": 9,
+      "total_chunks": 12,
+      "pages": [
+        4,
+        5
+      ],
+      "docling": {
+        "doc_items": [
+          {
+            "self_ref": "#/texts/49",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 4,
+                "bbox": {
+                  "l": 317.8895,
+                  "t": 631.0117146484375,
+                  "r": 541.7395999999997,
+                  "b": 476.79574753044915,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  630
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/50",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 4,
+                "bbox": {
+                  "l": 317.8939,
+                  "t": 463.0117146484375,
+                  "r": 541.7248999999996,
+                  "b": 332.7957475304491,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  508
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/51",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 4,
+                "bbox": {
+                  "l": 317.8939,
+                  "t": 319.0117146484374,
+                  "r": 541.7312999999998,
+                  "b": 92.79564753044917,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  928
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/52",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 4,
+                "bbox": {
+                  "l": 317.8939,
+                  "t": 79.01161464843756,
+                  "r": 541.7248999999994,
+                  "b": 68.79564753044917,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  48
+                ]
+              },
+              {
+                "page_no": 5,
+                "bbox": {
+                  "l": 55.6823,
+                  "t": 784.8204146484375,
+                  "r": 279.9363,
+                  "b": 546.6044475304491,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  49,
+                  1082
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/55",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 5,
+                "bbox": {
+                  "l": 55.681899999999956,
+                  "t": 532.8204146484375,
+                  "r": 279.94500000000005,
+                  "b": 354.60444753044914,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  718
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "overlap": {
+        "enabled": true,
+        "ratio": 0.25,
+        "previous_context": true,
+        "next_context": true
+      }
+    }
+  },
+  {
+    "content": "[Previous context]\nperiod with lower abdominal pain, PID must be considered. However, its differentiation from acute appendicitis is difficult where the rate of miss diagnosis can reach 30-50% and the rate of unnecessary exploration can reach 40%. 12\nIn our study, unnecessary appendectomy for normal appendix was avoided in 20.9% of the cases. However, there is still controversy in many studies over the necessity to remove or not a normal looking appendix during laparoscopy. Supporter of the removal of normal looking appendix based their opinion on the fact that visual inspection of the appendix can't exclude the presence of pathology, and thus patients may suffer from recurrent attacks in the future. 10 While surgeons who prefer to leave the normal-looking appendix during laparoscopy, build their opinion on the low possibility of developing acute appendicitis in the future and to avoid morbidity of unnecessary appendectomy. 13\n\nFrom these results, we can state that the use of laparoscopy is highly recommended for female patients in the child bearing period diagnosed with acute appendicitis not only as an accurate diagnostic tool that can exclude or diagnose many associated gynecological or other surgical pathologies that may cause infertility but also as a safe therapeutic tool for any uncomplicated acute appendicitis.\n\n[Next context]\nThe authors",
+    "metadata": {
+      "document_id": "paper13",
+      "source": "paper13.pdf",
+      "topic": "Conclusion",
+      "headings": [
+        "Conclusion"
+      ],
+      "chunk_index": 10,
+      "total_chunks": 12,
+      "pages": [
+        5
+      ],
+      "docling": {
+        "doc_items": [
+          {
+            "self_ref": "#/texts/57",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 5,
+                "bbox": {
+                  "l": 55.684999999999974,
+                  "t": 328.82041464843746,
+                  "r": 279.92599999999993,
+                  "b": 222.60444753044908,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  426
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "overlap": {
+        "enabled": true,
+        "ratio": 0.25,
+        "previous_context": true,
+        "next_context": true
+      }
+    }
+  },
+  {
+    "content": "[Previous context]\nmay cause infertility but also as a safe therapeutic tool for any uncomplicated acute appendicitis.\n\nThe authors declare that they have no conflict of interest.\n\n[Next context]\n1. Chao K, Farrell S, Kerdemelidis P , Tulloh B: Diagnostic laparoscopy for chronic right iliac fossa pain: A pilot study. Aust N Z J Surg 1997; 67: 789-791.\n2. Ayman H, Hossam Eldin: Laparoscopic\nevaluation of recurrent acute nonspecific lower right abdominal pain after appendectomy in female patients. Elmenia Medical Journal 2009; 20: 37-48.\n3. Hale AD, Molloy M, Pearl RH, Schutt DC, Jaques DP: Appendectomy; a contemporary appraisal. Review article. Ann Surg 1997; 225: 252-261.\n4. Anders T, et",
+    "metadata": {
+      "document_id": "paper13",
+      "source": "paper13.pdf",
+      "topic": "Competing Interests",
+      "headings": [
+        "Competing Interests"
+      ],
+      "chunk_index": 11,
+      "total_chunks": 12,
+      "pages": [
+        5
+      ],
+      "docling": {
+        "doc_items": [
+          {
+            "self_ref": "#/texts/59",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 5,
+                "bbox": {
+                  "l": 55.684999999999974,
+                  "t": 196.82041464843758,
+                  "r": 279.914,
+                  "b": 174.60444753044908,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  59
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "overlap": {
+        "enabled": true,
+        "ratio": 0.25,
+        "previous_context": true,
+        "next_context": true
+      }
+    }
+  },
+  {
+    "content": "[Previous context]\nof interest.\n\n1. Chao K, Farrell S, Kerdemelidis P , Tulloh B: Diagnostic laparoscopy for chronic right iliac fossa pain: A pilot study. Aust N Z J Surg 1997; 67: 789-791.\n2. Ayman H, Hossam Eldin: Laparoscopic\nevaluation of recurrent acute nonspecific lower right abdominal pain after appendectomy in female patients. Elmenia Medical Journal 2009; 20: 37-48.\n3. Hale AD, Molloy M, Pearl RH, Schutt DC, Jaques DP: Appendectomy; a contemporary appraisal. Review article. Ann Surg 1997; 225: 252-261.\n4. Anders T, et al: Value of diagnostic laparoscopy in fertile women with suspected appendicitis. Eur J Surg 1999; 165: 751-754.\n5. Sauerland S1, Jaschinski T, Neugebauer EA: Laparoscopic versus open surgery for suspected appendicitis. Cochrane Database Syst Rev 2010; 6 CD001546.\n6. Drago P, Jadranko K, Damir M, Davorin S, Franjo L, Anton F , et al: Long-term benefits of laparoscopic appendectomy for chronic abdominal pain in fertile women. Croatian Medical Journal 2004; 45: 171-175.\n7. Golub R, Siddiqui F, Pohl D: Laparoscopic versus open appendectomy: A meta-analysis. J Am Coll Surg 1998; 186: 545-553.\n8. Larsson PG1, Henriksson G, Olsson M, Boris J, Ströberg P , Tronstad SE, Skullman S: Laparoscopy reduces unnecessary appendicectomies and improves diagnosis in fertile women. A randomized study. Surg Endosc 2001; 15:200-202.\n9. Faggi U , Giovane A: Diagnostic laparoscopy in non-traumatic abdominal emergencies. Minerva Chirurgica Journal 2003; 58: 9-16.\n10. George Tz, Paraskevi Li, et al: Laparoscopic appendectomy: Differences between male and female patients with suspected acute appendicitis. World J Surg 2007; 31: 409-413.\n11. Golash V, Willson PD: Early laparoscopy as a routine procedure in the management of acute abdominal pain: A review of 1320 patients. Surg Endosc 2005; 19: 882-885.\n12. Teamma MS: Evaluation of laparoscopy in the management of abdominal emergencies. Journal of the Arab Society for Medical Research 2013; 8:19-25.\n13. Van WT, Bijnen AB, de Ruiter P, et al: A normal appendix found during diagnostic laparoscopy should not be removed. Br J Surg 2001; 88:251-254.",
+    "metadata": {
+      "document_id": "paper13",
+      "source": "paper13.pdf",
+      "topic": "References",
+      "headings": [
+        "References"
+      ],
+      "chunk_index": 12,
+      "total_chunks": 12,
+      "pages": [
+        5
+      ],
+      "docling": {
+        "doc_items": [
+          {
+            "self_ref": "#/texts/61",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 5,
+                "bbox": {
+                  "l": 55.684999999999974,
+                  "t": 148.82041464843758,
+                  "r": 279.9299999999999,
+                  "b": 102.60444753044919,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  169
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/62",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 5,
+                "bbox": {
+                  "l": 55.68499999999999,
+                  "t": 88.82041464843758,
+                  "r": 279.91100000000006,
+                  "b": 78.60444753044919,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  38
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/63",
+            "label": "text",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 5,
+                "bbox": {
+                  "l": 321.815,
+                  "t": 784.8204146484376,
+                  "r": 527.5479999999998,
+                  "b": 738.6044475304492,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  153
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/64",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 5,
+                "bbox": {
+                  "l": 303.815,
+                  "t": 724.8204146484376,
+                  "r": 527.5509999999998,
+                  "b": 678.6044475304492,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  149
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/65",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 5,
+                "bbox": {
+                  "l": 303.815,
+                  "t": 676.8204146484376,
+                  "r": 527.5459999999998,
+                  "b": 642.6044475304492,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  128
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/66",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 5,
+                "bbox": {
+                  "l": 303.815,
+                  "t": 628.8204146484376,
+                  "r": 527.5549999999996,
+                  "b": 582.6044475304492,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  158
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/67",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 5,
+                "bbox": {
+                  "l": 303.81499999999994,
+                  "t": 568.8204146484376,
+                  "r": 527.559,
+                  "b": 510.6044475304492,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  227
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/68",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 5,
+                "bbox": {
+                  "l": 303.81499999999994,
+                  "t": 496.8204146484376,
+                  "r": 527.5579999999998,
+                  "b": 462.6044475304492,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  128
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/69",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 5,
+                "bbox": {
+                  "l": 303.81499999999994,
+                  "t": 448.8204146484376,
+                  "r": 527.563,
+                  "b": 378.6044475304492,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  237
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/70",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 5,
+                "bbox": {
+                  "l": 303.81499999999994,
+                  "t": 364.8204146484376,
+                  "r": 527.5449999999997,
+                  "b": 330.6044475304492,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  129
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/71",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 5,
+                "bbox": {
+                  "l": 303.81499999999994,
+                  "t": 316.8204146484376,
+                  "r": 527.5469999999997,
+                  "b": 270.6044475304492,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  185
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/72",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 5,
+                "bbox": {
+                  "l": 303.81499999999994,
+                  "t": 256.8204146484376,
+                  "r": 527.5489999999998,
+                  "b": 210.6044475304492,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  173
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/73",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 5,
+                "bbox": {
+                  "l": 303.81499999999994,
+                  "t": 196.82041464843758,
+                  "r": 527.552,
+                  "b": 150.6044475304492,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  153
+                ]
+              }
+            ]
+          },
+          {
+            "self_ref": "#/texts/74",
+            "label": "list_item",
+            "content_layer": "ContentLayer.BODY",
+            "prov": [
+              {
+                "page_no": 5,
+                "bbox": {
+                  "l": 303.81499999999994,
+                  "t": 136.82041464843758,
+                  "r": 527.5499999999995,
+                  "b": 90.60444753044919,
+                  "coord_origin": "CoordOrigin.BOTTOMLEFT"
+                },
+                "charspan": [
+                  0,
+                  152
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "overlap": {
+        "enabled": true,
+        "ratio": 0.25,
+        "previous_context": true,
+        "next_context": false
+      }
+    }
+  }
+]

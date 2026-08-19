@@ -1,0 +1,279 @@
+## Laparoscopic Appendectomy Versus Open Appendectomy in Young Female Patients
+
+Hassan k. Alsoueni, Mohammed M. Mohammed, Ahmed M. Nawar, Abdelmonem A.Ali
+
+Department  of  general  surgery Benha faculty of medicine, Benha University, Egypt
+
+## Correspondence to :
+
+Abdelmonem A.Ali , department of general surgery faculty of medicine, Benha university, Egypt
+
+Email:
+
+mon3em.awad@gmail.com
+
+Received: 30 October 2019
+
+Accepted: 29 March 2019
+
+## Abstract:
+
+Background: Laparoscopic appendectomy combines the advantages  of  diagnosis  &amp;  treatment  in  single  procedure  with least morbidity. In addition, whole abdomen can be visualized to rule  out  other  coexisting  pathology.  Patients  are  likely  to  have less  postoperative  pain  and  be  discharged  from  hospital  and return to activities and routine work sooner than those who have undergone open appendectomy. Aim of the work :  The  purpose of  the  work  was  to  describe  our  experience  in  comparative evaluation  of  modified  laparoscopic  versus  open  appendectomy for the treatment of acute appendicitis as regard surgical techniques,  operative  time  and  hospital  stay  in  young  females.
+
+Methodology: Our  retrospective  study  has  been  conducted  in General Surgery Department of Benha University Hospital from Oct  2017  to  March  2018  on  40  patients. Results: Our  results showed  that  laparoscopic  appendectomy  has  many  advantages such  as:  shorter  hospital  stay,  decreased  need  for  postoperative analgesia,  earlier  return  to    work  and    lower    rate    of    wound infection. Conclusion: Laparoscopic appendectomy is safe and effective, less postoperative pain, early return to normal work and better cosmetic scar than open appendectomy.
+
+key words
+
+: Laparoscopic, laparoscopic appendectomy, McBurney's.
+
+## Introduction:
+
+Acute appendicitis is the most common intra-abdominal condition requiring emergency surgery. The introduction of laparoscopic  surgery  has  dramatically changed the field of surgery, with improvement in the equipment and increasing clinical experience, it is possible to perform almost any kind of procedure under laparoscopic visualization (1 )
+
+Appendectomy is one of the most commonly performed operations. In 1889, McBurney  performed the 1st open appendectomy, (2). Since then, it has been  the gold standard for the treatment of acute appendicitis for more than one hundred years. Although it is safe, the incidence of postoperative complications is 10% to 20% (2).
+
+The rate of negative laparoscopic exploration in  young  women still is  in the  range  of  25%  to  30%  (3).  In  1983 the  German  gynecologist  Kurt  Semm removed the first appendix via a laparoscopic approach (2).
+
+The  idea  of  minimal  surgical  trauma, resulting in significantly shorter hospital  stay,  less  postoperative  pain, faster return to daily activities and better cosmetic outcome has made laparoscopic surgery for acute appendicitis very attractive (1).
+
+There are studies showing that laparoscopic  appendectomy  does  not offer any advantages (3, 5). With improved  visualization of the entire abdomen,  laparoscopic  appendectomy improves  the  diagnostic  accuracy  and can  identify  the  definitive  pathology causing lower abdominal pain in young females than the open approach. It was conducluded  that  laparoscopy  reduces unnecessary appendectomies and improves  diagnosis  in  fertile  women. (6).
+
+Aim  of  the  work:  The  purpose  of  the work was to describe our experience in comparative evaluation of laparoscopic versus open appendectomy for the treatment of acute appendicitis, as regard surgical techniques, operative time, hospital stay, post-operative morbidity and coast of both techniques in young females.
+
+## Patients and methods :
+
+This  study  was  conducted  in    Faculty of medicine, Benha University Hospital,  general  surgery  department, from October 2017 to March 2018. The study  was conducted on 40 female patients with suspected appendicitis.
+
+Legalization:  all  patients  have  signed informed consents that they have  been involved  in this study  and  after an approval from the research ethics committee in Benha Faculty of Medicine.
+
+Female  patients  aged  from  15  to  30 years with suspected appendicitis either
+
+acute, chronic or complicated were included  in  this  study.  While,  patients with the following criteria were excluded: Hemodynamic instability, chronic  medical  or  psychiatric  illness, cirrhosis  and  /or  ascites,  coagulation disorders, previous laparotomy for small  bowel  obstruction  or  pregnant women in first or third trimester.
+
+Patients  were  randomly  allocated  into two groups 20 patients each:
+
+Laparoscopic  Group: the  patients  will be operated by laparoscopic appendectomy, (LA).
+
+Open Group: the patients will be operated by open appendectomy, (OA) by gridiron incision at McBurney point.
+
+History taking, clinical examination including PR  and  PV,  laboratory investigations (CBC,  Na and K in markedly dehydrated patients and urine analysis  in  suspected  cases  of  urinary tract infection), radiological investigation and pelvi-abdominal Ultrasound to detect any gynecological causes as ectopic pregnancy, PID, ovarian  cysts,  torsion  ovary,  fibroids and  adnexal  mass  and  gynecological consultation if needed.
+
+Patients  were  fully  informed  about  the risks  and  benefits  of  the  2  procedures and an informed consent was obtained from every patient.
+
+Markedly dehydrated patients had fluid resuscitation and Foley catheter to ensure adequate urine output. Any electrolyte  deficiencies  were  corrected prior to the induction of general anesthesia.
+
+Prior to the surgical incision, all patients received a standard regimen of intravenous antibiotics (third generation  cephalosporin  and  500  mg of Metronidazole).
+
+## Technique of open procedure:
+
+The  patient  was  placed  in  the  supine position and underwent general anesthesia with endotracheal intubation. While the patient was anesthetized and the abdominal musculature relaxed, the patient's abdomen was carefully  examined. The skin  incision  on  McBurney    point  was carried through the subcutaneous tissue until  the  external  oblique  fascia  was exposed.
+
+A  small incision was  made  in the external oblique fascia along the line of its  fibers.  This  incision  was  sharply extended with scissors along the direction  of  the  fibers.  The  underlying fibers  of  the  internal  oblique  muscle
+
+and  the  transversus  abdominis  muscle were identified, split and retracted along the direction of their fibers. Next, retractors  were  adjusted  to  expose  the peritoneum. Then grasping the peritoneum with clamps was done, carefully verifying that intra-abdominal viscera had not been inadvertently grasped. A small incision was made in the peritoneum by scissors.
+
+The cecum was delivered into the field gently grasping the cecum with moistened gauze and delivering it  into the  wound  using  a  rocking  movement and  the  anterior  taenia  of  the  cecum was followed till identification of appendix.  Medial  mobilization  of  the cecum  was  done  bluntly  with  a  finger combined with sharp or electrocautry in cases  of  difficult  retrocacal  appendix. The mesoappendix was divided between  clamps  and  ligated  with  an absorbable suture. The base of the appendix was divided and ligated with absorbable suture material. Purse string sutures were done in cases of inflamed base of the appendix .The mucosa was obliterated to avoid the development of mucocele.  The  wound  was  closed  in layers. If perforation or gangrene were present, the skin and subcutaneous tissue  closure  was  by  widely  spaced sutures.
+
+Technique of Laparoscopic appendectomy:
+
+In  this  study,  we  aimed  to  present  a simple  modified  technique  to  be  used during laparoscopic appendectomy with the aim of reducing the cost.
+
+The  patient  was  placed  supine  in  a 15°  Trendelenburg  position  with  both arms  tucked.  Rotation  to  the  left  was done. The surgeon stood on the patient's  left  side.  The  first  assistant stood  on  the  surgeon's  left  side.  The monitor was on the patient's right side. After the induction of general anesthesia, a urinary catheter and  a nasogastric tube were placed. A pneumoperitoneum was created in standard fashion, using either the Veress  needle  technique  or  the  open technique according to the surgeon preference.  The  first  trocar  (10  mm) was introduced at the lower margin of the umbilicus (infraumbilical).
+
+The intraperitoneal pressure was set to be  14  mmHg.  Laparoscopy  was  then performed  with  "zero"  angle  viewing laparoscope to ensure the clinical diagnosis  and  identify  the  position  of the appendix to determine the best site of insertion of the other trocars.  A second  10  mm  suprapubic  trocar  was inserted.  A  third  operating  trocar  was inserted in the left iliac fossa. In 2 cases 4th  trocar  in  the  right  upper  quadrant was  inserted  to  facilitate  dissection  of retrocecal appendix.
+
+After  insertion  of  the  ports,  a  quick diagnostic  laparoscopy  was  performed in  order  to  confirm  the  diagnosis  and assess other pathologies. The surgeon's left  hand  held  a  Babcock  grasper  to retract the cecum and subsequently expose  the  appendix.  Cautery  scissors were  used  to  incise  the  retroperitoneal attachments  of  the  cecum  in  difficult cases.  The  technique  entails  hanging the appendix to the abdominal wall by passing  a  straight  needle  through  the abdominal wall and encircling the appendix, making single or double loops. This will expose the mesoappendix  and  make  it easy to create  a  window  in  the  mesoappendix close to the base. The  rest of the technique  will  be  the  same  as  in  open appendectomy where we apply 2 ties to the  mesoappendix  and  appendix  then both are divided as in open method. We tried to avoid the use of clips, endoloops  or  Harmonic  to  reduce  the cost in a frequently performed procedure.
+
+After transection, the appendiceal stump mucosa was carefully cauterized.
+
+The appendix was pulled into the umbilical port and withdrawn with the whole port or was placed in an impermeable  retrieval  bag  before  its removal.  Irrigation  and  insertion  of  a drain  were  done  only  in  complicated cases. Trocars were removed  under direct vision. Fascia at the  10-mm trocar  site  was  closed,  and  all  wounds were closed primarily.
+
+In patients with complicated appendicitis, antibiotics were not discontinued but were modified according  to the culture results  and continued  for  7  to 10  days  till the patient was afebrile.
+
+Patients were given sips of water after passing flatus or feces or after hearing intestinal sounds to avoid paralytic ileus from early introduction of food or liquids.
+
+Postoperatively all patients received analgesics  in  the  form  of  NSAIDs  for 24  hours,  then  analgesics  were  given upon the patient request.
+
+The discharge criteria are met once the patients  were  a  febrile,  with  audible bowel sounds and were able to tolerate a  liquid  diet  and  oral  analgesia.  The specimens were sent  for  pathology  for assessing pathological diagnosis.
+
+The  comparison  between  the  2  groups was in the following criteria:
+
+Intraoperative: operative time (from skin incision to wound closure), intraoperative findings (normal, gangrenous,  or  perforated  appendix), intraoperative complications, conversion to open procedure,
+
+## Statistical analysis:
+
+Results were statistically analyzed by statistical  package  SPSS  version  20.  Two types of statistics were  done,  descriptive (percentage (%), mean and standard deviation SD) and analytical. Analytical tests included:  Student's  t-test  (  used  to  indicate the  presence  of  any  significant  difference between two groups for a normally distributed quantitative variable), MannWhitney  test  (used  to  indicate  the  presence of  any  significant  difference  between  two groups for a not normally distributed quantitative variable), Chi-Squared (χ 2 ) (used to  compare  between  two  groups  or  more regarding one qualitative variable) and Fisher's exact test (used to compare between two groups regarding one qualitative variable in a 2x2 contingency table when the count of any of the expected cells less than 5). Significant  difference  was  detected  when p &lt;0.05
+
+associated pathology and its management.
+
+Postoperative:  Postoperative  morbidity including wound infection, general complications of surgery, intraperitoneal collection, postoperative hospital  stay,  postoperative  pain  (the need for analgesia), and the time needed to return to work.
+
+## Results:
+
+This  study  was  conducted  on  40  female patients with  suspected  appendicitis; they were randomly allocated into two groups 20 patients each (fig 1, 2)
+
+- Laparoscopic  Group :    the  patients  will undergo laparoscopic appendicectomy.
+- Open  Group: the  patients  will  undergo open appendicectomy by gridiron incision at McBurney's point.
+
+Fig 1: Distribution of the studied groups regarding their age
+
+<!-- image -->
+
+Fig 2: Distribution of the studied groups regarding the intraoperative finding
+
+<!-- image -->
+
+The operative time was significantly longer  in  the  laparoscopic  group  with mean of 63 minutes than the open group which was 40 minutes with p value 0.001 (fig.3).
+
+Fig 3: Distribution of the studied patients regarding the operative time
+
+<!-- image -->
+
+In  Group  A  (Lap): 2  complications  were met,
+
+-  Bleeding from mesoappendix which was controlled by ligation .
+-  Bleeding after puncture of ovarian cyst which was controlled by diathermy.
+
+In  Group  B  (Open) :  3  complications  were met,
+
+-  2  cases  with  caecal  serosal  tears  which  were repaired primarily by absorbable sutures.
+-  1 case of iatrogenic ovarian injury which was also repaired primarily by absorbable sutures.
+
+## Associated pathology and its management:
+
+## In Group A (Lap):
+
+-  2 cases of right ovarian cysts were found, one was punctured and the other left with no intervention according to gynecological consultation which was done intraoperatively.
+-  One case of peri-ovarian collection mostly due to ruptured Graafian follicle (Mittelschmerz).
+
+## In Group B (Open):
+
+-  One case of ovarian cyst was found and left without interference after gynecological consultation.
+-  Conversion of laparoscopic procedure to open
+-  2  cases  of  laparoscopic  appendectomies were  converted  to  open  procedures,  due to technical difficulties (fig.4).
+
+There was a significant difference between both groups regarding post operative hospital stay , analgesia needed and  time  needed  to  return  to  work  with PV=0.002, &lt;0.001and 0.001 respectively.
+
+Fig  4:  Distribution  of  the  studied  patients  regarding the duration of hospital stay
+
+<!-- image -->
+
+All of them  were  significantly lower in laparoscopic group. There was no significant difference  between  both  groups  regarding post operative time needed for fluid tolerance with PV=0.146.
+
+## Discussion:
+
+Approximately 6% of the population develops appendicitis in their life time, with peak  incidence  between  the  ages  of  10  and 30  years  as  shown  in  Fig  (1),  thus  making appendectomy the most frequently performed abdominal operation, (7).
+
+The treatment of acute appendicitis remained essentially unchanged since its first description  by  Charles  McBurney  in  1889. Appendectomy by McBurney's incision remained the procedure of choice for nearly a century until 1983  when  Kurt  Semm offered an alternative, "laparoscopic appendectomy‖, but as McBurney's operation is  well  tolerated  with  less  co-  morbidity  the benefits of laparoscopic appendectomy have been difficult to establish, (8).
+
+Several authors proposed that the new technique of laparoscopic appendectomy should  be  the  preferred  treatment  for  acute appendicitis.  However,  unlike  laparoscopic cholecystectomy, laparoscopic appendectomy has not yet gained popularity. Laparoscopic cholecystectomy is now considered a standard method of performing cholecystectomy and has mostly replaced the old method  throughout the world, while appendectomy has yet to achieve such popularity, (8) the putative advantages of the laparoscopic  approach  are  quicker  and  less painful recovery, fewer postoperative complications and better cosmoses. It allows better  assessment  of  other  intra-abdominal pathologies and state of appendix. But because the validity of these point's remains unconvincing  and  also  because  of  shortage of laparoscopic sets in some hospitals, laparoscopic  appendectomy  is  not  practiced widely, (9)
+
+Laparoscopic appendectomy has emerged as a safe procedure, and its potential advantages of  shorter  hospital  stay,  early  mobilization, early  return  of  bowel  function,  acceptable complication rate along with the recent enthusiasm  of  minimally  invasive  surgery, has led some authors to advocate this approach  as  the  procedure  of  choice  for uncomplicated appendicitis, (10)
+
+There have been numerous retrospective and uncontrolled series of laparoscopic appendectomy (LA), as well as many prospective randomized studies published to date. Although most of these have concluded that the laparoscopic technique is as good as open  appendectomy  (OA),  there  has  been considerable controversy as to whether LA is superior or not, (4)
+
+Clear  and  magnified  visions  of  appendix with  more  space  to  maneuver  through  a small hole like incision are great advantages of  laparoscopic surgery as shown in Fig (2) which assess the intraoperative finding. Some surgeons with equal safety and ease in OA do-Button  hole‖  surgery. Hence, it is difficult to prove any advantage of LA above incision. (11)
+
+The  role  of  laparoscopic  appendectomy  has not yet been clearly defined.  Numerous factors need to be considered in deciding the ideal, and most appropriate surgical technique for acute appendicitis.
+
+A statistically significant difference in operative  time  was  observed  between  the laparoscopic and the open group (64.5 vs. 60 min;  p = 0.002), (12). All the  previous results of mentioned studies regarding operative  time  are  comparable  to  this  study as this study revealed that there  was a significant difference regarding operative time  with  PV=0.001(mean  time  was  63.15 minutes in the laparoscopic group and 40.55 minutes in the  open  group)  as  shown  in  fig (3) The postoperative pain is usually troublesome for the patients. In a study done by Long et al, (13) patients who had laparoscopic appendectomy required less parenteral analgesia than open-surgery patients (1.6 versus 2.2 days' worth; 33.3 mg versus 53.5 mg of morphine or equivalent; P &lt; 0.001 for both measures.
+
+In  another study done by Ortega et al., (14) linear analogue pain scores were recorded in 135  patients  blinded  to  the  procedure  of operation by special dressing and pain score was less in laparoscopic group compared to open.
+
+Number  of  cases  taking  analgesics  in  open appendectomy group and laparoscopic appendectomy group after operation was 12.30%  vs  6.10%  respectively.  Usage  of analgesics in laparoscopic appendectomy group  was  lower  than  open  appendectomy group, but no significant difference  was observed (15).
+
+In a study done by Mishra et al, (16), it was noticed that after laparoscopic appendectomy procedure, more pain was found and the use of postoperative narcotics  was less after appendectomy.
+
+Also,  Alfredo  et  al.,  (17)  reported  that  the analgesia used was significantly higher in the open  group  compared  to  the  laparoscopic group with p=0.001.
+
+All  the  previous  results  regarding  the  postoperative pain and need for analgesia can be compared to the present study as there were less  post-  operative  pain  and  less  need  for analgesia  in  LA  group.  The  difference  was significant (PV=0. 0001).
+
+On  the other hand, the study done by Kathhouda et al., (4) showed that the severity of  pain  experienced  and  its  influence  on activity were similar for both groups. Narcotic medication usage to control postoperative pain was also equivalent between the 2 groups which cannot be compared to this study. These results may be related to different pain threshold and different  pain  perception  among  the  studied groups of different authors.
+
+In  all  laparoscopic  surgeries,  the  hospital stay  after  laparoscopic  appendectomy  was significantly lower than after open appendectomy in all  of  the  reported  studies as shown in fig (4). In a study done by Guller et  al.,  (18)  laparoscopic  appendectomy  was associated with shorter median hospital stay (laparoscopic appendectomy:2.06 days, open appendectomy: 2.88 days, p &lt; 0.0001). While, median length of hospitalization was significantly shorter in the laparoscopic group (p &lt; 0.000) in another study (12) and was 5 days and 6 days for LA and OA group respectively  (P&lt;0.001)  in  Yau  et  al.,  (19) study.
+
+In the work of Alfredo et al, the hospital stay was  significantly  lower  in  the  laparoscopic group  (mean  hospital  stay  was  27.2  hours) compared  to  the  open  group  (53.1  hours), (P=0.001), (17).
+
+A study done by Shirazi et al showed that the length of hospital stay ranged from 2 days to 9 days. The mean length of stay was significantly  shorter  after  LA  (3  days  after LA, 5 days after OA, P &lt; 0.0001), (20).
+
+Kamal and Qureshi , showed that the mean hospital  stay  was  nearly  1/3rd  in  LA.  The patients were discharged home after 24 hours in  LA  where  as  in  OA  the  patient  left  the hospital on the third day, (11)
+
+All  previous  results  of  mentioned  studies regarding  hospital  stay  are  comparable  to this  study  as  this  study  revealed  that  there was a significant increase in hospital stay in the  open  group(mean  hospital  stay  was  3.3 days), than the laparoscopic group (1.9 days), (PV=0.002)
+
+In this study, although the overall postoperative  complications  were  higher  in the OA group (20%) than LA group (10%), the result was statistically insignificant (p=0.661.)
+
+Similarly,  Katkhouda  et  al  (4)  showed  that there  was  no  significant  difference  in  the overall complication rates (18.5% in the LA group  versus  17.1%  in  the  OA  group)  (p  = 1.00).  Also,  Long  et  al(13)  found  that  no significant difference regarding overall complications.
+
+Total  number  of  complications  was  less  in the  LA  group  with  a  significantly  lower incidence of wound infection (1.4 % vs 10.6 %, P &lt;0.001).(21).
+
+Surgical site infections occurred exclusively after OA (38 vs. 0 patients).(12)
+
+Similarly,  Alfredo  et  al  ,  showed  that  there was no significant difference regarding overall post operative complications between OA  group and LA  group although the incidence of complications was higher in the OA group( 8% in the OA versus 3.6% in the LA), (17)
+
+On the other hand, a study done by Shirazi et al reported that the rate of overall complications  (LA:  15%,  OA:  31.8%,  P  &lt; 0.0001)  was  significantly  lower  in  patients undergoing LA, (20)
+
+Similarly,  Guller  et  al  showed  that  overall complications  were  significantly  lower  in laparoscopic group (P = 0.002), (18)
+
+This difference in the significance of overall post operative complications may be related to number of studied cases and the pathology present in the appendix.
+
+A  meta-analysis  of  randomized  controlled trials  has  been  reported  with  outcomes  of 2877  patients  included  in  28  trials.  Overall complication rates were comparable, but wound  infections  were  definitely  reduced after laparoscopy (2.3% to 6.1%), (22)
+
+A  study  by  Yau  et  al  (19)  was  done  to evaluate wound infection. The results showed that there was one patient converted to OA (0.6%) in the LA group who suffered from wound infection, and there were seven (10%)  wound  infections  in  the  OA  group (p=0.001).  Guller  et  al.,  (18)  also,  showed that there was lower rate of wound infections among  laparoscopic  group  (p  &lt;  0.0001). Moreover, Sauerland et al., (23) who included  67  studies,  of  which  56  compared laparoscopic appendectomy (with or without diagnostic laparoscopy) versus open appendectomy  in  adults  found  that  wound infections were less likely after laparoscopic than after open appendectomy.
+
+Kamal and Qureshi (11) compared 42 patients who had laparoscopic appendectomy to 53 patients who had open appendectomy. Wound infection regarding skin was zero in laparoscopic  group  and  3  wound  infections in open group.
+
+There were no differences in post-operatory complications (intra-abdominal abscess, surgical site infection and prolonged ileus),(24)
+
+All  previous  results  of  mentioned  studies regarding wound infection are comparable to this  study  as  this  study  revealed  that  there was a significant decrease in wound infection in LA group (PV=1)
+
+We must convert  laparoscopic  procedure  to open surgery when indicated for the safety of the patient and this occurs in 2 cases in our study.
+
+The  rate  of  conversion  from  LA  to  OA  is 4.16%, but this number is slowly decreasing as  surgeons  gain  more  experience  with  LA .(25).
+
+The  rates of conversion  for  laparoscopic appendectomy range from 3.3% to 11.25% . As the conversion from laparoscopic appendectomy to an open procedure is sometimes  recognized  as  a  failure,  some operators do their best to reduce conversion rates, (26).
+
+Early  reports  centered  on  the  use  of  the laparoscope  to  increase  diagnostic  accuracy and decrease the negative appendectomy rate which ranges in some series from 20 to 30%, (4).
+
+Laparoscopy  has  a    great  diagnostic  value specially in acute abdomen .It plays a significant  role    in  young  females  where  at times  it  is  nearly  impossible  to  differentiate between acute appendicitis and gynecological clinical conditions like "Pelvic Inflammatory disease", "Twisted ovary" and ectopic pregnancy etc, (11).
+
+While in open procedure, associated pathology was found in 1 patients, (5%).
+
+These results clarify the importance of laparoscopy  as  a  diagnostic  and  therapeutic tool to deal with other causes of acute abdomen. This advantage permits the surgeons to manage even gynecological cases without extending or changing incisions with the least post operative complications.
+
+## Conclusion:
+
+Laparoscopic appendectomy is safe and feasible.  Despite  that  the  operating  time  for laparoscopic  appendectomy  is  still  higher than  that  for  open  procedure,  laparoscopic approach  had  several  advantages  over  open appendectomy in that, it has lesser incidence of wound infection, shorter hospital stay, less need  for  post  operative  analgesia  and  faster return of patients to normal activities. Moreover,  it  is  very  useful  in  reaching  an exact diagnosis in equivocal cases in females during  their  childbearing  period.  We  must
+
+convert laparoscopic procedure to open surgery when indicated for the safety of the patient. A larger further study to evaluate the cost,  benefit  of  laparoscopic  appendectomy is recommended.
+
+## References:
+
+1. Kehagias  I,  Karamanakos  SN,  Panagiotopoulos S, Panagopoulos K and Kalfarentzos F. Laparoscopic  versus  open  appendectomy:  which way  to  go?.  World  Journal  of  Gastroenterology: WJG. 2008 Aug 21;14(31):4909.
+2. Semm K. Endoscopic appendectomy. Endoscopy. 1983 Mar;15(02):59-64.
+3. Martin LC, Puente I, Sosa JL, Bassin A, Breslaw R, McKenney  MG  and  et al. Open versus laparoscopic appendectomy. A prospective randomized comparison. Annals of surgery. 1995 Sep;222(3):256.
+4. Katkhouda N, Friedlander MH, Grant SW, Achanta KK, Essani R, Paik P and et al. Intraabdominal  abscess  rate  after  laparoscopic appendectomy. The American journal of surgery. 2000 Dec 1;180(6):456-61.
+5. Johnson AB and Peetz ME. Laparoscopic appendectomy is an acceptable alternative for the treatment of perforated appendicitis. Surgical endoscopy. 1998 Jul 1;12(7):940-3.
+6. Larsson PG, Henriksson G, Olsson M, Boris J, Ströberg P, Tronstad SE and et al. Laparoscopy reduces unnecessary appendicectomies and improves  diagnosis  in  fertile  women.  Surgical endoscopy. 2001 Feb 1;15(2):200-2.
+7. Kumar  B,  Samad  A,  Khanzada  TW,  Laghari MH and Shaikh AR. Superiority of laparoscopic appendectomy  over  open  appendectomy:  the Hyderabad experience. Rawal Med J. 2008 Jan 1;33(2):165-8.
+8. Peiser JG and Greenberg D. Laparoscopic versus open appendectomy: results of a retrospective  comparison  in  an  Israeli  hospital. IMAJ-RAMAT GAN-. 2002 Feb 1;4(2):91-4.
+9. Sweeney KJ and Keane FB. Moving from open to laparoscopic appendicectomy. British journal of surgery. 2003 Mar;90(3):257-8.
+10. Tranoff M, Atabek U, Goodman M, Alexander JB,  Chrzanowski  F,  Mortman  K  and  et  al.  A comparison of laparoscopic and open appendectomy. J Soc Laparoendosc Surg 1998; 2: 153-8
+11. Kamal M and Qureshi KH. Laparoscopic versus open  appendectomy.    Department  of  Surgery, Nishtar  Medical  College,  Multan.  Pakistan.  J. Med. Res, 2003;Vol. 42 No.1.
+12. Horvath  P,  Lange  J,  Bachmann  R,  Struller  F, Königsrainer A, Zdichavsky M  and et al. Comparison of clinical outcome of laparoscopic versus open appendectomy for complicated appendicitis. Surgical endoscopy. 2017 Jan 1;31(1):199-205.
+13. Long  KH,  Bannon  MP,  Zietlow  SP,  Helgeson ER,  Harmsen  WS,  Smith  CD  and  et  al.  A prospective randomized comparison of laparoscopic appendectomy with open appendectomy: clinical  and  economic  analyses. Surgery. 2001 Apr 1;129(4):390-400.
+14. Ortega  AE,  Hunter  JG,  Peters  JH,  Swanstrom LL and Schirmer B. Laparoscopic Appendectomy  Study  Group.  A  prospective, randomized comparison of laparoscopic appendectomy  with  open  appendectomy.  The American journal of surgery. 1995 Feb 1;169(2):208-13.
+15. Yu G, Han A, Wang W. Comparison of laparoscopic appendectomy with open appendectomy in treating children with appendicitis. Pakistan journal of medical sciences. 2016 Mar;32(2):299.
+
+16. Mishra RK, Hanna GB and Cuschieri A. Laparoscopic versus open appendectomy for the treatment  of  acute  appendicitis.  World  J.  of Laparoscopic Surg. 2008 Jan;1(1):19-28.
+17. Alfredo M, Carbonell DO, Justin MB, Amy E, Kristi L and Harold T. Outcomes of laparoscopic  versus  open  appendectomy,  from the Carolinas laparoscopic and advanced surgery program,  department  of  general  surgery.  The american surgeon, 2004;70:759-766.
+18. Guller  U,  Hervey  S,  Purves  H,  Muhlbaier  LH, Peterson ED, Eubanks S and et al. Laparoscopic versus open appendectomy: outcomes comparison based on a large administrative database. Annals of surgery. 2004 Jan;239(1):43.
+19. Yau  KK, Siu  WT, Tang  CN, Yang  GP and  Li MK.  Laparoscopic  versus  open  appendectomy for complicated appendicitis. Journal of the American College of Surgeons. 2007 Jul 1;205(1):60-5.
+20. Shirazi B, Ali N and Shamim MS. Laproscopic versus open appendectomy: A comparative study.  JPMA-Journal  of  the  Pakistan  Medical Association. 2010 Nov 1;60(11):901.
+21. Biondi  A,  Di  Stefano  C,  Ferrara  F,  Bellia  A, Vacante  M,  Piazza  L  and  et  al.  Laparoscopic versus open appendectomy: a retrospective cohort study assessing outcomes and costeffectiveness. World Journal of Emergency Surgery. 2016 Dec;11(1):44.
+22. Hansen JB, Smithers BM, Schache D, Wall DR, Miller BJ, MenZies BL and et al . Laparoscopic versus open appendectomy: prospective randomized trial. World journal of surgery. 1996 Jan 1;20(1):17-21.
+23. Sauerland S, Jaschinski T and Neugebauer EA. Laparoscopic versus open surgery for suspected appendicitis.  Cochrane  Database  of  Systematic Reviews. 2010(10.)
+24. Quezada  F,  Quezada  N,  Mejia  R,  Brañes  A, Padilla O,  Jarufe N,  Pimentel  F  and  et  al. Laparoscopic versus open approach in the management of appendicitis complicated exclusively with peritonitis: a single center experience. International Journal of Surgery. 2015 Jan 1;13:80-3.
+25. Kumar  S,  Jalan  A,  Patowary  BN,  Shrestha  S. Laparoscopic appendectomy versus open appendectomy for acute appendicitis: A prospective comparative study. Kathmandu Univ Med J (KUMJ). 2016 Jul;14(55):244-8.
+26. Jeon BG, Kim HJ, Jung KH, Kim SW, Park JS, Kim KH, Kim ID, Lee SJ and et al. Prolonged operative  time  in  laparoscopic  appendectomy: Predictive  factors  and  outcomes.  International Journal of Surgery. 2016 Dec 1;36:225-32.
+
+To cite this article: Hassan k. Alsoueni, Mohammed M. Mohammed, Ahmed M. Nawar, Abdelmonem A.Ali.  Laparoscopic appendectomy  versus  open  appendectomy  in  young female patients, BMFJ 2020;37(1):271-284. DOI: 10.21608/bmfj.2020.18734.1144

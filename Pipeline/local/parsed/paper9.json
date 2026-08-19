@@ -1,0 +1,6172 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "paper9",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 7086073494646330385,
+    "filename": "paper9"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/texts/27"
+      },
+      {
+        "$ref": "#/texts/28"
+      },
+      {
+        "$ref": "#/texts/29"
+      },
+      {
+        "$ref": "#/texts/30"
+      },
+      {
+        "$ref": "#/texts/31"
+      },
+      {
+        "$ref": "#/texts/32"
+      },
+      {
+        "$ref": "#/texts/33"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/50"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/texts/73"
+      },
+      {
+        "$ref": "#/texts/74"
+      },
+      {
+        "$ref": "#/tables/0"
+      },
+      {
+        "$ref": "#/tables/1"
+      },
+      {
+        "$ref": "#/texts/77"
+      },
+      {
+        "$ref": "#/texts/78"
+      },
+      {
+        "$ref": "#/texts/79"
+      },
+      {
+        "$ref": "#/texts/80"
+      },
+      {
+        "$ref": "#/texts/81"
+      },
+      {
+        "$ref": "#/texts/82"
+      },
+      {
+        "$ref": "#/texts/83"
+      },
+      {
+        "$ref": "#/texts/84"
+      },
+      {
+        "$ref": "#/texts/85"
+      },
+      {
+        "$ref": "#/texts/86"
+      },
+      {
+        "$ref": "#/texts/87"
+      },
+      {
+        "$ref": "#/texts/88"
+      },
+      {
+        "$ref": "#/texts/89"
+      },
+      {
+        "$ref": "#/texts/90"
+      },
+      {
+        "$ref": "#/texts/91"
+      },
+      {
+        "$ref": "#/texts/92"
+      },
+      {
+        "$ref": "#/texts/93"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/106"
+      },
+      {
+        "$ref": "#/texts/107"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/texts/110"
+      },
+      {
+        "$ref": "#/texts/111"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/7"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/94"
+        },
+        {
+          "$ref": "#/texts/95"
+        },
+        {
+          "$ref": "#/texts/96"
+        },
+        {
+          "$ref": "#/texts/97"
+        },
+        {
+          "$ref": "#/texts/98"
+        },
+        {
+          "$ref": "#/texts/99"
+        },
+        {
+          "$ref": "#/texts/100"
+        },
+        {
+          "$ref": "#/texts/101"
+        },
+        {
+          "$ref": "#/texts/102"
+        },
+        {
+          "$ref": "#/texts/103"
+        },
+        {
+          "$ref": "#/texts/104"
+        },
+        {
+          "$ref": "#/texts/105"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/108"
+        },
+        {
+          "$ref": "#/texts/109"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 115.5792,
+            "t": 790.6222838867187,
+            "r": 483.6911999999998,
+            "b": 757.6609427561144,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            103
+          ]
+        }
+      ],
+      "orig": "Monotherapy versus triple therapy antibiotics for the management of perforated appendicitis in children",
+      "text": "Monotherapy versus triple therapy antibiotics for the management of perforated appendicitis in children",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 225.4575,
+            "t": 734.0982838867187,
+            "r": 369.8115000000003,
+            "b": 722.0489779238643,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "Mohamed E Hassan, MD",
+      "text": "Mohamed E Hassan, MD",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 105.67350000000002,
+            "t": 700.4982838867187,
+            "r": 489.59550000000024,
+            "b": 688.4489779238643,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            68
+          ]
+        }
+      ],
+      "orig": "Associate Professor of Pediatric Surgery, Zagazig University, Egypt.",
+      "text": "Associate Professor of Pediatric Surgery, Zagazig University, Egypt."
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 70.8674,
+            "t": 662.4957838867186,
+            "r": 527.4314000000003,
+            "b": 594.5678073471294,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            449
+          ]
+        }
+      ],
+      "orig": "Introduction: Appendicitis  is  the  most  common  surgical  emergency  in  the  pediatric population.  Despite  the  widespread  prevalence  of  the  disease,  there  is  little  consensus regarding the diagnosis and management of appendicitis. The aim of the study is to compare the  surgical  outcome  of  laparoscopic  appendectomy  in  children  for  perforated  appendicitis using perioperative triple versus a single antibiotic based regimen.",
+      "text": "Introduction: Appendicitis  is  the  most  common  surgical  emergency  in  the  pediatric population.  Despite  the  widespread  prevalence  of  the  disease,  there  is  little  consensus regarding the diagnosis and management of appendicitis. The aim of the study is to compare the  surgical  outcome  of  laparoscopic  appendectomy  in  children  for  perforated  appendicitis using perioperative triple versus a single antibiotic based regimen."
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 70.86610000000002,
+            "t": 590.4957838867188,
+            "r": 527.4074000000002,
+            "b": 508.1678073471293,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            523
+          ]
+        }
+      ],
+      "orig": "Patients  and  methods: A  retrospective  review  was  done  for  all  the  children  who  had  a laparoscopic appendectomy for perforated appendicitis in a tertiary pediatric surgery center in UAE in the period from  June 2009 to January 2014. A total of 56 children was included in the study. Group A, monotherapy group 'MG' (31 cases) who were managed with  piperacillin/ tazobactam  and  group  B,  triple  therapy  group  'TG'  (25  cases)  who  were  managed  with Amoxicillin Clavulanate, Metronidazole and amikacin.",
+      "text": "Patients  and  methods: A  retrospective  review  was  done  for  all  the  children  who  had  a laparoscopic appendectomy for perforated appendicitis in a tertiary pediatric surgery center in UAE in the period from  June 2009 to January 2014. A total of 56 children was included in the study. Group A, monotherapy group 'MG' (31 cases) who were managed with  piperacillin/ tazobactam  and  group  B,  triple  therapy  group  'TG'  (25  cases)  who  were  managed  with Amoxicillin Clavulanate, Metronidazole and amikacin."
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 70.86610000000002,
+            "t": 504.09578388671883,
+            "r": 527.4061000000003,
+            "b": 436.16780734712944,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            433
+          ]
+        }
+      ],
+      "orig": "Results: There were 52% males and 48% females, mean age were 8.3 ± 1.5 years. There were 26% cases versus 28% cases in MG and TG respectively who required more than 7 days antibiotics.  Mean total  length  of  hospital  stay  was  statistically  significant  more  in  TG  than MG. There was significant difference between both groups (13% versus 36% in MG and TG respectively) for the need to replace the IV cannula before 72 hours.",
+      "text": "Results: There were 52% males and 48% females, mean age were 8.3 ± 1.5 years. There were 26% cases versus 28% cases in MG and TG respectively who required more than 7 days antibiotics.  Mean total  length  of  hospital  stay  was  statistically  significant  more  in  TG  than MG. There was significant difference between both groups (13% versus 36% in MG and TG respectively) for the need to replace the IV cannula before 72 hours."
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 70.86610000000002,
+            "t": 432.09578388671895,
+            "r": 527.4301000000004,
+            "b": 378.56780734712953,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            336
+          ]
+        }
+      ],
+      "orig": "Conclusion: Monotherapy antibiotic management of perforated appendix in children was equally effective as triple antibiotic therapy in the current study population for the infectious morbidities. Monotherapy  antibiotic  management  showed  significant  less incidence of intravenous cannula morbidities and shorter total hospital stay.",
+      "text": "Conclusion: Monotherapy antibiotic management of perforated appendix in children was equally effective as triple antibiotic therapy in the current study population for the infectious morbidities. Monotherapy  antibiotic  management  showed  significant  less incidence of intravenous cannula morbidities and shorter total hospital stay."
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 85.03810000000001,
+            "t": 374.49578388671904,
+            "r": 357.79810000000015,
+            "b": 364.16780734712955,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            56
+          ]
+        }
+      ],
+      "orig": "Key words: Appendix, laparoscopy, children, antibiotics.",
+      "text": "Key words: Appendix, laparoscopy, children, antibiotics."
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 70.8661,
+            "t": 312.5104838867187,
+            "r": 139.98610000000002,
+            "b": 302.1894780387655,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "Introduction:",
+      "text": "Introduction:",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 70.8661,
+            "t": 297.73848388671877,
+            "r": 290.7301000000001,
+            "b": 228.2846288718231,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            218
+          ]
+        }
+      ],
+      "orig": "Appendicitis is the most common surgical emergency in the pediatric population. Despite  the  widespread  prevalence  of  the disease, there is little consensus regarding the diagnosis and management of appendicitis. 1",
+      "text": "Appendicitis is the most common surgical emergency in the pediatric population. Despite  the  widespread  prevalence  of  the disease, there is little consensus regarding the diagnosis and management of appendicitis. 1"
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 70.8615,
+            "t": 223.90248388671876,
+            "r": 290.7434,
+            "b": 65.83262887182298,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            477
+          ]
+        },
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 307.54949999999997,
+            "t": 312.2984838867187,
+            "r": 527.4014999999999,
+            "b": 257.61662887182297,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            478,
+            646
+          ]
+        }
+      ],
+      "orig": "Although  many  physicians  would  argue that 'standard therapy' consists of an aminoglycoside, a B -lactam, and an antibiotic with anaerobe coverage (ie, ampicillin, gentamicin, or metronidazole), 2-5 These medications are individually inexpensive; however, each is administered multiple times per day, creating a complex dosing schedule. Gentamicin is an aminoglycoside with known renal  and  ototoxic  side  effects  that  requires the  measurement of serum levels. Although this regimen  has  been  safe and  reliably effective,  contemporary  antibiotics  allow  a large  selection  of  drugs  that  do  not  require laboratory monitoring. 6",
+      "text": "Although  many  physicians  would  argue that 'standard therapy' consists of an aminoglycoside, a B -lactam, and an antibiotic with anaerobe coverage (ie, ampicillin, gentamicin, or metronidazole), 2-5 These medications are individually inexpensive; however, each is administered multiple times per day, creating a complex dosing schedule. Gentamicin is an aminoglycoside with known renal  and  ototoxic  side  effects  that  requires the  measurement of serum levels. Although this regimen  has  been  safe and  reliably effective,  contemporary  antibiotics  allow  a large  selection  of  drugs  that  do  not  require laboratory monitoring. 6"
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 307.5603,
+            "t": 253.2450838867187,
+            "r": 527.4242999999999,
+            "b": 198.56322887182296,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            133
+          ]
+        }
+      ],
+      "orig": "Increasing evidence suggests that single-agent antibiotic therapy provides equivalent results, compared with multiagent regimens. 7-9",
+      "text": "Increasing evidence suggests that single-agent antibiotic therapy provides equivalent results, compared with multiagent regimens. 7-9"
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 307.5603,
+            "t": 194.1730838867187,
+            "r": 527.4242999999997,
+            "b": 124.71922887182302,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            197
+          ]
+        }
+      ],
+      "orig": "The  aim  of the study is  to  compare the surgical outcome of laparoscopic appendectomy in children for perforated appendicitis using perioperative triple versus a single antibiotic based regimen.",
+      "text": "The  aim  of the study is  to  compare the surgical outcome of laparoscopic appendectomy in children for perforated appendicitis using perioperative triple versus a single antibiotic based regimen."
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 307.5603,
+            "t": 105.91308388671871,
+            "r": 421.5603,
+            "b": 95.59207803876552,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            21
+          ]
+        }
+      ],
+      "orig": "Patients and methods:",
+      "text": "Patients and methods:",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 307.5603,
+            "t": 91.14108388671877,
+            "r": 527.4362999999998,
+            "b": 66.00322887182301,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            87
+          ]
+        },
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 82.2047,
+            "t": 790.4897838867187,
+            "r": 302.05670000000015,
+            "b": 736.3839288718228,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            88,
+            239
+          ]
+        }
+      ],
+      "orig": "A retrospective file review was done for  all  the  children  who  had  a  laparoscopic appendectomy  for perforated appendicitis in  a  tertiary  governmental  pediatric  surgery center in UAE in the period from June 2009 to January 2014.",
+      "text": "A retrospective file review was done for  all  the  children  who  had  a  laparoscopic appendectomy  for perforated appendicitis in  a  tertiary  governmental  pediatric  surgery center in UAE in the period from June 2009 to January 2014."
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 75.8952,
+            "t": 49.84988388671877,
+            "r": 218.83520000000004,
+            "b": 41.24323677039422,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            33
+          ]
+        }
+      ],
+      "orig": "Ain-Shams J Surg 2014; 7(19):1-10",
+      "text": "Ain-Shams J Surg 2014; 7(19):1-10"
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 533.7363,
+            "t": 49.9597838867187,
+            "r": 540.7363,
+            "b": 37.91861039743992,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "1",
+      "text": "1"
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 82.2047,
+            "t": 732.1697838867185,
+            "r": 302.06870000000004,
+            "b": 678.0639288718227,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            140
+          ]
+        }
+      ],
+      "orig": "Exclusion  criteria  included  children  who had  conversion  to  open  appendectomy  and children who  received another antibiotic regimen.",
+      "text": "Exclusion  criteria  included  children  who had  conversion  to  open  appendectomy  and children who  received another antibiotic regimen."
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 82.2047,
+            "t": 673.8497838867183,
+            "r": 302.06870000000004,
+            "b": 546.8439288718223,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            365
+          ]
+        }
+      ],
+      "orig": "A total of 56 children was included in the study. Patients were divided into two groups, according  to  the  type  of  antibiotic  regimen used, Group A, monotherapy group 'MG' (31 cases) who were managed with piperacillin/ tazobactam and group B, triple therapy group 'TG'  (25  cases)  who  were  managed  with Amoxicillin Clavulanate, Metronidazole and amikacin.",
+      "text": "A total of 56 children was included in the study. Patients were divided into two groups, according  to  the  type  of  antibiotic  regimen used, Group A, monotherapy group 'MG' (31 cases) who were managed with piperacillin/ tazobactam and group B, triple therapy group 'TG'  (25  cases)  who  were  managed  with Amoxicillin Clavulanate, Metronidazole and amikacin."
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 82.2047,
+            "t": 542.629783886718,
+            "r": 302.0687000000001,
+            "b": 371.8839288718224,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            542
+          ]
+        }
+      ],
+      "orig": "The following data were collected, patient demographics,  pre  and  postoperative  white blood  cell  count  (WBCs)  and  C  reactive protein (CRP), preoperative and postoperative fever (the mean  of the  daily  maximum temperature),  operative  time,  intraoperative findings (generalized versus localized peritonitis), the total length of hospital stay, surgical  site  infection  (SSI),  postoperative residual  intraperitoneal  collection,  need  to replace  the  intravenous  (IV)  cannula  before 72 hours and 1 month follow up results.",
+      "text": "The following data were collected, patient demographics,  pre  and  postoperative  white blood  cell  count  (WBCs)  and  C  reactive protein (CRP), preoperative and postoperative fever (the mean  of the  daily  maximum temperature),  operative  time,  intraoperative findings (generalized versus localized peritonitis), the total length of hospital stay, surgical  site  infection  (SSI),  postoperative residual  intraperitoneal  collection,  need  to replace  the  intravenous  (IV)  cannula  before 72 hours and 1 month follow up results."
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 82.2047,
+            "t": 367.66978388671816,
+            "r": 302.0927000000001,
+            "b": 269.82392887182255,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            302
+          ]
+        }
+      ],
+      "orig": "Data were collected, tabulated and statistically  analyzed  using  SPSS  17.  Chi square  (for  qualitative  data)  and  t  test  (for quantitative data) were  calculated  to  test for  the  significant  differences  between  the groups, P < 0.05 was considered as statistically significant difference.",
+      "text": "Data were collected, tabulated and statistically  analyzed  using  SPSS  17.  Chi square  (for  qualitative  data)  and  t  test  (for quantitative data) were  calculated  to  test for  the  significant  differences  between  the groups, P < 0.05 was considered as statistically significant difference."
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 82.2047,
+            "t": 251.20978388671824,
+            "r": 224.50070000000005,
+            "b": 240.88877803876505,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            25
+          ]
+        }
+      ],
+      "orig": "Perioperative management:",
+      "text": "Perioperative management:",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 82.2047,
+            "t": 236.6297838867182,
+            "r": 302.0687,
+            "b": 138.78392887182247,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            280
+          ]
+        }
+      ],
+      "orig": "Diagnosis of appendicitis was done based on clinical, laboratory and abdominal ultrasound  findings,  CT  scan  was  done  in very selected cases of doubtful diagnosis. All the cases received a single dose preoperative Amoxicillin  Clavulanate  within  30  minutes before surgery.",
+      "text": "Diagnosis of appendicitis was done based on clinical, laboratory and abdominal ultrasound  findings,  CT  scan  was  done  in very selected cases of doubtful diagnosis. All the cases received a single dose preoperative Amoxicillin  Clavulanate  within  30  minutes before surgery."
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 82.2047,
+            "t": 134.56978388671814,
+            "r": 302.06870000000004,
+            "b": 65.88392887182249,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            224
+          ]
+        },
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 318.8927,
+            "t": 790.4897838867181,
+            "r": 538.7566999999999,
+            "b": 736.3839288718223,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            225,
+            376
+          ]
+        }
+      ],
+      "orig": "Surgical procedure were standard for all  the  cases.  3  ports  were  used,  umbilical, suprapubic and left iliac fossa. Mesoappendix was divided with monopolar diathermy and the  base  of  the  appendix  was  ligated  with absorbable endoloop (EL, 2/0 polydioxanone PDS,  Ethicon  Endosurgery,  Inc.  Cincinnati, OH, USA), the appendix was retrieved from the umbilical port.",
+      "text": "Surgical procedure were standard for all  the  cases.  3  ports  were  used,  umbilical, suprapubic and left iliac fossa. Mesoappendix was divided with monopolar diathermy and the  base  of  the  appendix  was  ligated  with absorbable endoloop (EL, 2/0 polydioxanone PDS,  Ethicon  Endosurgery,  Inc.  Cincinnati, OH, USA), the appendix was retrieved from the umbilical port."
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 318.8927,
+            "t": 732.1697838867179,
+            "r": 538.7446999999999,
+            "b": 663.4839288718221,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            200
+          ]
+        }
+      ],
+      "orig": "Perforated appendix was defined as an appendix found intraoperatively to have  a  hole,  the  hole  was  not  iatrogenic during  surgery.  Gangreanous  appendix  was considered as perforated appendix.",
+      "text": "Perforated appendix was defined as an appendix found intraoperatively to have  a  hole,  the  hole  was  not  iatrogenic during  surgery.  Gangreanous  appendix  was considered as perforated appendix."
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 318.8927,
+            "t": 659.2697838867177,
+            "r": 538.7566999999999,
+            "b": 590.5839288718219,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            206
+          ]
+        }
+      ],
+      "orig": "Residual  intraabdominal  collection  was defined as any postoperative intraabdominal collection after surgery diagnosed by ultrasound associated with fever and aspirated fluid was positive for the culture.",
+      "text": "Residual  intraabdominal  collection  was defined as any postoperative intraabdominal collection after surgery diagnosed by ultrasound associated with fever and aspirated fluid was positive for the culture."
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 318.8927,
+            "t": 586.3697838867175,
+            "r": 538.7446999999999,
+            "b": 532.2639288718217,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            158
+          ]
+        }
+      ],
+      "orig": "Surgical site infection was defined as any discharge from any of the wounds within one month  of  surgery  associated  with  redness, tenderness and/or fever.",
+      "text": "Surgical site infection was defined as any discharge from any of the wounds within one month  of  surgery  associated  with  redness, tenderness and/or fever."
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 318.896,
+            "t": 528.0514838867186,
+            "r": 538.762,
+            "b": 342.7257288718231,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            578
+          ]
+        }
+      ],
+      "orig": "CRP and WBCs were repeated on the 3 rd and  5 th   postoperative  days.  Patients  were discharged when the CRP was less than 20, decreasing  WBCs  and  there  was  no  fever for  24  hours  without  the  use  of  antipyretic medications.  If  CRP  was  still  high  and  / or WBCs not decreasing (Regardless of the temperature scale), antibiotics were continued for more 3 days then investigations repeated, if  it  was  still  high,  Ultrasound  and/or  CT scan was obtained and managed accordingly. Patients were  reviewed  in  the  outpatient clinic 1 month after discharge.",
+      "text": "CRP and WBCs were repeated on the 3 rd and  5 th   postoperative  days.  Patients  were discharged when the CRP was less than 20, decreasing  WBCs  and  there  was  no  fever for  24  hours  without  the  use  of  antipyretic medications.  If  CRP  was  still  high  and  / or WBCs not decreasing (Regardless of the temperature scale), antibiotics were continued for more 3 days then investigations repeated, if  it  was  still  high,  Ultrasound  and/or  CT scan was obtained and managed accordingly. Patients were  reviewed  in  the  outpatient clinic 1 month after discharge."
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 318.898,
+            "t": 338.5115838867189,
+            "r": 538.774,
+            "b": 211.5057288718233,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            359
+          ]
+        }
+      ],
+      "orig": "Piperacillin/tazobactam dose was 80 mg/kg/dose 8 hourly (maximum 4 gm/ dose),  Amoxicillin  Clavulanate  30  mg/kg/ dose 8 hourly (maximum  1.2  gm/dose), Metronidazole 10 mg/kg/dose  (maximum 500 mg/dose) and Amikacin 7.5 mg/kg/dose every 12 hours. All the intravenous cannulas were  changed  every  72  hours  of  insertion according to our hospital policy.",
+      "text": "Piperacillin/tazobactam dose was 80 mg/kg/dose 8 hourly (maximum 4 gm/ dose),  Amoxicillin  Clavulanate  30  mg/kg/ dose 8 hourly (maximum  1.2  gm/dose), Metronidazole 10 mg/kg/dose  (maximum 500 mg/dose) and Amikacin 7.5 mg/kg/dose every 12 hours. All the intravenous cannulas were  changed  every  72  hours  of  insertion according to our hospital policy."
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 318.898,
+            "t": 192.891583886719,
+            "r": 360.226,
+            "b": 182.5705780387657,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Results:",
+      "text": "Results:",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 318.898,
+            "t": 178.31158388671895,
+            "r": 538.7379999999998,
+            "b": 138.78572887182327,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            113
+          ]
+        }
+      ],
+      "orig": "There was 29 (52%) males and 27 (48%) females in the study, mean age in the study was 8.3 ±1.5 years, Table (1) .",
+      "text": "There was 29 (52%) males and 27 (48%) females in the study, mean age in the study was 8.3 ±1.5 years, Table (1) ."
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 318.898,
+            "t": 134.57158388671894,
+            "r": 538.7500000000001,
+            "b": 65.88572887182318,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            233
+          ]
+        },
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 82.2047,
+            "t": 380.76908388671876,
+            "r": 302.0447,
+            "b": 355.907228871823,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            234,
+            317
+          ]
+        }
+      ],
+      "orig": "The  mean  values  of  the  temperature  for both  groups  are  illustrated  in Figure (1) . Details  of  the  mean  WBCs  count  and  CRP values  pre  and  postoperatively  is  shown  in Figures  (2,3) respectively.  Mean  operative time  for  MG  was  45±10  minutes  versus 52±20 minutes for TG (t =1.7, P > 0.05).",
+      "text": "The  mean  values  of  the  temperature  for both  groups  are  illustrated  in Figure (1) . Details  of  the  mean  WBCs  count  and  CRP values  pre  and  postoperatively  is  shown  in Figures  (2,3) respectively.  Mean  operative time  for  MG  was  45±10  minutes  versus 52±20 minutes for TG (t =1.7, P > 0.05)."
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 65.8779,
+            "t": 49.9597838867187,
+            "r": 72.8779,
+            "b": 37.91861039743992,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "2",
+      "text": "2"
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 386.9291,
+            "t": 49.84988388671877,
+            "r": 529.8691,
+            "b": 41.24323677039422,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            33
+          ]
+        }
+      ],
+      "orig": "Ain-Shams J Surg 2014; 7(19):1-10",
+      "text": "Ain-Shams J Surg 2014; 7(19):1-10"
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 83.5551,
+            "t": 617.7171838867187,
+            "r": 103.0151,
+            "b": 607.4734138332427,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "36.5",
+      "text": "36.5"
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 83.5551,
+            "t": 639.8930838867187,
+            "r": 103.0151,
+            "b": 629.6493138332428,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "36.8",
+      "text": "36.8"
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 83.5551,
+            "t": 662.0691838867186,
+            "r": 103.0151,
+            "b": 651.8254138332427,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "37.2",
+      "text": "37.2"
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 83.5551,
+            "t": 684.2450838867187,
+            "r": 103.0151,
+            "b": 674.0013138332428,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "37.5",
+      "text": "37.5"
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 83.5551,
+            "t": 706.4209838867187,
+            "r": 103.0151,
+            "b": 696.1772138332427,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "37.8",
+      "text": "37.8"
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 83.5551,
+            "t": 728.5968838867187,
+            "r": 103.0151,
+            "b": 718.3531138332428,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "38.2",
+      "text": "38.2"
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 83.5551,
+            "t": 750.7727838867187,
+            "r": 103.0151,
+            "b": 740.5290138332427,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "38.5",
+      "text": "38.5"
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 83.5551,
+            "t": 772.9486838867186,
+            "r": 103.0151,
+            "b": 762.7049138332427,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "38.8",
+      "text": "38.8"
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 91.0182213,
+            "t": 608.5984284867185,
+            "r": 138.34775944251336,
+            "b": 561.2688903442054,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "Preoperative",
+      "text": "Preoperative"
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 149.9266213,
+            "t": 609.5824338867181,
+            "r": 226.3466648425134,
+            "b": 533.1623903442054,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            21
+          ]
+        }
+      ],
+      "orig": "1st day postoperative",
+      "text": "1st day postoperative"
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 221.2145213,
+            "t": 608.5956154867181,
+            "r": 298.0305464425136,
+            "b": 531.7795903442053,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            21
+          ]
+        }
+      ],
+      "orig": "2nd day postoperative",
+      "text": "2nd day postoperative"
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 294.47392130000003,
+            "t": 608.5967601867183,
+            "r": 369.7130911425136,
+            "b": 533.3575903442054,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            21
+          ]
+        }
+      ],
+      "orig": "3rd day postoperative",
+      "text": "3rd day postoperative"
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 367.1395213,
+            "t": 608.5978496867182,
+            "r": 441.98978064251355,
+            "b": 533.7475903442054,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            21
+          ]
+        }
+      ],
+      "orig": "4th day postoperative",
+      "text": "4th day postoperative"
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 439.6100213,
+            "t": 608.5978496867182,
+            "r": 514.4602806425136,
+            "b": 533.7475903442054,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            21
+          ]
+        }
+      ],
+      "orig": "5th day postoperative",
+      "text": "5th day postoperative"
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 395.6925,
+            "t": 753.9732838867187,
+            "r": 411.80249999999995,
+            "b": 743.7295138332428,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "MG",
+      "text": "MG"
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 432.0951,
+            "t": 753.9732838867187,
+            "r": 445.9851,
+            "b": 743.7295138332428,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "TG",
+      "text": "TG"
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 70.8661,
+            "t": 524.0214838867187,
+            "r": 449.6941,
+            "b": 513.6935073471293,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            77
+          ]
+        }
+      ],
+      "orig": "Figure (1): Mean values of pre and postoperative temperature for both groups.",
+      "text": "Figure (1): Mean values of pre and postoperative temperature for both groups."
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 70.8661,
+            "t": 271.8238838867187,
+            "r": 440.47810000000004,
+            "b": 261.49590734712933,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            74
+          ]
+        }
+      ],
+      "orig": "Figure (2): Pre and postoperative values of the mean WBCS for both groups.",
+      "text": "Figure (2): Pre and postoperative values of the mean WBCS for both groups."
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 126.3996,
+            "t": 302.47808388671876,
+            "r": 131.9596,
+            "b": 292.2343138332428,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "0",
+      "text": "0"
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 109.7151,
+            "t": 347.0624838867187,
+            "r": 131.95510000000002,
+            "b": 336.8187138332428,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "5000",
+      "text": "5000"
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 104.1535,
+            "t": 391.64688388671874,
+            "r": 131.9535,
+            "b": 381.4031138332428,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "10000",
+      "text": "10000"
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 104.1535,
+            "t": 436.2311838867187,
+            "r": 131.9535,
+            "b": 425.9874138332428,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "15000",
+      "text": "15000"
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 104.1535,
+            "t": 480.81558388671874,
+            "r": 131.9535,
+            "b": 470.5718138332428,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "20000",
+      "text": "20000"
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 168.6032,
+            "t": 292.97808388671876,
+            "r": 232.5132,
+            "b": 282.7343138332428,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "Preoperatively",
+      "text": "Preoperatively"
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 265.0719,
+            "t": 292.97808388671876,
+            "r": 368.45189999999997,
+            "b": 282.7343138332428,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            23
+          ]
+        }
+      ],
+      "orig": "3rd day postoperatively",
+      "text": "3rd day postoperatively"
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 381.5528,
+            "t": 292.97808388671876,
+            "r": 484.3827999999999,
+            "b": 282.7343138332428,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            23
+          ]
+        }
+      ],
+      "orig": "5th day postoperatively",
+      "text": "5th day postoperatively"
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 397.1324,
+            "t": 454.9977838867187,
+            "r": 414.8534,
+            "b": 443.7296368278952,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "MG",
+      "text": "MG"
+    },
+    {
+      "self_ref": "#/texts/61",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 437.0043,
+            "t": 454.9977838867187,
+            "r": 452.2833,
+            "b": 443.7296368278952,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "TG",
+      "text": "TG"
+    },
+    {
+      "self_ref": "#/texts/62",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 70.8661,
+            "t": 75.97548388671873,
+            "r": 401.61010000000005,
+            "b": 65.64750734712925,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            66
+          ]
+        }
+      ],
+      "orig": "Figure (3): Pre and postoperative mean CRP values for both groups.",
+      "text": "Figure (3): Pre and postoperative mean CRP values for both groups."
+    },
+    {
+      "self_ref": "#/texts/63",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 92.1887,
+            "t": 105.31068388671872,
+            "r": 97.7487,
+            "b": 95.06691383324278,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "0",
+      "text": "0"
+    },
+    {
+      "self_ref": "#/texts/64",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 86.6272,
+            "t": 136.13748388671866,
+            "r": 97.7472,
+            "b": 125.89371383324283,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "50",
+      "text": "50"
+    },
+    {
+      "self_ref": "#/texts/65",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 81.0657,
+            "t": 166.96438388671868,
+            "r": 97.74570000000001,
+            "b": 156.72061383324285,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "100",
+      "text": "100"
+    },
+    {
+      "self_ref": "#/texts/66",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 81.0657,
+            "t": 197.79118388671873,
+            "r": 97.74570000000001,
+            "b": 187.54741383324279,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "150",
+      "text": "150"
+    },
+    {
+      "self_ref": "#/texts/67",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 81.0657,
+            "t": 228.61808388671875,
+            "r": 97.74570000000001,
+            "b": 218.3743138332428,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "200",
+      "text": "200"
+    },
+    {
+      "self_ref": "#/texts/68",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 147.2032,
+            "t": 95.81068388671872,
+            "r": 203.89320000000004,
+            "b": 85.56691383324278,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "Preoperative",
+      "text": "Preoperative"
+    },
+    {
+      "self_ref": "#/texts/69",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 261.5178,
+            "t": 95.81068388671872,
+            "r": 358.78779999999995,
+            "b": 85.56691383324278,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            21
+          ]
+        }
+      ],
+      "orig": "3rd day Postoperative",
+      "text": "3rd day Postoperative"
+    },
+    {
+      "self_ref": "#/texts/70",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 396.9531,
+            "t": 95.81068388671872,
+            "r": 495.3430999999999,
+            "b": 85.56691383324278,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            21
+          ]
+        }
+      ],
+      "orig": "5th day postoperative",
+      "text": "5th day postoperative"
+    },
+    {
+      "self_ref": "#/texts/71",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 413.1214,
+            "t": 216.4502838867187,
+            "r": 429.23139999999995,
+            "b": 206.20651383324275,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "MG",
+      "text": "MG"
+    },
+    {
+      "self_ref": "#/texts/72",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 456.9497,
+            "t": 216.4502838867187,
+            "r": 470.8397,
+            "b": 206.20651383324275,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "TG",
+      "text": "TG"
+    },
+    {
+      "self_ref": "#/texts/73",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 75.8952,
+            "t": 49.84988388671877,
+            "r": 218.83520000000004,
+            "b": 41.24323677039422,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            33
+          ]
+        }
+      ],
+      "orig": "Ain-Shams J Surg 2014; 7(19):1-10",
+      "text": "Ain-Shams J Surg 2014; 7(19):1-10"
+    },
+    {
+      "self_ref": "#/texts/74",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 533.7363,
+            "t": 49.9597838867187,
+            "r": 540.7363,
+            "b": 37.91861039743992,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "3",
+      "text": "3"
+    },
+    {
+      "self_ref": "#/texts/75",
+      "parent": {
+        "$ref": "#/tables/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 82.20280000000005,
+            "t": 790.7280838867187,
+            "r": 279.7708000000001,
+            "b": 780.4208978402071,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            38
+          ]
+        }
+      ],
+      "orig": "Table 1: Demographics for both groups.",
+      "text": "Table 1: Demographics for both groups."
+    },
+    {
+      "self_ref": "#/texts/76",
+      "parent": {
+        "$ref": "#/tables/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 82.24560000000014,
+            "t": 636.8706838867189,
+            "r": 249.1656000000002,
+            "b": 626.5634978402073,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            34
+          ]
+        }
+      ],
+      "orig": "Table 2: Variables in both groups.",
+      "text": "Table 2: Variables in both groups."
+    },
+    {
+      "self_ref": "#/texts/77",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 82.2012,
+            "t": 351.77708388671886,
+            "r": 302.0806999999999,
+            "b": 297.90422887182297,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            144
+          ]
+        }
+      ],
+      "orig": "There were 8 (26%) cases versus 7 (28%) cases  in  MG  and  TG  respectively  required more than 7 days of IV antibiotics (X2 = 0.034, P >0.05).",
+      "text": "There were 8 (26%) cases versus 7 (28%) cases  in  MG  and  TG  respectively  required more than 7 days of IV antibiotics (X2 = 0.034, P >0.05)."
+    },
+    {
+      "self_ref": "#/texts/78",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 82.2012,
+            "t": 293.7740838867187,
+            "r": 302.06520000000006,
+            "b": 254.41622887182302,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            137
+          ]
+        }
+      ],
+      "orig": "Table (2) shows variables in both groups, there  was  one  case  in  TG  case  of  adhesive bowel obstruction that required adhesiolysis.",
+      "text": "Table (2) shows variables in both groups, there  was  one  case  in  TG  case  of  adhesive bowel obstruction that required adhesiolysis."
+    },
+    {
+      "self_ref": "#/texts/79",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 82.2012,
+            "t": 235.88608388671878,
+            "r": 140.2092,
+            "b": 225.56507803876548,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "Discussion:",
+      "text": "Discussion:",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/80",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 82.2012,
+            "t": 221.39008388671868,
+            "r": 302.0658000000001,
+            "b": 65.98822887182303,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            486
+          ]
+        }
+      ],
+      "orig": "Appendicitis is the most common indication for urgent abdominal surgery in  the  pediatric  population,  and  ruptured appendicitis  affects  a  large  proportion  of those patients. 10  Minimizations of morbidity, cost, hospital length of stay, and readmissions remain primary objectives of surgical management. Postappendectomy infection relates to all of these measurable outcomes, and  the  choice  of  antibiotic  regimens  has  a major  effect  on  each  of  these  parameters. 10",
+      "text": "Appendicitis is the most common indication for urgent abdominal surgery in  the  pediatric  population,  and  ruptured appendicitis  affects  a  large  proportion  of those patients. 10  Minimizations of morbidity, cost, hospital length of stay, and readmissions remain primary objectives of surgical management. Postappendectomy infection relates to all of these measurable outcomes, and  the  choice  of  antibiotic  regimens  has  a major  effect  on  each  of  these  parameters. 10"
+    },
+    {
+      "self_ref": "#/texts/81",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 318.9031,
+            "t": 380.77008388671874,
+            "r": 538.7670999999999,
+            "b": 341.412228871823,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            137
+          ]
+        }
+      ],
+      "orig": "Almost 60% of surgeons base their clinical practice  in  the  management  of  perforated appendicitis on their individual preferences. 11",
+      "text": "Almost 60% of surgeons base their clinical practice  in  the  management  of  perforated appendicitis on their individual preferences. 11"
+    },
+    {
+      "self_ref": "#/texts/82",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 318.89889999999997,
+            "t": 337.2667838867187,
+            "r": 538.7629,
+            "b": 268.9169288718231,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            206
+          ]
+        }
+      ],
+      "orig": "There was no statistically significant differences in the gender and age between both groups.  TG  showed  statistically  significant more weight, which is expected due to older mean age for the TG than MG.",
+      "text": "There was no statistically significant differences in the gender and age between both groups.  TG  showed  statistically  significant more weight, which is expected due to older mean age for the TG than MG."
+    },
+    {
+      "self_ref": "#/texts/83",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 318.89889999999997,
+            "t": 264.7867838867188,
+            "r": 538.7749000000001,
+            "b": 80.42622887182301,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            578
+          ]
+        }
+      ],
+      "orig": "There is grade B evidence that the length of  administration  of  IV  antibiotics  should be  based  on  clinical  criteria,  such  as  fever, pain,  return  of  bowel  function,  and  white blood  cell  (WBC)  count. 12,13   In  the  current study,  temperature  scale  showed  that  MG reached  the  normal  range  (37.2  °C)  on  the 4th  postoperative  day,  while  for  TG  the mean  temperature  was  37.3  °C  on  the  5th postoperative  day.  The  WBCs  scale  was almost  similar  for  both  groups,  while  the CRP scale showed more sloping decrease in the MG than TG.",
+      "text": "There is grade B evidence that the length of  administration  of  IV  antibiotics  should be  based  on  clinical  criteria,  such  as  fever, pain,  return  of  bowel  function,  and  white blood  cell  (WBC)  count. 12,13   In  the  current study,  temperature  scale  showed  that  MG reached  the  normal  range  (37.2  °C)  on  the 4th  postoperative  day,  while  for  TG  the mean  temperature  was  37.3  °C  on  the  5th postoperative  day.  The  WBCs  scale  was almost  similar  for  both  groups,  while  the CRP scale showed more sloping decrease in the MG than TG."
+    },
+    {
+      "self_ref": "#/texts/84",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 333.07480000000004,
+            "t": 76.29608388671875,
+            "r": 538.7308,
+            "b": 65.93022887182303,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            29
+          ]
+        }
+      ],
+      "orig": "Although 26% versus 28% in MG",
+      "text": "Although 26% versus 28% in MG"
+    },
+    {
+      "self_ref": "#/texts/85",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 65.8779,
+            "t": 49.9597838867187,
+            "r": 72.8779,
+            "b": 37.91861039743992,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "4",
+      "text": "4"
+    },
+    {
+      "self_ref": "#/texts/86",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 386.9291,
+            "t": 49.84988388671877,
+            "r": 529.8691,
+            "b": 41.24323677039422,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            33
+          ]
+        }
+      ],
+      "orig": "Ain-Shams J Surg 2014; 7(19):1-10",
+      "text": "Ain-Shams J Surg 2014; 7(19):1-10"
+    },
+    {
+      "self_ref": "#/texts/87",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 70.86099999999999,
+            "t": 790.4898838867186,
+            "r": 290.7301000000001,
+            "b": 590.5633288718228,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            598
+          ]
+        }
+      ],
+      "orig": "and  TG  required  antibiotic  regimen  more than  7  days,  which  didn't  reach  statistical significant  difference,  there  was  statistically significant more mean time of total hospital stay for TG than MG. In concordance to the current  study,  Adam  et  al 10   retrospective study of 8545 children showed longer hospital  stay  in  the  triple  antibiotics  group (aminoglycoside based combination therapy) than monotherapy group (Ceftriaxone or Piperacillin/ tazobactam). Nadler et al 9  didn't show  significant differences between the study groups regarding the length of hospital stay.",
+      "text": "and  TG  required  antibiotic  regimen  more than  7  days,  which  didn't  reach  statistical significant  difference,  there  was  statistically significant more mean time of total hospital stay for TG than MG. In concordance to the current  study,  Adam  et  al 10   retrospective study of 8545 children showed longer hospital  stay  in  the  triple  antibiotics  group (aminoglycoside based combination therapy) than monotherapy group (Ceftriaxone or Piperacillin/ tazobactam). Nadler et al 9  didn't show  significant differences between the study groups regarding the length of hospital stay."
+    },
+    {
+      "self_ref": "#/texts/88",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 70.8605,
+            "t": 586.3491838867185,
+            "r": 290.7266000000002,
+            "b": 473.90682887182305,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            354
+          ]
+        }
+      ],
+      "orig": "Intraoperative findings, SSI and postoperative residual intraperitoneal collection didn't reach statistically significant differences between both groups in the current study. In contrary, Nadler  et  al 9   showed significantly  higher  postoperative  infectious complications  in  the  multiagent  antibiotics group than Piperacillin/ tazobactam group.",
+      "text": "Intraoperative findings, SSI and postoperative residual intraperitoneal collection didn't reach statistically significant differences between both groups in the current study. In contrary, Nadler  et  al 9   showed significantly  higher  postoperative  infectious complications  in  the  multiagent  antibiotics group than Piperacillin/ tazobactam group."
+    },
+    {
+      "self_ref": "#/texts/89",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 70.86609999999999,
+            "t": 469.69268388671884,
+            "r": 290.73010000000016,
+            "b": 298.9385288718231,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            529
+          ]
+        }
+      ],
+      "orig": "In accordance to Nadler et al, 9  there was statistically significant  difference  between both groups (13% versus 36% in MG and TG respectively)  for  the  need  to  replace  the  IV cannula before 72 hours, which is attributed to the occurrence of thrombophlebitis due to frequent injections. As IV cannula insertion is very annoying procedure in children, even with the use of local anesthetic during insertion, we think venous access morbidities should  be  always  looked  for  in  planning antibiocs management in children.",
+      "text": "In accordance to Nadler et al, 9  there was statistically significant  difference  between both groups (13% versus 36% in MG and TG respectively)  for  the  need  to  replace  the  IV cannula before 72 hours, which is attributed to the occurrence of thrombophlebitis due to frequent injections. As IV cannula insertion is very annoying procedure in children, even with the use of local anesthetic during insertion, we think venous access morbidities should  be  always  looked  for  in  planning antibiocs management in children."
+    },
+    {
+      "self_ref": "#/texts/90",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 70.86609999999999,
+            "t": 294.7243838867189,
+            "r": 290.7301000000001,
+            "b": 211.4585288718232,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            253
+          ]
+        }
+      ],
+      "orig": "The down side of the current study is the small number of the study population and it is  a  retrospective  study.  But  it  highlighted several findings that it will be of value to be studied in a prospective well designed study with larger population.",
+      "text": "The down side of the current study is the small number of the study population and it is  a  retrospective  study.  But  it  highlighted several findings that it will be of value to be studied in a prospective well designed study with larger population."
+    },
+    {
+      "self_ref": "#/texts/91",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 70.86609999999999,
+            "t": 192.8443838867189,
+            "r": 135.2101,
+            "b": 182.5233780387657,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "Conclusion:",
+      "text": "Conclusion:",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/92",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 70.86609999999999,
+            "t": 178.26438388671886,
+            "r": 290.7301000000001,
+            "b": 65.8385288718232,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            333
+          ]
+        }
+      ],
+      "orig": "Monotherapy  antibiotic  management  of perforated appendix in children was equally effective  as  triple  antibiotic  therapy  in  the current  study  population  for  the  infectious morbidities. Monotherapy antibiotic management showed significant less incidence of intravenous cannula morbidities and shorter total hospital stay.",
+      "text": "Monotherapy  antibiotic  management  of perforated appendix in children was equally effective  as  triple  antibiotic  therapy  in  the current  study  population  for  the  infectious morbidities. Monotherapy antibiotic management showed significant less incidence of intravenous cannula morbidities and shorter total hospital stay."
+    },
+    {
+      "self_ref": "#/texts/93",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 307.55409999999995,
+            "t": 790.7323838867189,
+            "r": 362.63409999999976,
+            "b": 780.4113780387657,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "Reference:",
+      "text": "Reference:",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/94",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 307.5591,
+            "t": 776.7858838867188,
+            "r": 527.1726,
+            "b": 701.1188501230646,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            257
+          ]
+        }
+      ],
+      "orig": "1Lee  SL,  Islam  S,  Cassidy  LD, Abdullah  F, Arca MJ: Antibiotics and appendicitis in the pediatric population: An American Pediatric Surgical Association Outcomes and Clinical Trials Committee systematic review. J Pediatr Surg. 2010; 45(11): 2181-21815.",
+      "text": "1Lee  SL,  Islam  S,  Cassidy  LD, Abdullah  F, Arca MJ: Antibiotics and appendicitis in the pediatric population: An American Pediatric Surgical Association Outcomes and Clinical Trials Committee systematic review. J Pediatr Surg. 2010; 45(11): 2181-21815.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/95",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 307.5591,
+            "t": 697.3739838867187,
+            "r": 527.1616,
+            "b": 648.1729501230644,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            146
+          ]
+        }
+      ],
+      "orig": "2Lund  DP,  Murphy  EU:  Management  of perforated appendicitis in children: A decade of aggressive treatment. J Pediatr Surg 1994; 29: 1130-1133.",
+      "text": "2Lund  DP,  Murphy  EU:  Management  of perforated appendicitis in children: A decade of aggressive treatment. J Pediatr Surg 1994; 29: 1130-1133.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/96",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 307.5591,
+            "t": 644.4325838867188,
+            "r": 527.1726000000001,
+            "b": 595.2315501230645,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            166
+          ]
+        }
+      ],
+      "orig": "3Firilas AM, Higginbotham PH, Johnson DD, Jackson RJ, Wagner CW, Smith SD: A new economic benchmark for surgical treatment of appendicitis. Am Surg 1999; 65: 769-773.",
+      "text": "3Firilas AM, Higginbotham PH, Johnson DD, Jackson RJ, Wagner CW, Smith SD: A new economic benchmark for surgical treatment of appendicitis. Am Surg 1999; 65: 769-773.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/97",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 307.5591,
+            "t": 591.4913838867187,
+            "r": 527.1616000000001,
+            "b": 542.2903501230644,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            155
+          ]
+        }
+      ],
+      "orig": "4Emil  S, Laberge  JM,  Mikhail  P, et al: Appendicitis in children: A ten-year update of  therapeutic  recommendations. J  Pediatr Surg 2003; 38: 236-242.",
+      "text": "4Emil  S, Laberge  JM,  Mikhail  P, et al: Appendicitis in children: A ten-year update of  therapeutic  recommendations. J  Pediatr Surg 2003; 38: 236-242.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/98",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 307.5591,
+            "t": 538.5500838867188,
+            "r": 527.1616000000001,
+            "b": 489.34905012306433,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            167
+          ]
+        }
+      ],
+      "orig": "5Meier DE, Guzzetta PC, Barber RG, Hynan LS, Seetharamaiah R: Perforated appendicitis in  children:  Is  there  a  best  treatment? J Pediatr Surg 2003; 38: 1520-1524.",
+      "text": "5Meier DE, Guzzetta PC, Barber RG, Hynan LS, Seetharamaiah R: Perforated appendicitis in  children:  Is  there  a  best  treatment? J Pediatr Surg 2003; 38: 1520-1524.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/99",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 307.5591,
+            "t": 485.6086838867187,
+            "r": 527.1726000000001,
+            "b": 436.4076501230643,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            168
+          ]
+        }
+      ],
+      "orig": "6St  Peter  SD,  Little  DC,  Calkins  CM,  et  al: A simple and more cost-effective antibiotic regimen for perforated appendicitis. J Pediatr Surg 2006; 41: 1020-1024.",
+      "text": "6St  Peter  SD,  Little  DC,  Calkins  CM,  et  al: A simple and more cost-effective antibiotic regimen for perforated appendicitis. J Pediatr Surg 2006; 41: 1020-1024.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/100",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 307.5591,
+            "t": 432.6673838867187,
+            "r": 527.1726,
+            "b": 370.23335012306427,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            187
+          ]
+        }
+      ],
+      "orig": "7Ciftci  AO,  Tanyel  FC,  Buyukpamukcu  N, Hicsonmez  A:  Comparative  trial  of  four antibiotic combinations for perforated appendicitis  in  children. Eur  J  Surg 1997; 163: 591-596.",
+      "text": "7Ciftci  AO,  Tanyel  FC,  Buyukpamukcu  N, Hicsonmez  A:  Comparative  trial  of  four antibiotic combinations for perforated appendicitis  in  children. Eur  J  Surg 1997; 163: 591-596.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/101",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 307.5591,
+            "t": 366.4907838867187,
+            "r": 527.1616000000001,
+            "b": 317.2897501230643,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            152
+          ]
+        }
+      ],
+      "orig": "8Fishman SJ, Pelosi L, Klavon SL, O'Rourke EJ: Perforated appendicitis: Prospective outcome analysis for 150 children. J Pediatr Surg 2000; 35: 923-926.",
+      "text": "8Fishman SJ, Pelosi L, Klavon SL, O'Rourke EJ: Perforated appendicitis: Prospective outcome analysis for 150 children. J Pediatr Surg 2000; 35: 923-926.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/102",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 307.5591,
+            "t": 313.5494838867187,
+            "r": 527.1726000000002,
+            "b": 251.1154501230643,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            194
+          ]
+        }
+      ],
+      "orig": "9Nadler  EP,  Reblock  KK,  Ford  HR,  Gaines BA: Monotherapy versus multi-drug therapy for  the  treatment  of  perforated  appendicitis in  children. Surg  Infect  (Larchmt) 2003;  4: 327-333.",
+      "text": "9Nadler  EP,  Reblock  KK,  Ford  HR,  Gaines BA: Monotherapy versus multi-drug therapy for  the  treatment  of  perforated  appendicitis in  children. Surg  Infect  (Larchmt) 2003;  4: 327-333.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/103",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 307.5591,
+            "t": 247.3727838867187,
+            "r": 527.1726,
+            "b": 184.93875012306432,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            196
+          ]
+        }
+      ],
+      "orig": "10-\t Goldin AB, Sawin RS, Garrison MM, Zerr DM, Christakis DA: Aminoglycoside-based triple-antibiotic therapy versus monotherapy for children with ruptured. Appendicitis Pediatrics 2007; 119: 905.",
+      "text": "10-\t Goldin AB, Sawin RS, Garrison MM, Zerr DM, Christakis DA: Aminoglycoside-based triple-antibiotic therapy versus monotherapy for children with ruptured. Appendicitis Pediatrics 2007; 119: 905.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/104",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 307.5591,
+            "t": 181.1961838867187,
+            "r": 527.1616,
+            "b": 131.99515012306426,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            190
+          ]
+        }
+      ],
+      "orig": "11-\t Chen  C,  Botelho  C,  Cooper A,  Hibberd  P, Parsons  SK:  Current  practice  patterns  in the  treatment  of  perforated  appendicitis  in children. J Am Coll Surg 2003; 196: 212-221.",
+      "text": "11-\t Chen  C,  Botelho  C,  Cooper A,  Hibberd  P, Parsons  SK:  Current  practice  patterns  in the  treatment  of  perforated  appendicitis  in children. J Am Coll Surg 2003; 196: 212-221.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/105",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 307.5591,
+            "t": 128.25488388671874,
+            "r": 527.1836000000001,
+            "b": 65.82085012306425,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            195
+          ]
+        }
+      ],
+      "orig": "12-\t Lelli  JL,  Drongowski  RA,  Ravi  S,  et  al: Historical changes in the postoperative treatment of appendicitis in children: impact on  medical  outcome. J  Pediatr  Surg 2000; 35: 239-245.",
+      "text": "12-\t Lelli  JL,  Drongowski  RA,  Ravi  S,  et  al: Historical changes in the postoperative treatment of appendicitis in children: impact on  medical  outcome. J  Pediatr  Surg 2000; 35: 239-245.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/106",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 75.8952,
+            "t": 49.84988388671877,
+            "r": 218.83520000000004,
+            "b": 41.24323677039422,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            33
+          ]
+        }
+      ],
+      "orig": "Ain-Shams J Surg 2014; 7(19):1-10",
+      "text": "Ain-Shams J Surg 2014; 7(19):1-10"
+    },
+    {
+      "self_ref": "#/texts/107",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 533.7363,
+            "t": 49.9597838867187,
+            "r": 540.7363,
+            "b": 37.91861039743992,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "5",
+      "text": "5"
+    },
+    {
+      "self_ref": "#/texts/108",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 82.2047,
+            "t": 790.5212838867187,
+            "r": 301.81819999999993,
+            "b": 755.0152501230643,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            125
+          ]
+        }
+      ],
+      "orig": "13-\t Fraser, et al: A complete course of intravenous antibiotics versus a combination of intravenous and oral antibiotics for",
+      "text": "13-\t Fraser, et al: A complete course of intravenous antibiotics versus a combination of intravenous and oral antibiotics for",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/109",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 338.7452,
+            "t": 790.5212838867188,
+            "r": 538.5052000000001,
+            "b": 755.0152501230644,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            104
+          ]
+        }
+      ],
+      "orig": "perforated appendicitis in children: A prospective randomized trial. J Pediatr Surg 2010; 45: 1198-1202.",
+      "text": "perforated appendicitis in children: A prospective randomized trial. J Pediatr Surg 2010; 45: 1198-1202.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/110",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 65.8779,
+            "t": 49.9597838867187,
+            "r": 72.8779,
+            "b": 37.91861039743992,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "6",
+      "text": "6"
+    },
+    {
+      "self_ref": "#/texts/111",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 386.9291,
+            "t": 49.84988388671877,
+            "r": 529.8691,
+            "b": 41.24323677039422,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            33
+          ]
+        }
+      ],
+      "orig": "Ain-Shams J Surg 2014; 7(19):1-10",
+      "text": "Ain-Shams J Surg 2014; 7(19):1-10"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/34"
+        },
+        {
+          "$ref": "#/texts/35"
+        },
+        {
+          "$ref": "#/texts/36"
+        },
+        {
+          "$ref": "#/texts/37"
+        },
+        {
+          "$ref": "#/texts/38"
+        },
+        {
+          "$ref": "#/texts/39"
+        },
+        {
+          "$ref": "#/texts/40"
+        },
+        {
+          "$ref": "#/texts/41"
+        },
+        {
+          "$ref": "#/texts/42"
+        },
+        {
+          "$ref": "#/texts/43"
+        },
+        {
+          "$ref": "#/texts/44"
+        },
+        {
+          "$ref": "#/texts/45"
+        },
+        {
+          "$ref": "#/texts/46"
+        },
+        {
+          "$ref": "#/texts/47"
+        },
+        {
+          "$ref": "#/texts/48"
+        },
+        {
+          "$ref": "#/texts/49"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 80.37884790223258,
+            "t": 790.2677276291492,
+            "r": 512.9996909705624,
+            "b": 534.5091252852196,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/51"
+        },
+        {
+          "$ref": "#/texts/52"
+        },
+        {
+          "$ref": "#/texts/53"
+        },
+        {
+          "$ref": "#/texts/54"
+        },
+        {
+          "$ref": "#/texts/55"
+        },
+        {
+          "$ref": "#/texts/56"
+        },
+        {
+          "$ref": "#/texts/57"
+        },
+        {
+          "$ref": "#/texts/58"
+        },
+        {
+          "$ref": "#/texts/59"
+        },
+        {
+          "$ref": "#/texts/60"
+        },
+        {
+          "$ref": "#/texts/61"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 101.23864465132294,
+            "t": 486.2572774275783,
+            "r": 491.8857758257667,
+            "b": 282.5879778848472,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/51"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/62"
+        },
+        {
+          "$ref": "#/texts/63"
+        },
+        {
+          "$ref": "#/texts/64"
+        },
+        {
+          "$ref": "#/texts/65"
+        },
+        {
+          "$ref": "#/texts/66"
+        },
+        {
+          "$ref": "#/texts/67"
+        },
+        {
+          "$ref": "#/texts/68"
+        },
+        {
+          "$ref": "#/texts/69"
+        },
+        {
+          "$ref": "#/texts/70"
+        },
+        {
+          "$ref": "#/texts/71"
+        },
+        {
+          "$ref": "#/texts/72"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 78.0664078615747,
+            "t": 235.55095047627026,
+            "r": 513.4178209120693,
+            "b": 84.72856843218904,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/62"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [
+    {
+      "self_ref": "#/tables/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/75"
+        }
+      ],
+      "content_layer": "body",
+      "label": "table",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 183.49123163552588,
+            "t": 773.9871452298077,
+            "r": 434.23752068097303,
+            "b": 659.5370059665281,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/75"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "data": {
+        "table_cells": [
+          {
+            "bbox": {
+              "l": 187.4616,
+              "t": 105.00430000000006,
+              "r": 232.11360000000005,
+              "b": 115.37015501489577,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 2,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 2,
+            "text": "Variables",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 274.9656,
+              "t": 105.00430000000006,
+              "r": 317.28959999999995,
+              "b": 115.37015501489577,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "MG (31)",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 327.7056,
+              "t": 105.00430000000006,
+              "r": 366.69359999999995,
+              "b": 115.37015501489577,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "TG (25)",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 386.4696,
+              "t": 105.00430000000006,
+              "r": 423.47760000000005,
+              "b": 115.37015501489577,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 4,
+            "end_col_offset_idx": 5,
+            "text": "X2/ t, P",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 187.47360000000003,
+              "t": 121.82830000000001,
+              "r": 222.78960000000004,
+              "b": 132.19415501489573,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 2,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Gender",
+            "column_header": false,
+            "row_header": true,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 232.44960000000003,
+              "t": 121.82830000000001,
+              "r": 257.10960000000006,
+              "b": 132.19415501489573,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Male",
+            "column_header": false,
+            "row_header": true,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 274.96560000000005,
+              "t": 121.82830000000001,
+              "r": 286.96560000000005,
+              "b": 132.19415501489573,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "15",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 327.70560000000006,
+              "t": 121.82830000000001,
+              "r": 339.70560000000006,
+              "b": 132.19415501489573,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "14",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 386.46960000000007,
+              "t": 121.82830000000001,
+              "r": 428.90160000000003,
+              "b": 132.19415501489573,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 4,
+            "end_col_offset_idx": 5,
+            "text": "X2 = 0.3",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 386.46960000000007,
+              "t": 136.2283,
+              "r": 426.46560000000005,
+              "b": 146.5941550148957,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 4,
+            "end_col_offset_idx": 5,
+            "text": "P > 0.05",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 232.44960000000006,
+              "t": 138.65229999999997,
+              "r": 267.77760000000006,
+              "b": 149.01815501489568,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Female",
+            "column_header": false,
+            "row_header": true,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 274.96560000000005,
+              "t": 138.65229999999997,
+              "r": 286.96560000000005,
+              "b": 149.01815501489568,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "16",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 327.70560000000006,
+              "t": 138.65229999999997,
+              "r": 339.26160000000004,
+              "b": 149.01815501489568,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "11",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 187.47360000000006,
+              "t": 155.47629999999992,
+              "r": 245.2416000000001,
+              "b": 165.84215501489564,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 2,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 2,
+            "text": "Age (Years)",
+            "column_header": false,
+            "row_header": true,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 274.97760000000005,
+              "t": 155.47629999999992,
+              "r": 308.5656000000001,
+              "b": 165.84215501489564,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "8.8 ± 2",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 327.71760000000006,
+              "t": 155.47629999999992,
+              "r": 370.3056000000001,
+              "b": 165.84215501489564,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "9.2 ± 1.3",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 386.48160000000007,
+              "t": 155.47629999999992,
+              "r": 426.47760000000005,
+              "b": 180.24215501489562,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 4,
+            "end_col_offset_idx": 5,
+            "text": "t = 0.9 P > 0.05",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 187.4856000000001,
+              "t": 186.70029999999986,
+              "r": 250.1736000000001,
+              "b": 197.06615501489557,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 2,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 2,
+            "text": "Weight (KG)",
+            "column_header": false,
+            "row_header": true,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 274.9896000000001,
+              "t": 186.70029999999986,
+              "r": 314.57760000000013,
+              "b": 197.06615501489557,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "32 ± 2.3",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 327.7296000000001,
+              "t": 186.70029999999986,
+              "r": 379.31760000000014,
+              "b": 197.06615501489557,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "33.5 ± 2.7",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 386.49360000000013,
+              "t": 186.70029999999986,
+              "r": 426.4896000000001,
+              "b": 211.46615501489555,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 4,
+            "end_col_offset_idx": 5,
+            "text": "t = 2.2 P < 0.05",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          }
+        ],
+        "num_rows": 5,
+        "num_cols": 5,
+        "orientation": "rot_0",
+        "grid": [
+          [
+            {
+              "bbox": {
+                "l": 187.4616,
+                "t": 105.00430000000006,
+                "r": 232.11360000000005,
+                "b": 115.37015501489577,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 2,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 2,
+              "text": "Variables",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 187.4616,
+                "t": 105.00430000000006,
+                "r": 232.11360000000005,
+                "b": 115.37015501489577,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 2,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 2,
+              "text": "Variables",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 274.9656,
+                "t": 105.00430000000006,
+                "r": 317.28959999999995,
+                "b": 115.37015501489577,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "MG (31)",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 327.7056,
+                "t": 105.00430000000006,
+                "r": 366.69359999999995,
+                "b": 115.37015501489577,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "TG (25)",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 386.4696,
+                "t": 105.00430000000006,
+                "r": 423.47760000000005,
+                "b": 115.37015501489577,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 4,
+              "end_col_offset_idx": 5,
+              "text": "X2/ t, P",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 187.47360000000003,
+                "t": 121.82830000000001,
+                "r": 222.78960000000004,
+                "b": 132.19415501489573,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 2,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Gender",
+              "column_header": false,
+              "row_header": true,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 232.44960000000003,
+                "t": 121.82830000000001,
+                "r": 257.10960000000006,
+                "b": 132.19415501489573,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Male",
+              "column_header": false,
+              "row_header": true,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 274.96560000000005,
+                "t": 121.82830000000001,
+                "r": 286.96560000000005,
+                "b": 132.19415501489573,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "15",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 327.70560000000006,
+                "t": 121.82830000000001,
+                "r": 339.70560000000006,
+                "b": 132.19415501489573,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "14",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 386.46960000000007,
+                "t": 121.82830000000001,
+                "r": 428.90160000000003,
+                "b": 132.19415501489573,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 4,
+              "end_col_offset_idx": 5,
+              "text": "X2 = 0.3",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 187.47360000000003,
+                "t": 121.82830000000001,
+                "r": 222.78960000000004,
+                "b": 132.19415501489573,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 2,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Gender",
+              "column_header": false,
+              "row_header": true,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 232.44960000000006,
+                "t": 138.65229999999997,
+                "r": 267.77760000000006,
+                "b": 149.01815501489568,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Female",
+              "column_header": false,
+              "row_header": true,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 274.96560000000005,
+                "t": 138.65229999999997,
+                "r": 286.96560000000005,
+                "b": 149.01815501489568,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "16",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 327.70560000000006,
+                "t": 138.65229999999997,
+                "r": 339.26160000000004,
+                "b": 149.01815501489568,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "11",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 386.46960000000007,
+                "t": 136.2283,
+                "r": 426.46560000000005,
+                "b": 146.5941550148957,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 4,
+              "end_col_offset_idx": 5,
+              "text": "P > 0.05",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 187.47360000000006,
+                "t": 155.47629999999992,
+                "r": 245.2416000000001,
+                "b": 165.84215501489564,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 2,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 2,
+              "text": "Age (Years)",
+              "column_header": false,
+              "row_header": true,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 187.47360000000006,
+                "t": 155.47629999999992,
+                "r": 245.2416000000001,
+                "b": 165.84215501489564,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 2,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 2,
+              "text": "Age (Years)",
+              "column_header": false,
+              "row_header": true,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 274.97760000000005,
+                "t": 155.47629999999992,
+                "r": 308.5656000000001,
+                "b": 165.84215501489564,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "8.8 ± 2",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 327.71760000000006,
+                "t": 155.47629999999992,
+                "r": 370.3056000000001,
+                "b": 165.84215501489564,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "9.2 ± 1.3",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 386.48160000000007,
+                "t": 155.47629999999992,
+                "r": 426.47760000000005,
+                "b": 180.24215501489562,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 4,
+              "end_col_offset_idx": 5,
+              "text": "t = 0.9 P > 0.05",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 187.4856000000001,
+                "t": 186.70029999999986,
+                "r": 250.1736000000001,
+                "b": 197.06615501489557,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 2,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 2,
+              "text": "Weight (KG)",
+              "column_header": false,
+              "row_header": true,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 187.4856000000001,
+                "t": 186.70029999999986,
+                "r": 250.1736000000001,
+                "b": 197.06615501489557,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 2,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 2,
+              "text": "Weight (KG)",
+              "column_header": false,
+              "row_header": true,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 274.9896000000001,
+                "t": 186.70029999999986,
+                "r": 314.57760000000013,
+                "b": 197.06615501489557,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "32 ± 2.3",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 327.7296000000001,
+                "t": 186.70029999999986,
+                "r": 379.31760000000014,
+                "b": 197.06615501489557,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "33.5 ± 2.7",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 386.49360000000013,
+                "t": 186.70029999999986,
+                "r": 426.4896000000001,
+                "b": 211.46615501489555,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 4,
+              "end_col_offset_idx": 5,
+              "text": "t = 2.2 P < 0.05",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ]
+        ]
+      },
+      "annotations": []
+    },
+    {
+      "self_ref": "#/tables/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/76"
+        }
+      ],
+      "content_layer": "body",
+      "label": "table",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 83.14361396002931,
+            "t": 620.1327707629302,
+            "r": 534.4224001093594,
+            "b": 409.43831814019876,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/76"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "data": {
+        "table_cells": [
+          {
+            "bbox": {
+              "l": 87.2096,
+              "t": 258.81410000000005,
+              "r": 131.8616,
+              "b": 269.17995501489577,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Variables",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 371.42959999999994,
+              "t": 258.81410000000005,
+              "r": 413.7535999999999,
+              "b": 269.17995501489577,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "MG (31)",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 428.1175999999999,
+              "t": 258.81410000000005,
+              "r": 467.10559999999987,
+              "b": 269.17995501489577,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "TG (25)",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 479.1415999999999,
+              "t": 258.81410000000005,
+              "r": 513.1496,
+              "b": 269.17995501489577,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 4,
+            "end_col_offset_idx": 5,
+            "text": "X2/t, P",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 87.19759999999997,
+              "t": 275.6381,
+              "r": 196.1816,
+              "b": 286.0039550148957,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 2,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Intraoperative findings",
+            "column_header": false,
+            "row_header": true,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 255.7616,
+              "t": 275.6381,
+              "r": 365.4055999999999,
+              "b": 286.0039550148957,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Generalized peritonitis",
+            "column_header": false,
+            "row_header": true,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 371.4176,
+              "t": 275.6381,
+              "r": 419.40559999999994,
+              "b": 286.0039550148957,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "10 ( 32%)",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 428.1056,
+              "t": 275.6381,
+              "r": 467.0935999999999,
+              "b": 286.0039550148957,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "5 (20%)",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 479.1296,
+              "t": 275.6381,
+              "r": 527.5616,
+              "b": 300.4039550148957,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 2,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 4,
+            "end_col_offset_idx": 5,
+            "text": "X2 = 1.06 P > 0.05",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 255.7616,
+              "t": 292.46209999999996,
+              "r": 354.74959999999993,
+              "b": 302.8279550148957,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Localized peritonitis",
+            "column_header": false,
+            "row_header": true,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 371.4176,
+              "t": 292.46209999999996,
+              "r": 419.40559999999994,
+              "b": 302.8279550148957,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "21 ( 68%)",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 428.1056,
+              "t": 292.46209999999996,
+              "r": 470.0935999999999,
+              "b": 302.8279550148957,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "20 ( 8%)",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 87.18559999999997,
+              "t": 309.2860999999999,
+              "r": 285.83360000000005,
+              "b": 319.65195501489563,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 2,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 2,
+            "text": "Mean total length of hospital stays (days)",
+            "column_header": false,
+            "row_header": true,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 371.40559999999994,
+              "t": 309.2860999999999,
+              "r": 398.99359999999996,
+              "b": 319.65195501489563,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "7±1.5",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 428.0935999999999,
+              "t": 309.2860999999999,
+              "r": 455.68159999999995,
+              "b": 319.65195501489563,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "8.5±2",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 479.1175999999999,
+              "t": 309.2860999999999,
+              "r": 519.1135999999999,
+              "b": 334.0519550148956,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 4,
+            "end_col_offset_idx": 5,
+            "text": "t = 3.2 P < 0.05",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 87.17359999999996,
+              "t": 340.51009999999985,
+              "r": 192.28160000000005,
+              "b": 350.87595501489557,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 2,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 2,
+            "text": "Surgical site infection",
+            "column_header": false,
+            "row_header": true,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 371.39359999999994,
+              "t": 340.51009999999985,
+              "r": 404.3815999999999,
+              "b": 350.87595501489557,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "3 (9%)",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 428.0815999999999,
+              "t": 340.51009999999985,
+              "r": 470.06959999999987,
+              "b": 350.87595501489557,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "3 ( 12%)",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 479.1055999999999,
+              "t": 340.51009999999985,
+              "r": 521.5375999999999,
+              "b": 365.27595501489554,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 4,
+            "end_col_offset_idx": 5,
+            "text": "X2 = 0.1 P > 0.05",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 87.16159999999996,
+              "t": 371.7340999999998,
+              "r": 207.47360000000003,
+              "b": 396.49995501489553,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 5,
+            "end_row_offset_idx": 6,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Postoperative residual intraperitoneal collection",
+            "column_header": false,
+            "row_header": true,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 255.7256,
+              "t": 371.7340999999998,
+              "r": 364.9375999999998,
+              "b": 398.9239550148955,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 5,
+            "end_row_offset_idx": 6,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Treated conservatively Required drainage",
+            "column_header": false,
+            "row_header": true,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 371.3816,
+              "t": 371.7340999999998,
+              "r": 419.36959999999993,
+              "b": 398.9239550148955,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 5,
+            "end_row_offset_idx": 6,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "7 (22.5%) 0",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 428.0696,
+              "t": 371.7340999999998,
+              "r": 470.0575999999999,
+              "b": 398.9239550148955,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 5,
+            "end_row_offset_idx": 6,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "6 ( 24%) 1 ( 4%)",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 479.0936,
+              "t": 371.7340999999998,
+              "r": 521.5255999999999,
+              "b": 396.49995501489553,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 5,
+            "end_row_offset_idx": 6,
+            "start_col_offset_idx": 4,
+            "end_col_offset_idx": 5,
+            "text": "X2 = 0.2 P > 0.05",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 87.14959999999996,
+              "t": 405.38209999999975,
+              "r": 351.0655999999999,
+              "b": 430.1479550148955,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 2,
+            "start_row_offset_idx": 6,
+            "end_row_offset_idx": 7,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 2,
+            "text": "Need to change the intravenous (IV) cannula before 72 hours",
+            "column_header": false,
+            "row_header": true,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 371.36959999999993,
+              "t": 405.38209999999975,
+              "r": 410.3575999999999,
+              "b": 415.7479550148955,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 6,
+            "end_row_offset_idx": 7,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "4 (13%)",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 428.0575999999999,
+              "t": 405.38209999999975,
+              "r": 467.04559999999987,
+              "b": 415.7479550148955,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 6,
+            "end_row_offset_idx": 7,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "9 (36%)",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 479.0815999999999,
+              "t": 405.38209999999975,
+              "r": 521.5135999999999,
+              "b": 430.1479550148955,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 6,
+            "end_row_offset_idx": 7,
+            "start_col_offset_idx": 4,
+            "end_col_offset_idx": 5,
+            "text": "X2 = 4.1 P < 0.05",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 87.13759999999996,
+              "t": 436.60609999999974,
+              "r": 301.7936,
+              "b": 446.9719550148955,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 2,
+            "start_row_offset_idx": 7,
+            "end_row_offset_idx": 8,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 2,
+            "text": "Complications after 1 month postoperatively",
+            "column_header": false,
+            "row_header": true,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 371.35759999999993,
+              "t": 436.60609999999974,
+              "r": 377.35759999999993,
+              "b": 446.9719550148955,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 7,
+            "end_row_offset_idx": 8,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "0",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 428.0455999999999,
+              "t": 436.60609999999974,
+              "r": 461.03359999999986,
+              "b": 446.9719550148955,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 7,
+            "end_row_offset_idx": 8,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "1 (4%)",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 479.0695999999999,
+              "t": 436.60609999999974,
+              "r": 521.5015999999998,
+              "b": 461.3719550148955,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 7,
+            "end_row_offset_idx": 8,
+            "start_col_offset_idx": 4,
+            "end_col_offset_idx": 5,
+            "text": "X2 = 1.3 P > 0.05",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          }
+        ],
+        "num_rows": 8,
+        "num_cols": 5,
+        "orientation": "rot_0",
+        "grid": [
+          [
+            {
+              "bbox": {
+                "l": 87.2096,
+                "t": 258.81410000000005,
+                "r": 131.8616,
+                "b": 269.17995501489577,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Variables",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 371.42959999999994,
+                "t": 258.81410000000005,
+                "r": 413.7535999999999,
+                "b": 269.17995501489577,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "MG (31)",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 428.1175999999999,
+                "t": 258.81410000000005,
+                "r": 467.10559999999987,
+                "b": 269.17995501489577,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "TG (25)",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 479.1415999999999,
+                "t": 258.81410000000005,
+                "r": 513.1496,
+                "b": 269.17995501489577,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 4,
+              "end_col_offset_idx": 5,
+              "text": "X2/t, P",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 87.19759999999997,
+                "t": 275.6381,
+                "r": 196.1816,
+                "b": 286.0039550148957,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 2,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Intraoperative findings",
+              "column_header": false,
+              "row_header": true,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 255.7616,
+                "t": 275.6381,
+                "r": 365.4055999999999,
+                "b": 286.0039550148957,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Generalized peritonitis",
+              "column_header": false,
+              "row_header": true,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 371.4176,
+                "t": 275.6381,
+                "r": 419.40559999999994,
+                "b": 286.0039550148957,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "10 ( 32%)",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 428.1056,
+                "t": 275.6381,
+                "r": 467.0935999999999,
+                "b": 286.0039550148957,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "5 (20%)",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 479.1296,
+                "t": 275.6381,
+                "r": 527.5616,
+                "b": 300.4039550148957,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 2,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 4,
+              "end_col_offset_idx": 5,
+              "text": "X2 = 1.06 P > 0.05",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 87.19759999999997,
+                "t": 275.6381,
+                "r": 196.1816,
+                "b": 286.0039550148957,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 2,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Intraoperative findings",
+              "column_header": false,
+              "row_header": true,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 255.7616,
+                "t": 292.46209999999996,
+                "r": 354.74959999999993,
+                "b": 302.8279550148957,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Localized peritonitis",
+              "column_header": false,
+              "row_header": true,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 371.4176,
+                "t": 292.46209999999996,
+                "r": 419.40559999999994,
+                "b": 302.8279550148957,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "21 ( 68%)",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 428.1056,
+                "t": 292.46209999999996,
+                "r": 470.0935999999999,
+                "b": 302.8279550148957,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "20 ( 8%)",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 479.1296,
+                "t": 275.6381,
+                "r": 527.5616,
+                "b": 300.4039550148957,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 2,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 4,
+              "end_col_offset_idx": 5,
+              "text": "X2 = 1.06 P > 0.05",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 87.18559999999997,
+                "t": 309.2860999999999,
+                "r": 285.83360000000005,
+                "b": 319.65195501489563,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 2,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 2,
+              "text": "Mean total length of hospital stays (days)",
+              "column_header": false,
+              "row_header": true,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 87.18559999999997,
+                "t": 309.2860999999999,
+                "r": 285.83360000000005,
+                "b": 319.65195501489563,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 2,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 2,
+              "text": "Mean total length of hospital stays (days)",
+              "column_header": false,
+              "row_header": true,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 371.40559999999994,
+                "t": 309.2860999999999,
+                "r": 398.99359999999996,
+                "b": 319.65195501489563,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "7±1.5",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 428.0935999999999,
+                "t": 309.2860999999999,
+                "r": 455.68159999999995,
+                "b": 319.65195501489563,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "8.5±2",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 479.1175999999999,
+                "t": 309.2860999999999,
+                "r": 519.1135999999999,
+                "b": 334.0519550148956,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 4,
+              "end_col_offset_idx": 5,
+              "text": "t = 3.2 P < 0.05",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 87.17359999999996,
+                "t": 340.51009999999985,
+                "r": 192.28160000000005,
+                "b": 350.87595501489557,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 2,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 2,
+              "text": "Surgical site infection",
+              "column_header": false,
+              "row_header": true,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 87.17359999999996,
+                "t": 340.51009999999985,
+                "r": 192.28160000000005,
+                "b": 350.87595501489557,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 2,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 2,
+              "text": "Surgical site infection",
+              "column_header": false,
+              "row_header": true,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 371.39359999999994,
+                "t": 340.51009999999985,
+                "r": 404.3815999999999,
+                "b": 350.87595501489557,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "3 (9%)",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 428.0815999999999,
+                "t": 340.51009999999985,
+                "r": 470.06959999999987,
+                "b": 350.87595501489557,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "3 ( 12%)",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 479.1055999999999,
+                "t": 340.51009999999985,
+                "r": 521.5375999999999,
+                "b": 365.27595501489554,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 4,
+              "end_col_offset_idx": 5,
+              "text": "X2 = 0.1 P > 0.05",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 87.16159999999996,
+                "t": 371.7340999999998,
+                "r": 207.47360000000003,
+                "b": 396.49995501489553,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 5,
+              "end_row_offset_idx": 6,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Postoperative residual intraperitoneal collection",
+              "column_header": false,
+              "row_header": true,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 255.7256,
+                "t": 371.7340999999998,
+                "r": 364.9375999999998,
+                "b": 398.9239550148955,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 5,
+              "end_row_offset_idx": 6,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Treated conservatively Required drainage",
+              "column_header": false,
+              "row_header": true,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 371.3816,
+                "t": 371.7340999999998,
+                "r": 419.36959999999993,
+                "b": 398.9239550148955,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 5,
+              "end_row_offset_idx": 6,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "7 (22.5%) 0",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 428.0696,
+                "t": 371.7340999999998,
+                "r": 470.0575999999999,
+                "b": 398.9239550148955,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 5,
+              "end_row_offset_idx": 6,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "6 ( 24%) 1 ( 4%)",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 479.0936,
+                "t": 371.7340999999998,
+                "r": 521.5255999999999,
+                "b": 396.49995501489553,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 5,
+              "end_row_offset_idx": 6,
+              "start_col_offset_idx": 4,
+              "end_col_offset_idx": 5,
+              "text": "X2 = 0.2 P > 0.05",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 87.14959999999996,
+                "t": 405.38209999999975,
+                "r": 351.0655999999999,
+                "b": 430.1479550148955,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 2,
+              "start_row_offset_idx": 6,
+              "end_row_offset_idx": 7,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 2,
+              "text": "Need to change the intravenous (IV) cannula before 72 hours",
+              "column_header": false,
+              "row_header": true,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 87.14959999999996,
+                "t": 405.38209999999975,
+                "r": 351.0655999999999,
+                "b": 430.1479550148955,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 2,
+              "start_row_offset_idx": 6,
+              "end_row_offset_idx": 7,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 2,
+              "text": "Need to change the intravenous (IV) cannula before 72 hours",
+              "column_header": false,
+              "row_header": true,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 371.36959999999993,
+                "t": 405.38209999999975,
+                "r": 410.3575999999999,
+                "b": 415.7479550148955,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 6,
+              "end_row_offset_idx": 7,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "4 (13%)",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 428.0575999999999,
+                "t": 405.38209999999975,
+                "r": 467.04559999999987,
+                "b": 415.7479550148955,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 6,
+              "end_row_offset_idx": 7,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "9 (36%)",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 479.0815999999999,
+                "t": 405.38209999999975,
+                "r": 521.5135999999999,
+                "b": 430.1479550148955,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 6,
+              "end_row_offset_idx": 7,
+              "start_col_offset_idx": 4,
+              "end_col_offset_idx": 5,
+              "text": "X2 = 4.1 P < 0.05",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 87.13759999999996,
+                "t": 436.60609999999974,
+                "r": 301.7936,
+                "b": 446.9719550148955,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 2,
+              "start_row_offset_idx": 7,
+              "end_row_offset_idx": 8,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 2,
+              "text": "Complications after 1 month postoperatively",
+              "column_header": false,
+              "row_header": true,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 87.13759999999996,
+                "t": 436.60609999999974,
+                "r": 301.7936,
+                "b": 446.9719550148955,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 2,
+              "start_row_offset_idx": 7,
+              "end_row_offset_idx": 8,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 2,
+              "text": "Complications after 1 month postoperatively",
+              "column_header": false,
+              "row_header": true,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 371.35759999999993,
+                "t": 436.60609999999974,
+                "r": 377.35759999999993,
+                "b": 446.9719550148955,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 7,
+              "end_row_offset_idx": 8,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "0",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 428.0455999999999,
+                "t": 436.60609999999974,
+                "r": 461.03359999999986,
+                "b": 446.9719550148955,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 7,
+              "end_row_offset_idx": 8,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "1 (4%)",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 479.0695999999999,
+                "t": 436.60609999999974,
+                "r": 521.5015999999998,
+                "b": 461.3719550148955,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 7,
+              "end_row_offset_idx": 8,
+              "start_col_offset_idx": 4,
+              "end_col_offset_idx": 5,
+              "text": "X2 = 1.3 P > 0.05",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ]
+        ]
+      },
+      "annotations": []
+    }
+  ],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 606.614013671875,
+        "height": 873.0709838867188
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 606.614013671875,
+        "height": 873.0709838867188
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 606.614013671875,
+        "height": 873.0709838867188
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 606.614013671875,
+        "height": 873.0709838867188
+      },
+      "page_no": 4
+    },
+    "5": {
+      "size": {
+        "width": 606.614013671875,
+        "height": 873.0709838867188
+      },
+      "page_no": 5
+    },
+    "6": {
+      "size": {
+        "width": 606.614013671875,
+        "height": 873.0709838867188
+      },
+      "page_no": 6
+    }
+  }
+}
