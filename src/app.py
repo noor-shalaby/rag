@@ -57,7 +57,7 @@ def rerank_chunks(query: str, chunks: list[dict[str, Any]]) -> list[dict[str, An
 
     try:
         response = client.models.generate_content(  # pyright: ignore[reportUnknownMemberType]
-            model="gemini-2.5-flash", contents=prompt
+            model="gemini-3.5-flash", contents=prompt
         )
 
         assert response.text is not None, "No response from reranker"
@@ -120,7 +120,7 @@ async def ask_medical_question(payload: QueryRequest):
         """
 
         response = client.models.generate_content(  # pyright: ignore[reportUnknownMemberType]
-            model="gemini-2.5-flash", contents=prompt
+            model="gemini-3.5-flash", contents=prompt
         )
 
         assert response.text is not None, "No text generated"
