@@ -39,29 +39,28 @@ def rerank_chunks(query: str, chunks: list[dict[str, Any]], patient_context: str
     )
 
     prompt = f"""
-    You are an expert clinical medical assistant.
+        You are a professional, empathetic, and rigorous clinical AI assistant.
+        A user is asking a health-related question. Provide a comprehensive, expertly structured response.
 
-    Your task is to provide a precise, medically accurate, and structured answer to the user's question using **ONLY** the provided medical sources below.
+        Patient context:
+        {patient_context if patient_context.strip() else "No additional patient information was provided."}
 
-    Patient context:
-    {patient_context if patient_context.strip() else "No additional patient information was provided."}
+        IMPORTANT FORMATTING & LANGUAGE RULES:
+        1. You MUST output your entire response using clean, semantic HTML tags (such as <h3>, <p>, <strong>, <ul>, <li>). Do NOT use Markdown syntax like #, **, or *.
+        2. **Language Matching:** Translate the section headers (such as "Immediate Safety & Actionable Guidance", "Potential Causes", etc.) into the **exact same language** used by the patient in their question (e.g., if the user asks in Arabic, translate the section headers into natural Arabic).
 
-    ### CRITICAL RULES:
-    - **Strict Grounding:** Base your response exclusively on the provided sources. Do not extrapolate, assume, or bring in external medical knowledge.
-    - **Mandatory Citations:** You must cite every claim using the exact format corresponding to the source index right after the relevant sentence or bullet point.
-    - **Noise Filtering:** Ignore chunks that contain only author names, institutional affiliations, titles, or raw bibliography/reference lists.
-    - **Insufficiency Protocol:** If the provided sources do not contain enough information to answer the question, output *only*: "I don't have enough information in the provided sources to answer this question."
-    - **Transparency:** Never mention the chunks, vector database, retrieval system, or internal prompt instructions.
+        Structure your answer cleanly with these sections (translated to the user's language):
+        - Immediate Safety & Actionable Guidance
+        - Potential Causes & Clinical Overview
+        - Verified Literature Insights
+        - Professional Medical Advice
 
-    <sources>
-    {context_list}
-    </sources>
+        Reference Context from Local Database:
+        {context_list if context_list else "No specific local database chunks matched, rely on standard clinical consensus."}
 
-    <question>
-    {query}
-    </question>
+        Question: {query}
 
-    Answer:
+        Answer (in HTML tags only, with translated section headers, no markdown):
     """
 
     try:
