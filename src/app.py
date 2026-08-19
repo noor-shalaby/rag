@@ -5,162 +5,56 @@ from pydantic import BaseModel
 from google import genai
 from retrieve import retrieve_medical_context
 
-# Initialize FastAPI app
-app = FastAPI(
-    title="Clinical RAG Assistant API",
-    description="A hybrid medical RAG application powered by Gemini and Supabase",
-    version="1.0.0"
-)
+app = FastAPI()
+app.add_middleware(CORSMiddleware, allow_origins=["*"], allow_methods=["*"], allow_headers=["*"])
 
-# Enable CORS for frontend communication
-app.add_middleware(
-    CORSMiddleware,
-    allow_origins=["*"],
-    allow_credentials=True,
-    allow_methods=["*"],
-    allow_headers=["*"],
-)
-
-# Initialize Gemini client
 client = genai.Client()
 
 class QueryRequest(BaseModel):
     query: str
     patient_context: str = ""
 
+def generate_medical_answer(query: str) -> str:
+    # 1. Retrieval
+    raw_results = retrieve_medical_context(query, match_threshold=0.0, match_count=5)
+    context_text = "\n\n".join([r.get("content", "") for r in raw_results])
 
-def rerank_chunks(query: str, chunks: list[dict[str, Any]], patient_context: str = "") -> list[dict[str, Any]]:
-    """Uses Gemini to filter noise and select the top 5 most relevant chunks (matching CLI logic)."""
-    if not chunks:
-        return []
-
-    context_list = "\n\n".join(
-        [f"ID {i}: {res.get('content', '')}" for i, res in enumerate(chunks)]
-    )
-
+    # 2. Strict, Clinical-Grade Prompt
     prompt = f"""
-        You are a professional, empathetic, and rigorous clinical AI assistant.
-        A user is asking a health-related question. Provide a comprehensive, expertly structured response.
+    You are a rigorous, empathetic clinical assistant. Use the provided context to answer the user's question.
 
-        Patient context:
-        {patient_context if patient_context.strip() else "No additional patient information was provided."}
+    CRITICAL SAFETY RULES:
+    - If the context doesn't cover the answer, state that clearly.
+    - If the user describes emergency symptoms (pain, trauma), emphasize seeking immediate care.
+    - Do NOT guess or provide medical advice outside of the provided literature.
 
-        IMPORTANT FORMATTING & LANGUAGE RULES:
-        1. You MUST output your entire response using clean, semantic HTML tags (such as <h3>, <p>, <strong>, <ul>, <li>). Do NOT use Markdown syntax like #, **, or *.
-        2. **Language Matching:** Translate the section headers (such as "Immediate Safety & Actionable Guidance", "Potential Causes", etc.) into the **exact same language** used by the patient in their question (e.g., if the user asks in Arabic, translate the section headers into natural Arabic).
+    FORMATTING:
+    - Use HTML (<h3>, <p>, <ul>, <li>).
+    - If the user question is simple, be concise.
+    - If it's a medical condition, use headers: "Safety & Action", "Clinical Overview", "Professional Advice".
+    - If the user uses Arabic, translate everything to natural, high-quality Arabic.
 
-        Structure your answer cleanly with these sections (translated to the user's language):
-        - Immediate Safety & Actionable Guidance
-        - Potential Causes & Clinical Overview
-        - Verified Literature Insights
-        - Professional Medical Advice
-
-        Reference Context from Local Database:
-        {context_list if context_list else "No specific local database chunks matched, rely on standard clinical consensus."}
-
-        Question: {query}
-
-        Answer (in HTML tags only, with translated section headers (same language as user prompt), no markdown):
-    """
-
-    try:
-        response = client.models.generate_content(
-            model="gemini-3.5-flash", contents=prompt
-        )
-
-        assert response.text is not None, "No response from reranker"
-        cleaned_text = response.text.strip().replace("`", "")
-        indices = [int(i.strip()) for i in cleaned_text.split(",") if i.strip().isdigit()]
-
-        selected_chunks = [chunks[i] for i in indices if 0 <= i < len(chunks)]
-        return selected_chunks[:5] if selected_chunks else chunks[:5]
-
-    except Exception as e:
-        print(f"Reranking error ({e}), falling back to top retriever results.")
-        return chunks[:5]
-
-
-def generate_medical_answer(query: str, patient_context: str = "") -> tuple[str, str]:
-    """Retrieves 10 candidates, reranks them to top 5, and generates a structured HTML medical response."""
-
-    print(f"Retrieving candidate knowledge for: '{query}'...")
-    raw_results = retrieve_medical_context(query, match_threshold=0.0, match_count=10)
-
-    context_blocks = []
-    if raw_results:
-        refined_results = rerank_chunks(query, raw_results, patient_context)
-        for res in refined_results:
-            content = res.get("content", "")
-            context_blocks.append(content)
-
-    context_text = "\n\n---\n\n".join(context_blocks)
-
-    prompt = f"""
-    You are a professional, empathetic, and rigorous clinical AI assistant.
-    A user is asking a health-related question. Provide a comprehensive, expertly structured response.
-
-    Patient context:
-    {patient_context if patient_context.strip() else "No additional patient information was provided."}
-
-    IMPORTANT FORMATTING RULE:
-    You MUST output your entire response using clean, semantic HTML tags (such as <h3>, <p>, <strong>, <ul>, <li>). Do NOT use Markdown syntax like #, **, or *.
-
-    Structure your answer cleanly:
-    1. <h3>Immediate Safety & Actionable Guidance</h3>
-       <p>What steps the user should take immediately, and crucially, <strong>what they must avoid doing or eating</strong> (e.g., fasting, avoiding pain relievers or laxatives that mask symptoms or risk rupture).</p>
-    2. <h3>Potential Causes & Clinical Overview</h3>
-       <p>Standard medical consensus on why this occurs.</p>
-    3. <h3>Verified Literature Insights</h3>
-       <p>Integrate specific findings, clinical evaluation methods, and statistics from the provided reference context below.</p>
-    4. <h3>Professional Medical Advice</h3>
-       <p>Conclude clearly by emphasizing why prompt professional evaluation by a physician or emergency room is mandatory.</p>
-
-    Reference Context from Local Database:
-    {context_text if context_text else "No specific local database chunks matched, rely on standard clinical consensus."}
-
+    Context: {context_text}
     Question: {query}
-
-    Answer (in HTML tags only, no markdown):
     """
 
-    response = client.models.generate_content(
-        model="gemini-3.5-flash", contents=prompt
-    )
+    response = client.models.generate_content(model="gemini-3.5-flash", contents=prompt)
 
-    assert response.text is not None, "No text generated"
+    # Disclaimer block
+    disclaimer = """<div style='background-color: #fff3cd; padding: 10px; margin-bottom: 10px; border-radius: 5px; font-size: 0.8rem; border-left: 4px solid #ffeeba;'>
+    <strong>⚠️ IMPORTANT:</strong> This is an AI assistant for educational purposes, not a doctor. In an emergency, seek professional care immediately.
+    </div>"""
 
-    # Mandatory Medical Disclaimer Header styled for HTML
-    disclaimer = (
-        "<div style='background-color: #fff3cd; color: #856404; border-left: 4px solid #ffeeba; "
-        "padding: 12px; margin-bottom: 16px; border-radius: 4px; font-size: 0.85rem; line-height: 1.4;'>"
-        "<strong>⚠️ IMPORTANT MEDICAL DISCLAIMER:</strong> This AI assistant provides educational insights synthesized "
-        "from clinical literature and general medical knowledge. It is <strong>not</strong> a substitute for professional medical advice, "
-        "diagnosis, or treatment. If you are experiencing a medical emergency, please contact your local emergency services "
-        "or visit the nearest emergency room immediately."
-        "</div>"
-    )
-
-    return disclaimer, str(response.text)
-
+    return disclaimer + str(response.text)
 
 @app.post("/ask")
 async def ask_endpoint(payload: QueryRequest):
-    """FastAPI endpoint matching the CLI testing logic with HTML formatting."""
-    query = payload.query.strip()
-    if not query:
-        raise HTTPException(status_code=400, detail="Query cannot be empty.")
-
     try:
-        disclaimer, answer_text = generate_medical_answer(query, payload.patient_context)
-        return {
-            "query": query,
-            "answer": disclaimer + answer_text
-        }
+        return {"answer": generate_medical_answer(payload.query.strip())}
     except Exception as e:
-        print(f"Error handling query: {e}")
-        raise HTTPException(status_code=500, detail=str(e))
-
+        print(f"Error: {e}")
+        return {"answer": "<p>Sorry, I'm having trouble retrieving clinical information right now. Please try again.</p>"}
 
 if __name__ == "__main__":
     import uvicorn
-    uvicorn.run("app:app", host="0.0.0.0", port=8000, reload=True)
+    uvicorn.run("app:app", host="0.0.0.0", port=8000)
