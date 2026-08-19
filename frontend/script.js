@@ -1,4 +1,8 @@
-const BACKEND_URL = "https://rag-c3793ebc.fastapicloud.dev/ask";
+// Detect if we are on localhost or a production server
+const isLocal = window.location.hostname === "localhost" || window.location.hostname === "127.0.0.1";
+const BACKEND_URL = isLocal
+    ? "http://localhost:8000/ask"
+    : "https://rag-c3793ebc.fastapicloud.dev/ask";
 
 const chatMessages = document.getElementById("chatMessages");
 const queryInput = document.getElementById("queryInput");

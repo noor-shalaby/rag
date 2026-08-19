@@ -13,12 +13,18 @@ app = FastAPI(
 )
 
 # Enable CORS for frontend communication
+origins = [
+    "https://your-frontend-domain.com",
+    "http://localhost:5500",             # For local development (e.g., Live Server)
+    "http://localhost:3000",             # For local React/Node development if applicable
+]
+
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],
+    allow_origins=origins,
     allow_credentials=True,
-    allow_methods=["*"],
-    allow_headers=["*"],
+    allow_methods=["POST"],
+    allow_headers=["Content-Type", "Authorization"],
 )
 
 # Initialize Gemini client
