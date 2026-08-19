@@ -68,6 +68,17 @@ body {
     margin-top: 4px;
 }
 
+.disclaimer {
+    background-color: #fff3cd;
+    color: #856404;
+    border-left: 4px solid #ffeeba;
+    padding: 12px;
+    margin-bottom: 16px;
+    border-radius: 4px;
+    font-size: 0.85rem;
+    line-height: 1.4;
+}
+
 .chat-messages {
     flex: 1;
     padding: 16px;

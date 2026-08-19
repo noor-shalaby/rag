@@ -33,7 +33,7 @@ def generate_medical_answer(query: str, patient_context: str = "") -> str:
     """Retrieves 5 candidates and generates a structured HTML medical response."""
 
     print(f"Retrieving candidate knowledge for: '{query}'...")
-    raw_results = retrieve_medical_context(query, match_threshold=0.0, match_count=5)
+    raw_results = retrieve_medical_context(query, match_threshold=0.5, match_count=5)
 
     context_blocks = []
     if raw_results:
@@ -88,10 +88,10 @@ async def ask_endpoint(payload: QueryRequest):
         raise HTTPException(status_code=400, detail="Query cannot be empty.")
 
     try:
-        disclaimer, answer_text = generate_medical_answer(query, payload.patient_context)
+        answer_text = generate_medical_answer(query, payload.patient_context)
         return {
             "query": query,
-            "answer": disclaimer + answer_text
+            "answer": answer_text
         }
     except Exception as e:
         print(f"Error handling query: {e}")
