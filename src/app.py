@@ -29,11 +29,11 @@ class QueryRequest(BaseModel):
     patient_context: str = ""
 
 
-def generate_medical_answer(query: str, patient_context: str = "") -> tuple[str, str]:
-    """Retrieves 10 candidates, reranks them to top 5, and generates a structured HTML medical response."""
+def generate_medical_answer(query: str, patient_context: str = "") -> str:
+    """Retrieves 5 candidates and generates a structured HTML medical response."""
 
     print(f"Retrieving candidate knowledge for: '{query}'...")
-    raw_results = retrieve_medical_context(query, match_threshold=0.0, match_count=10)
+    raw_results = retrieve_medical_context(query, match_threshold=0.0, match_count=5)
 
     context_blocks = []
     if raw_results:
@@ -77,18 +77,7 @@ def generate_medical_answer(query: str, patient_context: str = "") -> tuple[str,
 
     assert response.text is not None, "No text generated"
 
-    # Mandatory Medical Disclaimer Header styled for HTML
-    disclaimer = (
-        "<div style='background-color: #fff3cd; color: #856404; border-left: 4px solid #ffeeba; "
-        "padding: 12px; margin-bottom: 16px; border-radius: 4px; font-size: 0.85rem; line-height: 1.4;'>"
-        "<strong>⚠️ IMPORTANT MEDICAL DISCLAIMER:</strong> This AI assistant provides educational insights synthesized "
-        "from clinical literature and general medical knowledge. It is <strong>not</strong> a substitute for professional medical advice, "
-        "diagnosis, or treatment. If you are experiencing a medical emergency, please contact your local emergency services "
-        "or visit the nearest emergency room immediately."
-        "</div>"
-    )
-
-    return disclaimer, str(response.text)
+    return str(response.text)
 
 
 @app.post("/ask")
