@@ -30,51 +30,6 @@ class QueryRequest(BaseModel):
     patient_context: str = ""
 
 
-def rerank_chunks(query: str, chunks: list[dict[str, Any]]) -> list[dict[str, Any]]:
-    """Uses Gemini to filter noise and select the top 5 most relevant chunks."""
-    if not chunks:
-        return []
-
-    context_list = "\n\n".join(
-        [f"ID {i}: {res.get('content', '')}" for i, res in enumerate(chunks)]
-    )
-
-    prompt = f"""
-    You are an expert medical relevance evaluator.
-    Given the user query and a list of candidate document chunks, select the indices (ID numbers)
-    of the top 5 chunks that most accurately and directly answer the question.
-
-    CRITICAL RULES:
-    - Ignore chunks that are purely author lists, university departments, titles, or references.
-    - Only select chunks that contain actual medical insights, clinical guidelines, symptoms, or findings.
-    - Reply to the user in the exact same language that the user used in their query.
-    - Tailor your explanations, tone, and vocabulary so that they are easily understood by a general audience (a non-doctor/layperson), avoiding dense or overly technical medical jargon where possible.
-
-    Query: {query}
-
-    Candidate Chunks:
-    {context_list}
-
-    Return ONLY the integer indices as a comma-separated list (e.g., 0, 1, 2, 3, 4). Do not include any other text.
-    """
-
-    try:
-        response = client.models.generate_content(
-            model="gemini-3.5-flash", contents=prompt
-        )
-
-        assert response.text is not None, "No response from reranker"
-        cleaned_text = response.text.strip().replace("`", "")
-        indices = [int(i.strip()) for i in cleaned_text.split(",") if i.strip().isdigit()]
-
-        selected_chunks = [chunks[i] for i in indices if 0 <= i < len(chunks)]
-        return selected_chunks[:5] if selected_chunks else chunks[:5]
-
-    except Exception as e:
-        print(f"Reranking error ({e}), falling back to top retriever results.")
-        return chunks[:5]
-
-
 def generate_medical_answer(query: str, context_text: str, patient_context: str = "") -> str:
     """Generates the clinical answer using the full clinical assistant prompt and context."""
 
@@ -390,19 +345,21 @@ def generate_medical_answer(query: str, context_text: str, patient_context: str 
 
 @app.post("/ask")
 async def ask_medical_question(payload: QueryRequest):
-    """Endpoint to process a medical query through the RAG pipeline."""
+    """Endpoint to process a medical query through the RAG pipeline without reranking."""
     query = payload.query.strip()
+    print(f"DEBUG: Received query -> '{query}'")
+
     if not query:
         raise HTTPException(status_code=400, detail="Query cannot be empty.")
 
     try:
-        # 1. Retrieve candidate chunks
-        raw_results = retrieve_medical_context(query, match_threshold=0.0, match_count=10)
+        # 1. Retrieve candidate chunks directly from DB (bypassing reranker)
+        raw_results = retrieve_medical_context(query, match_threshold=0.0, match_count=5)
+        print(f"DEBUG: Retrieved {len(raw_results) if raw_results else 0} raw chunks from DB")
 
         context_blocks = []
         if raw_results:
-            refined_results = rerank_chunks(query, raw_results)
-            for res in refined_results:
+            for res in raw_results:
                 content = res.get("content", "")
                 context_blocks.append(content)
 
@@ -428,6 +385,7 @@ async def ask_medical_question(payload: QueryRequest):
         }
 
     except Exception as e:
+        print(f"ERROR: {str(e)}")
         raise HTTPException(status_code=500, detail=str(e))
 
 
