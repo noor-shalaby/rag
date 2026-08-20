@@ -18,6 +18,7 @@ origins = [
     "https://cura-medirag.vercel.app",
     "http://localhost:5500",              # For local development (e.g., Live Server)
     "http://localhost:3000",              # For local React/Node development if applicable
+    "null"
 ]
 
 app.add_middleware(
