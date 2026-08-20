@@ -841,3 +841,28 @@ body {
   font-weight: 600;
   text-decoration: none;
 }
+
+.bubble-row {
+  display: flex;
+  gap: 16px;
+  margin-bottom: 20px;
+  align-items: flex-start;
+}
+
+.bubble-row.user-message,
+.bubble-row:has(.avatar-user) {
+  flex-direction: row-reverse;
+  text-align: right;
+}
+
+.bubble-row.user-message .bubble-text,
+.bubble-row:has(.avatar-user) .bubble-text {
+  background: #f1f5f9;
+  border-color: #cbd5e1;
+}
+
+.bubble-row.bot-message,
+.bubble-row:has(.avatar-ai) {
+  flex-direction: row;
+  text-align: left;
+}
