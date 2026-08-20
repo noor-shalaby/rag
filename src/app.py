@@ -1,9 +1,10 @@
-from typing import Any
+from typing import Any, cast
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 from google import genai
-from retrieve import retrieve_medical_context
+from google.genai import types
+from retrieve import retrieve_medical_context, supabase
 
 # Initialize FastAPI app
 app = FastAPI(
@@ -15,8 +16,8 @@ app = FastAPI(
 # Enable CORS for frontend communication
 origins = [
     "https://cura-medirag.vercel.app",
-    "http://localhost:5500",             # For local development (e.g., Live Server)
-    "http://localhost:3000",             # For local React/Node development if applicable
+    "http://localhost:5500",              # For local development (e.g., Live Server)
+    "http://localhost:3000",              # For local React/Node development if applicable
 ]
 
 app.add_middleware(
@@ -84,7 +85,46 @@ async def ask_endpoint(payload: QueryRequest):
         raise HTTPException(status_code=400, detail="Query cannot be empty.")
 
     try:
+        # Generate 3072-dimension embedding for the incoming query
+        emb_response = client.models.embed_content(
+            model="text-embedding-004",
+            contents=query,
+            config=types.EmbedContentConfig(output_dimensionality=3072)
+        )
+        assert emb_response.embeddings is not None and len(emb_response.embeddings) > 0
+        raw_values = emb_response.embeddings[0].values
+        assert raw_values is not None
+        query_embedding = [float(v) for v in raw_values]
+
+        # Check semantic cache using Supabase RPC
+        cache_res = supabase.rpc("match_cache", {
+            "query_embedding": query_embedding,
+            "match_threshold": 0.05,  # distance threshold equivalent to >= 0.95 similarity
+            "match_count": 1
+        }).execute()
+
+        cache_data = cache_res.data
+        if isinstance(cache_data, list) and len(cache_data) > 0:
+            print("⚡ Cache hit! Returning cached response.")
+            matched_row = cast(dict[str, Any], cache_data[0])
+            return {
+                "query": query,
+                "answer": str(matched_row["answer"])
+            }
+
+        # Cache miss: Generate answer via RAG pipeline
         answer_text = generate_medical_answer(query, payload.patient_context)
+
+        # Save to cache ensuring no duplicate if exact/near match was written concurrently
+        try:
+            _ = supabase.table("query_cache").insert({
+                "query": query,
+                "embedding": query_embedding,
+                "answer": answer_text
+            }).execute()
+        except Exception as cache_err:
+            print(f"Cache insertion skipped/failed: {cache_err}")
+
         return {
             "query": query,
             "answer": answer_text
