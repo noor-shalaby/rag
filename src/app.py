@@ -88,7 +88,7 @@ async def ask_endpoint(payload: QueryRequest):
     try:
         # Generate 3072-dimension embedding for the incoming query
         emb_response = client.models.embed_content(
-            model="text-embedding-004",
+            model="text-embedding-2",
             contents=query,
             config=types.EmbedContentConfig(output_dimensionality=3072)
         )
