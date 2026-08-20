@@ -842,27 +842,36 @@ body {
   text-decoration: none;
 }
 
-.bubble-row {
+.msg-row {
   display: flex;
   gap: 16px;
   margin-bottom: 20px;
   align-items: flex-start;
+  width: 100%;
 }
 
-.bubble-row.user-message,
-.bubble-row:has(.avatar-user) {
+.msg-row:not(.msg-ai) {
   flex-direction: row-reverse;
   text-align: right;
 }
 
-.bubble-row.user-message .bubble-text,
-.bubble-row:has(.avatar-user) .bubble-text {
+.msg-row:not(.msg-ai) .msg-text {
   background: #f1f5f9;
   border-color: #cbd5e1;
+  text-align: left;
 }
 
-.bubble-row.bot-message,
-.bubble-row:has(.avatar-ai) {
+.msg-row.msg-ai {
   flex-direction: row;
   text-align: left;
+}
+
+.msg-text {
+  background: white;
+  border: 1px solid var(--ink-200);
+  padding: 12px 16px;
+  border-radius: 12px;
+  font-size: 14px;
+  line-height: 1.5;
+  max-width: 75%;
 }
