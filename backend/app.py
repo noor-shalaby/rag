@@ -4,7 +4,7 @@ from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 from google import genai
 from google.genai import types
-from retrieve import retrieve_medical_context, supabase
+from backend.retrieve import retrieve_medical_context, supabase
 
 # Initialize FastAPI app
 app = FastAPI(
