@@ -1,6 +1,6 @@
 from typing import Any
 from google import genai
-from .retrieve import retrieve_medical_context
+from retrieve import retrieve_medical_context
 
 # Initialize Gemini for text generation and reranking
 client = genai.Client()
