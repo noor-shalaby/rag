@@ -4,7 +4,7 @@ from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 from google import genai
 from google.genai import types
-from retrieve import retrieve_medical_context, supabase
+from src.retrieve import retrieve_medical_context, supabase
 
 # Initialize FastAPI app
 app = FastAPI(
@@ -137,4 +137,4 @@ async def ask_endpoint(payload: QueryRequest):
 
 if __name__ == "__main__":
     import uvicorn
-    uvicorn.run("app:app", host="0.0.0.0", port=8000, reload=True)
+    uvicorn.run("src.app:app", host="0.0.0.0", port=8000, reload=True)
