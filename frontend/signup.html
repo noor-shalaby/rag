@@ -1,312 +1,103 @@
 <!DOCTYPE html>
+
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Create your account — Cura AI</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="icon" type="image/png" href="favicon.png">
+    </head>
+    <body>
 
-  <title>Create your account — Cura AI</title>
-
-  <link rel="stylesheet" href="styles.css">
-  <link rel="icon" type="image/png" href="favicon.png">
-</head>
-
-<body>
-
-<div class="auth-shell">
-
-  <!-- ================= LEFT PANEL ================= -->
-
-  <div class="auth-panel">
-
-    <div class="auth-panel-header">
-
-      <a href="index.html" class="logo">
-
-        <svg
-          class="logo-mark"
-          width="30"
-          height="30"
-          viewBox="0 0 48 48"
-          fill="none"
-        >
-
-          <defs>
-            <linearGradient
-              id="signup-logo-gradient"
-              x1="4"
-              y1="6"
-              x2="44"
-              y2="42"
-              gradientUnits="userSpaceOnUse"
-            >
-              <stop stop-color="#2E6FF2"/>
-              <stop offset="1" stop-color="#14B8A6"/>
-            </linearGradient>
-          </defs>
-
-          <path
-            d="M38 11.5C34.6 7.6 29.7 5 24 5
-            13.5 5 5 13.5 5 24s8.5 19 19 19
-            c5.7 0 10.6-2.6 14-6.5"
-            stroke="url(#signup-logo-gradient)"
-            stroke-width="6"
-            stroke-linecap="round"
-          />
-
-          <path
-            d="M24 16v16M16 24h16"
-            stroke="url(#signup-logo-gradient)"
-            stroke-width="5"
-            stroke-linecap="round"
-          />
-
-        </svg>
-
-        <span
-          class="logo-word"
-          style="font-size: 25px; font-weight: 700;"
-        >
-          Cur<em>a</em> AI
-        </span>
-
-      </a>
-
-    </div>
-
-
-    <!-- ================= FORM ================= -->
-
-    <div class="auth-form-wrap">
-
-      <form
-        class="auth-form"
-        id="signup-form"
-      >
-
-        <h1 class="display">
-          Create your account
-        </h1>
-
-        <p class="sub">
-          Free to start — no card required.
-        </p>
-
-
-        <!-- NAME -->
-
-        <div class="field">
-
-          <label for="name">
-            Name
-          </label>
-
-          <input
-            id="name"
-            name="name"
-            type="text"
-            placeholder="Your name"
-            autocomplete="name"
-            required
-          >
-
+    <div class="auth-shell">
+    <!-- LEFT PANEL -->
+    <div class="auth-panel">
+        <div class="auth-panel-header">
+        <a href="index.html" class="logo">
+            <svg class="logo-mark" width="30" height="30" viewBox="0 0 48 48" fill="none">
+            <defs>
+                <linearGradient id="signup-logo-gradient" x1="4" y1="6" x2="44" y2="42" gradientUnits="userSpaceOnUse">
+                <stop stop-color="#2E6FF2"/>
+                <stop offset="1" stop-color="#14B8A6"/>
+                </linearGradient>
+            </defs>
+            <path d="M38 11.5C34.6 7.6 29.7 5 24 5 13.5 5 5 13.5 5 24s8.5 19 19 19 c5.7 0 10.6-2.6 14-6.5" stroke="url(#signup-logo-gradient)" stroke-width="6" stroke-linecap="round"/>
+            <path d="M24 16v16M16 24h16" stroke="url(#signup-logo-gradient)" stroke-width="5" stroke-linecap="round"/>
+            </svg>
+            <span class="logo-word logo-word-lg">
+            Cur<em>a</em> AI
+            </span>
+        </a>
         </div>
 
+        <!-- FORM -->
+        <div class="auth-form-wrap">
+        <form class="auth-form" id="signup-form">
+            <h1 class="display">Create your account</h1>
+            <p class="sub">Free to start — no card required.</p>
 
-        <!-- EMAIL -->
+            <!-- NAME -->
+            <div class="field">
+            <label for="name">Name</label>
+            <input id="name" name="name" type="text" placeholder="Your name" autocomplete="name" required>
+            </div>
 
-        <div class="field">
+            <!-- EMAIL -->
+            <div class="field">
+            <label for="email">Email</label>
+            <input id="email" name="email" type="email" placeholder="you@example.com" autocomplete="email" required>
+            </div>
 
-          <label for="email">
-            Email
-          </label>
+            <!-- PASSWORD -->
+            <div class="field">
+            <label for="pass">Password</label>
+            <input id="pass" name="password" type="password" placeholder="At least 8 characters" autocomplete="new-password" minlength="8" required>
+            </div>
 
-          <input
-            id="email"
-            name="email"
-            type="email"
-            placeholder="you@example.com"
-            autocomplete="email"
-            required
-          >
+            <!-- TERMS -->
+            <label class="check-row">
+            <input id="terms" type="checkbox" required>
+            <span>
+                I agree to the <a href="#" class="auth-link">Terms</a> and <a href="#" class="auth-link">Privacy Policy</a>.
+            </span>
+            </label>
 
+            <!-- ERROR -->
+            <div id="signup-error" class="auth-alert-error" style="display:none;"></div>
+
+            <!-- SUCCESS -->
+            <div id="signup-success" class="auth-alert-success" style="display:none;"></div>
+
+            <!-- SUBMIT -->
+            <button type="submit" id="signup-submit" class="btn btn-gradient btn-block btn-lg">
+            <span id="signup-submit-text">Create account</span>
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
+                <path d="M5 12h14"/>
+                <path d="M13 5l7 7-7 7"/>
+            </svg>
+            </button>
+        </form>
         </div>
-
-
-        <!-- PASSWORD -->
-
-        <div class="field">
-
-          <label for="pass">
-            Password
-          </label>
-
-          <input
-            id="pass"
-            name="password"
-            type="password"
-            placeholder="At least 8 characters"
-            autocomplete="new-password"
-            minlength="8"
-            required
-          >
-
-        </div>
-
-
-        <!-- TERMS -->
-
-        <label class="check-row">
-
-          <input
-            id="terms"
-            type="checkbox"
-            required
-          >
-
-          <span>
-
-            I agree to the
-
-            <a
-              href="#"
-              style="color:var(--blue);font-weight:600;"
-            >
-              Terms
-            </a>
-
-            and
-
-            <a
-              href="#"
-              style="color:var(--blue);font-weight:600;"
-            >
-              Privacy Policy
-            </a>.
-
-          </span>
-
-        </label>
-
-
-        <!-- ERROR -->
-
-        <div
-          id="signup-error"
-          style="
-            display:none;
-            margin-top:14px;
-            padding:12px;
-            border-radius:10px;
-            background:#fff1f2;
-            color:#be123c;
-            font-size:13px;
-          "
-        ></div>
-
-
-        <!-- SUCCESS -->
-
-        <div
-          id="signup-success"
-          style="
-            display:none;
-            margin-top:14px;
-            padding:12px;
-            border-radius:10px;
-            background:#ecfdf5;
-            color:#047857;
-            font-size:13px;
-          "
-        ></div>
-
-
-        <!-- SUBMIT -->
-
-        <button
-          type="submit"
-          id="signup-submit"
-          class="btn btn-gradient btn-block btn-lg"
-        >
-
-          <span id="signup-submit-text">
-            Create account
-          </span>
-
-          <svg
-            width="14"
-            height="14"
-            viewBox="0 0 24 24"
-            fill="none"
-            stroke="currentColor"
-            stroke-width="2"
-            stroke-linecap="round"
-          >
-
-            <path d="M5 12h14"/>
-            <path d="M13 5l7 7-7 7"/>
-
-          </svg>
-
-        </button>
-
-      </form>
-
     </div>
 
-  </div>
-
-
-  <!-- ================= RIGHT VISUAL ================= -->
-
-  <div class="auth-visual">
-
-    <div class="auth-visual-inner">
-
-      <span class="eyebrow">
-        Cura AI
-      </span>
-
-      <h2 class="display">
-        An assistant that shows its work.
-      </h2>
-
-      <p>
-        Ask a clinical question or describe a case.
-        Get a structured answer with the reasoning laid out —
-        so you always know why, not just what.
-      </p>
-
+    <!-- RIGHT VISUAL -->
+    <div class="auth-visual">
+        <div class="auth-visual-inner">
+        <span class="eyebrow">Cura AI</span>
+        <h2 class="display">An assistant that shows its work.</h2>
+        <p>Ask a clinical question or describe a case. Get a structured answer with the reasoning laid out — so you always know why, not just what.</p>
+        </div>
+    </div>
     </div>
 
-  </div>
+    <!-- SIGN IN LINK -->
+    <div class="auth-swap-wrap">
+    <span class="auth-swap">
+        Already have an account? <a href="signup.html">Sign in</a>
+    </span>
+    </div>
 
-</div>
-
-
-<!-- ================= SIGN IN LINK ================= -->
-
-<div
-  style="
-    width:100%;
-    text-align:center;
-    padding:20px 24px 36px;
-  "
->
-
-  <span class="auth-swap">
-
-    Already have an account?
-
-    <a href="signup.html">
-      Sign in
-    </a>
-
-  </span>
-
-</div>
-
-
-<script src="script.js"></script>
-
-</body>
+    <script src="script.js"></script>
+    </body>
 </html>

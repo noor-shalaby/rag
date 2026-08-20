@@ -1,698 +1,228 @@
 <!DOCTYPE html>
+
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cura AI — Clinical Chatbot</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="icon" type="image/png" href="favicon.png">
+    </head>
+    <body>
 
-  <title>Cura AI — Clinical Chatbot</title>
-
-  <link rel="stylesheet" href="styles.css">
-  <link rel="icon" type="image/png" href="favicon.png">
-</head>
-
-<body>
-
-<header class="site-header">
-  <div class="wrap" style="display:flex;align-items:center;">
-
-    <a href="index.html" class="logo" aria-label="Cura AI Home">
-
-      <svg class="logo-mark" width="30" height="30" viewBox="0 0 48 48" fill="none">
-        <defs>
-          <linearGradient id="g1" x1="4" y1="6" x2="44" y2="42"
-            gradientUnits="userSpaceOnUse">
-            <stop stop-color="#2E6FF2"/>
-            <stop offset="1" stop-color="#14B8A6"/>
-          </linearGradient>
-        </defs>
-
-        <path
-          d="M38 11.5C34.6 7.6 29.7 5 24 5
-          13.5 5 5 13.5 5 24s8.5 19 19 19
-          c5.7 0 10.6-2.6 14-6.5"
-          stroke="url(#g1)"
-          stroke-width="6"
-          stroke-linecap="round"
-        />
-
-        <path
-          d="M24 16v16M16 24h16"
-          stroke="url(#g1)"
-          stroke-width="5"
-          stroke-linecap="round"
-        />
-      </svg>
-
-      <span class="logo-word">
-        Cur<em>a</em> AI
-      </span>
-
-    </a>
-
-    <nav class="site-nav">
-      <a href="#capabilities">Capabilities</a>
-      <a href="#how">How it works</a>
-      <a href="#faq">FAQ</a>
-    </nav>
-
-    <div class="header-actions">
-      <a href="signup.html" class="btn btn-ghost btn-sm">
-        Sign in
-      </a>
-
-      <a href="signup.html" class="btn btn-gradient btn-sm">
-        Start free
-      </a>
-    </div>
-
-  </div>
-</header>
-
-
-<section class="hero">
-
-  <div class="wrap hero-grid">
-
-    <div>
-
-      <span class="eyebrow">
-        Clinical assistant
-      </span>
-
-      <h1 class="display">
-        Ask a question.<br>
-        Get an answer you can
-        <span class="accent">check.</span>
-      </h1>
-
-      <p class="lede">
-        Cura AI turns a clinical question or a case description
-        into a clear, structured answer — with reasoning and
-        sources laid out, not hidden behind the reply.
-      </p>
-
-      <div class="hero-ctas">
-
-        <a href="signup.html"
-           class="btn btn-gradient btn-lg">
-
-          Start free
-
-          <svg width="15" height="15"
-               viewBox="0 0 24 24"
-               fill="none"
-               stroke="currentColor"
-               stroke-width="2"
-               stroke-linecap="round">
-
-            <path d="M5 12h14"/>
-            <path d="M13 5l7 7-7 7"/>
-
-          </svg>
-
+    <header class="site-header">
+    <div class="wrap site-header-wrap">
+        <a href="index.html" class="logo" aria-label="Cura AI Home">
+        <svg class="logo-mark" width="30" height="30" viewBox="0 0 48 48" fill="none">
+            <defs>
+            <linearGradient id="g1" x1="4" y1="6" x2="44" y2="42" gradientUnits="userSpaceOnUse">
+                <stop stop-color="#2E6FF2"/>
+                <stop offset="1" stop-color="#14B8A6"/>
+            </linearGradient>
+            </defs>
+            <path d="M38 11.5C34.6 7.6 29.7 5 24 5 13.5 5 5 13.5 5 24s8.5 19 19 19 c5.7 0 10.6-2.6 14-6.5" stroke="url(#g1)" stroke-width="6" stroke-linecap="round"/>
+            <path d="M24 16v16M16 24h16" stroke="url(#g1)" stroke-width="5" stroke-linecap="round"/>
+        </svg>
+        <span class="logo-word">Cur<em>a</em> AI</span>
         </a>
-
-
-        <a href="signup.html"
-           class="btn btn-ghost btn-lg">
-
-          <svg width="12"
-               height="12"
-               viewBox="0 0 24 24"
-               fill="currentColor">
-
-            <path d="M6 4v16l14-8z"/>
-
-          </svg>
-
-          See it in action
-
-        </a>
-
-      </div>
-
+        <nav class="site-nav">
+        <a href="#capabilities">Capabilities</a>
+        <a href="#how">How it works</a>
+        <a href="#faq">FAQ</a>
+        </nav>
+        <div class="header-actions">
+        <a href="signup.html" class="btn btn-ghost btn-sm">Sign in</a>
+        <a href="signup.html" class="btn btn-gradient btn-sm">Start free</a>
+        </div>
     </div>
+    </header>
 
-
-    <div class="chat-card">
-
-      <div class="chat-card-top">
-
-        <div class="dots">
-          <span></span>
-          <span></span>
-          <span></span>
-        </div>
-
-        <span class="tag mono">
-          cura.chat · preview
-        </span>
-
-      </div>
-
-
-      <div class="chat-card-body">
-
-        <div class="bubble-row">
-
-          <div class="avatar avatar-user">
-            U
-          </div>
-
-          <div class="bubble-text">
-            Ask a clinical question and get a structured,
-            evidence-aware response.
-          </div>
-
-        </div>
-
-
-        <div class="bubble-row">
-
-          <div class="avatar avatar-ai">
-
-            <svg width="14"
-                 height="14"
-                 viewBox="0 0 24 24"
-                 fill="none"
-                 stroke="currentColor"
-                 stroke-width="2"
-                 stroke-linecap="round">
-
-              <path d="M3 12h4l2-6 4 12 2-6h6"/>
-
+    <section class="hero">
+    <div class="wrap hero-grid">
+        <div>
+        <span class="eyebrow">Clinical assistant</span>
+        <h1 class="display">
+            Ask a question.<br>
+            Get an answer you can <span class="accent">check.</span>
+        </h1>
+        <p class="lede">
+            Cura AI turns a clinical question or a case description into a clear, structured answer — with reasoning and sources laid out, not hidden behind the reply.
+        </p>
+        <div class="hero-ctas">
+            <a href="signup.html" class="btn btn-gradient btn-lg">
+            Start free
+            <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
+                <path d="M5 12h14"/>
+                <path d="M13 5l7 7-7 7"/>
             </svg>
-
-          </div>
-
-          <div style="flex:1;">
-
-            <div class="bubble-text">
-              Cura AI organizes the answer,
-              explains the reasoning, and keeps
-              the conversation context.
+            </a>
+            <a href="signup.html" class="btn btn-ghost btn-lg">
+            <svg width="12" height="12" viewBox="0 0 24 24" fill="currentColor">
+                <path d="M6 4v16l14-8z"/>
+            </svg>
+            See it in action
+            </a>
+        </div>
+        </div>
+        <div class="chat-card">
+        <div class="chat-card-top">
+            <div class="dots">
+            <span></span><span></span><span></span>
             </div>
-
-            <div class="pill-list">
-
-              <div class="pill">
-                ✓ Structured reasoning
-              </div>
-
-              <div class="pill">
-                ✓ Retrieval-backed answers
-              </div>
-
-              <div class="pill">
-                ✓ Conversation history
-              </div>
-
+            <span class="tag mono">cura.chat · preview</span>
+        </div>
+        <div class="chat-card-body">
+            <div class="bubble-row">
+            <div class="avatar avatar-user">U</div>
+            <div class="bubble-text">Ask a clinical question and get a structured, evidence-aware response.</div>
             </div>
-
-          </div>
-
+            <div class="bubble-row">
+            <div class="avatar avatar-ai">
+                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
+                <path d="M3 12h4l2-6 4 12 2-6h6"/>
+                </svg>
+            </div>
+            <div class="bubble-content-flex">
+                <div class="bubble-text">Cura AI organizes the answer, explains the reasoning, and keeps the conversation context.</div>
+                <div class="pill-list">
+                <div class="pill">✓ Structured reasoning</div>
+                <div class="pill">✓ Retrieval-backed answers</div>
+                <div class="pill">✓ Conversation history</div>
+                </div>
+            </div>
+            </div>
         </div>
-
-      </div>
-
-    </div>
-
-  </div>
-
-</section>
-
-
-<section class="section" id="capabilities">
-
-  <div class="wrap">
-
-    <div class="section-head">
-
-      <span class="eyebrow">
-        What it does
-      </span>
-
-      <h2 class="display">
-        One assistant, the whole conversation.
-      </h2>
-
-      <p>
-        From a first question to a structured response,
-        Cura AI keeps the thread instead of answering
-        in isolation.
-      </p>
-
-    </div>
-
-
-    <div class="feature-grid">
-
-      <div class="feature">
-        <div class="feature-icon">✦</div>
-        <h3>Structured reasoning</h3>
-        <p>
-          Answers arrive organized and easy to review.
-        </p>
-      </div>
-
-
-      <div class="feature">
-        <div class="feature-icon">⌕</div>
-        <h3>Sources you can open</h3>
-        <p>
-          Retrieval-backed answers can reference
-          their underlying sources.
-        </p>
-      </div>
-
-
-      <div class="feature">
-        <div class="feature-icon">▤</div>
-        <h3>Case write-ups</h3>
-        <p>
-          Keep useful conversations organized
-          for later review.
-        </p>
-      </div>
-
-
-      <div class="feature">
-        <div class="feature-icon">◫</div>
-        <h3>Reports and files</h3>
-        <p>
-          The interface is designed to support
-          future document workflows.
-        </p>
-      </div>
-
-
-      <div class="feature">
-        <div class="feature-icon">↻</div>
-        <h3>Conversation context</h3>
-        <p>
-          Follow-up questions stay inside the
-          same conversation.
-        </p>
-      </div>
-
-
-      <div class="feature">
-        <div class="feature-icon">✓</div>
-        <h3>Careful use</h3>
-        <p>
-          Outputs are designed to support,
-          not replace, professional judgment.
-        </p>
-      </div>
-
-    </div>
-
-  </div>
-
-</section>
-
-
-<section class="band-dark section" id="how">
-
-  <div class="wrap"
-       style="max-width:760px;text-align:center;">
-
-    <span class="eyebrow">
-      How it works
-    </span>
-
-    <h2 class="display"
-        style="font-size:clamp(28px,3.6vw,40px);margin-top:12px;">
-      Three steps, one conversation.
-    </h2>
-
-
-    <div style="
-      display:grid;
-      grid-template-columns:repeat(3,1fr);
-      gap:24px;
-      margin-top:44px;
-      text-align:left;
-    ">
-
-      <div>
-
-        <div class="mono"
-             style="color:var(--teal);font-size:12px;">
-          01
         </div>
-
-        <h3 style="
-          margin-top:8px;
-          font-family:'Fraunces',serif;
-          font-weight:500;
-          font-size:17px;
-        ">
-          Describe the case
-        </h3>
-
-        <p style="
-          margin-top:8px;
-          font-size:13px;
-          color:rgba(255,255,255,.65);
-          line-height:1.6;
-        ">
-          Ask your question in natural language.
-        </p>
-
-      </div>
-
-
-      <div>
-
-        <div class="mono"
-             style="color:var(--teal);font-size:12px;">
-          02
-        </div>
-
-        <h3 style="
-          margin-top:8px;
-          font-family:'Fraunces',serif;
-          font-weight:500;
-          font-size:17px;
-        ">
-          Retrieve and reason
-        </h3>
-
-        <p style="
-          margin-top:8px;
-          font-size:13px;
-          color:rgba(255,255,255,.65);
-          line-height:1.6;
-        ">
-          The backend can retrieve relevant medical
-          knowledge before generating the response.
-        </p>
-
-      </div>
-
-
-      <div>
-
-        <div class="mono"
-             style="color:var(--teal);font-size:12px;">
-          03
-        </div>
-
-        <h3 style="
-          margin-top:8px;
-          font-family:'Fraunces',serif;
-          font-weight:500;
-          font-size:17px;
-        ">
-          Review the response
-        </h3>
-
-        <p style="
-          margin-top:8px;
-          font-size:13px;
-          color:rgba(255,255,255,.65);
-          line-height:1.6;
-        ">
-          Review the result and continue the conversation.
-        </p>
-
-      </div>
-
     </div>
+    </section>
 
-  </div>
-
-</section>
-
-
-<section class="section" id="faq">
-
-  <div class="wrap" style="max-width:680px;">
-
-    <div class="section-head">
-
-      <span class="eyebrow">
-        Questions
-      </span>
-
-      <h2 class="display">
-        Before you start.
-      </h2>
-
-    </div>
-
-
-    <div id="faq-list">
-
-      <div class="faq-item open">
-
-        <button class="faq-q">
-          Who is Cura AI for?
-
-          <svg width="16"
-               height="16"
-               viewBox="0 0 24 24"
-               fill="none"
-               stroke="currentColor"
-               stroke-width="1.75">
-
-            <path d="M12 5v14"/>
-            <path d="M5 12h14"/>
-
-          </svg>
-
-        </button>
-
-        <div class="faq-a">
-          Cura AI is designed as a clinical support
-          interface for clinicians and trainees.
+    <section class="section" id="capabilities">
+    <div class="wrap">
+        <div class="section-head">
+        <span class="eyebrow">What it does</span>
+        <h2 class="display">One assistant, the whole conversation.</h2>
+        <p>From a first question to a structured response, Cura AI keeps the thread instead of answering in isolation.</p>
         </div>
-
-      </div>
-
-
-      <div class="faq-item">
-
-        <button class="faq-q">
-          Does it replace clinical judgment?
-
-          <svg width="16"
-               height="16"
-               viewBox="0 0 24 24"
-               fill="none"
-               stroke="currentColor"
-               stroke-width="1.75">
-
-            <path d="M12 5v14"/>
-            <path d="M5 12h14"/>
-
-          </svg>
-
-        </button>
-
-        <div class="faq-a">
-          No. Outputs should be reviewed by
-          a qualified clinician.
+        <div class="feature-grid">
+        <div class="feature"><div class="feature-icon">✦</div><h3>Structured reasoning</h3><p>Answers arrive organized and easy to review.</p></div>
+        <div class="feature"><div class="feature-icon">⌕</div><h3>Sources you can open</h3><p>Retrieval-backed answers can reference their underlying sources.</p></div>
+        <div class="feature"><div class="feature-icon">▤</div><h3>Case write-ups</h3><p>Keep useful conversations organized for later review.</p></div>
+        <div class="feature"><div class="feature-icon">◫</div><h3>Reports and files</h3><p>The interface is designed to support future document workflows.</p></div>
+        <div class="feature"><div class="feature-icon">↻</div><h3>Conversation context</h3><p>Follow-up questions stay inside the same conversation.</p></div>
+        <div class="feature"><div class="feature-icon">✓</div><h3>Careful use</h3><p>Outputs are designed to support, not replace, professional judgment.</p></div>
         </div>
+    </div>
+    </section>
 
-      </div>
-
-
-      <div class="faq-item">
-
-        <button class="faq-q">
-          Can conversations be saved?
-
-          <svg width="16"
-               height="16"
-               viewBox="0 0 24 24"
-               fill="none"
-               stroke="currentColor"
-               stroke-width="1.75">
-
-            <path d="M12 5v14"/>
-            <path d="M5 12h14"/>
-
-          </svg>
-
-        </button>
-
-        <div class="faq-a">
-          Authenticated conversations and messages
-          can be persisted in the application database.
+    <section class="band-dark section" id="how">
+    <div class="wrap how-wrap">
+        <span class="eyebrow">How it works</span>
+        <h2 class="display how-title">Three steps, one conversation.</h2>
+        <div class="how-grid">
+        <div>
+            <div class="mono how-step-num">01</div>
+            <h3 class="how-step-heading">Describe the case</h3>
+            <p class="how-step-desc">Ask your question in natural language.</p>
         </div>
-
-      </div>
-
-
-      <div class="faq-item">
-
-        <button class="faq-q">
-          How do I get started?
-
-          <svg width="16"
-               height="16"
-               viewBox="0 0 24 24"
-               fill="none"
-               stroke="currentColor"
-               stroke-width="1.75">
-
-            <path d="M12 5v14"/>
-            <path d="M5 12h14"/>
-
-          </svg>
-
-        </button>
-
-        <div class="faq-a">
-          Create an account and start a conversation.
+        <div>
+            <div class="mono how-step-num">02</div>
+            <h3 class="how-step-heading">Retrieve and reason</h3>
+            <p class="how-step-desc">The backend can retrieve relevant medical knowledge before generating the response.</p>
         </div>
-
-      </div>
-
+        <div>
+            <div class="mono how-step-num">03</div>
+            <h3 class="how-step-heading">Review the response</h3>
+            <p class="how-step-desc">Review the result and continue the conversation.</p>
+        </div>
+        </div>
     </div>
+    </section>
 
-  </div>
-
-</section>
-
-
-<section class="band-dark" style="padding:80px 0;">
-
-  <div class="wrap"
-       style="max-width:640px;text-align:center;">
-
-    <h2 class="display"
-        style="font-size:clamp(30px,4vw,44px);">
-      Start the conversation.
-    </h2>
-
-    <p style="
-      margin-top:14px;
-      color:rgba(255,255,255,.68);
-      font-size:15px;
-    ">
-      Create your account and get started.
-    </p>
-
-    <div style="margin-top:26px;">
-
-      <a href="signup.html"
-         class="btn btn-lg"
-         style="background:#fff;color:var(--ink-900);">
-
-        Start free
-
-      </a>
-
+    <section class="section" id="faq">
+    <div class="wrap faq-wrap">
+        <div class="section-head">
+        <span class="eyebrow">Questions</span>
+        <h2 class="display">Before you start.</h2>
+        </div>
+        <div id="faq-list">
+        <div class="faq-item open">
+            <button class="faq-q">
+            Who is Cura AI for?
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75"><path d="M12 5v14"/><path d="M5 12h14"/></svg>
+            </button>
+            <div class="faq-a">Cura AI is designed as a clinical support interface for clinicians and trainees.</div>
+        </div>
+        <div class="faq-item">
+            <button class="faq-q">
+            Does it replace clinical judgment?
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75"><path d="M12 5v14"/><path d="M5 12h14"/></svg>
+            </button>
+            <div class="faq-a">No. Outputs should be reviewed by a qualified clinician.</div>
+        </div>
+        <div class="faq-item">
+            <button class="faq-q">
+            Can conversations be saved?
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75"><path d="M12 5v14"/><path d="M5 12h14"/></svg>
+            </button>
+            <div class="faq-a">Authenticated conversations and messages can be persisted in the application database.</div>
+        </div>
+        <div class="faq-item">
+            <button class="faq-q">
+            How do I get started?
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75"><path d="M12 5v14"/><path d="M5 12h14"/></svg>
+            </button>
+            <div class="faq-a">Create an account and start a conversation.</div>
+        </div>
+        </div>
     </div>
+    </section>
 
-  </div>
-
-</section>
-
-
-<footer class="site-footer">
-
-  <div class="wrap">
-
-    <div class="footer-grid">
-
-      <div>
-
-        <span class="logo on-dark">
-          <span class="logo-word">
-            Cur<em>a</em> AI
-          </span>
-        </span>
-
-        <p style="
-          margin-top:12px;
-          font-size:12.5px;
-          max-width:260px;
-          line-height:1.6;
-        ">
-          A clinical support interface designed
-          to make AI-assisted answers easier to review.
-        </p>
-
-      </div>
-
-
-      <div>
-
-        <h4>Product</h4>
-
-        <ul>
-          <li>
-            <a href="signup.html">Chat</a>
-          </li>
-
-          <li>
-            <a href="signup.html">Sign up</a>
-          </li>
-
-          <li>
-            <a href="#capabilities">Capabilities</a>
-          </li>
-        </ul>
-
-      </div>
-
-
-      <div>
-
-        <h4>Company</h4>
-
-        <ul>
-          <li>
-            <a href="#">About</a>
-          </li>
-
-          <li>
-            <a href="#">Contact</a>
-          </li>
-        </ul>
-
-      </div>
-
-
-      <div>
-
-        <h4>Legal</h4>
-
-        <ul>
-          <li>
-            <a href="#">Privacy</a>
-          </li>
-
-          <li>
-            <a href="#">Terms</a>
-          </li>
-        </ul>
-
-      </div>
-
+    <section class="band-dark cta-banner">
+    <div class="wrap cta-banner-wrap">
+        <h2 class="display cta-banner-title">Start the conversation.</h2>
+        <p class="cta-banner-desc">Create your account and get started.</p>
+        <div class="cta-banner-btn-wrap">
+        <a href="signup.html" class="btn btn-lg cta-white-btn">Start free</a>
+        </div>
     </div>
+    </section>
 
-
-    <div class="footer-bottom">
-
-      <span>
-        © 2026 Cura AI.
-        For informational support only —
-        not a substitute for professional medical judgment.
-      </span>
-
+    <footer class="site-footer">
+    <div class="wrap">
+        <div class="footer-grid">
+        <div>
+            <span class="logo on-dark"><span class="logo-word">Cur<em>a</em> AI</span></span>
+            <p class="footer-desc">A clinical support interface designed to make AI-assisted answers easier to review.</p>
+        </div>
+        <div>
+            <h4>Product</h4>
+            <ul>
+            <li><a href="signup.html">Chat</a></li>
+            <li><a href="signup.html">Sign up</a></li>
+            <li><a href="#capabilities">Capabilities</a></li>
+            </ul>
+        </div>
+        <div>
+            <h4>Company</h4>
+            <ul>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+            </ul>
+        </div>
+        <div>
+            <h4>Legal</h4>
+            <ul>
+            <li><a href="#">Privacy</a></li>
+            <li><a href="#">Terms</a></li>
+            </ul>
+        </div>
+        </div>
+        <div class="footer-bottom">
+        <span>© 2026 Cura AI. For informational support only — not a substitute for professional medical judgment.</span>
+        </div>
     </div>
+    </footer>
 
-  </div>
-
-</footer>
-
-
-<script src="script.js"></script>
-
-</body>
+    <script src="script.js"></script>
+    </body>
 </html>
