@@ -1,0 +1,465 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+  <meta charset="UTF-8">
+
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1.0"
+  >
+
+  <title>Cura AI — Chat</title>
+
+  <link
+    rel="stylesheet"
+    href="styles.css"
+  >
+  <link rel="icon" type="image/png" href="favicon.png">
+
+</head>
+
+
+<body>
+
+<div class="app-shell">
+
+
+  <!-- =====================================================
+       SIDEBAR
+  ====================================================== -->
+
+  <aside
+    class="app-sidebar"
+    id="sidebar"
+  >
+
+    <div class="sidebar-top">
+
+
+      <!-- LOGO -->
+
+      <a
+        href="index.html"
+        class="logo"
+      >
+
+        <svg
+          class="logo-mark"
+          width="26"
+          height="26"
+          viewBox="0 0 48 48"
+          fill="none"
+        >
+
+          <defs>
+
+            <linearGradient
+              id="chat-logo-gradient"
+              x1="4"
+              y1="6"
+              x2="44"
+              y2="42"
+              gradientUnits="userSpaceOnUse"
+            >
+
+              <stop stop-color="#2E6FF2"/>
+              <stop offset="1" stop-color="#14B8A6"/>
+
+            </linearGradient>
+
+          </defs>
+
+
+          <path
+            d="M38 11.5C34.6 7.6 29.7 5 24 5
+            13.5 5 5 13.5 5 24s8.5 19 19 19
+            c5.7 0 10.6-2.6 14-6.5"
+            stroke="url(#chat-logo-gradient)"
+            stroke-width="6"
+            stroke-linecap="round"
+          />
+
+
+          <path
+            d="M24 16v16M16 24h16"
+            stroke="url(#chat-logo-gradient)"
+            stroke-width="5"
+            stroke-linecap="round"
+          />
+
+        </svg>
+
+
+        <span
+          class="logo-word"
+          style="
+            font-size:20px;
+            font-weight:700;
+          "
+        >
+          Cur<em>a</em> AI
+        </span>
+
+      </a>
+
+
+      <!-- NEW CONVERSATION -->
+
+      <button
+        class="btn btn-gradient btn-block btn-sm"
+        style="margin-top:14px;"
+        id="new-chat"
+        type="button"
+      >
+
+        <svg
+          width="13"
+          height="13"
+          viewBox="0 0 24 24"
+          fill="none"
+          stroke="currentColor"
+          stroke-width="2"
+          stroke-linecap="round"
+        >
+
+          <path d="M12 5v14"/>
+          <path d="M5 12h14"/>
+
+        </svg>
+
+        New conversation
+
+      </button>
+
+
+      <!-- SEARCH -->
+
+      <div class="sidebar-search">
+
+        <svg
+          width="13"
+          height="13"
+          viewBox="0 0 24 24"
+          fill="none"
+          stroke="currentColor"
+          stroke-width="2"
+          stroke-linecap="round"
+        >
+
+          <circle
+            cx="11"
+            cy="11"
+            r="7"
+          />
+
+          <path
+            d="m20 20-3.5-3.5"
+          />
+
+        </svg>
+
+
+        <input
+          id="conversation-search"
+          type="text"
+          placeholder="Search conversations"
+        >
+
+      </div>
+
+    </div>
+
+
+    <!-- =====================================================
+         CONVERSATIONS
+    ====================================================== -->
+
+    <div
+      class="thread-list"
+      id="thread-list"
+    >
+
+      <!-- JS loads conversations here -->
+
+      <div
+        id="conversation-loading"
+        style="
+          padding:14px;
+          font-size:12px;
+          color:var(--ink-600);
+        "
+      >
+        No conversations yet.
+      </div>
+
+    </div>
+
+
+    <!-- =====================================================
+         USER
+    ====================================================== -->
+
+    <div class="sidebar-bottom">
+
+      <div class="sidebar-user">
+
+        <div
+          class="avatar"
+          id="user-avatar"
+        >
+          U
+        </div>
+
+
+        <div>
+
+          <div
+            class="sidebar-user-name"
+            id="sidebar-user-name"
+          >
+            User
+          </div>
+
+
+          <div
+            class="sidebar-user-email"
+            id="sidebar-user-email"
+          >
+            Guest
+          </div>
+
+        </div>
+
+      </div>
+
+    </div>
+
+  </aside>
+
+
+  <!-- =====================================================
+       MAIN
+  ====================================================== -->
+
+  <main class="app-main">
+
+
+    <!-- TOPBAR -->
+
+    <div class="app-topbar">
+
+
+      <button
+        class="icon-btn"
+        id="sidebar-toggle"
+        style="display:none;"
+        type="button"
+      >
+
+        <svg
+          width="16"
+          height="16"
+          viewBox="0 0 24 24"
+          fill="none"
+          stroke="currentColor"
+          stroke-width="2"
+          stroke-linecap="round"
+        >
+
+          <path d="M3 6h18"/>
+          <path d="M3 12h18"/>
+          <path d="M3 18h18"/>
+
+        </svg>
+
+      </button>
+
+
+      <span
+        id="conversation-title"
+        style="
+          font-size:13px;
+          font-weight:600;
+        "
+      >
+        New conversation
+      </span>
+
+
+      <div
+        class="model-chip"
+        style="margin-left:auto;"
+      >
+
+        <span class="dot"></span>
+
+        Cura AI
+
+      </div>
+
+    </div>
+
+
+    <!-- =====================================================
+         CHAT AREA
+    ====================================================== -->
+
+    <div
+      class="chat-scroll"
+      id="chat-scroll"
+    >
+
+      <div
+        class="chat-inner"
+        id="chat-inner"
+      >
+
+        <!-- Empty state -->
+
+        <div
+          id="chat-empty"
+          style="
+            min-height:60vh;
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            text-align:center;
+            color:var(--ink-600);
+            padding:30px;
+          "
+        >
+
+          <div>
+
+            <div
+              style="
+                font-size:28px;
+                font-weight:700;
+                margin-bottom:10px;
+              "
+            >
+              Cura AI
+            </div>
+
+            <div style="font-size:14px;">
+              Ask a clinical question or describe a case.
+            </div>
+
+          </div>
+
+        </div>
+
+      </div>
+
+    </div>
+
+
+    <!-- =====================================================
+         COMPOSER
+    ====================================================== -->
+
+    <div class="composer-wrap">
+
+
+      <div class="composer">
+
+
+        <textarea
+          id="composer-input"
+          placeholder="Ask a clinical question or describe a case…"
+          rows="1"
+        ></textarea>
+
+
+        <div class="composer-actions">
+
+
+          <!-- ATTACH -->
+
+          <button
+            class="icon-btn"
+            id="attach-btn"
+            title="Attach"
+            type="button"
+          >
+
+            <svg
+              width="14"
+              height="14"
+              viewBox="0 0 24 24"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="2"
+              stroke-linecap="round"
+            >
+
+              <path
+                d="M21.44 11.05
+                12.25 20.24a5 5 0 0 1-7.07-7.07
+                l9.19-9.19a3.5 3.5 0 0 1 4.95 4.95
+                L10.13 17.13a2 2 0 0 1-2.83-2.83
+                l8.49-8.48"
+              />
+
+            </svg>
+
+          </button>
+
+
+          <!-- SEND -->
+
+          <button
+            class="send-btn"
+            id="send-btn"
+            title="Send"
+            type="button"
+          >
+
+            <svg
+              width="15"
+              height="15"
+              viewBox="0 0 24 24"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="2"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+            >
+
+              <path
+                d="m4 12 16-8-6 18-3-8-7-2z"
+              />
+
+            </svg>
+
+          </button>
+
+
+        </div>
+
+      </div>
+
+
+      <div class="composer-hint">
+
+        Cura AI is a support tool.
+        All outputs need review by a qualified clinician
+        before use in patient care.
+
+      </div>
+
+
+    </div>
+
+  </main>
+
+</div>
+
+
+<script src="script.js"></script>
+
+</body>
+
+</html>
