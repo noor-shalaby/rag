@@ -55,6 +55,11 @@ def generate_medical_answer(query: str, patient_context: str = "") -> str:
     You are a professional, empathetic, and rigorous clinical AI assistant.
     A user is asking a health-related question. Provide a comprehensive, expertly structured response.
 
+    You must answer the user's query EXCLUSIVELY using the provided context from medical literature.
+    If the provided context does not contain enough information to fully and accurately answer the question, you MUST reply with:
+    "I am sorry, but I do not have enough verified medical literature in my knowledge base to answer this question safely."
+    Do not use outside knowledge or hallucinate information not present in the context.
+
     Patient context:
     {patient_context if patient_context.strip() else "No additional patient information was provided."}
 
