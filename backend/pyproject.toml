@@ -19,3 +19,6 @@ dependencies = [
     "pydantic",
     "httpx"
 ]
+
+[tool.setuptools]
+py-modules = ["app", "retrieve", "config", "cli_test"]
