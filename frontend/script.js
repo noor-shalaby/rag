@@ -1,11 +1,8 @@
 /* ===========================================================
-   Cura AI — front-end behavior, wired to the SAME backend
-   configuration as your working chatbot (2.js):
-   local -> http://localhost:8000/ask
-   prod  -> https://rag-c3793ebc.fastapicloud.dev/ask
+   Cura AI — front-end behavior, wired to the backend
 =========================================================== */
 
-// ---------- Backend endpoint (identical logic to your working app) ----------
+// ---------- Backend endpoint configuration ----------
 const isLocal = window.location.hostname === "localhost" || window.location.hostname === "127.0.0.1";
 const BACKEND_URL = isLocal
   ? "http://localhost:8000/ask"
@@ -25,7 +22,7 @@ document.querySelectorAll(".faq-item").forEach((item) => {
 });
 
 /* =========================================================
-   Sign up (signup.html) — no auth backend yet, go straight to chat
+   Sign up (signup.html) — go straight to chat
 ========================================================= */
 const signupForm = document.getElementById("signup-form");
 if (signupForm) {
@@ -36,15 +33,13 @@ if (signupForm) {
 }
 
 /* =========================================================
-   Chat (chat.html) — talks to BACKEND_URL exactly like 2.js
+   Chat (chat.html) — talks to BACKEND_URL
 ========================================================= */
 const chatInner = document.getElementById("chat-inner");
 const chatScroll = document.getElementById("chat-scroll");
 const composerInput = document.getElementById("composer-input");
 const sendBtn = document.getElementById("send-btn");
 const newChatBtn = document.getElementById("new-chat");
-const sidebar = document.getElementById("sidebar");
-const sidebarToggle = document.getElementById("sidebar-toggle");
 const conversationTitle = document.getElementById("conversation-title");
 
 const EMPTY_STATE_HTML = `
@@ -102,7 +97,6 @@ async function handleSend() {
   );
 
   try {
-    // Same request shape as your working 2.js
     const response = await fetch(BACKEND_URL, {
       method: "POST",
       headers: { "Content-Type": "application/json" },
@@ -143,24 +137,26 @@ if (newChatBtn) {
   });
 }
 
-// Sidebar toggle on small screens
-function syncSidebarToggle() {
-  if (!sidebarToggle) return;
-  sidebarToggle.style.display = window.innerWidth <= 820 ? "grid" : "none";
-}
-if (sidebarToggle) {
-  sidebarToggle.addEventListener("click", () => sidebar.classList.toggle("open"));
-  window.addEventListener("resize", syncSidebarToggle);
-  syncSidebarToggle();
-}
-
+/* =========================================================
+   Mobile Sidebar Toggle Wiring
+========================================================= */
 document.addEventListener("DOMContentLoaded", () => {
-  const menuBtn = document.querySelector(".app-topbar .icon-btn, .app-topbar button, .hamburger-btn"); // Adjust selector to match your hamburger button class/element
-  const sidebar = document.querySelector(".app-sidebar");
+  const sidebarElement = document.querySelector(".app-sidebar");
+  const toggleBtn = document.querySelector("#sidebar-toggle") || document.querySelector(".app-topbar .icon-btn");
 
-  if (menuBtn && sidebar) {
-    menuBtn.addEventListener("click", () => {
-      sidebar.classList.toggle("open");
+  if (toggleBtn && sidebarElement) {
+    toggleBtn.addEventListener("click", (e) => {
+      e.stopPropagation();
+      sidebarElement.classList.toggle("open");
+    });
+
+    // Close sidebar when clicking outside on mobile views
+    document.addEventListener("click", (e) => {
+      if (window.innerWidth <= 768 && sidebarElement.classList.contains("open")) {
+        if (!sidebarElement.contains(e.target) && !toggleBtn.contains(e.target)) {
+          sidebarElement.classList.remove("open");
+        }
+      }
     });
   }
 });
