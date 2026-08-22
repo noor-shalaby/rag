@@ -920,25 +920,28 @@ body {
 }
 
 @media screen and (max-width: 768px) {
-  /* Make app shell stack or convert sidebar into an overlay / full width */
+  /* Make the app shell take full screen naturally */
   .app-shell {
     flex-direction: column !important;
     height: 100vh;
+    position: relative;
   }
 
+  /* Hide the sidebar by default on mobile so chat gets full screen */
   .app-sidebar {
-    width: 100% !important;
-    height: auto;
-    max-height: 35vh;
+    display: none !important; /* Toggle this via JS if you want a hamburger menu */
   }
 
+  /* Give the main chat area 100% of the screen height */
   .app-main {
-    height: 65vh;
+    width: 100% !important;
+    height: 100vh !important;
+    flex: 1;
   }
 
   /* Navigation adjustments */
   .site-nav {
-    display: none; /* Can be handled via mobile hamburger menu if built */
+    display: none;
   }
 
   .site-header-wrap {
