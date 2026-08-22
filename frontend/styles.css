@@ -909,7 +909,7 @@ body {
   }
 
   .auth-visual {
-    display: none !important; /* Hides the extra text block on mobile auth screens for a cleaner flow */
+    display: none !important;
   }
 
   /* Stack feature and how-it-works grids */
@@ -929,7 +929,7 @@ body {
 
   /* Hide the sidebar by default on mobile so chat gets full screen */
   .app-sidebar {
-    display: none !important; /* Toggle this via JS if you want a hamburger menu */
+    display: none !important;
   }
 
   /* When toggled open on mobile, show the sidebar as an absolute overlay */
@@ -939,12 +939,12 @@ body {
     top: 0;
     left: 0;
     width: 80% !important;
+    max-width: 280px;
     height: 100vh !important;
     z-index: 1000;
     box-shadow: 4px 0 15px rgba(0,0,0,0.1);
     background: white;
   }
-
 
   /* Give the main chat area 100% of the screen height */
   .app-main {
