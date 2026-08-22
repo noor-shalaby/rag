@@ -109,11 +109,11 @@ async function handleSend() {
     loadingRow.remove();
     appendAiBubble(data.answer);
   } catch (err) {
-    loadingRow.remove();
-    appendAiBubble(
-      `<span style="color:#be123c;">⚠️ Unable to reach Cura AI's backend at <code>${BACKEND_URL}</code>. Check that it's running.</span>`
-    );
-  }
+      loadingRow.remove();
+      appendAiBubble(
+        `<span style="color:#be123c;">⚠️ Unable to connect to Cura AI at the moment. Please try again in a few moments.</span>`
+      );
+    }
 }
 
 if (composerInput) {
