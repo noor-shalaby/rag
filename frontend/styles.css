@@ -58,6 +58,18 @@ body {
   flex-direction: column;
   justify-content: space-between;
   flex-shrink: 0;
+  transition: transform 0.3s ease, width 0.3s ease, margin 0.3s ease;
+}
+
+/* --- Desktop Sidebar Collapse Support --- */
+@media screen and (min-width: 769px) {
+  .app-sidebar.collapsed {
+    transform: translateX(-100%);
+    width: 0 !important;
+    margin-left: 0 !important;
+    overflow: hidden;
+    border-right: none;
+  }
 }
 
 .sidebar-top {
@@ -897,13 +909,11 @@ body {
    ========================================================== */
 
 @media screen and (max-width: 900px) {
-  /* Stack the landing page hero grid */
   .hero-grid {
     grid-template-columns: 1fr !important;
     gap: 30px;
   }
 
-  /* Stack auth panels vertically instead of side-by-side */
   .auth-shell {
     flex-direction: column !important;
   }
@@ -912,7 +922,6 @@ body {
     display: none !important;
   }
 
-  /* Stack feature and how-it-works grids */
   .feature-grid, .how-grid, .footer-grid {
     grid-template-columns: 1fr !important;
     gap: 20px;
@@ -920,19 +929,16 @@ body {
 }
 
 @media screen and (max-width: 768px) {
-  /* Make the app shell take full screen naturally */
   .app-shell {
     flex-direction: column !important;
     height: 100vh;
     position: relative;
   }
 
-  /* Hide the sidebar by default on mobile so chat gets full screen */
   .app-sidebar {
     display: none !important;
   }
 
-  /* When toggled open on mobile, show the sidebar as an absolute overlay */
   .app-sidebar.open {
     display: flex !important;
     position: absolute !important;
@@ -946,14 +952,12 @@ body {
     background: white;
   }
 
-  /* Give the main chat area 100% of the screen height */
   .app-main {
     width: 100% !important;
     height: 100vh !important;
     flex: 1;
   }
 
-  /* Navigation adjustments */
   .site-nav {
     display: none;
   }

@@ -156,7 +156,7 @@ if (newChatBtn) {
 }
 
 /* =========================================================
-   Mobile Sidebar Toggle Wiring
+   Sidebar Toggle Wiring (Mobile & PC)
 ========================================================= */
 document.addEventListener("DOMContentLoaded", () => {
   const sidebarElement = document.querySelector(".app-sidebar");
@@ -165,7 +165,13 @@ document.addEventListener("DOMContentLoaded", () => {
   if (toggleBtn && sidebarElement) {
     toggleBtn.addEventListener("click", (e) => {
       e.stopPropagation();
-      sidebarElement.classList.toggle("open");
+      if (window.innerWidth <= 768) {
+        // Mobile behavior: toggle 'open' overlay class
+        sidebarElement.classList.toggle("open");
+      } else {
+        // PC behavior: toggle 'collapsed' class to hide/show sidebar
+        sidebarElement.classList.toggle("collapsed");
+      }
     });
 
     // Close sidebar when clicking outside on mobile views
