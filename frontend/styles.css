@@ -932,6 +932,20 @@ body {
     display: none !important; /* Toggle this via JS if you want a hamburger menu */
   }
 
+  /* When toggled open on mobile, show the sidebar as an absolute overlay */
+  .app-sidebar.open {
+    display: flex !important;
+    position: absolute !important;
+    top: 0;
+    left: 0;
+    width: 80% !important;
+    height: 100vh !important;
+    z-index: 1000;
+    box-shadow: 4px 0 15px rgba(0,0,0,0.1);
+    background: white;
+  }
+
+
   /* Give the main chat area 100% of the screen height */
   .app-main {
     width: 100% !important;

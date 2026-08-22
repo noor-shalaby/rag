@@ -154,4 +154,13 @@ if (sidebarToggle) {
   syncSidebarToggle();
 }
 
+document.addEventListener("DOMContentLoaded", () => {
+  const menuBtn = document.querySelector(".app-topbar .icon-btn, .app-topbar button, .hamburger-btn"); // Adjust selector to match your hamburger button class/element
+  const sidebar = document.querySelector(".app-sidebar");
 
+  if (menuBtn && sidebar) {
+    menuBtn.addEventListener("click", () => {
+      sidebar.classList.toggle("open");
+    });
+  }
+});
