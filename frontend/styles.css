@@ -16,6 +16,12 @@ body {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  width: 100vw;
+  overflow-x: hidden;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
 }
 
 /* --- CHAT RESPONSE LIST INDENTATION FIX --- */
@@ -51,6 +57,7 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
+  flex-shrink: 0;
 }
 
 .sidebar-top {
@@ -186,6 +193,7 @@ body {
   justify-content: center;
   font-weight: 600;
   font-size: 13px;
+  flex-shrink: 0;
 }
 
 .sidebar-user-name {
@@ -203,6 +211,7 @@ body {
   display: flex;
   flex-direction: column;
   background: white;
+  min-width: 0;
 }
 
 .app-topbar {
@@ -328,6 +337,7 @@ body {
   align-items: center;
   justify-content: center;
   cursor: pointer;
+  flex-shrink: 0;
 }
 
 .composer-hint {
@@ -347,6 +357,8 @@ body {
 .site-header-wrap {
   display: flex;
   align-items: center;
+  flex-wrap: wrap;
+  gap: 12px;
 }
 
 .site-nav {
@@ -556,6 +568,7 @@ body {
 .how-wrap {
   max-width: 760px;
   text-align: center;
+  margin: 0 auto;
 }
 
 .how-title {
@@ -591,6 +604,7 @@ body {
 
 .faq-wrap {
   max-width: 680px;
+  margin: 0 auto;
 }
 
 .faq-item {
@@ -629,6 +643,7 @@ body {
 .cta-banner-wrap {
   max-width: 640px;
   text-align: center;
+  margin: 0 auto;
 }
 
 .cta-banner-title {
@@ -721,6 +736,7 @@ body {
   padding: 40px;
   max-width: 520px;
   margin: 0 auto;
+  width: 100%;
 }
 
 .auth-panel-header {
@@ -876,61 +892,64 @@ body {
   max-width: 75%;
 }
 
-/* --- Base Mobile-First Adjustments --- */
-body {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    width: 100vw;
-    overflow-x: hidden;
+/* ==========================================================
+   RESPONSIVE MEDIA QUERIES (MOBILE FIXES)
+   ========================================================== */
+
+@media screen and (max-width: 900px) {
+  /* Stack the landing page hero grid */
+  .hero-grid {
+    grid-template-columns: 1fr !important;
+    gap: 30px;
+  }
+
+  /* Stack auth panels vertically instead of side-by-side */
+  .auth-shell {
+    flex-direction: column !important;
+  }
+
+  .auth-visual {
+    display: none !important; /* Hides the extra text block on mobile auth screens for a cleaner flow */
+  }
+
+  /* Stack feature and how-it-works grids */
+  .feature-grid, .how-grid, .footer-grid {
+    grid-template-columns: 1fr !important;
+    gap: 20px;
+  }
 }
 
-/* Ensure main containers scale fluidly */
-.container, .chat-container, .auth-container {
-    width: 100%;
-    max-width: 1200px;
-    margin: 0 auto;
-    padding: 1rem;
-}
-
-/* --- Responsive Breakpoints --- */
-
-/* Tablets and Medium Screens (max-width: 768px) */
 @media screen and (max-width: 768px) {
-    body {
-        font-size: 14px;
-    }
+  /* Make app shell stack or convert sidebar into an overlay / full width */
+  .app-shell {
+    flex-direction: column !important;
+    height: 100vh;
+  }
 
-    /* Stack sidebar or navigation elements if present */
-    .sidebar, .dashboard-layout {
-        flex-direction: column;
-        width: 100%;
-    }
+  .app-sidebar {
+    width: 100% !important;
+    height: auto;
+    max-height: 35vh;
+  }
 
-    /* Adjust chat boxes or message bubbles for smaller widths */
-    .chat-box, .message-bubble {
-        max-width: 90%;
-        padding: 0.75rem;
-    }
+  .app-main {
+    height: 65vh;
+  }
 
-    /* Make input forms full-width on mobile */
-    input, textarea, button {
-        width: 100%;
-        box-sizing: border-box;
-    }
-}
+  /* Navigation adjustments */
+  .site-nav {
+    display: none; /* Can be handled via mobile hamburger menu if built */
+  }
 
-/* Small Mobile Phones (max-width: 480px) */
-@media screen and (max-width: 480px) {
-    .container {
-        padding: 0.5rem;
-    }
+  .site-header-wrap {
+    justify-content: space-between;
+  }
 
-    h1 {
-        font-size: 1.5rem;
-    }
+  .display {
+    font-size: 30px !important;
+  }
 
-    h2 {
-        font-size: 1.25rem;
-    }
+  .msg-text {
+    max-width: 90% !important;
+  }
 }
