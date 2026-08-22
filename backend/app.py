@@ -52,7 +52,7 @@ def generate_medical_answer(query: str, patient_context: str = "") -> str:
     """
 
     classification_response = client.models.generate_content(
-        model="gemini-2.5-flash",
+        model="gemini-3.5-flash",
         contents=classification_prompt,
     )
     classification = classification_response.text.strip().upper() if classification_response.text else "CLINICAL_QUERY"
@@ -68,7 +68,7 @@ def generate_medical_answer(query: str, patient_context: str = "") -> str:
         IMPORTANT FORMATTING RULE:
         You MUST output your response using clean, semantic HTML tags (such as <p>, <strong>). Do NOT use Markdown syntax.
         """
-        response = client.models.generate_content(model="gemini-2.5-flash", contents=greeting_prompt)
+        response = client.models.generate_content(model="gemini-3.5-flash", contents=greeting_prompt)
         assert response.text is not None, "No text generated"
         return str(response.text)
 
@@ -83,7 +83,7 @@ def generate_medical_answer(query: str, patient_context: str = "") -> str:
         IMPORTANT FORMATTING RULE:
         You MUST output your response using clean, semantic HTML tags (such as <p>, <strong>, <ul>, <li>). Do NOT use Markdown syntax.
         """
-        response = client.models.generate_content(model="gemini-2.5-flash", contents=statement_prompt)
+        response = client.models.generate_content(model="gemini-3.5-flash", contents=statement_prompt)
         assert response.text is not None, "No text generated"
         return str(response.text)
 
@@ -123,7 +123,7 @@ def generate_medical_answer(query: str, patient_context: str = "") -> str:
     """
 
     response = client.models.generate_content(
-        model="gemini-2.5-flash", contents=prompt
+        model="gemini-3.5-flash", contents=prompt
     )
 
     assert response.text is not None, "No text generated"
