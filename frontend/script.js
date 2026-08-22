@@ -55,12 +55,21 @@ function removeEmptyState() {
   if (empty) empty.remove();
 }
 
+function getTextDirection(text) {
+  // Regex to detect Arabic characters (RTL)
+  const arabicPattern = /[\u0600-\u06FF\u0750-\u077F\u08A0-\u08FF]/;
+  return arabicPattern.test(text) ? "rtl" : "ltr";
+}
+
 function appendUserBubble(text) {
   removeEmptyState();
   const row = document.createElement("div");
   row.className = "msg-row";
-  row.innerHTML = `<div class="avatar avatar-user">U</div><div class="msg-text"></div>`;
+
+  const dir = getTextDirection(text);
+  row.innerHTML = `<div class="avatar avatar-user">U</div><div class="msg-text" dir="${dir}" style="text-align: ${dir === 'rtl' ? 'right' : 'left'};"></div>`;
   row.querySelector(".msg-text").textContent = text;
+
   chatInner.appendChild(row);
   chatScroll.scrollTop = chatScroll.scrollHeight;
 }
@@ -73,7 +82,16 @@ function appendAiBubble(html) {
       <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M3 12h4l2-6 4 12 2-6h6"/></svg>
     </div>
     <div class="msg-text"></div>`;
-  row.querySelector(".msg-text").innerHTML = html;
+
+  const msgTextEl = row.querySelector(".msg-text");
+  msgTextEl.innerHTML = html;
+
+  // Detect language direction from the response content
+  const plainText = msgTextEl.textContent || "";
+  const dir = getTextDirection(plainText);
+  msgTextEl.setAttribute("dir", dir);
+  msgTextEl.style.textAlign = dir === 'rtl' ? 'right' : 'left';
+
   chatInner.appendChild(row);
   chatScroll.scrollTop = chatScroll.scrollHeight;
   return row;
