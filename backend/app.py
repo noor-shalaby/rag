@@ -38,8 +38,56 @@ class QueryRequest(BaseModel):
 
 
 def generate_medical_answer(query: str, patient_context: str = "") -> str:
-    """Retrieves 5 candidates and generates a structured HTML medical response."""
+    """Classifies user intent to handle greetings/statements naturally, or retrieves 5 candidates for clinical RAG responses."""
 
+    # 1. Fast intent classification to gracefully catch greetings, typos, and statements
+    classification_prompt = f"""
+    Analyze the following user input: "{query}"
+    Determine its type. Choose ONLY ONE of these categories:
+    - GREETING: Casual greetings, pleasantries, or opening words (regardless of typo or language/dialect).
+    - STATEMENT: A personal update, medical history statement, or casual remark (e.g., "I had surgery yesterday", "عملت استئصال زايدة امبارح").
+    - CLINICAL_QUERY: A direct question asking for medical advice, symptoms, conditions, or treatments.
+
+    Output ONLY the category name.
+    """
+
+    classification_response = client.models.generate_content(
+        model="gemini-2.5-flash",
+        contents=classification_prompt,
+    )
+    classification = classification_response.text.strip().upper() if classification_response.text else "CLINICAL_QUERY"
+
+    # 2. Handle GREETING intent
+    if "GREETING" in classification:
+        greeting_prompt = f"""
+        You are Cura AI, a professional and empathetic clinical AI assistant.
+        The user said: "{query}".
+        Respond warmly and naturally in the exact language or dialect the user spoke (e.g., Arabic if they spoke Arabic).
+        Briefly invite them to share their clinical question or case details.
+
+        IMPORTANT FORMATTING RULE:
+        You MUST output your response using clean, semantic HTML tags (such as <p>, <strong>). Do NOT use Markdown syntax.
+        """
+        response = client.models.generate_content(model="gemini-2.5-flash", contents=greeting_prompt)
+        assert response.text is not None, "No text generated"
+        return str(response.text)
+
+    # 3. Handle STATEMENT intent (like "I had an appendectomy yesterday")
+    if "STATEMENT" in classification:
+        statement_prompt = f"""
+        You are Cura AI, a professional and empathetic clinical AI assistant.
+        The user shared a personal medical update or statement: "{query}".
+        Acknowledge their statement empathetically in their language/dialect, provide safe and professional general medical context regarding what they mentioned, and ask a relevant follow-up question to see how you can help them further.
+        Always include a gentle clinical disclaimer that they should consult their treating surgeon or physician.
+
+        IMPORTANT FORMATTING RULE:
+        You MUST output your response using clean, semantic HTML tags (such as <p>, <strong>, <ul>, <li>). Do NOT use Markdown syntax.
+        """
+        response = client.models.generate_content(model="gemini-2.5-flash", contents=statement_prompt)
+        assert response.text is not None, "No text generated"
+        return str(response.text)
+
+    # 4. Standard RAG Flow for CLINICAL_QUERY
     print(f"Retrieving candidate knowledge for: '{query}'...")
     raw_results = retrieve_medical_context(query, match_threshold=0.5, match_count=5)
 
@@ -57,17 +105,17 @@ def generate_medical_answer(query: str, patient_context: str = "") -> str:
 
     You must answer the user's query EXCLUSIVELY using the provided context from medical literature.
     If the provided context does not contain enough information to fully and accurately answer the question, you MUST reply with:
-    "I am sorry, but I do not have enough verified medical literature in my knowledge base to answer this question safely."
+    "<p>I am sorry, but I do not have enough verified medical literature in my knowledge base to answer this question safely.</p>"
     Do not use outside knowledge or hallucinate information not present in the context.
 
     Patient context:
     {patient_context if patient_context.strip() else "No additional patient information was provided."}
 
     IMPORTANT FORMATTING RULE:
-    You MUST output your entire response using clean, semantic HTML tags (such as <h3>, <p>, <strong>, <ul>, <li>). Do NOT use Markdown syntax like #, **, or *.
+    You MUST output your entire response using clean, semantic HTML tags (such as <h3>, <p>, <strong>, <ul>, <li>). Do NOT use Markdown syntax like #, **, or *. Respond in the language used by the user.
 
     Reference Context from Local Database:
-    {context_text if context_text else "No specific local database chunks matched, rely on standard clinical consensus."}
+    {context_text if context_text else "No specific local database chunks matched."}
 
     Question: {query}
 
@@ -75,7 +123,7 @@ def generate_medical_answer(query: str, patient_context: str = "") -> str:
     """
 
     response = client.models.generate_content(
-        model="gemini-3.5-flash", contents=prompt
+        model="gemini-2.5-flash", contents=prompt
     )
 
     assert response.text is not None, "No text generated"
